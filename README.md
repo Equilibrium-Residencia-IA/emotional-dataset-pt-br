@@ -104,7 +104,9 @@ Número de comentários por divisão no original (sem cabeçalho nos TSVs):
 
 ## Status da tradução
 
-- Lotes de treino: 383 de 869 traduzidos.
+Contagem de 9 de novembro de 2026:
+
+- Lotes de treino: 388 de 869 traduzidos.
 - Lotes de validação: 10 de 10 traduzidos.
 - Os lotes que falharam (por exemplo, por limite de tokens ou falha de rede) estão listados em `translated/failed_batches.txt`. Eles precisam ser reprocessados com `translate.py`.
 
