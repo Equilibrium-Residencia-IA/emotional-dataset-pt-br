@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ed80yfm",
+    "split": "train",
+    "line_idx": 12550,
+    "original_text": "Upvote for you, and shared the cleverness with my wife!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Upvote pra você, e compartilhei a esperteza com minha esposa!"
+  },
+  {
+    "id": "edtc1bb",
+    "split": "train",
+    "line_idx": 12551,
+    "original_text": "Damn I didn't realize we just locked up the season series against the jets. That's good to see.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Caramba, não tinha me ligado que a gente já garantiu a série da temporada contra os Jets. Bom ver isso."
+  },
+  {
+    "id": "ee8qzt8",
+    "split": "train",
+    "line_idx": 12552,
+    "original_text": "Whatever you do, respect the kids' genders.",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Faça o que fizer, respeite o gênero das crianças."
+  },
+  {
+    "id": "edv6cr5",
+    "split": "train",
+    "line_idx": 12553,
+    "original_text": "\"She'll ruin your life either way.\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Ela vai acabar com a sua vida de qualquer jeito.\""
+  },
+  {
+    "id": "edhihv7",
+    "split": "train",
+    "line_idx": 12554,
+    "original_text": "Or he just tired of her and this cute chick just slid into the DM just in time",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ou ele só cansou dela e essa gatinha apareceu na DM na hora certa"
+  },
+  {
+    "id": "edp6qfr",
+    "split": "train",
+    "line_idx": 12555,
+    "original_text": "True but he prob loves football more and def enjoys playing football over baseball",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Verdade, mas ele provavelmente ama mais futebol americano e com certeza curte mais jogar futebol americano do que beisebol"
+  },
+  {
+    "id": "ee6d059",
+    "split": "train",
+    "line_idx": 12556,
+    "original_text": "I dont know.. i did message him many times but he didnt reply me.. i am worried about him. I asked his mother about him",
+    "emotion_ids": "5,19",
+    "emotions": [
+      "caring",
+      "nervousness"
+    ],
+    "translated_text": "Não sei.. mandei várias mensagens pra ele mas ele não me respondeu.. tô preocupado com ele. Perguntei pra mãe dele sobre ele"
+  },
+  {
+    "id": "ef4fl50",
+    "split": "train",
+    "line_idx": 12557,
+    "original_text": "reddit was having server issues",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "o reddit tava com problema nos servidores"
+  },
+  {
+    "id": "ee2tjt7",
+    "split": "train",
+    "line_idx": 12558,
+    "original_text": "not sure why people are downvoting you saying youre a hurricane fan",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "não entendo por que o pessoal tá te dando downvote por dizer que você é torcedor do Hurricanes"
+  },
+  {
+    "id": "ee79wmu",
+    "split": "train",
+    "line_idx": 12559,
+    "original_text": "Thank you! We all appreciate the kind words! 💓",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado! Todos nós agradecemos as palavras gentis! 💓"
+  },
+  {
+    "id": "eedsu8m",
+    "split": "train",
+    "line_idx": 12560,
+    "original_text": "You put \"fascists\" in quotes as if the protesters are insane to believe self-proclaimed neo-Nazis and \"alt-right\" nationalists would have anything to do with fascism. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você colocou \"fascistas\" entre aspas como se os manifestantes fossem loucos por acreditar que neonazistas autodeclarados e nacionalistas da \"alt-right\" teriam qualquer coisa a ver com fascismo."
+  },
+  {
+    "id": "ee5q3af",
+    "split": "train",
+    "line_idx": 12561,
+    "original_text": "You left something out--they aren't cubbies anymore...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você esqueceu de uma coisa--eles não são mais cubbies..."
+  },
+  {
+    "id": "edk4wxs",
+    "split": "train",
+    "line_idx": 12562,
+    "original_text": "Saw the police and they use an invisible boatcar to get this one is my first heartbreak.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vi a polícia e eles usam um barco-carro invisível, essa é minha primeira decepção amorosa."
+  },
+  {
+    "id": "efesml5",
+    "split": "train",
+    "line_idx": 12563,
+    "original_text": "There's so much information to process here",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem informação demais pra processar aqui"
+  },
+  {
+    "id": "edy0s5s",
+    "split": "train",
+    "line_idx": 12564,
+    "original_text": "This gets posted a lot. It’s not really that great. Interesting concept - the first hour had my interest - goes downhill the second half.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é postado toda hora. Não é lá essas coisas. Conceito interessante - a primeira hora me prendeu - mas desanda na segunda metade."
+  },
+  {
+    "id": "eehtxf3",
+    "split": "train",
+    "line_idx": 12565,
+    "original_text": "I WILL NOT OBEY THAT ORDER, GENERAL! ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "EU NÃO VOU OBEDECER ESSA ORDEM, GENERAL!"
+  },
+  {
+    "id": "eeaj0wb",
+    "split": "train",
+    "line_idx": 12566,
+    "original_text": "This truly is the best a man can get.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é realmente o melhor que um homem pode ter."
+  },
+  {
+    "id": "efc3v5q",
+    "split": "train",
+    "line_idx": 12567,
+    "original_text": "I used the term very loosely!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Usei o termo de um jeito bem amplo!"
+  },
+  {
+    "id": "eeqefhn",
+    "split": "train",
+    "line_idx": 12568,
+    "original_text": "Ok, fair enough... This one works",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ok, justo... Essa aqui funciona"
+  },
+  {
+    "id": "ef09zyb",
+    "split": "train",
+    "line_idx": 12569,
+    "original_text": "Hawaiian pizza to the maximum, shout out to Caffe La Via @ Malvern lmao",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pizza havaiana ao extremo, um salve pro Caffe La Via @ Malvern kkkkk"
+  },
+  {
+    "id": "edcvb7d",
+    "split": "train",
+    "line_idx": 12570,
+    "original_text": "take my arrow. so fucking true",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "toma meu upvote. muito verdade, porra"
+  },
+  {
+    "id": "ef0sphc",
+    "split": "train",
+    "line_idx": 12571,
+    "original_text": "Ohhhh now I get it Omg I'm so stupid",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ahhhh agora entendi, meu Deus, sou muito burro"
+  },
+  {
+    "id": "ed4pajt",
+    "split": "train",
+    "line_idx": 12572,
+    "original_text": " anyone who hasn't seen this, it's unbelievably bad.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "quem não viu isso, é inacreditavelmente ruim."
+  },
+  {
+    "id": "edlu92l",
+    "split": "train",
+    "line_idx": 12573,
+    "original_text": "I'm vegan and that's a big nope from me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sou vegano e pra mim é um grande não."
+  },
+  {
+    "id": "ed9zhtc",
+    "split": "train",
+    "line_idx": 12574,
+    "original_text": "Cider, its an acceptable drink to get drunk when you don't like the taste of beer and too much of a man to drink moscato",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sidra, é uma bebida aceitável pra ficar bêbado quando você não gosta do gosto de cerveja e é muito homem pra beber moscato"
+  },
+  {
+    "id": "ed69964",
+    "split": "train",
+    "line_idx": 12575,
+    "original_text": "I've never heard of him. Do you have a link? Curious to see if he has any videos on accents I'm familiar with.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Nunca ouvi falar dele. Você tem um link? Curioso pra ver se ele tem vídeos sobre sotaques que eu conheço."
+  },
+  {
+    "id": "eedw998",
+    "split": "train",
+    "line_idx": 12576,
+    "original_text": "I only buy Venus razors, in solidarity with women everywhere. Why should I get to make more *and* spend less on razors?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Só compro lâminas da Venus, em solidariedade às mulheres em todo lugar. Por que eu deveria ganhar mais *e* gastar menos com lâminas?"
+  },
+  {
+    "id": "ee8v2sv",
+    "split": "train",
+    "line_idx": 12577,
+    "original_text": "350 calories The large is 20 oz and it’s 140 per 8 oz so 350",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "350 calorias. O grande tem 20 oz e são 140 por 8 oz, então dá 350"
+  },
+  {
+    "id": "edttdfl",
+    "split": "train",
+    "line_idx": 12578,
+    "original_text": "personally ive noticed some of our sars are coming out darker than normal so idk loo extra strong i guess",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "pessoalmente notei que alguns dos nossos sars estão saindo mais escuros que o normal, então sei lá, deve ser extra forte eu acho"
+  },
+  {
+    "id": "efa5rgz",
+    "split": "train",
+    "line_idx": 12579,
+    "original_text": "WYA? I'll come through.",
+    "emotion_ids": "4,7",
+    "emotions": [
+      "approval",
+      "curiosity"
+    ],
+    "translated_text": "Tá onde? Eu passo aí."
+  },
+  {
+    "id": "edkqpc5",
+    "split": "train",
+    "line_idx": 12580,
+    "original_text": "That moment when you can't even get mad when you realise it's another sad boring troll with nothing better to do than creating alt accounts .",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Aquele momento em que você nem consegue ficar com raiva quando percebe que é só mais um troll chato e triste sem nada melhor pra fazer do que criar contas alternativas."
+  },
+  {
+    "id": "ee6l7to",
+    "split": "train",
+    "line_idx": 12581,
+    "original_text": "Nah I'll be right thanks [NAME]",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Nah, tô de boa, valeu [NAME]"
+  },
+  {
+    "id": "eewdeo2",
+    "split": "train",
+    "line_idx": 12582,
+    "original_text": "Remember, his cousins ex wife is meeting him for conjugal visits, I think she might bring him the newspaper he used to own.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Lembre-se, a ex-esposa do primo dele tá encontrando ele pra visitas conjugais, acho que ela pode levar o jornal que ele costumava ser dono."
+  },
+  {
+    "id": "eet8yzy",
+    "split": "train",
+    "line_idx": 12583,
+    "original_text": "Personally my number one ST love is [NAME], [NAME] is a close second tho.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Pessoalmente meu amor número um de ST é [NAME], [NAME] é um segundo lugar bem próximo, no entanto."
+  },
+  {
+    "id": "edg0kxt",
+    "split": "train",
+    "line_idx": 12584,
+    "original_text": "What was the first insult from [NAME] to [NAME]? I think I missed it",
+    "emotion_ids": "7,22",
+    "emotions": [
+      "curiosity",
+      "realization"
+    ],
+    "translated_text": "Qual foi o primeiro insulto do [NAME] pro [NAME]? Acho que perdi"
+  },
+  {
+    "id": "edn8muk",
+    "split": "train",
+    "line_idx": 12585,
+    "original_text": "scared for sure... scared of how much money we're gonna have to pay him it's gonna be all the moneys",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "com medo com certeza... medo de quanto dinheiro vamos ter que pagar pra ele, vai ser toda a grana"
+  },
+  {
+    "id": "ed0d9mk",
+    "split": "train",
+    "line_idx": 12586,
+    "original_text": "as a [NAME], trust me its not that great lol",
+    "emotion_ids": "1,10",
+    "emotions": [
+      "amusement",
+      "disapproval"
+    ],
+    "translated_text": "como um [NAME], confia em mim, não é lá essas coisas lol"
+  },
+  {
+    "id": "edwront",
+    "split": "train",
+    "line_idx": 12587,
+    "original_text": "They gave it away when the guards(i guess) were talking and one of them goes:\"But the shield hero...\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles entregaram quando os guardas (eu acho) estavam conversando e um deles solta: \"Mas o herói do escudo...\""
+  },
+  {
+    "id": "edmej8u",
+    "split": "train",
+    "line_idx": 12588,
+    "original_text": "Omg, there is a wallet made out of a dead squirrel on that sub! *SUBSCRIBED*",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Meu Deus, tem uma carteira feita de um esquilo morto naquele sub! *INSCRITO*"
+  },
+  {
+    "id": "edu52qj",
+    "split": "train",
+    "line_idx": 12589,
+    "original_text": "My ctrl+f on 'made man' and 'unfireable' both came up empty, not sure why they're appearing in quotes on the title of the post",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu ctrl+f em 'made man' e 'unfireable' não achou nada, não sei por que eles estão aparecendo entre aspas no título do post"
+  },
+  {
+    "id": "ed5wel1",
+    "split": "train",
+    "line_idx": 12590,
+    "original_text": "1200? I thought it was 12000! Ohhhhhhh. Dr. Now’s not going to be too happy with my weigh-in dis munt.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "1200? Achei que fossem 12000! Ahhhhh. O Dr. Now não vai ficar muito feliz com minha pesagem desse mês."
+  },
+  {
+    "id": "eeea9o9",
+    "split": "train",
+    "line_idx": 12591,
+    "original_text": "..... sigh.... gross",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "..... suspiro.... nojento"
+  },
+  {
+    "id": "efh0ah4",
+    "split": "train",
+    "line_idx": 12592,
+    "original_text": "I can be convinced to like any trade right now but it all comes down to the return.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Posso ser convencido a gostar de qualquer troca agora, mas tudo depende do retorno."
+  },
+  {
+    "id": "edek6fz",
+    "split": "train",
+    "line_idx": 12593,
+    "original_text": "I completely agree, I just think there is more of a chance of Clowney getting tagged than [NAME] getting tagged a second time.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Concordo plenamente, só acho que tem mais chance do Clowney ser marcado do que o [NAME] ser marcado uma segunda vez."
+  },
+  {
+    "id": "edo8r6s",
+    "split": "train",
+    "line_idx": 12594,
+    "original_text": "Danm you can hear that little bastard squeaking.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Caramba, dá pra ouvir aquele desgraçadinho guinchando."
+  },
+  {
+    "id": "edjrfok",
+    "split": "train",
+    "line_idx": 12595,
+    "original_text": "Fabies? fababies? fatbabies? but fat babies are so cute.",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Fabies? fababies? fatbabies? mas bebês gordinhos são tão fofos."
+  },
+  {
+    "id": "eddmq0t",
+    "split": "train",
+    "line_idx": 12596,
+    "original_text": "Pedophilia is a gender, shitlord",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pedofilia é um gênero, seu merda"
+  },
+  {
+    "id": "eczzrwi",
+    "split": "train",
+    "line_idx": 12597,
+    "original_text": "Happy New year!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Feliz Ano Novo!"
+  },
+  {
+    "id": "ef14lca",
+    "split": "train",
+    "line_idx": 12598,
+    "original_text": "It's like [NAME] *Avatar: The Last Airbender*. He had some great source material but utterly botched the execution.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É tipo [NAME] *Avatar: A Lenda de Aang*. Ele tinha um material original ótimo, mas estragou completamente a execução."
+  },
+  {
+    "id": "efbiic2",
+    "split": "train",
+    "line_idx": 12599,
+    "original_text": "my [NAME] this is just *yes*",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "meu [NAME] isso é simplesmente *sim*"
+  }
+]

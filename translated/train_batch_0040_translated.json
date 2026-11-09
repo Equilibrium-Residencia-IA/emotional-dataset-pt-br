@@ -1,0 +1,561 @@
+[
+  {
+    "id": "eeqein9",
+    "split": "train",
+    "line_idx": 2000,
+    "original_text": "That might be the first time I've seen [NAME] block a shot",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa talvez seja a primeira vez que vejo o [NAME] bloquear um chute"
+  },
+  {
+    "id": "edlyvy1",
+    "split": "train",
+    "line_idx": 2001,
+    "original_text": "I love your username.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adorei seu nome de usuário."
+  },
+  {
+    "id": "efcabc2",
+    "split": "train",
+    "line_idx": 2002,
+    "original_text": "Thank you that’s very insightful.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado, isso é muito esclarecedor."
+  },
+  {
+    "id": "ed2ngsa",
+    "split": "train",
+    "line_idx": 2003,
+    "original_text": "Haha love it we'll uhm not the penis",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "Haha adorei, nós vamos... hum, não o pênis"
+  },
+  {
+    "id": "eebq284",
+    "split": "train",
+    "line_idx": 2004,
+    "original_text": "Yes. Especially if you didn't succeed in putting the fire out.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim. Especialmente se você não conseguiu apagar o fogo."
+  },
+  {
+    "id": "ed5m4cn",
+    "split": "train",
+    "line_idx": 2005,
+    "original_text": "[NAME]... I hadn't seen or had forgotten that study.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]... eu não tinha visto ou tinha esquecido desse estudo."
+  },
+  {
+    "id": "ef72ffo",
+    "split": "train",
+    "line_idx": 2006,
+    "original_text": "OMG, yep!!! That is the final answer. Thank you so much!",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "MEU DEUS, sim!!! Essa é a resposta final. Muito obrigado!"
+  },
+  {
+    "id": "eekh5nm",
+    "split": "train",
+    "line_idx": 2007,
+    "original_text": "I really love all the downvotes on this posts comments cus it goes to show ppl can’t have their own opinions on things.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu realmente adoro todos os downvotes nos comentários desse post, porque mostra que as pessoas não podem ter suas próprias opiniões sobre as coisas."
+  },
+  {
+    "id": "eeuwjb5",
+    "split": "train",
+    "line_idx": 2008,
+    "original_text": "[NAME] got some baby making to do, needs the break",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] tem uns bebês pra fazer, precisa de uma folga"
+  },
+  {
+    "id": "ef3g8ed",
+    "split": "train",
+    "line_idx": 2009,
+    "original_text": "They don't want equal rights. They want extra rights.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eles não querem direitos iguais. Eles querem direitos extras."
+  },
+  {
+    "id": "eebwrqn",
+    "split": "train",
+    "line_idx": 2010,
+    "original_text": "I just hope the Cavs don’t get the 1st pick fuck them",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Eu só espero que os Cavs não peguem a 1ª escolha, que se danem eles"
+  },
+  {
+    "id": "edc8qi1",
+    "split": "train",
+    "line_idx": 2011,
+    "original_text": "I like [NAME]’ “I’m tired of losing, I’m not a loser”",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu gosto daquela do [NAME]: “Estou cansado de perder, não sou um perdedor”"
+  },
+  {
+    "id": "edz970l",
+    "split": "train",
+    "line_idx": 2012,
+    "original_text": "I’m naming my dog Sebastian! So I can kinda relate ( lol, def not the same). Love the name though.",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "Vou chamar meu cachorro de Sebastian! Então meio que me identifico (rs, definitivamente não é a mesma coisa). Mas adorei o nome."
+  },
+  {
+    "id": "efgs35v",
+    "split": "train",
+    "line_idx": 2013,
+    "original_text": "Lol aren’t you the guy that got banned from UKPol for being too left wing? I have to say guy that’s pretty impressive.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Kkkk você não é o cara que foi banido do UKPol por ser muito de esquerda? Tenho que dizer, cara, isso é bem impressionante."
+  },
+  {
+    "id": "ed5ubg1",
+    "split": "train",
+    "line_idx": 2014,
+    "original_text": "This isn’t 30 years ago.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso não é de 30 anos atrás."
+  },
+  {
+    "id": "ee1gv99",
+    "split": "train",
+    "line_idx": 2015,
+    "original_text": "heartless pores. “it’s just a volleyball.” it was his friend!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "poros sem coração. “é só uma bola de vôlei.” era o amigo dele!"
+  },
+  {
+    "id": "eeq9ssd",
+    "split": "train",
+    "line_idx": 2016,
+    "original_text": "Cool story bro",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "História legal, fera"
+  },
+  {
+    "id": "ee9aj79",
+    "split": "train",
+    "line_idx": 2017,
+    "original_text": "Sounds like a really bad time. Just wait till you have a nice time and place to trip.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Parece uma experiência bem ruim. Só espere até ter um momento e um lugar legais para viajar."
+  },
+  {
+    "id": "efdxxjo",
+    "split": "train",
+    "line_idx": 2018,
+    "original_text": "That is so sad, just goes to show we have a lot more to learn about the other beings we share this rock with : /",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Isso é tão triste, só mostra que temos muito mais a aprender sobre os outros seres com quem compartilhamos este planeta : /"
+  },
+  {
+    "id": "edlaph8",
+    "split": "train",
+    "line_idx": 2019,
+    "original_text": "Brilliant post!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Post brilhante!"
+  },
+  {
+    "id": "eepybzo",
+    "split": "train",
+    "line_idx": 2020,
+    "original_text": "Thank you. I will look into the protein possibility.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. Vou pesquisar sobre a possibilidade da proteína."
+  },
+  {
+    "id": "edzbho4",
+    "split": "train",
+    "line_idx": 2021,
+    "original_text": "I enjoy being a girl. (are shutdown memes still allowed? ...No matter. Couldn't find a decent one for this)",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu gosto de ser garota. (memes de shutdown ainda são permitidos? ...Não importa. Não consegui achar um decente pra isso)"
+  },
+  {
+    "id": "ef69n0x",
+    "split": "train",
+    "line_idx": 2022,
+    "original_text": "But would the flashing swastikas be unexpected, if you already predicted them?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Mas as suásticas piscando seriam inesperadas, se você já as previu?"
+  },
+  {
+    "id": "edx57jk",
+    "split": "train",
+    "line_idx": 2023,
+    "original_text": "Fuck that its not my money they're giving him. I want a goalie with a .970 sv% dangnabbit.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Que se dane, o dinheiro que estão dando pra ele não é meu. Eu quero um goleiro com 97% de aproveitamento, droga."
+  },
+  {
+    "id": "ee8u4r5",
+    "split": "train",
+    "line_idx": 2024,
+    "original_text": "Damn that was super fucking good.",
+    "emotion_ids": "0,13",
+    "emotions": [
+      "admiration",
+      "excitement"
+    ],
+    "translated_text": "Caramba, isso foi bom pra caralho."
+  },
+  {
+    "id": "eczhy8h",
+    "split": "train",
+    "line_idx": 2025,
+    "original_text": "I so badly wish we could all gain this mindset and keep it. How easy would life be.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu queria muito que todos nós pudéssemos ganhar essa mentalidade e mantê-la. Como a vida seria fácil."
+  },
+  {
+    "id": "edlweja",
+    "split": "train",
+    "line_idx": 2026,
+    "original_text": "Haven't you heard? This one game literally decides if we are good or bad.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não ficou sabendo? Esse único jogo decide literalmente se somos bons ou ruins."
+  },
+  {
+    "id": "ee6cxes",
+    "split": "train",
+    "line_idx": 2027,
+    "original_text": "I just want someone who listens to scientists. That's too much to ask though.",
+    "emotion_ids": "8,27",
+    "emotions": [
+      "desire",
+      "neutral"
+    ],
+    "translated_text": "Eu só quero alguém que escute os cientistas. Mas isso é pedir demais."
+  },
+  {
+    "id": "ed7jqag",
+    "split": "train",
+    "line_idx": 2028,
+    "original_text": "haha, she doesn't support me for whatever reason. lol you got problems bro. open your ears and shut your mouth",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "haha, ela não me apoia por algum motivo. lol você tem problemas, cara. abra seus ouvidos e feche a boca"
+  },
+  {
+    "id": "efg99o0",
+    "split": "train",
+    "line_idx": 2029,
+    "original_text": "sorry you have to deal with things like that. i hope things are better where you are now",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "sinto muito que você tenha que lidar com coisas assim. espero que as coisas estejam melhores onde você está agora"
+  },
+  {
+    "id": "ee7puum",
+    "split": "train",
+    "line_idx": 2030,
+    "original_text": "Until we win an actual SuperBowl trophy I want all the positive karma.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Até ganharmos um troféu do SuperBowl de verdade, eu quero todo o karma positivo."
+  },
+  {
+    "id": "ed6fr63",
+    "split": "train",
+    "line_idx": 2031,
+    "original_text": "Thought [NAME] had a bad game. For such a strong player he didn't get to keep much of the ball when in possession.",
+    "emotion_ids": "9,22",
+    "emotions": [
+      "disappointment",
+      "realization"
+    ],
+    "translated_text": "Achei que o [NAME] teve um jogo ruim. Para um jogador tão forte, ele não conseguiu manter muito a bola quando estava com a posse."
+  },
+  {
+    "id": "edpygt9",
+    "split": "train",
+    "line_idx": 2032,
+    "original_text": "Username does not check out then... I think?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O nome de usuário não condiz então... eu acho?"
+  },
+  {
+    "id": "edlq2id",
+    "split": "train",
+    "line_idx": 2033,
+    "original_text": "I really hope [NAME] gets a great helm. A crown would be cool but I want a properly armored sword and board knight.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero muito que o [NAME] consiga um elmo legal. Uma coroa seria legal, mas eu quero um cavaleiro de espada e escudo devidamente blindado."
+  },
+  {
+    "id": "edsj9jg",
+    "split": "train",
+    "line_idx": 2034,
+    "original_text": "I visibly recoiled from that.",
+    "emotion_ids": "14,27",
+    "emotions": [
+      "fear",
+      "neutral"
+    ],
+    "translated_text": "Eu recuei visivelmente com isso."
+  },
+  {
+    "id": "ed1dre6",
+    "split": "train",
+    "line_idx": 2035,
+    "original_text": "nothing specific. it varies. it's rare.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "nada específico. varia. é raro."
+  },
+  {
+    "id": "eepdh8z",
+    "split": "train",
+    "line_idx": 2036,
+    "original_text": "yes i emailed him and within 10 minutes he emailed back and asked me to call him directly. we spoke for over 30 minutes.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "sim, mandei um e-mail pra ele e em 10 minutos ele respondeu pedindo pra eu ligar direto pra ele. conversamos por mais de 30 minutos."
+  },
+  {
+    "id": "efbyggi",
+    "split": "train",
+    "line_idx": 2037,
+    "original_text": "ok thanks I'll give it a read and try to fact check",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "ok obrigado, vou dar uma lida e tentar verificar os fatos"
+  },
+  {
+    "id": "eevprwx",
+    "split": "train",
+    "line_idx": 2038,
+    "original_text": "Yes, once I even deleted my account because I was so nervous about down votes. Lately,every once in a while I comment encouraging good attitude.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Sim, uma vez até deletei minha conta porque estava muito nervoso com os downvotes. Ultimamente, de vez em quando, comento incentivando uma atitude positiva."
+  },
+  {
+    "id": "efa3xcy",
+    "split": "train",
+    "line_idx": 2039,
+    "original_text": "Shocked basement leaking got you freakin lady",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Chocado que o porão vazando te deixou surtada, moça"
+  },
+  {
+    "id": "eermruf",
+    "split": "train",
+    "line_idx": 2040,
+    "original_text": "Just buy a load of old iPhone back covers in China.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só compra um monte de carcaça traseira de iPhone velho na China."
+  },
+  {
+    "id": "edcfdkw",
+    "split": "train",
+    "line_idx": 2041,
+    "original_text": "I read the Wikipedia and I’m even more confused now.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Li a Wikipedia e estou ainda mais confuso agora."
+  },
+  {
+    "id": "edyejvl",
+    "split": "train",
+    "line_idx": 2042,
+    "original_text": "I need to know this as well, so I hope no one minds if I leave a comment here.",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Eu preciso saber disso também, então espero que ninguém se importe se eu deixar um comentário aqui."
+  },
+  {
+    "id": "ee2tvlj",
+    "split": "train",
+    "line_idx": 2043,
+    "original_text": "What's the fucking point of this post? Is just baseless claims with no proof to back them up.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Qual é a porra do sentido desse post? São apenas alegações sem base, sem nenhuma prova para sustentar."
+  },
+  {
+    "id": "eecwrb5",
+    "split": "train",
+    "line_idx": 2044,
+    "original_text": "I've seen Shot Caller. That's what I've decided prison is... so yeah. Sorry boys.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Eu vi o filme Shot Caller. Foi isso que decidi que a prisão é... então é isso. Desculpa, rapazes."
+  },
+  {
+    "id": "edpgklb",
+    "split": "train",
+    "line_idx": 2045,
+    "original_text": "Looks like he's tired of your dad-jokes. Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Parece que ele está cansado das suas piadas de tiozão. Lol"
+  },
+  {
+    "id": "edg9z3r",
+    "split": "train",
+    "line_idx": 2046,
+    "original_text": "This video is funny but every time I watch it I get so mad at the guys filming and their belittling comments!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Esse vídeo é engraçado, mas toda vez que assisto, fico tão bravo com os caras filmando e seus comentários depreciativos!"
+  },
+  {
+    "id": "edth8lj",
+    "split": "train",
+    "line_idx": 2047,
+    "original_text": "when all I want to do is relax and chill and all she does is bounce off the wall yapping their mouth too much.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "quando tudo que eu quero é relaxar e curtir, e tudo que ela faz é ficar pulando pelas paredes e falando demais."
+  },
+  {
+    "id": "ednrbs0",
+    "split": "train",
+    "line_idx": 2048,
+    "original_text": "This guy looks like an extreme feminist with a man’s face",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse cara parece uma feminista radical com rosto de homem"
+  },
+  {
+    "id": "edv18r4",
+    "split": "train",
+    "line_idx": 2049,
+    "original_text": "Everyone upvote this - gotta spread the good news!!!",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Todo mundo dê upvote nisso - temos que espalhar as boas novas!!!"
+  }
+]

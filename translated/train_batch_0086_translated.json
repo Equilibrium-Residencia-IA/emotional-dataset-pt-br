@@ -1,0 +1,557 @@
+[
+  {
+    "id": "efac05a",
+    "split": "train",
+    "line_idx": 4300,
+    "original_text": "Maybe people just don’t like it?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Talvez as pessoas só não tenham gostado, né?"
+  },
+  {
+    "id": "eeewqa5",
+    "split": "train",
+    "line_idx": 4301,
+    "original_text": "It didn’t come out. What you say!?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não saiu. Como assim, você diz!?"
+  },
+  {
+    "id": "edlbtk5",
+    "split": "train",
+    "line_idx": 4302,
+    "original_text": "This one will provide tasty meals and a cute pup too",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse aqui vai render umas refeições gostosas e ainda tem um cachorrinho fofo"
+  },
+  {
+    "id": "eejmyhx",
+    "split": "train",
+    "line_idx": 4303,
+    "original_text": "If you bake em you're gonna have a bad time",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Se você assar eles, vai se dar mal"
+  },
+  {
+    "id": "edhagu4",
+    "split": "train",
+    "line_idx": 4304,
+    "original_text": ">Would I pull my gun if that were happening to me? >absolutely",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": ">Eu sacaria minha arma se isso estivesse acontecendo comigo? >Com certeza"
+  },
+  {
+    "id": "ed3ljgc",
+    "split": "train",
+    "line_idx": 4305,
+    "original_text": "Thank you for your advice! I couldn’t agree more.",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelo conselho! Concordo plenamente."
+  },
+  {
+    "id": "edygnf2",
+    "split": "train",
+    "line_idx": 4306,
+    "original_text": "This is so true cause I always think “are they just using me for sex?”",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Isso é tão verdade, porque eu sempre penso: \"será que eles só estão me usando por sexo?\""
+  },
+  {
+    "id": "edf9249",
+    "split": "train",
+    "line_idx": 4307,
+    "original_text": "I don’t understand how college tuition has gone up 8 billion percent but Taco Bell still has a dollar menu...",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não entendo como a mensalidade da faculdade subiu 8 bilhões por cento, mas o Taco Bell ainda tem um menu de um dólar..."
+  },
+  {
+    "id": "ee0q30a",
+    "split": "train",
+    "line_idx": 4308,
+    "original_text": "Lmao good luck tryna convince anyone you’re not just a brain washed redpiller tryna start shit just for validation :/",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Kkkkk boa sorte tentando convencer alguém de que você não é só um redpiller lavagem cerebral querendo arrumar confusão só por validação :/"
+  },
+  {
+    "id": "eeyhn3z",
+    "split": "train",
+    "line_idx": 4309,
+    "original_text": "Are you like a little baby or what. That's nothing in the realm of fetichism.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você é tipo um bebezinho ou o quê? Isso não é nada no mundo do fetichismo."
+  },
+  {
+    "id": "efdj700",
+    "split": "train",
+    "line_idx": 4310,
+    "original_text": "Sounds like my kind of place.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Parece o tipo de lugar que eu curto."
+  },
+  {
+    "id": "ee382zp",
+    "split": "train",
+    "line_idx": 4311,
+    "original_text": "Stop using that excuse he hasn't been dominant since returning",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Para de usar essa desculpa, ele não é dominante desde que voltou"
+  },
+  {
+    "id": "efgmt4t",
+    "split": "train",
+    "line_idx": 4312,
+    "original_text": "I've had 1, 2, and 4 said to me. I'm completely done at this point.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Já disseram 1, 2 e 4 pra mim. Tô completamente esgotado a essa altura."
+  },
+  {
+    "id": "eeqfaay",
+    "split": "train",
+    "line_idx": 4313,
+    "original_text": "And I'm sure grandmas in SC love the stereotype of the violent black man.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "E tenho certeza que as vovós na Carolina do Sul adoram o estereótipo do homem negro violento."
+  },
+  {
+    "id": "edjr77o",
+    "split": "train",
+    "line_idx": 4314,
+    "original_text": "This guy has the charisma and sex appeal of overcooked noodles.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse cara tem o carisma e o apelo sexual de um macarrão cozido demais."
+  },
+  {
+    "id": "ef3c7mp",
+    "split": "train",
+    "line_idx": 4315,
+    "original_text": "Dear [NAME], please help [NAME] be less disgusting. Amen.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Querido [NAME], por favor ajude [NAME] a ser menos nojento. Amém."
+  },
+  {
+    "id": "efb3bre",
+    "split": "train",
+    "line_idx": 4316,
+    "original_text": "Skip the middle man, squish them up my anus and vomit out the skins and seed",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pula o intermediário, esmaga eles no meu ânus e vomita as cascas e sementes"
+  },
+  {
+    "id": "ef4jl0a",
+    "split": "train",
+    "line_idx": 4317,
+    "original_text": "Wish they'd update Trapper's and Wraith's. They're so boring.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Queria que atualizassem o do Trapper e do Wraith. Eles são tão chatos."
+  },
+  {
+    "id": "edyil7f",
+    "split": "train",
+    "line_idx": 4318,
+    "original_text": "The entire thread makes me wish I WAS gay so that people won't pester me about having kids when I'm older",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A thread inteira me faz desejar SER gay pra que as pessoas não fiquem me enchendo o saco pra ter filhos quando eu for mais velho"
+  },
+  {
+    "id": "efgai3m",
+    "split": "train",
+    "line_idx": 4319,
+    "original_text": "50% of this sub is \"lul u don't have sex\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "50% desse sub é \"lul vc não transa\""
+  },
+  {
+    "id": "eej2zzb",
+    "split": "train",
+    "line_idx": 4320,
+    "original_text": "Taking a blood thinner such as aspirin would keep it from clotting",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tomar um anticoagulante como aspirina evitaria que coagulasse"
+  },
+  {
+    "id": "ee3rkfm",
+    "split": "train",
+    "line_idx": 4321,
+    "original_text": "If I were her I would've opened the car door and properly petted the obviously good boy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se eu fosse ela, teria aberto a porta do carro e feito carinho de verdade no bom garoto, obviamente"
+  },
+  {
+    "id": "eeywiv1",
+    "split": "train",
+    "line_idx": 4322,
+    "original_text": "Awesome thank you! I’m sure it was fine to wear but new guy here not trying to stretch any rules quite yet",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Demais, obrigado! Tenho certeza que não tinha problema usar, mas como sou novato aqui, não tô querendo forçar a barra ainda"
+  },
+  {
+    "id": "eeuhxz2",
+    "split": "train",
+    "line_idx": 4323,
+    "original_text": "She's fine but she's no [NAME].",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ela é gata, mas não chega aos pés da [NAME]."
+  },
+  {
+    "id": "eff8r1y",
+    "split": "train",
+    "line_idx": 4324,
+    "original_text": "I'm going to pretend this question was asked in all honesty, and upvote. Besides the answer below is great.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Vou fingir que essa pergunta foi feita com toda a honestidade e dar um upvote. Além disso, a resposta abaixo é ótima."
+  },
+  {
+    "id": "edyxeyd",
+    "split": "train",
+    "line_idx": 4325,
+    "original_text": "Cute. I hope it makes you feel empowered.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Fofo. Espero que isso te faça sentir empoderada."
+  },
+  {
+    "id": "eds7fql",
+    "split": "train",
+    "line_idx": 4326,
+    "original_text": "It's just projection..they can't take a joke so they think no one else can either.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É só projeção... eles não aguentam uma brincadeira, então acham que ninguém mais aguenta também."
+  },
+  {
+    "id": "eesajle",
+    "split": "train",
+    "line_idx": 4327,
+    "original_text": ">by highschool you know what is and what isn't socially acceptable ... Since when?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">no ensino médio você já sabe o que é socialmente aceitável ou não... Desde quando?"
+  },
+  {
+    "id": "eefth16",
+    "split": "train",
+    "line_idx": 4328,
+    "original_text": "When I can see them while a call it's okay it's only when they stand in front of me",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando eu consigo vê-los durante uma chamada tá de boa, o problema é só quando eles ficam na minha frente"
+  },
+  {
+    "id": "ed7k2zr",
+    "split": "train",
+    "line_idx": 4329,
+    "original_text": "They've done this before. Look the Order of the White Feather up, it was worse.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eles já fizeram isso antes. Pesquisa sobre a Ordem da Pena Branca, foi pior."
+  },
+  {
+    "id": "eer80pa",
+    "split": "train",
+    "line_idx": 4330,
+    "original_text": "Doesn't change too much. A delayed bribe would still be a bribe.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não muda muita coisa. Um suborno atrasado ainda seria um suborno."
+  },
+  {
+    "id": "ee7ivn2",
+    "split": "train",
+    "line_idx": 4331,
+    "original_text": "i’m so sorry.....",
+    "emotion_ids": "24,25",
+    "emotions": [
+      "remorse",
+      "sadness"
+    ],
+    "translated_text": "sinto muito mesmo....."
+  },
+  {
+    "id": "ed48jx7",
+    "split": "train",
+    "line_idx": 4332,
+    "original_text": "Because idiots in this sub care too much about what other people have on their screen? It only tells me that too many people on here are narcissists.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Porque os idiotas nesse sub se importam demais com o que os outros têm na tela? Isso só me mostra que tem gente demais aqui que é narcisista."
+  },
+  {
+    "id": "ee2qwse",
+    "split": "train",
+    "line_idx": 4333,
+    "original_text": "Sorry, but [NAME] doesn’t even compare to [NAME].",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa, mas [NAME] nem se compara à [NAME]."
+  },
+  {
+    "id": "edarvoq",
+    "split": "train",
+    "line_idx": 4334,
+    "original_text": "Happy cake day",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Feliz dia do bolo"
+  },
+  {
+    "id": "eeltlkk",
+    "split": "train",
+    "line_idx": 4335,
+    "original_text": "I remember that day, and I remember the disgraceful convention.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu lembro daquele dia, e lembro daquela convenção vergonhosa."
+  },
+  {
+    "id": "ed79k4w",
+    "split": "train",
+    "line_idx": 4336,
+    "original_text": "Lol ok. So saying a garbage clip doesn't belong at the top of a gaming subreddit makes me a [NAME].",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkk ok. Então dizer que um clipe lixo não merece o topo de um subreddit de jogos me faz ser um [NAME]."
+  },
+  {
+    "id": "ef3xh0a",
+    "split": "train",
+    "line_idx": 4337,
+    "original_text": "[NAME] was not childfree. He just honored his wife's (who is childfree) desires because he loved her.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME] não era childfree. Ele só respeitava os desejos da esposa (que é childfree) porque ele a amava."
+  },
+  {
+    "id": "eea4tk8",
+    "split": "train",
+    "line_idx": 4338,
+    "original_text": "[NAME] what's your opinion on this?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], qual sua opinião sobre isso?"
+  },
+  {
+    "id": "ee0zr8l",
+    "split": "train",
+    "line_idx": 4339,
+    "original_text": "How early is everyone leaving tomorrow?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Qual o horário que todo mundo vai sair amanhã?"
+  },
+  {
+    "id": "ed0mvkw",
+    "split": "train",
+    "line_idx": 4340,
+    "original_text": "My dad makes that joke \"I have to fight anorexia\", his BMI is 31...",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Meu pai faz aquela piada \"tenho que lutar contra a anorexia\", o IMC dele é 31..."
+  },
+  {
+    "id": "eei79nk",
+    "split": "train",
+    "line_idx": 4341,
+    "original_text": "\"and [NAME], this is [NAME]\" \"Oh hi, nice to meet you, what do you do?\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"e [NAME], essa é a [NAME]\" \"Ah oi, prazer em conhecer, o que você faz?\""
+  },
+  {
+    "id": "edbazl7",
+    "split": "train",
+    "line_idx": 4342,
+    "original_text": "I really like the colours but I'm wondering where that bit of shadow on the chin comes from.",
+    "emotion_ids": "6,26",
+    "emotions": [
+      "confusion",
+      "surprise"
+    ],
+    "translated_text": "Eu gostei muito das cores, mas tô me perguntando de onde vem aquele pedacinho de sombra no queixo."
+  },
+  {
+    "id": "eer53i6",
+    "split": "train",
+    "line_idx": 4343,
+    "original_text": "You took the **bait**. Unless you masturbated to it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você caiu na **isca**. A não ser que tenha batido uma pra isso."
+  },
+  {
+    "id": "ee9ef98",
+    "split": "train",
+    "line_idx": 4344,
+    "original_text": "I killed them for the first time in my most recent playthrough and regretted it. The replacement council sucks just as hard.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Eu matei eles pela primeira vez na minha última jogada e me arrependi. O conselho substituto é tão ruim quanto."
+  },
+  {
+    "id": "eexcxg1",
+    "split": "train",
+    "line_idx": 4345,
+    "original_text": "> This isn't where I parked my car Seriously I can't find my car.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "> Não foi aqui que eu estacionei meu carro Sério, não consigo achar meu carro."
+  },
+  {
+    "id": "eddfgot",
+    "split": "train",
+    "line_idx": 4346,
+    "original_text": "Fuck that, take some actual gold, bruh.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Foda-se isso, pega um ouro de verdade, mano."
+  },
+  {
+    "id": "eer8acz",
+    "split": "train",
+    "line_idx": 4347,
+    "original_text": "That sounds so terrible. I'm very sorry.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Isso soa tão terrível. Sinto muito mesmo."
+  },
+  {
+    "id": "edaw16q",
+    "split": "train",
+    "line_idx": 4348,
+    "original_text": "I'm French so I didn't know her, it's so cool that you have transgender politicians! I can't see it happen here.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Sou francês, então não a conhecia, é muito legal que vocês tenham políticos transgênero! Não consigo ver isso acontecendo aqui."
+  },
+  {
+    "id": "ef6i65k",
+    "split": "train",
+    "line_idx": 4349,
+    "original_text": "That’s pretty cool. Bet your dad is *vewy pwoud* he still has his accent!😂",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é bem legal. Aposto que seu pai está *muito orgulhoso* que ainda mantém o sotaque!😂"
+  }
+]

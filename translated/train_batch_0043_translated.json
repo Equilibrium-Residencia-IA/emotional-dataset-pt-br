@@ -1,0 +1,564 @@
+[
+  {
+    "id": "ed74bki",
+    "split": "train",
+    "line_idx": 2150,
+    "original_text": "hit or miss would anybody care or miss huh..? aint nobody love me and ma dad also left me yuh...",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "acerta ou erra, será que alguém se importa ou sente falta, hein..? ninguém me ama e meu pai também me abandonou, é..."
+  },
+  {
+    "id": "ee3l1wi",
+    "split": "train",
+    "line_idx": 2151,
+    "original_text": "Bad children get their souls put in the face table",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Criança malvada tem a alma jogada na mesa de cara"
+  },
+  {
+    "id": "edb9c8l",
+    "split": "train",
+    "line_idx": 2152,
+    "original_text": "Stay strong. You've come this far. Keep going.",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Fica firme. Você chegou até aqui. Continua seguindo."
+  },
+  {
+    "id": "eewb8ax",
+    "split": "train",
+    "line_idx": 2153,
+    "original_text": "Let’s beat these Lakers!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Vamos ganhar desses Lakers!"
+  },
+  {
+    "id": "ee7syyw",
+    "split": "train",
+    "line_idx": 2154,
+    "original_text": "This poor soul is pointing a gun to his head and smiling.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa pobre alma tá apontando uma arma pra própria cabeça e sorrindo."
+  },
+  {
+    "id": "eexv31e",
+    "split": "train",
+    "line_idx": 2155,
+    "original_text": "great reference my friend",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "ótima referência meu parceiro"
+  },
+  {
+    "id": "ed8sn4l",
+    "split": "train",
+    "line_idx": 2156,
+    "original_text": "look more 4th grade comments. sorry you're a child who has no brain. I bet your mother wishes she had a child who lived.",
+    "emotion_ids": "8,25",
+    "emotions": [
+      "desire",
+      "sadness"
+    ],
+    "translated_text": "olha só, mais comentários de 4ª série. desculpa que você é uma criança sem cérebro. aposto que sua mãe queria ter tido um filho que tivesse vingado."
+  },
+  {
+    "id": "edc9niz",
+    "split": "train",
+    "line_idx": 2157,
+    "original_text": "lol that’s what I was gonna say.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "kkkk era exatamente isso que eu ia falar."
+  },
+  {
+    "id": "edyxp4f",
+    "split": "train",
+    "line_idx": 2158,
+    "original_text": "She should kick him out... next best thing from abortion.",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "Ela devia chutar ele pra fora... a segunda melhor opção depois do aborto."
+  },
+  {
+    "id": "edwklht",
+    "split": "train",
+    "line_idx": 2159,
+    "original_text": "I like Simmonds, but I feel like he will command to highball price to pay for someone who will sit on the 3rd line.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu gosto do Simmonds, mas sinto que ele vai pedir um salário alto demais pra alguém que vai ficar na 3ª linha."
+  },
+  {
+    "id": "efak0nc",
+    "split": "train",
+    "line_idx": 2160,
+    "original_text": "I love [NAME] as much as the next [NAME], but seriously man. Whatchu doing son?",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo o [NAME] tanto quanto qualquer outro [NAME], mas sério cara. O que você tá fazendo, meu filho?"
+  },
+  {
+    "id": "ef716no",
+    "split": "train",
+    "line_idx": 2161,
+    "original_text": "... and we are still in the EU ! ... [NAME] help us when we leave !",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "... e a gente ainda tá na UE ! ... [NAME] ajuda a gente quando a gente sair !"
+  },
+  {
+    "id": "eem3q0u",
+    "split": "train",
+    "line_idx": 2162,
+    "original_text": "Omg that sounds like a really intense experience, how'd you save yourself after the feeling of intense happiness? ",
+    "emotion_ids": "6,13",
+    "emotions": [
+      "confusion",
+      "excitement"
+    ],
+    "translated_text": "Meu Deus, isso parece uma experiência muito intensa, como você se salvou depois daquela sensação de felicidade extrema?"
+  },
+  {
+    "id": "ee1c7tg",
+    "split": "train",
+    "line_idx": 2163,
+    "original_text": "And there may be fare reduction on the way ..... Or walk from William",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E pode ser que venha uma redução na tarifa ..... Ou então vai andando de William"
+  },
+  {
+    "id": "eerz1mc",
+    "split": "train",
+    "line_idx": 2164,
+    "original_text": "Dying like hero’s. What better way to die than saving the world. You’re right.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Morrendo como heróis. Que jeito melhor de morrer do que salvando o mundo. Você tem razão."
+  },
+  {
+    "id": "ef92sr4",
+    "split": "train",
+    "line_idx": 2165,
+    "original_text": "I didn’t know [NAME] was in middle school! Is she really say crap like that as a grown woman? TLC created this monster!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não sabia que a [NAME] tava no ensino fundamental! Ela fala mesmo essas merdas sendo uma mulher adulta? O TLC criou esse monstro!!"
+  },
+  {
+    "id": "eely3mc",
+    "split": "train",
+    "line_idx": 2166,
+    "original_text": "You fruitcart, you oughta be ashamed of knowing that, let alone expecting anyone else to know.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Seu idiota, você devia ter vergonha de saber disso, quanto mais esperar que qualquer outra pessoa saiba."
+  },
+  {
+    "id": "ed5lo9s",
+    "split": "train",
+    "line_idx": 2167,
+    "original_text": "I dont believe shit until america confirms the transfer.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não acredito em porra nenhuma até a américa confirmar a transferência."
+  },
+  {
+    "id": "edwliof",
+    "split": "train",
+    "line_idx": 2168,
+    "original_text": "This post is about a strung out homeless traveler who abandoned his dog. Are you confused about things?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Esse post é sobre um viajante sem-teto viciado que abandonou o cachorro. Você tá confuso com as coisas?"
+  },
+  {
+    "id": "eepb8lb",
+    "split": "train",
+    "line_idx": 2169,
+    "original_text": "Millennial here. Have a few motorcycles, none of them Harleys. I do not like overpriced, unreliable and bad performing vehicles. ",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Millennial aqui. Tenho algumas motos, nenhuma delas é Harley. Não gosto de veículos superfaturados, pouco confiáveis e com desempenho ruim."
+  },
+  {
+    "id": "eew2hci",
+    "split": "train",
+    "line_idx": 2170,
+    "original_text": "To get that much cap room those are the moves we make. So it kind of is",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra conseguir tanto espaço no teto salarial, esses são os movimentos que a gente faz. Então, meio que é"
+  },
+  {
+    "id": "ee2867b",
+    "split": "train",
+    "line_idx": 2171,
+    "original_text": "I’m just gonna see how tomorrow goes tbh. I’ll take life one day at a time :) thank you for the help ❤️",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Vou só ver como o dia de amanhã vai ser, pra falar a verdade. Vou viver um dia de cada vez :) obrigado pela ajuda ❤️"
+  },
+  {
+    "id": "eennhc3",
+    "split": "train",
+    "line_idx": 2172,
+    "original_text": "This is great advice. The minions here will automatically down vote due to username.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Esse é um ótimo conselho. Os minions aqui vão dar downvote automaticamente por causa do nome de usuário."
+  },
+  {
+    "id": "edjqq7g",
+    "split": "train",
+    "line_idx": 2173,
+    "original_text": "Your stupidity and your attempt to reframe the argument when the facts are laid out clearly is astounding LOL",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Sua estupidez e sua tentativa de mudar o foco do argumento quando os fatos são expostos claramente é impressionante KKKK"
+  },
+  {
+    "id": "ee5e2vj",
+    "split": "train",
+    "line_idx": 2174,
+    "original_text": "Because our roster has gotten worse each year since 2017 and the team is spending less. That isn't a recipe for continued success",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Porque nosso elenco piorou a cada ano desde 2017 e o time tá gastando menos. Isso não é receita pra sucesso contínuo"
+  },
+  {
+    "id": "edtq4w8",
+    "split": "train",
+    "line_idx": 2175,
+    "original_text": "I know you can’t read this, but I feel really bad and hope you learn to read soon ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu sei que você não consegue ler isso, mas eu me sinto muito mal e espero que você aprenda a ler logo"
+  },
+  {
+    "id": "ef05pwz",
+    "split": "train",
+    "line_idx": 2176,
+    "original_text": "Come to Somerset, quite a few women are cricket crazy because everybody is cricket crazy here. It’s weird. ",
+    "emotion_ids": "4,11",
+    "emotions": [
+      "approval",
+      "disgust"
+    ],
+    "translated_text": "Vem pra Somerset, tem um monte de mulher louca por críquete porque todo mundo é louco por críquete aqui. É bizarro."
+  },
+  {
+    "id": "eep9ir9",
+    "split": "train",
+    "line_idx": 2177,
+    "original_text": "Oh gosh that's no good! Perhaps the other options are better places to start",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Nossa, isso não é nada bom! Talvez as outras opções sejam lugares melhores pra começar"
+  },
+  {
+    "id": "ef7iq2u",
+    "split": "train",
+    "line_idx": 2178,
+    "original_text": "I'm so sorry you were bullied in a place you should have felt safe.",
+    "emotion_ids": "24,25",
+    "emotions": [
+      "remorse",
+      "sadness"
+    ],
+    "translated_text": "Sinto muito que você tenha sofrido bullying em um lugar onde deveria se sentir seguro."
+  },
+  {
+    "id": "ef87dv3",
+    "split": "train",
+    "line_idx": 2179,
+    "original_text": "There is no enemy. Only knowledge that there is an invisible social hierarchy and we aint on it, let alone at the top.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Não existe inimigo. Só o conhecimento de que existe uma hierarquia social invisível e a gente não tá nela, muito menos no topo."
+  },
+  {
+    "id": "ee68q1i",
+    "split": "train",
+    "line_idx": 2180,
+    "original_text": "I love this and you",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo isso e amo você"
+  },
+  {
+    "id": "eex2uey",
+    "split": "train",
+    "line_idx": 2181,
+    "original_text": "*alligator point, thank you",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "*alligator point, obrigado"
+  },
+  {
+    "id": "eez2uo4",
+    "split": "train",
+    "line_idx": 2182,
+    "original_text": "Wow, that's so clever!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nossa, que inteligente!"
+  },
+  {
+    "id": "edjoz3t",
+    "split": "train",
+    "line_idx": 2183,
+    "original_text": "lol robot car",
+    "emotion_ids": "1,27",
+    "emotions": [
+      "amusement",
+      "neutral"
+    ],
+    "translated_text": "kkkk carro robô"
+  },
+  {
+    "id": "efapg86",
+    "split": "train",
+    "line_idx": 2184,
+    "original_text": "Yall remember that rainbow zebra striped gum that lost its flavor in like 0.0001 seconds",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "Vocês lembram daquele chiclete de zebra arco-íris que perdia o gosto em tipo 0,0001 segundos"
+  },
+  {
+    "id": "eeb1roy",
+    "split": "train",
+    "line_idx": 2185,
+    "original_text": "Nah no one can help me",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Não, ninguém pode me ajudar"
+  },
+  {
+    "id": "ef000tb",
+    "split": "train",
+    "line_idx": 2186,
+    "original_text": "I like Abram wayyyy more that Rapp. I hope we can snag Abram so we can use our first two picks to fill other holes.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Eu gosto do Abram muitooo mais que do Rapp. Espero que a gente consiga pegar o Abram pra poder usar nossas duas primeiras escolhas pra tapar outros buracos."
+  },
+  {
+    "id": "ednxobs",
+    "split": "train",
+    "line_idx": 2187,
+    "original_text": "Hahaha the first fall is the best ha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Hahaha a primeira queda é a melhor ha"
+  },
+  {
+    "id": "ed22gpz",
+    "split": "train",
+    "line_idx": 2188,
+    "original_text": "Wait for real? That's how they met? lol that's both terrifying and completely fitting considering how nuts they both are",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Espera, é sério? Foi assim que eles se conheceram? kkkk isso é ao mesmo tempo aterrorizante e totalmente apropriado considerando o quão malucos os dois são"
+  },
+  {
+    "id": "ee2pa85",
+    "split": "train",
+    "line_idx": 2189,
+    "original_text": "Love both sports, but this is what annoys me about Boxing when compared to MMA. If this was the UFC this fight would have happened years ago",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amo os dois esportes, mas é isso que me irrita no Boxe comparado ao MMA. Se fosse o UFC, essa luta teria acontecido anos atrás"
+  },
+  {
+    "id": "ef9e1yw",
+    "split": "train",
+    "line_idx": 2190,
+    "original_text": "Shame..",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que pena.."
+  },
+  {
+    "id": "eeybzdy",
+    "split": "train",
+    "line_idx": 2191,
+    "original_text": "Maybe defensively but going forward kola over nacho for me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Talvez defensivamente, mas pra atacar, prefiro o kola do que o nacho."
+  },
+  {
+    "id": "eegrj6j",
+    "split": "train",
+    "line_idx": 2192,
+    "original_text": "There will *always* someone gaming the system. Always. I still donate food for the other 999 people that really need assistance to get over a tough time.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sempre vai ter alguém querendo passar a perna no sistema. Sempre. Eu ainda doo comida pros outros 999 que realmente precisam de ajuda pra superar um momento difícil."
+  },
+  {
+    "id": "edotinm",
+    "split": "train",
+    "line_idx": 2193,
+    "original_text": "Seeing something like this without the usual “Wii music” is so... odd",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Ver algo assim sem a música do “Wii” de sempre é tão... estranho"
+  },
+  {
+    "id": "edbuw9y",
+    "split": "train",
+    "line_idx": 2194,
+    "original_text": "That's amazing!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível!"
+  },
+  {
+    "id": "edvjsb0",
+    "split": "train",
+    "line_idx": 2195,
+    "original_text": "Who took the photo?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Quem tirou a foto?"
+  },
+  {
+    "id": "efdut9u",
+    "split": "train",
+    "line_idx": 2196,
+    "original_text": "Same here. My refund almost doubled from last year. I almost cried when I saw how much I'm getting back.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu também. Meu reembolso quase dobrou em relação ao ano passado. Quase chorei quando vi quanto vou receber de volta."
+  },
+  {
+    "id": "edoezto",
+    "split": "train",
+    "line_idx": 2197,
+    "original_text": "Makes me wish we had a hero that could slow time like the tested Lucio Ult people were talking about in here.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Me faz desejar que a gente tivesse um herói que pudesse desacelerar o tempo como aquele Lucio Ult que o pessoal tava falando aqui."
+  },
+  {
+    "id": "ee5p05n",
+    "split": "train",
+    "line_idx": 2198,
+    "original_text": "your character's so broken!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "seu personagem é muito apelão!"
+  },
+  {
+    "id": "ednr6ed",
+    "split": "train",
+    "line_idx": 2199,
+    "original_text": "Women wear makeup to threaten other women. It has nothing to do with men. Same w all their weird mutilations.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Mulheres usam maquiagem pra ameaçar outras mulheres. Não tem nada a ver com homens. O mesmo vale pra todas essas mutilações estranhas delas."
+  }
+]

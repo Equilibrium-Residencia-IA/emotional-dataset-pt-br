@@ -1,0 +1,561 @@
+[
+  {
+    "id": "ef7bqqt",
+    "split": "train",
+    "line_idx": 5900,
+    "original_text": "Yeah, I started to see that as a better option from reading these comments since I own most of the house anyway. Thanks for your advice.",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "É, lendo esses comentários comecei a ver isso como uma opção melhor, já que a maior parte da casa é minha mesmo. Valeu pelo conselho."
+  },
+  {
+    "id": "edku4fq",
+    "split": "train",
+    "line_idx": 5901,
+    "original_text": "Truly incredible work ;)",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Trabalho incrível, de verdade ;)"
+  },
+  {
+    "id": "ef1479j",
+    "split": "train",
+    "line_idx": 5902,
+    "original_text": "It’s grandmas house. His house is a tip",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É a casa da vó. A casa dele é um lixo"
+  },
+  {
+    "id": "eeho6w6",
+    "split": "train",
+    "line_idx": 5903,
+    "original_text": "Celes represent well her talent tho",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Mas a Celes representa bem o talento dela"
+  },
+  {
+    "id": "eevekjz",
+    "split": "train",
+    "line_idx": 5904,
+    "original_text": "That's not a denial 🤔",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso não é uma negação 🤔"
+  },
+  {
+    "id": "edtvwda",
+    "split": "train",
+    "line_idx": 5905,
+    "original_text": "And let us not forget the lord's privilege with a new bride. Ahhhh......the good old days.",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "E não vamos esquecer do privilégio do senhor com uma noiva nova. Ahhhh...... os bons tempos."
+  },
+  {
+    "id": "eda9xl0",
+    "split": "train",
+    "line_idx": 5906,
+    "original_text": "I hate everything about this.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu odeio tudo nisso."
+  },
+  {
+    "id": "edmz0vu",
+    "split": "train",
+    "line_idx": 5907,
+    "original_text": "Looking forward to seeing [NAME] back on his nest",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ansioso pra ver o [NAME] de volta no ninho dele"
+  },
+  {
+    "id": "efgiida",
+    "split": "train",
+    "line_idx": 5908,
+    "original_text": "Fox News is generally not what I would call credible. Any other links?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Fox News geralmente não é o que eu chamaria de confiável. Tem outros links?"
+  },
+  {
+    "id": "ef59f93",
+    "split": "train",
+    "line_idx": 5909,
+    "original_text": "If guys like that are your only option, you may be better off single...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se caras assim são sua única opção, talvez seja melhor ficar solteira..."
+  },
+  {
+    "id": "edjuh5b",
+    "split": "train",
+    "line_idx": 5910,
+    "original_text": "Your driving makes me sick [NAME]",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Sua direção me dá enjoo [NAME]"
+  },
+  {
+    "id": "eearlz1",
+    "split": "train",
+    "line_idx": 5911,
+    "original_text": "This makes me smile.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Isso me faz sorrir."
+  },
+  {
+    "id": "eeqz14h",
+    "split": "train",
+    "line_idx": 5912,
+    "original_text": "That's amazing! Did you have a zoom on the drone, or is the post effect?",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Isso é incrível! Você deu zoom no drone ou é efeito de pós-produção?"
+  },
+  {
+    "id": "eeeg49i",
+    "split": "train",
+    "line_idx": 5913,
+    "original_text": "It's gorgeous",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É lindo"
+  },
+  {
+    "id": "eeb135f",
+    "split": "train",
+    "line_idx": 5914,
+    "original_text": "Your loss. [NAME] is an excellent chef, and all of his restaurants are amazing.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O azar é seu. [NAME] é um chef excelente e todos os restaurantes dele são incríveis."
+  },
+  {
+    "id": "efbolqt",
+    "split": "train",
+    "line_idx": 5915,
+    "original_text": "Let her work for her money like everyone else if she can afford to re decorate and go to Jamaica.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Deixa ela trabalhar pelo dinheiro dela como todo mundo, se ela pode se dar ao luxo de redecorar e ir pra Jamaica."
+  },
+  {
+    "id": "eeijzsh",
+    "split": "train",
+    "line_idx": 5916,
+    "original_text": "You’re right",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você tem razão"
+  },
+  {
+    "id": "ee6l4ts",
+    "split": "train",
+    "line_idx": 5917,
+    "original_text": "Honestly tho. Please stop posting this. We've been seeing this shit since at least 2003 and I was born in 02 ffs",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Sinceramente, né. Por favor, parem de postar isso. A gente vê essa porra desde pelo menos 2003 e eu nasci em 02, puta que pariu"
+  },
+  {
+    "id": "ef49z37",
+    "split": "train",
+    "line_idx": 5918,
+    "original_text": "Uh. Okay. I dont thats likely to happen. Even when people were eating babies it was not die moral reasona",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Uh. Ok. Não acho que isso vá acontecer. Mesmo quando as pessoas comiam bebês, não era por razões morais"
+  },
+  {
+    "id": "edwneja",
+    "split": "train",
+    "line_idx": 5919,
+    "original_text": "Thank you! We’re currently shoveling ourselves out of the driveway, hopefully well be going there soon",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado! Estamos tirando a neve da garagem agora, espero que a gente consiga ir logo"
+  },
+  {
+    "id": "edvg0kn",
+    "split": "train",
+    "line_idx": 5920,
+    "original_text": "Serious strawberry and matcha frapps.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Frapps de morango e matcha de respeito."
+  },
+  {
+    "id": "eelny83",
+    "split": "train",
+    "line_idx": 5921,
+    "original_text": "The molcajete is my favorite type of Mexican food. I'm not with you on this one.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "O molcajete é meu tipo favorito de comida mexicana. Nessa eu não concordo com você."
+  },
+  {
+    "id": "ee336jk",
+    "split": "train",
+    "line_idx": 5922,
+    "original_text": "I figured just being there is the main help. I will probably ask them as many questions as they ask me.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Imaginei que só estar lá já é a maior ajuda. Provavelmente vou fazer tantas perguntas pra eles quanto eles fizerem pra mim."
+  },
+  {
+    "id": "ed5kia8",
+    "split": "train",
+    "line_idx": 5923,
+    "original_text": "I never believe draft rumors of who teams are looking at or wanting, especially if its fan rumors. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu nunca acredito em rumores de draft sobre quem os times estão olhando ou querendo, especialmente se for rumor de torcedor."
+  },
+  {
+    "id": "ef8h27y",
+    "split": "train",
+    "line_idx": 5924,
+    "original_text": "Thank you. This is something I really needed to hear. Hugs, mama.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigada. Isso é algo que eu realmente precisava ouvir. Abraços, mamãe."
+  },
+  {
+    "id": "een92uo",
+    "split": "train",
+    "line_idx": 5925,
+    "original_text": "Honestly I wouldn’t mind. Glad he’s still in the NHL. Poor [NAME] was playing in the KHL last I heard.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Sinceramente, eu não me importaria. Fico feliz que ele ainda esteja na NHL. O pobre [NAME] estava jogando na KHL, pelo que soube por último."
+  },
+  {
+    "id": "ee8g57n",
+    "split": "train",
+    "line_idx": 5926,
+    "original_text": "when has one of those systems succeeded?",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "quando foi que um desses sistemas deu certo?"
+  },
+  {
+    "id": "edj8uhf",
+    "split": "train",
+    "line_idx": 5927,
+    "original_text": "[NAME] was a horrible [NAME] and HC",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] foi um [NAME] e técnico horrível"
+  },
+  {
+    "id": "eere0ky",
+    "split": "train",
+    "line_idx": 5928,
+    "original_text": "She's a freedom hating commie is what she is. Of course the media loves her; she wants to dismantle everything that made America good.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela é uma comunista que odeia a liberdade, isso sim. É claro que a mídia ama ela; ela quer destruir tudo que fez a América ser boa."
+  },
+  {
+    "id": "edgd39v",
+    "split": "train",
+    "line_idx": 5929,
+    "original_text": "Oh. Much less exciting than the edit. We live inside the fungus.",
+    "emotion_ids": "9,11",
+    "emotions": [
+      "disappointment",
+      "disgust"
+    ],
+    "translated_text": "Ah. Bem menos empolgante que a edição. Nós vivemos dentro do fungo."
+  },
+  {
+    "id": "eeudls0",
+    "split": "train",
+    "line_idx": 5930,
+    "original_text": "The minute I heard about this this morning, I just knew [NAME] would use it for his benefit someway, somehow... lol. :/",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "No minuto que ouvi falar disso hoje de manhã, eu já sabia que o [NAME] ia usar isso pro seu próprio benefício de um jeito ou de outro... lol. :/"
+  },
+  {
+    "id": "ed8jb59",
+    "split": "train",
+    "line_idx": 5931,
+    "original_text": "Thank you. This is well-written and it’s really helpful.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. Isso está bem escrito e é muito útil."
+  },
+  {
+    "id": "eeu7ifa",
+    "split": "train",
+    "line_idx": 5932,
+    "original_text": "SHE DESERVES TO BE TRULY HAPPY. LEAVE HER [NAME].",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "ELA MERECE SER FELIZ DE VERDADE. DEIXA ELA EM PAZ [NAME]."
+  },
+  {
+    "id": "ed4nwsk",
+    "split": "train",
+    "line_idx": 5933,
+    "original_text": "I don't know what that means, nor do I care. ",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei o que isso significa, nem me importo."
+  },
+  {
+    "id": "ee73rj7",
+    "split": "train",
+    "line_idx": 5934,
+    "original_text": "Considered going for the 1st time this year, then I see all the ads targeting kids specifically. Feels weird as a 26 year old seeing all this..",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ],
+    "translated_text": "Pensei em ir pela 1ª vez esse ano, aí vejo todos esses anúncios focados especificamente em crianças. É estranho ver tudo isso com 26 anos.."
+  },
+  {
+    "id": "ediz2sg",
+    "split": "train",
+    "line_idx": 5935,
+    "original_text": "So glad my mom didn’t act this way when I was diagnosed.... oh, and my mom was smart and vaccinated me",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Tão feliz que minha mãe não agiu desse jeito quando fui diagnosticado.... ah, e minha mãe era inteligente e me vacinou"
+  },
+  {
+    "id": "ef3o2ls",
+    "split": "train",
+    "line_idx": 5936,
+    "original_text": "Probably because he is in a spiderman suit and is planning on doing something funny.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Provavelmente porque ele está com uma fantasia de Homem-Aranha e está planejando fazer algo engraçado."
+  },
+  {
+    "id": "eewxgdt",
+    "split": "train",
+    "line_idx": 5937,
+    "original_text": "Sniffing all them electrical outlets is hard work! This is the PC version... Why didn't you use Print-Screen?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cheirar todas essas tomadas dá um trabalho danado! Essa é a versão pra PC... Por que você não usou o Print-Screen?"
+  },
+  {
+    "id": "ee0bhql",
+    "split": "train",
+    "line_idx": 5938,
+    "original_text": "That’s not populism, that’s demagoguery. Subtle, but big difference. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso não é populismo, isso é demagogia. Sutil, mas uma grande diferença."
+  },
+  {
+    "id": "eew80y7",
+    "split": "train",
+    "line_idx": 5939,
+    "original_text": "I didn't mean to imply you did! I just know that's a mistake I've seen a lot of people make, is all",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não quis dizer que você fez isso! Só sei que esse é um erro que vi muita gente cometer, só isso"
+  },
+  {
+    "id": "ed57ut0",
+    "split": "train",
+    "line_idx": 5940,
+    "original_text": "Fair enough, but in most countries, still illegal. Also highly unethical. Then again none of you give a damn about ethics.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Justo, mas na maioria dos países ainda é ilegal. E altamente antiético. Mas, de novo, nenhum de vocês tá nem aí pra ética."
+  },
+  {
+    "id": "edr57iv",
+    "split": "train",
+    "line_idx": 5941,
+    "original_text": "He had 2 years with full control and couldn’t get it passed...just remind them of that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele teve 2 anos com controle total e não conseguiu aprovar... só lembre eles disso."
+  },
+  {
+    "id": "edpsphr",
+    "split": "train",
+    "line_idx": 5942,
+    "original_text": "Almost forgot to check if it’s dead. Edit : NOPE!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quase esqueci de checar se tá morto. Edit: NÃO!"
+  },
+  {
+    "id": "edte95h",
+    "split": "train",
+    "line_idx": 5943,
+    "original_text": "oops, my bad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "ops, foi mal."
+  },
+  {
+    "id": "ee4n9mj",
+    "split": "train",
+    "line_idx": 5944,
+    "original_text": "Good tips. Will take into consideration everything you said. Thanks a lot !",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Boas dicas. Vou levar em consideração tudo o que você disse. Valeu mesmo!"
+  },
+  {
+    "id": "eeszaav",
+    "split": "train",
+    "line_idx": 5945,
+    "original_text": "And then attacking you as a person when you say you'd prefer not to be stalked and murdered. Sorry but your friend is a problem.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "E depois te atacar como pessoa quando você diz que preferiria não ser perseguida e assassinada. Desculpa, mas sua amiga é um problema."
+  },
+  {
+    "id": "ee3h6yk",
+    "split": "train",
+    "line_idx": 5946,
+    "original_text": "The original DayZ mod music was pretty intense.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A música original do mod de DayZ era bem intensa."
+  },
+  {
+    "id": "edkmxax",
+    "split": "train",
+    "line_idx": 5947,
+    "original_text": "Ill take condoms and council tax over dying in horrible pain from typhoid but each to there own.",
+    "emotion_ids": "8,11",
+    "emotions": [
+      "desire",
+      "disgust"
+    ],
+    "translated_text": "Eu prefiro camisinha e imposto municipal do que morrer com uma dor horrível de febre tifoide, mas cada um na sua."
+  },
+  {
+    "id": "edfzzrt",
+    "split": "train",
+    "line_idx": 5948,
+    "original_text": "This sounds serious. I don't think I have the ability to help ya but you definitely need to talk to someone.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso parece sério. Não acho que tenho capacidade pra te ajudar, mas você definitivamente precisa conversar com alguém."
+  },
+  {
+    "id": "ee2jj95",
+    "split": "train",
+    "line_idx": 5949,
+    "original_text": "Now, remember, this is a very dulled version of what were used to considering they’re still riding the super bowl high from last year. ",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "Agora, lembre-se, essa é uma versão bem suavizada do que estamos acostumados, considerando que eles ainda estão na euforia do Super Bowl do ano passado."
+  }
+]

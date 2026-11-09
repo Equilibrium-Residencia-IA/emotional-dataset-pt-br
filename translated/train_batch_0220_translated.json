@@ -1,0 +1,556 @@
+[
+  {
+    "id": "efhbm9j",
+    "split": "train",
+    "line_idx": 11000,
+    "original_text": "At least they didn’t destroy the shoes",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Pelo menos eles não destruíram os sapatos"
+  },
+  {
+    "id": "edcmeyf",
+    "split": "train",
+    "line_idx": 11001,
+    "original_text": "Man this family looks like they’re straight outta hope country from far cry 5",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cara, essa família parece que saiu direto de Hope County do Far Cry 5"
+  },
+  {
+    "id": "eejgj4m",
+    "split": "train",
+    "line_idx": 11002,
+    "original_text": "As a non-immunocompromised person I like their stance.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Como alguém que não é imunocomprometido, eu curto a posição deles."
+  },
+  {
+    "id": "edo5vah",
+    "split": "train",
+    "line_idx": 11003,
+    "original_text": "Oh, I don’t know, maybe... Vaccinate?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ah, não sei, talvez... vacinar?"
+  },
+  {
+    "id": "ednlfic",
+    "split": "train",
+    "line_idx": 11004,
+    "original_text": "I'd love for someone to pay a little attention to me",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu adoraria que alguém me desse um pouquinho de atenção"
+  },
+  {
+    "id": "eew8x76",
+    "split": "train",
+    "line_idx": 11005,
+    "original_text": "If loving the Falcons along side my Vikings is wrong, *than I don’t want to be right.*",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Se amar os Falcons junto com meus Vikings é errado, *então eu não quero estar certo.*"
+  },
+  {
+    "id": "ed17lxv",
+    "split": "train",
+    "line_idx": 11006,
+    "original_text": "All I'm saying is there is no way I would let one solo drop my whole team with a quad 0% chance",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Tudo o que eu digo é que não tem como eu deixar um cara sozinho derrubar meu time todo com um quad, chance zero%"
+  },
+  {
+    "id": "eeqpy2f",
+    "split": "train",
+    "line_idx": 11007,
+    "original_text": "31/M/I don’t know, I’m blind.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "31/H/Não sei, sou cego."
+  },
+  {
+    "id": "efbolya",
+    "split": "train",
+    "line_idx": 11008,
+    "original_text": "Gang beast is really only fun with friends",
+    "emotion_ids": "4,17",
+    "emotions": [
+      "approval",
+      "joy"
+    ],
+    "translated_text": "Gang Beasts só é divertido com amigos mesmo"
+  },
+  {
+    "id": "eehmo2m",
+    "split": "train",
+    "line_idx": 11009,
+    "original_text": "That's amazing, wow! People can be so good.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível, uau! As pessoas podem ser tão boas."
+  },
+  {
+    "id": "efh5yfj",
+    "split": "train",
+    "line_idx": 11010,
+    "original_text": "That was awesome!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso foi demais!"
+  },
+  {
+    "id": "ef55nt3",
+    "split": "train",
+    "line_idx": 11011,
+    "original_text": "[NAME] is the only reason this is a close game",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é o único motivo desse jogo estar equilibrado"
+  },
+  {
+    "id": "eeffveh",
+    "split": "train",
+    "line_idx": 11012,
+    "original_text": "this is [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "esse é o [NAME]."
+  },
+  {
+    "id": "edbf5am",
+    "split": "train",
+    "line_idx": 11013,
+    "original_text": "[NAME], people always forget about him but he has saved Madrid countless times in so many different ways.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], as pessoas sempre esquecem dele, mas ele salvou o Madrid incontáveis vezes de tantas formas diferentes."
+  },
+  {
+    "id": "ee8vta8",
+    "split": "train",
+    "line_idx": 11014,
+    "original_text": "actually OP’s account",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "na verdade é a conta do OP"
+  },
+  {
+    "id": "eegxo2e",
+    "split": "train",
+    "line_idx": 11015,
+    "original_text": "Wow, the menacing head shake...(shivers) ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Uau, aquele balançar de cabeça ameaçador... (arrepios)"
+  },
+  {
+    "id": "eeo7rbv",
+    "split": "train",
+    "line_idx": 11016,
+    "original_text": "You’re an awful troll...",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Você é um troll horrível..."
+  },
+  {
+    "id": "eepjzks",
+    "split": "train",
+    "line_idx": 11017,
+    "original_text": "Purposefully hurt people. [NAME]. I don’t understand why anyone cares.",
+    "emotion_ids": "3,25",
+    "emotions": [
+      "annoyance",
+      "sadness"
+    ],
+    "translated_text": "Machucar pessoas de propósito. [NAME]. Não entendo por que alguém se importa."
+  },
+  {
+    "id": "efbrrbr",
+    "split": "train",
+    "line_idx": 11018,
+    "original_text": "I just hope [NAME] isn't pulling the wagon. Would hate for her to throw up.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Só espero que a [NAME] não esteja puxando a carroça. Odiaria que ela vomitasse."
+  },
+  {
+    "id": "ef44plj",
+    "split": "train",
+    "line_idx": 11019,
+    "original_text": "for 150 million!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "por 150 milhões!"
+  },
+  {
+    "id": "ee290eb",
+    "split": "train",
+    "line_idx": 11020,
+    "original_text": "a jpg that's a gif, what a time to be alive",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "um jpg que é um gif, que época para se estar vivo"
+  },
+  {
+    "id": "edgxhl6",
+    "split": "train",
+    "line_idx": 11021,
+    "original_text": "I enjoy cycling too much lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu curto demais pedalar kkk"
+  },
+  {
+    "id": "eesbsdo",
+    "split": "train",
+    "line_idx": 11022,
+    "original_text": "It’s ok. We forgive you",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tá tudo bem. A gente te perdoa"
+  },
+  {
+    "id": "ee215oo",
+    "split": "train",
+    "line_idx": 11023,
+    "original_text": "Pretty certain it was already reported a long time ago that Japan was getting the censored cut of the game.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tenho quase certeza que já tinham noticiado há muito tempo que o Japão ia receber a versão censurada do jogo."
+  },
+  {
+    "id": "eebj2gj",
+    "split": "train",
+    "line_idx": 11024,
+    "original_text": "My brother looks like [NAME] and I look like [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu irmão parece o [NAME] e eu pareço o [NAME]"
+  },
+  {
+    "id": "efex9or",
+    "split": "train",
+    "line_idx": 11025,
+    "original_text": "He’s 30 freaking years old and is scared of managing a bank account. *eyeroll*",
+    "emotion_ids": "14,19",
+    "emotions": [
+      "fear",
+      "nervousness"
+    ],
+    "translated_text": "Ele tem 30 anos de idade, porra, e tem medo de gerenciar uma conta bancária. *revira os olhos*"
+  },
+  {
+    "id": "eeq3q15",
+    "split": "train",
+    "line_idx": 11026,
+    "original_text": "I feel like that would just be a net positive for guys, is that what she wants?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sinto que isso seria apenas um saldo positivo para os caras, é isso que ela quer?"
+  },
+  {
+    "id": "eeq0czo",
+    "split": "train",
+    "line_idx": 11027,
+    "original_text": "I wish Florida was a thing for me... But I'm keeping toasty with a little liquor love in Erie, PA... ",
+    "emotion_ids": "8,18",
+    "emotions": [
+      "desire",
+      "love"
+    ],
+    "translated_text": "Queria que a Flórida fosse uma opção para mim... Mas tô me mantendo quentinho com um golinho de álcool em Erie, PA..."
+  },
+  {
+    "id": "eeb5zkz",
+    "split": "train",
+    "line_idx": 11028,
+    "original_text": "Yes I prefer smaller boobs",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sim, eu prefiro peitos menores"
+  },
+  {
+    "id": "ef7a4a8",
+    "split": "train",
+    "line_idx": 11029,
+    "original_text": "Did you even read the article? It's 1 anecdote and she wants to return because she misses her family.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você chegou a ler o artigo? É só 1 relato e ela quer voltar porque sente falta da família."
+  },
+  {
+    "id": "edwajgk",
+    "split": "train",
+    "line_idx": 11030,
+    "original_text": "Utah grubs This is a great place for restaurant recommendations.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Utah grubs Esse é um ótimo lugar para recomendações de restaurantes."
+  },
+  {
+    "id": "ed41mf5",
+    "split": "train",
+    "line_idx": 11031,
+    "original_text": "Y'all taking this way too seriously...the point is they're both fierce.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Vocês estão levando isso a sério demais... o ponto é que ambos são ferozes."
+  },
+  {
+    "id": "ed6epwo",
+    "split": "train",
+    "line_idx": 11032,
+    "original_text": "They are unable to think out of the box",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles são incapazes de pensar fora da caixa"
+  },
+  {
+    "id": "eczkf6o",
+    "split": "train",
+    "line_idx": 11033,
+    "original_text": "Thanks, never heard that one.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, nunca tinha ouvido essa."
+  },
+  {
+    "id": "ee5yg0f",
+    "split": "train",
+    "line_idx": 11034,
+    "original_text": "Had no idea Belgrade was suffering so",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não fazia ideia de que Belgrado estava sofrendo tanto"
+  },
+  {
+    "id": "eeoz7ro",
+    "split": "train",
+    "line_idx": 11035,
+    "original_text": "I would say more people who have no fucking clue what they are talking about. The hilarity of \"he was trying to advance position\".",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu diria que tem mais gente que não faz a menor ideia do que está falando. A bizarrice de \"ele estava tentando avançar a posição\"."
+  },
+  {
+    "id": "edgids5",
+    "split": "train",
+    "line_idx": 11036,
+    "original_text": "Mine too!! Always thought it was dyed from wearing mascara, but I haven't worn any in a while",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "O meu também!! Sempre achei que era manchado por usar rímel, mas não uso há um tempo"
+  },
+  {
+    "id": "eewwe5v",
+    "split": "train",
+    "line_idx": 11037,
+    "original_text": "how about now",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "e agora"
+  },
+  {
+    "id": "ediafog",
+    "split": "train",
+    "line_idx": 11038,
+    "original_text": "Props to this guy, that was an amazing comment. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Parabéns para esse cara, esse foi um comentário incrível."
+  },
+  {
+    "id": "efdhtpa",
+    "split": "train",
+    "line_idx": 11039,
+    "original_text": "Let’s be friends!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vamos ser amigos!!"
+  },
+  {
+    "id": "eeb1gq5",
+    "split": "train",
+    "line_idx": 11040,
+    "original_text": "I’d be cautious about making such an assumption is mine",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tomaria cuidado ao fazer tal suposição, é o que eu acho"
+  },
+  {
+    "id": "edn9iaj",
+    "split": "train",
+    "line_idx": 11041,
+    "original_text": "Any broncos fans out there that care to weigh in on this? Interested to hear your thoughts",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Algum torcedor dos Broncos por aí que queira opinar sobre isso? Interessado em ouvir o que vocês pensam"
+  },
+  {
+    "id": "edi3j39",
+    "split": "train",
+    "line_idx": 11042,
+    "original_text": "Doing Martial arts since I was 16 (26 now), hasn't done much about my FAdom",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Faço artes marciais desde os 16 (tenho 26 agora), não mudou muita coisa na minha FAdom"
+  },
+  {
+    "id": "efdpzme",
+    "split": "train",
+    "line_idx": 11043,
+    "original_text": "This team + 2 lottery picks and another offseason for our young players will definitely be a playoff team next year.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Esse time + 2 escolhas de loteria e mais uma offseason para nossos jogadores jovens com certeza vai ser um time de playoffs ano que vem."
+  },
+  {
+    "id": "edk984w",
+    "split": "train",
+    "line_idx": 11044,
+    "original_text": "Besides, you have no clue which ones I have and haven't done. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Além disso, você não faz ideia de quais eu fiz ou não fiz."
+  },
+  {
+    "id": "eewkqif",
+    "split": "train",
+    "line_idx": 11045,
+    "original_text": "If it's used as an excuse to fuck the onchain throughput, it is.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Se for usado como desculpa para ferrar com o throughput onchain, então é."
+  },
+  {
+    "id": "eejj0hp",
+    "split": "train",
+    "line_idx": 11046,
+    "original_text": "Hell's Kitchen. I bet that man could make [NAME] cry.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Hell's Kitchen. Aposto que aquele homem conseguiria fazer o [NAME] chorar."
+  },
+  {
+    "id": "ed1tuvz",
+    "split": "train",
+    "line_idx": 11047,
+    "original_text": "Where did you get that? Highest I’ve found is Donagal at 23%.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Onde você conseguiu isso? O mais alto que achei foi Donagal com 23%."
+  },
+  {
+    "id": "eenmu16",
+    "split": "train",
+    "line_idx": 11048,
+    "original_text": "Ya shitty. But people cheat. I dont know what to tell you 🙃 the world sucks. Just live your life",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "É uma merda. Mas as pessoas traem. Não sei o que te dizer 🙃 o mundo é uma droga. Só viva sua vida"
+  },
+  {
+    "id": "ef9jxy1",
+    "split": "train",
+    "line_idx": 11049,
+    "original_text": "The lips imo",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os lábios, na minha opinião"
+  }
+]

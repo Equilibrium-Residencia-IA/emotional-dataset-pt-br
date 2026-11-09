@@ -1,0 +1,558 @@
+[
+  {
+    "id": "edppitt",
+    "split": "train",
+    "line_idx": 11300,
+    "original_text": "Fair enough. You know him better than any of us do.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Justo. Você conhece ele melhor que qualquer um de nós."
+  },
+  {
+    "id": "edbvlh5",
+    "split": "train",
+    "line_idx": 11301,
+    "original_text": "She haven't tried contacting me in 2 years, i guess she lied. Congrats to me, I won the 'miss you more' game. ):",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Ela não tenta falar comigo faz 2 anos, acho que ela mentiu. Parabéns pra mim, ganhei o jogo do 'sinto mais sua falta'. ):"
+  },
+  {
+    "id": "eewwhiz",
+    "split": "train",
+    "line_idx": 11302,
+    "original_text": "[NAME] is scary",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "[NAME] dá medo"
+  },
+  {
+    "id": "ef5ef5e",
+    "split": "train",
+    "line_idx": 11303,
+    "original_text": "And KAT with 6. Weird game.",
+    "emotion_ids": "11,12",
+    "emotions": [
+      "disgust",
+      "embarrassment"
+    ],
+    "translated_text": "E o KAT com 6. Jogo estranho."
+  },
+  {
+    "id": "ed4ifcg",
+    "split": "train",
+    "line_idx": 11304,
+    "original_text": "Let’s actually go",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bora então"
+  },
+  {
+    "id": "ed8c65a",
+    "split": "train",
+    "line_idx": 11305,
+    "original_text": "You have to remember it's just porn for people who haven't figured out how to get it for free on the internet (ie, morons)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você tem que lembrar que isso é só pornô pra gente que não descobriu como conseguir de graça na internet (ou seja, uns idiotas)"
+  },
+  {
+    "id": "ef14qj7",
+    "split": "train",
+    "line_idx": 11306,
+    "original_text": "I really hope [NAME] or [NAME] or somebody from the show sees this 😂",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu espero muito que o [NAME] ou a [NAME] ou alguém do programa veja isso 😂"
+  },
+  {
+    "id": "edpi33f",
+    "split": "train",
+    "line_idx": 11307,
+    "original_text": "Don’t ever apologize for calling it that. The Beach is a [NAME] movie, not a Toronto neighbourhood. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Nunca peça desculpas por chamar assim. The Beach é um filme do [NAME], não um bairro de Toronto."
+  },
+  {
+    "id": "edo7vyv",
+    "split": "train",
+    "line_idx": 11308,
+    "original_text": "This made me chuckle. I hope it is raptors v warriors in the finals. That’s gonna be a fun series to watch.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Isso me fez dar uma risadinha. Espero que seja Raptors contra Warriors nas finais. Vai ser uma série divertida de assistir."
+  },
+  {
+    "id": "ee3r176",
+    "split": "train",
+    "line_idx": 11309,
+    "original_text": "Yeah, clear off. And tell your mates you had a horrible time too. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "É, vaza. E diz pros seus amigos que você teve uma experiência horrível também."
+  },
+  {
+    "id": "eeufts9",
+    "split": "train",
+    "line_idx": 11310,
+    "original_text": "every time you see the snake edge and still get hit even though you *swear* you were holding downback",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "toda vez que você vê o snake edge e ainda toma o golpe, mesmo jurando que tava segurando pra baixo e pra trás"
+  },
+  {
+    "id": "eena01j",
+    "split": "train",
+    "line_idx": 11311,
+    "original_text": "In the right photo, he looks like my friend's husband.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Na foto da direita, ele parece o marido da minha amiga."
+  },
+  {
+    "id": "edy11xg",
+    "split": "train",
+    "line_idx": 11312,
+    "original_text": "Oh so now we’re not letting plays finish before calling offside cool..",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ah, então agora a gente não deixa mais a jogada terminar antes de marcar impedimento, legal..."
+  },
+  {
+    "id": "edm4grj",
+    "split": "train",
+    "line_idx": 11313,
+    "original_text": "That was an old-fashioned Good old hockey brawl! What a fight! [NAME] definitely got the best of him though!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Aquela foi uma briga de hóquei à moda antiga! Que luta! Mas o [NAME] com certeza levou a melhor!"
+  },
+  {
+    "id": "eeq5qt2",
+    "split": "train",
+    "line_idx": 11314,
+    "original_text": "If it gets posted before 10 am you can't possibly expect me to learn from it anyhow.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se for postado antes das 10 da manhã, você não pode esperar que eu aprenda alguma coisa com isso de qualquer jeito."
+  },
+  {
+    "id": "ee8t92g",
+    "split": "train",
+    "line_idx": 11315,
+    "original_text": "Dont worry about the other people. Driving is filled with way too many other anxieties to have worries about dropping a deuce in a truckstop bathroom.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não se preocupa com os outros. Dirigir já é cheio de ansiedade demais pra ficar se preocupando em fazer o número dois no banheiro de posto de estrada."
+  },
+  {
+    "id": "eeg26rs",
+    "split": "train",
+    "line_idx": 11316,
+    "original_text": "Sex is not a right! Porn is not a right! Viewing naked female bodies is not a god damn civil liberty!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Sexo não é um direito! Pornô não é um direito! Ver corpos femininos nus não é uma p*rra de uma liberdade civil!"
+  },
+  {
+    "id": "ed0x96f",
+    "split": "train",
+    "line_idx": 11317,
+    "original_text": "It is a long panel but very insightful - skip the intro pleasantries if you want, but you will have seen enough by the 30 minute mark ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É um painel longo, mas bem esclarecedor - pula as gentilezas da introdução se quiser, mas você já vai ter visto o suficiente lá pelos 30 minutos"
+  },
+  {
+    "id": "edivvjm",
+    "split": "train",
+    "line_idx": 11318,
+    "original_text": "Old dirty Bastard?",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Old Dirty Bastard?"
+  },
+  {
+    "id": "eewcpiz",
+    "split": "train",
+    "line_idx": 11319,
+    "original_text": "Why does every comment here have at least one reply that is like an essay long",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por que todo comentário aqui tem pelo menos uma resposta que parece uma redação?"
+  },
+  {
+    "id": "eeo6apu",
+    "split": "train",
+    "line_idx": 11320,
+    "original_text": "Fuck it; just marry everyone",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Quer saber? Foda-se, casa com todo mundo logo"
+  },
+  {
+    "id": "ee36ptb",
+    "split": "train",
+    "line_idx": 11321,
+    "original_text": "I’ve been on team [NAME] since he won the axe toss competition after the draft, lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu tô no time [NAME] desde que ele ganhou a competição de arremesso de machado depois do draft, lol"
+  },
+  {
+    "id": "eey8oar",
+    "split": "train",
+    "line_idx": 11322,
+    "original_text": "READ A BOOK YOU FUCKING CROOK.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "VAI LER UM LIVRO, SEU VIGARISTA DO CARALHO."
+  },
+  {
+    "id": "eewmsvg",
+    "split": "train",
+    "line_idx": 11323,
+    "original_text": "I’m tired from working hard and I want someone to snuggle me to sleep",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Tô cansado de trabalhar tanto e queria alguém pra me abraçar até eu dormir"
+  },
+  {
+    "id": "ed3xacm",
+    "split": "train",
+    "line_idx": 11324,
+    "original_text": "When has the Alt-Right ever been working class? Its always the richest white guys who are horribly socially inept.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Quando foi que a Alt-Right foi classe trabalhadora? São sempre os caras brancos mais ricos que são socialmente um desastre."
+  },
+  {
+    "id": "ef9nmw1",
+    "split": "train",
+    "line_idx": 11325,
+    "original_text": "Purdue's worst loss is Notre Dame (93 Kenpom) New Mexico is 187 in Kenpom. Good try tho",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A pior derrota de Purdue é pra Notre Dame (93 no Kenpom). New Mexico é 187 no Kenpom. Boa tentativa, though"
+  },
+  {
+    "id": "eee8fxv",
+    "split": "train",
+    "line_idx": 11326,
+    "original_text": "That unconvincing bottom right though hahaha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Aquele da direita embaixo que não convence nada, hahaha"
+  },
+  {
+    "id": "eee2z2b",
+    "split": "train",
+    "line_idx": 11327,
+    "original_text": "Sounds like a horror junkie in the making. Congrats dad, you’ll have a buddy to watch movies with in a year or two!",
+    "emotion_ids": "0,1,13",
+    "emotions": [
+      "admiration",
+      "amusement",
+      "excitement"
+    ],
+    "translated_text": "Parece que temos um fã de terror em formação. Parabéns papai, você vai ter um parceiro pra ver filme daqui a um ou dois anos!"
+  },
+  {
+    "id": "ef1kars",
+    "split": "train",
+    "line_idx": 11328,
+    "original_text": "Keep fighting the good fight",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Continue na luta"
+  },
+  {
+    "id": "ed6zhx7",
+    "split": "train",
+    "line_idx": 11329,
+    "original_text": "Let people enjoy things",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Deixa as pessoas curtirem as coisas"
+  },
+  {
+    "id": "eesx8mg",
+    "split": "train",
+    "line_idx": 11330,
+    "original_text": "It kind of blew my mind to see that after reading some of the most generic advices in that post. Who the f* upvote these posts?",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Minha cabeça meio que explodiu de ver isso depois de ler uns conselhos super genéricos naquele post. Quem p*rra dá upvote nessas coisas?"
+  },
+  {
+    "id": "eegoom7",
+    "split": "train",
+    "line_idx": 11331,
+    "original_text": "How dare you hate [NAME]",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Como você ousa odiar o [NAME]"
+  },
+  {
+    "id": "edeavts",
+    "split": "train",
+    "line_idx": 11332,
+    "original_text": "The “targets” so far has been guilty.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Os \"alvos\" até agora eram culpados."
+  },
+  {
+    "id": "ee8r7dz",
+    "split": "train",
+    "line_idx": 11333,
+    "original_text": "I find the joke chill and reasoned",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Achei a piada tranquila e sensata"
+  },
+  {
+    "id": "eexhrax",
+    "split": "train",
+    "line_idx": 11334,
+    "original_text": "He actually looks pretty crackin'",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele até que tá bonitão"
+  },
+  {
+    "id": "ed4nee9",
+    "split": "train",
+    "line_idx": 11335,
+    "original_text": "You got down voted.. but you're absolutely right. I am now looking into one. Sweet.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Te deram downvote... mas você tá absolutamente certo. Tô dando uma olhada em um agora. Massa."
+  },
+  {
+    "id": "edruqnc",
+    "split": "train",
+    "line_idx": 11336,
+    "original_text": "You can be so much more specific when hitchhiking.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você pode ser muito mais específico quando tá pegando carona."
+  },
+  {
+    "id": "edft5w5",
+    "split": "train",
+    "line_idx": 11337,
+    "original_text": "Pretty wild.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bem doido."
+  },
+  {
+    "id": "edl7hm1",
+    "split": "train",
+    "line_idx": 11338,
+    "original_text": "Then it was effectively them pissing on your territory. Same with the bed. They don’t get to pass the threshold again!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Então foi basicamente eles mijando no seu território. O mesmo com a cama. Eles não podem passar daquele limite de novo!"
+  },
+  {
+    "id": "ed1ms85",
+    "split": "train",
+    "line_idx": 11339,
+    "original_text": "So it would seem",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que sim"
+  },
+  {
+    "id": "eewnxwc",
+    "split": "train",
+    "line_idx": 11340,
+    "original_text": "Wtf did I just read? That was painful",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Que p*rra eu acabei de ler? Isso foi doloroso"
+  },
+  {
+    "id": "ed0cf46",
+    "split": "train",
+    "line_idx": 11341,
+    "original_text": "Not the kind of webcams we can afford.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não é o tipo de webcam que a gente pode pagar."
+  },
+  {
+    "id": "ed3uc1g",
+    "split": "train",
+    "line_idx": 11342,
+    "original_text": "i love all harper news because i love the shit storm that ensues on here.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "eu amo todas as notícias do Harper porque eu amo a baixaria que acontece aqui."
+  },
+  {
+    "id": "ee4rgm4",
+    "split": "train",
+    "line_idx": 11343,
+    "original_text": "Fuck that, he can go to Cleveland with [NAME] on that bullshit.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Foda-se isso, ele que vá pra Cleveland com o [NAME] com essa palhaçada."
+  },
+  {
+    "id": "edcglwj",
+    "split": "train",
+    "line_idx": 11344,
+    "original_text": "This is brilliant.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é genial."
+  },
+  {
+    "id": "eeibd5v",
+    "split": "train",
+    "line_idx": 11345,
+    "original_text": "Actually he did beat his girlfriend. Don’t know how far up yer arse you had to reach for that one",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Na verdade ele bateu na namorada sim. Não sei de onde você tirou essa ideia, deve ter sido do fundo do seu rabo"
+  },
+  {
+    "id": "ed6ydx6",
+    "split": "train",
+    "line_idx": 11346,
+    "original_text": "ohh. thank you for explaining!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "ahhh. obrigado por explicar!"
+  },
+  {
+    "id": "edljn2d",
+    "split": "train",
+    "line_idx": 11347,
+    "original_text": "Cardinals/ [NAME] MNF. Give the people what they really want!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cardinals/ [NAME] no Monday Night Football. Dá pro povo o que eles realmente querem!!"
+  },
+  {
+    "id": "eeyvek9",
+    "split": "train",
+    "line_idx": 11348,
+    "original_text": "Interesting how the before photos are clearly yellow-tinted, as can be seen by the difference in the skin complexion ",
+    "emotion_ids": "0,22",
+    "emotions": [
+      "admiration",
+      "realization"
+    ],
+    "translated_text": "Interessante como as fotos de antes estão claramente com um tom amarelado, dá pra ver pela diferença na cor da pele"
+  },
+  {
+    "id": "ed4z1is",
+    "split": "train",
+    "line_idx": 11349,
+    "original_text": "Fans of sonic are big fans of 90s cheese though.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas fãs de Sonic adoram uma breguice dos anos 90."
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "efg10g8",
+    "split": "train",
+    "line_idx": 11200,
+    "original_text": "Does [NAME] do it telepathically?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "O [NAME] faz isso telepaticamente?"
+  },
+  {
+    "id": "ef3yunv",
+    "split": "train",
+    "line_idx": 11201,
+    "original_text": "\"Men are afraid that women will laugh at them. Women are afraid that men will kill them.\" -[NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Homens têm medo de que as mulheres riam deles. Mulheres têm medo de que os homens as matem.\" -[NAME]"
+  },
+  {
+    "id": "ee3015w",
+    "split": "train",
+    "line_idx": 11202,
+    "original_text": "I usually just refer to it as concealed carry. Cuts down on some of the tla overload",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu geralmente chamo só de porte velado. Ajuda a diminuir um pouco a confusão com tanta sigla"
+  },
+  {
+    "id": "ee99ewo",
+    "split": "train",
+    "line_idx": 11203,
+    "original_text": "Hope you enjoy it! Try not to leave it too long though, it's been taken down before. ",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Espero que curta! Tenta não demorar muito pra ver, já tiraram do ar antes."
+  },
+  {
+    "id": "ef9dxzz",
+    "split": "train",
+    "line_idx": 11204,
+    "original_text": "Huh that guy seems cool, they'd probably lop his head off. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Hum, esse cara parece legal, provavelmente arrancariam a cabeça dele."
+  },
+  {
+    "id": "efdb0ue",
+    "split": "train",
+    "line_idx": 11205,
+    "original_text": "Lord, he is extra sensitive. And I thought my ex was bad lol. ",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Meu Deus, ele é sensível demais. E eu achando que meu ex era ruim kkk."
+  },
+  {
+    "id": "edlt224",
+    "split": "train",
+    "line_idx": 11206,
+    "original_text": "Love Mac n Gold",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amo Mac n Gold"
+  },
+  {
+    "id": "ed6ayep",
+    "split": "train",
+    "line_idx": 11207,
+    "original_text": "My dyslexia read that as \"McFucking brilliant\" and I was wondering if we could make it a thing.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Minha dislexia leu como \"McFoda pra caralho\" e fiquei pensando se a gente podia fazer isso virar moda."
+  },
+  {
+    "id": "edi59kr",
+    "split": "train",
+    "line_idx": 11208,
+    "original_text": "They just keep coming, it's like a cartoon",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles não param de vir, parece desenho animado"
+  },
+  {
+    "id": "edytzzk",
+    "split": "train",
+    "line_idx": 11209,
+    "original_text": "Didn’t see anything about exercise or nutrition in there. Shits important",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Não vi nada sobre exercício ou nutrição aí. Essa porra é importante"
+  },
+  {
+    "id": "eemo03i",
+    "split": "train",
+    "line_idx": 11210,
+    "original_text": "I'm cringing for you. Good luck in your future after this.",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Tô morrendo de vergonha por você. Boa sorte no seu futuro depois dessa."
+  },
+  {
+    "id": "eexieqs",
+    "split": "train",
+    "line_idx": 11211,
+    "original_text": "what would be the point of that I already told you I was dumb my little vagina looking friend",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "qual seria o sentido disso eu já te disse que sou burro sua amiguinha com cara de vagina"
+  },
+  {
+    "id": "ee5nk9y",
+    "split": "train",
+    "line_idx": 11212,
+    "original_text": "Welcome <3",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Bem-vindo <3"
+  },
+  {
+    "id": "eczqewq",
+    "split": "train",
+    "line_idx": 11213,
+    "original_text": "I’m not listening to a fucking plant.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu não vou ouvir uma planta do caralho."
+  },
+  {
+    "id": "eepb45m",
+    "split": "train",
+    "line_idx": 11214,
+    "original_text": "I wish i could upvote more than once",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Queria poder dar upvote mais de uma vez"
+  },
+  {
+    "id": "eenx6u3",
+    "split": "train",
+    "line_idx": 11215,
+    "original_text": "Breath with your belly not your chest. Trust me on this.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Respira com a barriga, não com o peito. Confia em mim nessa."
+  },
+  {
+    "id": "edbq4mp",
+    "split": "train",
+    "line_idx": 11216,
+    "original_text": "Cespedes is likely not coming back this year",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É provável que o Cespedes não volte este ano"
+  },
+  {
+    "id": "ecztnho",
+    "split": "train",
+    "line_idx": 11217,
+    "original_text": "Oh shut up. Quit being dramatic. Another option is... THEY COULD HAVE A CONVERSATION ABOUT IT.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ah, cala a boca. Para de ser dramático. Outra opção é... ELES PODERIAM TER UMA CONVERSA SOBRE ISSO."
+  },
+  {
+    "id": "eerhfc7",
+    "split": "train",
+    "line_idx": 11218,
+    "original_text": "Did you just call me a *bitch*?? You will NOT disrespect me like this TODAY!",
+    "emotion_ids": "2,3,7",
+    "emotions": [
+      "anger",
+      "annoyance",
+      "curiosity"
+    ],
+    "translated_text": "Você acabou de me chamar de *vadia*?? Você NÃO vai me desrespeitar desse jeito HOJE!"
+  },
+  {
+    "id": "edxnpfc",
+    "split": "train",
+    "line_idx": 11219,
+    "original_text": "The denials is crazy in here",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "A negação aqui tá insana"
+  },
+  {
+    "id": "ed4pjde",
+    "split": "train",
+    "line_idx": 11220,
+    "original_text": "I hope he loses just the end so it looks like a trimmed cigar",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que ele perca só a ponta pra parecer um charuto aparado"
+  },
+  {
+    "id": "ee8lvb2",
+    "split": "train",
+    "line_idx": 11221,
+    "original_text": "oh, carry on then",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ah, então pode continuar"
+  },
+  {
+    "id": "edp01oz",
+    "split": "train",
+    "line_idx": 11222,
+    "original_text": "These are completely unrelated. Please review",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso não tem nada a ver com aquilo. Por favor, revise"
+  },
+  {
+    "id": "ee1jcry",
+    "split": "train",
+    "line_idx": 11223,
+    "original_text": "I see BOTW and now I'm waiting for a group of grown men to watch shitty old movies.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu vejo BOTW e agora fico esperando um grupo de marmanjos assistir filmes velhos e ruins."
+  },
+  {
+    "id": "edluhoj",
+    "split": "train",
+    "line_idx": 11224,
+    "original_text": "Can attest. Vitamin deficiency here. Certain vitamins help alleviate bags under my well-rested eyes.",
+    "emotion_ids": "5,22",
+    "emotions": [
+      "caring",
+      "realization"
+    ],
+    "translated_text": "Posso confirmar. Deficiência de vitamina aqui. Certas vitaminas ajudam a aliviar as olheiras nos meus olhos bem descansados."
+  },
+  {
+    "id": "ed2z4ul",
+    "split": "train",
+    "line_idx": 11225,
+    "original_text": "This is ugly af sry",
+    "emotion_ids": "10,11",
+    "emotions": [
+      "disapproval",
+      "disgust"
+    ],
+    "translated_text": "Isso é feio pra caralho, malz"
+  },
+  {
+    "id": "eebnyhk",
+    "split": "train",
+    "line_idx": 11226,
+    "original_text": "Seriously doubt it will be Knights of Ren, but that would certainly be a great way to get people excited and build hype.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Duvido muito que sejam os Cavaleiros de Ren, mas com certeza seria um ótimo jeito de deixar o pessoal animado e criar um hype."
+  },
+  {
+    "id": "eeidyma",
+    "split": "train",
+    "line_idx": 11227,
+    "original_text": "Funny I’m on my second play through and this happens...",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Engraçado, tô na minha segunda jogada e isso acontece..."
+  },
+  {
+    "id": "ed2our8",
+    "split": "train",
+    "line_idx": 11228,
+    "original_text": "Let's be fair to them and say not forever. But at least until I die.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Vamos ser justos com eles e dizer que não é pra sempre. Mas pelo menos até eu morrer."
+  },
+  {
+    "id": "edkpj99",
+    "split": "train",
+    "line_idx": 11229,
+    "original_text": "I don't see how it can get to -1.20?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Não vejo como pode chegar a -1.20?"
+  },
+  {
+    "id": "eeb398p",
+    "split": "train",
+    "line_idx": 11230,
+    "original_text": "Wow, that crazy. Hope this doesn't happen again with you. Stay safe!",
+    "emotion_ids": "5,26",
+    "emotions": [
+      "caring",
+      "surprise"
+    ],
+    "translated_text": "Nossa, que loucura. Espero que isso não aconteça de novo com você. Fica bem!"
+  },
+  {
+    "id": "eebhhkr",
+    "split": "train",
+    "line_idx": 11231,
+    "original_text": "Maybe I have inaccurate memories re: Carolina and Boston is a better third",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Talvez minhas memórias sobre Carolina estejam imprecisas e Boston seja uma terceira opção melhor"
+  },
+  {
+    "id": "ed3lkkt",
+    "split": "train",
+    "line_idx": 11232,
+    "original_text": "Don't, it's shit compared to the original. It's rather WATERed down :P Jokes aside it isn't as good.",
+    "emotion_ids": "1,10",
+    "emotions": [
+      "amusement",
+      "disapproval"
+    ],
+    "translated_text": "Não faz isso, é uma merda comparado ao original. É bem aguado :P Brincadeiras à parte, não é tão bom."
+  },
+  {
+    "id": "edjgfvk",
+    "split": "train",
+    "line_idx": 11233,
+    "original_text": "I bought it while it was on the winter sale. I have 34 hours already",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Comprei enquanto tava na promoção de inverno. Já tenho 34 horas"
+  },
+  {
+    "id": "eeblnfc",
+    "split": "train",
+    "line_idx": 11234,
+    "original_text": "How dare you disparage a 3D printed JV riding a goddamn raptor",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Como você ousa menosprezar um JV impresso em 3D montado num raptor do caralho"
+  },
+  {
+    "id": "ee7jcf0",
+    "split": "train",
+    "line_idx": 11235,
+    "original_text": "RemindME! 3 months",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "RemindME! 3 meses"
+  },
+  {
+    "id": "eetm2zg",
+    "split": "train",
+    "line_idx": 11236,
+    "original_text": "I think this is a normal human emotion that a lot of people can relate to.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Acho que essa é uma emoção humana normal com a qual muita gente consegue se identificar."
+  },
+  {
+    "id": "ef3l31x",
+    "split": "train",
+    "line_idx": 11237,
+    "original_text": "Thank you for the vote of confidence, but this experience has really effected me",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelo voto de confiança, mas essa experiência realmente me afetou"
+  },
+  {
+    "id": "eenpxuu",
+    "split": "train",
+    "line_idx": 11238,
+    "original_text": "I'm not counting on them getting elected. I'm counting on them putting enough pressure on the Conservatives to actually become at least a little conservative.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Não tô contando que eles sejam eleitos. Tô contando que eles coloquem pressão suficiente nos Conservadores pra eles realmente se tornarem pelo menos um pouco conservadores."
+  },
+  {
+    "id": "edzsgnz",
+    "split": "train",
+    "line_idx": 11239,
+    "original_text": "This sub is very very bad at irony",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Esse sub é muito, muito ruim em entender ironia"
+  },
+  {
+    "id": "eeyu9j7",
+    "split": "train",
+    "line_idx": 11240,
+    "original_text": "Yes, I remember when I said that. Thanks for the reminder! ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sim, lembro quando eu disse isso. Valeu por lembrar!"
+  },
+  {
+    "id": "eez7nq6",
+    "split": "train",
+    "line_idx": 11241,
+    "original_text": "I cried reading your last posts. I’m so sorry about what happened. I hope you are able to make a change in their system.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Chorei lendo seus últimos posts. Sinto muito pelo que aconteceu. Espero que você consiga fazer uma mudança no sistema deles."
+  },
+  {
+    "id": "edjfacc",
+    "split": "train",
+    "line_idx": 11242,
+    "original_text": "If Clemson wins this, they should have to face Alabama in the national championship.",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Se Clemson ganhar essa, eles deveriam ter que enfrentar Alabama no campeonato nacional."
+  },
+  {
+    "id": "ef3kauv",
+    "split": "train",
+    "line_idx": 11243,
+    "original_text": "The numbers are literally in front of you and not interested and zero categories have different votes. I’m genuinely starting to question what’s real anymore",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Os números estão literalmente na sua frente e não tem interesse e zero categorias têm votos diferentes. Tô genuinamente começando a questionar o que é real mais"
+  },
+  {
+    "id": "edo1khy",
+    "split": "train",
+    "line_idx": 11244,
+    "original_text": "On the bright side, anyone dumb enough to do this would quickly be buried in a hail of well-deserved poor reviews.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo lado bom, qualquer um burro o suficiente pra fazer isso seria rapidamente enterrado por uma chuva de avaliações negativas merecidas."
+  },
+  {
+    "id": "eeejm19",
+    "split": "train",
+    "line_idx": 11245,
+    "original_text": "As I understand if our Libel laws had been as shitty as the ones in the UK he could.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Pelo que entendi, se nossas leis de difamação fossem tão merdas quanto as do Reino Unido, ele poderia."
+  },
+  {
+    "id": "edbejwh",
+    "split": "train",
+    "line_idx": 11246,
+    "original_text": "It's nice to see someone regognize my username :)",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "É legal ver alguém reconhecer meu nome de usuário :)"
+  },
+  {
+    "id": "edwvt02",
+    "split": "train",
+    "line_idx": 11247,
+    "original_text": "Lest go CHO",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vamo que vamo CHO"
+  },
+  {
+    "id": "ef0y3fn",
+    "split": "train",
+    "line_idx": 11248,
+    "original_text": "Thank you for doing your service. The world is now a better place because of you",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelo seu serviço. O mundo agora é um lugar melhor por sua causa"
+  },
+  {
+    "id": "ed6n35o",
+    "split": "train",
+    "line_idx": 11249,
+    "original_text": "I'm sorry to hear that things went down like that. Good luck with everything.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sinto muito saber que as coisas aconteceram desse jeito. Boa sorte com tudo."
+  }
+]

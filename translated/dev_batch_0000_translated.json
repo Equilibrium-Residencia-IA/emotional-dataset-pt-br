@@ -1,0 +1,229 @@
+[
+  {
+    "id": "edgurhb",
+    "split": "dev",
+    "line_idx": 0,
+    "original_text": "Is this in New Orleans?? I really feel like this is New Orleans.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é em Nova Orleans?? Tenho muita pinta de ser em Nova Orleans."
+  },
+  {
+    "id": "ee84bjg",
+    "split": "dev",
+    "line_idx": 1,
+    "original_text": "You know the answer man, you are programmed to capture those codes they send you, don’t avoid them!",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Você sabe a resposta, cara, você tá programado pra capturar esses códigos que eles te mandam, não foge deles!"
+  },
+  {
+    "id": "edcu99z",
+    "split": "dev",
+    "line_idx": 2,
+    "original_text": "I've never been this sad in my life!",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu nunca estive tão triste na minha vida!"
+  },
+  {
+    "id": "edc32e2",
+    "split": "dev",
+    "line_idx": 3,
+    "original_text": "The economy is heavily controlled and subsidized by the government. In any case, I was poking at the lack of nuance in US politics today",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "A economia é fortemente controlada e subsidiada pelo governo. De qualquer forma, eu tava cutucando a falta de nuance na política dos EUA hoje em dia."
+  },
+  {
+    "id": "eepig6r",
+    "split": "dev",
+    "line_idx": 4,
+    "original_text": "He could have easily taken a real camera from a legitimate source and change the price in Word/Photoshop and then print it out.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Ele podia facilmente ter pego uma foto real de uma fonte legítima, mudado o preço no Word/Photoshop e depois impresso."
+  },
+  {
+    "id": "eczm50f",
+    "split": "dev",
+    "line_idx": 5,
+    "original_text": "Thank you for your vote of confidence, but we statistically can't get to 10 wins.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pelo voto de confiança, mas estatisticamente a gente não consegue chegar a 10 vitórias."
+  },
+  {
+    "id": "ed4yr9r",
+    "split": "dev",
+    "line_idx": 6,
+    "original_text": "Wah Mum other people call me on my bullshit and I can't ban them , Go out side son.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Mimimi mamãe, as outras pessoas apontam minhas besteiras e eu não posso banir elas. Vai lá pra fora, meu filho."
+  },
+  {
+    "id": "ede4v0m",
+    "split": "dev",
+    "line_idx": 7,
+    "original_text": "There it is!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aí sim! / Tá aí!"
+  },
+  {
+    "id": "eekez9p",
+    "split": "dev",
+    "line_idx": 8,
+    "original_text": "At least now [NAME] has more time to gain his confidence",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Pelo menos agora o [NAME] tem mais tempo para recuperar a confiança dele."
+  },
+  {
+    "id": "ee0fxpu",
+    "split": "dev",
+    "line_idx": 9,
+    "original_text": "Good. We don't want more thrash liberal offspring in this world.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Ainda bem. A gente não precisa de mais filhotes de liberal lixo neste mundo."
+  },
+  {
+    "id": "eelgxk0",
+    "split": "dev",
+    "line_idx": 10,
+    "original_text": "It's better to say a moment like that could truly ignite her love for the game rather than putting a bit of a damper on it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "É melhor dizer que um momento assim pode realmente acender o amor dela pelo jogo do que jogar um balde de água fria nisso."
+  },
+  {
+    "id": "eczyj0h",
+    "split": "dev",
+    "line_idx": 11,
+    "original_text": "I went to a destination wedding being the only single person. Promised to never put myself in that situation again.",
+    "emotion_ids": "12,22",
+    "emotions": [
+      "embarrassment",
+      "realization"
+    ],
+    "translated_text": "Fui num casamento fora da cidade sendo a única pessoa solteira. Prometi nunca mais me colocar nessa situação."
+  },
+  {
+    "id": "edwloev",
+    "split": "dev",
+    "line_idx": 12,
+    "original_text": "He died 4 days later of dehydration",
+    "emotion_ids": "16",
+    "emotions": [
+      "grief"
+    ],
+    "translated_text": "Ele morreu 4 dias depois de desidratação."
+  },
+  {
+    "id": "eebwc0c",
+    "split": "dev",
+    "line_idx": 13,
+    "original_text": "Like this just cuz of the [NAME] rhymes background raps...but dude your [NAME] is sick against [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Curti isso só por causa das rimas de fundo do [NAME]... mas mano, seu [NAME] tá muito foda contra o [NAME]."
+  },
+  {
+    "id": "ed2znun",
+    "split": "dev",
+    "line_idx": 14,
+    "original_text": "Lol dream on buddy. You’ve had enough attention today. Actually learn what your talking about helps a lot. Sorry your stuck in free roam smokin crack",
+    "emotion_ids": "1,3,25",
+    "emotions": [
+      "amusement",
+      "annoyance",
+      "sadness"
+    ],
+    "translated_text": "Kkk sonha, meu velho. Você já teve atenção suficiente hoje. Aprender sobre o que tá falando ajuda pra caralho. Foi mal se você tá preso no mundão fumando pedra."
+  },
+  {
+    "id": "ee2piwu",
+    "split": "dev",
+    "line_idx": 15,
+    "original_text": "As an anesthesia resident this made me blow air out my nose at an accelerated rate for several seconds. Take your damn upvote you bastard.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Como residente de anestesia, isso me fez soltar ar pelo nariz num ritmo acelerado por vários segundos. Toma logo esse maldito cimavoto, seu desgraçado."
+  },
+  {
+    "id": "edgygzk",
+    "split": "dev",
+    "line_idx": 16,
+    "original_text": "1-2-3-4 I declare a thumb war! Dangit [NAME], you win again! Ok you get to stab me again :(",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "1-2-3-4 EU DECLARO GUERRA DE POLEGAR! Droga, [NAME], você ganhou de novo! Tá bom, pode me furar de novo :("
+  },
+  {
+    "id": "ed8a2zl",
+    "split": "dev",
+    "line_idx": 17,
+    "original_text": "Did you hear the reason for this? Because they are concerned about inventory, initially. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você ficou sabendo o motivo disso? Porque eles tão preocupados com o estoque, inicialmente."
+  },
+  {
+    "id": "eewv8u8",
+    "split": "dev",
+    "line_idx": 18,
+    "original_text": "[NAME] is such a legendary daddy 😩",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é um paizão lendário demais 😩"
+  },
+  {
+    "id": "ed4m2jt",
+    "split": "dev",
+    "line_idx": 19,
+    "original_text": "I don't necessarily hate them, but then again, I dislike it when people breed while knowing how harsh life is.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Eu não odeio eles necessariamente, mas por outro lado, eu acho paia quando as pessoas têm filhos sabendo o quão dura a vida é."
+  }
+]

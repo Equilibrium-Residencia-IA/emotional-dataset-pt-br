@@ -1,0 +1,558 @@
+[
+  {
+    "id": "eef40gm",
+    "split": "train",
+    "line_idx": 7950,
+    "original_text": "I see you've bought into the utter fantasy of UK house price fake news The average semi detached house price is £227,912",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Tô vendo que você caiu nessa fantasia total de fake news sobre o preço das casas no Reino Unido. O preço médio de uma casa geminada é 227.912 libras."
+  },
+  {
+    "id": "eedj8it",
+    "split": "train",
+    "line_idx": 7951,
+    "original_text": "good start [NAME]. MORE! MORE TRADES! GET WHAT YOU CAN! SELL, SELL, SELL! #BurnItDown #NobodyIsSafe #ShapeUpOrShipOut",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Belo começo [NAME]. MAIS! MAIS TROCAS! PEGA O QUE DER! VENDE, VENDE, VENDE! #TudoQueimando #NinguémEstáSeguro #OuMelhoraOuVaza"
+  },
+  {
+    "id": "edu3npv",
+    "split": "train",
+    "line_idx": 7952,
+    "original_text": "That's a stock photo, bud.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é foto de banco de imagem, meu caro."
+  },
+  {
+    "id": "ee0xvq1",
+    "split": "train",
+    "line_idx": 7953,
+    "original_text": "Yep! Wanna come do karate in the garage?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim! Quer vir fazer caratê na garagem?"
+  },
+  {
+    "id": "eeopdsk",
+    "split": "train",
+    "line_idx": 7954,
+    "original_text": "Yeah I just googled that, I still wouldn't call them my favourite restaurant but its cheap!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É, eu acabei de pesquisar isso, ainda não diria que é meu restaurante favorito, mas é barato!"
+  },
+  {
+    "id": "edbuowp",
+    "split": "train",
+    "line_idx": 7955,
+    "original_text": "Same, there was no thanks or consideration that they’d just given her the ‘night off’.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Pois é, não teve nem um obrigado ou consideração pelo fato de terem dado a 'folga' pra ela."
+  },
+  {
+    "id": "edjedly",
+    "split": "train",
+    "line_idx": 7956,
+    "original_text": "Let's go [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bora [NAME]"
+  },
+  {
+    "id": "efbyyf1",
+    "split": "train",
+    "line_idx": 7957,
+    "original_text": "That’s really cool! How did you do this?",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é muito legal! Como você fez isso?"
+  },
+  {
+    "id": "ee3i6bx",
+    "split": "train",
+    "line_idx": 7958,
+    "original_text": "I would make that face too if I just realized I was HC of the New York Jets",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu também faria essa cara se tivesse acabado de cair a ficha que eu sou o técnico principal do New York Jets"
+  },
+  {
+    "id": "edoolej",
+    "split": "train",
+    "line_idx": 7959,
+    "original_text": "I hope so too, she deserves it.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Espero que sim também, ela merece."
+  },
+  {
+    "id": "eee001l",
+    "split": "train",
+    "line_idx": 7960,
+    "original_text": "Happy birthday and I'm really glad I won't be feeling like you when you wake up tomorrow",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Feliz aniversário e ainda bem que não vou estar me sentindo como você quando acordar amanhã"
+  },
+  {
+    "id": "efew9l1",
+    "split": "train",
+    "line_idx": 7961,
+    "original_text": "So many of Pokimane’s fans are creepy 30+ year olds. I feel so bad for her.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Muitos fãs da Pokimane são uns caras de 30+ anos bizarros. Fico com muita pena dela."
+  },
+  {
+    "id": "ed7f3xa",
+    "split": "train",
+    "line_idx": 7962,
+    "original_text": "I'd say \"[NAME] retire binch\", but I'm a little late for that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu diria \"[NAME] se aposenta, sua piranha\", mas cheguei um pouco atrasado pra isso."
+  },
+  {
+    "id": "ef1f86n",
+    "split": "train",
+    "line_idx": 7963,
+    "original_text": "Eastern European here. Very cool! We’re really all the same.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Leste europeu aqui. Muito legal! No fundo somos todos iguais."
+  },
+  {
+    "id": "ee27dqb",
+    "split": "train",
+    "line_idx": 7964,
+    "original_text": "Ya! It was a bangin’ movie! A super fun ride with characters I cared about.",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Nossa! O filme foi do caralho! Uma diversão total com personagens com quem eu me importei."
+  },
+  {
+    "id": "effuuwv",
+    "split": "train",
+    "line_idx": 7965,
+    "original_text": "I would love to see an [NAME] cosplay!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu adoraria ver um cosplay de [NAME]!"
+  },
+  {
+    "id": "ed688du",
+    "split": "train",
+    "line_idx": 7966,
+    "original_text": "I did some social media snooping since I posted this. Turns out they’re both not retired at 25. Go figure.",
+    "emotion_ids": "3,4",
+    "emotions": [
+      "annoyance",
+      "approval"
+    ],
+    "translated_text": "Dei uma stalkeada nas redes sociais desde que postei isso. Acontece que nenhum dos dois se aposentou aos 25. Vai entender."
+  },
+  {
+    "id": "ee166mr",
+    "split": "train",
+    "line_idx": 7967,
+    "original_text": "I love my audio technica AR3BT",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo meu audio technica AR3BT"
+  },
+  {
+    "id": "efapmhk",
+    "split": "train",
+    "line_idx": 7968,
+    "original_text": "Kill him the sinner",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Matem ele, o pecador"
+  },
+  {
+    "id": "ef2hbei",
+    "split": "train",
+    "line_idx": 7969,
+    "original_text": "Alas, Windows, so I'll go a-hunting. Thanks for the info, though!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Putz, Windows, então vou ter que caçar. Valeu pela informação, mesmo assim!"
+  },
+  {
+    "id": "ed28y2r",
+    "split": "train",
+    "line_idx": 7970,
+    "original_text": "Ahaha, a Jersey driver calling other drivers awful... that's adorable.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ahaha, um motorista de Jersey chamando os outros de péssimos... isso é adorável."
+  },
+  {
+    "id": "edo3i5r",
+    "split": "train",
+    "line_idx": 7971,
+    "original_text": "Cafe hopping today! At the third one now. Might be too much coffee for me in one span though.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Fazendo tour pelos cafés hoje! Já tô no terceiro. Talvez seja café demais pra mim de uma vez só."
+  },
+  {
+    "id": "eeomfax",
+    "split": "train",
+    "line_idx": 7972,
+    "original_text": "Thank you for this. It sums up exactly what I wish I could send to all my TBM family",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado por isso. Resume exatamente o que eu queria poder mandar pra toda a minha família TBM"
+  },
+  {
+    "id": "edd8uzu",
+    "split": "train",
+    "line_idx": 7973,
+    "original_text": "Yeah I've been finding it so hard to not eat everything in sight since Christmas. I'm still staying under my TDEE, but I feel nasty. ",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Pois é, tá sendo muito difícil não comer tudo o que vejo pela frente desde o Natal. Ainda tô mantendo abaixo do meu gasto calórico, mas me sinto um lixo."
+  },
+  {
+    "id": "eet6acn",
+    "split": "train",
+    "line_idx": 7974,
+    "original_text": "I still don’t understand what did [NAME] do? Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu ainda não entendi o que o [NAME] fez? Kkk"
+  },
+  {
+    "id": "edga80z",
+    "split": "train",
+    "line_idx": 7975,
+    "original_text": "I work at a salon and we have a \"no kids unless it's their appointment\" rule. It's amazing.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu trabalho num salão e a gente tem uma regra de \"nada de crianças, a menos que seja o horário delas\". É maravilhoso."
+  },
+  {
+    "id": "eetpe9w",
+    "split": "train",
+    "line_idx": 7976,
+    "original_text": "I trust [NAME] in getting us the people we need, but I don't trust [NAME].",
+    "emotion_ids": "4,10",
+    "emotions": [
+      "approval",
+      "disapproval"
+    ],
+    "translated_text": "Eu confio no [NAME] pra conseguir as pessoas que precisamos, mas não confio no [NAME]."
+  },
+  {
+    "id": "edvztlk",
+    "split": "train",
+    "line_idx": 7977,
+    "original_text": "I made a severe and continuous lapse of judgement....",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Eu cometi um erro grave e contínuo de julgamento...."
+  },
+  {
+    "id": "eduhvok",
+    "split": "train",
+    "line_idx": 7978,
+    "original_text": "Judging by this comment I’m sure women find you to be a real treat.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Julgando por esse comentário, tenho certeza que as mulheres te acham um verdadeiro doce."
+  },
+  {
+    "id": "ef4abkg",
+    "split": "train",
+    "line_idx": 7979,
+    "original_text": "Now you ruined the surprise!\"",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Agora você estragou a surpresa!"
+  },
+  {
+    "id": "ef05k2w",
+    "split": "train",
+    "line_idx": 7980,
+    "original_text": "[NAME] shitting the bed like a 4 year old with diarrhea",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "[NAME] cagando tudo igual uma criança de 4 anos com diarreia"
+  },
+  {
+    "id": "edf0hqf",
+    "split": "train",
+    "line_idx": 7981,
+    "original_text": "Did you really upload a video you took, of your own cat, to whyweretheyfilming? Seriously?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Você realmente postou um vídeo que você mesmo gravou, do seu próprio gato, no whyweretheyfilming? Sério?"
+  },
+  {
+    "id": "edgv93y",
+    "split": "train",
+    "line_idx": 7982,
+    "original_text": "Omg I’d happily live in Cape Town instead of the US!! It’s literally one of my favorite cities on earth!!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Meu Deus, eu moraria feliz da vida na Cidade do Cabo em vez dos EUA!! É literalmente uma das minhas cidades favoritas no mundo!!"
+  },
+  {
+    "id": "edbqjyw",
+    "split": "train",
+    "line_idx": 7983,
+    "original_text": "I'd assume that the player is on the list as the king sense losing a king is losing the game, right?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu presumo que o jogador esteja na lista como o rei, já que perder o rei é perder o jogo, né?"
+  },
+  {
+    "id": "ee8bg9y",
+    "split": "train",
+    "line_idx": 7984,
+    "original_text": "What is he doing here without [NAME]?!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que ele tá fazendo aqui sem o [NAME]?!"
+  },
+  {
+    "id": "ee18hoz",
+    "split": "train",
+    "line_idx": 7985,
+    "original_text": "Sad/Sweet for her to put in the effort to fake it!",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Triste/fofo ela ter se esforçado tanto pra fingir!"
+  },
+  {
+    "id": "edzjv0n",
+    "split": "train",
+    "line_idx": 7986,
+    "original_text": "If it's not too late, I'd love to have one of the binders!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Se não for tarde demais, eu adoraria um dos fichários!"
+  },
+  {
+    "id": "een1g5f",
+    "split": "train",
+    "line_idx": 7987,
+    "original_text": "ALFBRUSHJANSBYSY SUCH A GOOD DOGGO",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "ALFBRUSHJANSBYSY QUE CACHORRINHO TÃO BOM"
+  },
+  {
+    "id": "edr6vs7",
+    "split": "train",
+    "line_idx": 7988,
+    "original_text": "Thanks!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu!"
+  },
+  {
+    "id": "efdwou7",
+    "split": "train",
+    "line_idx": 7989,
+    "original_text": "Over in r/texas we are coming up with slogans to ecourage people to switch to renewable.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Lá no r/texas a gente tá criando slogans pra encorajar o pessoal a mudar pra energia renovável."
+  },
+  {
+    "id": "ee0ww8s",
+    "split": "train",
+    "line_idx": 7990,
+    "original_text": "I doubt [NAME] could do make up as well as a drag queen. He's not really good at anything.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Duvido que o [NAME] saiba se maquiar tão bem quanto uma drag queen. Ele não é bom em nada mesmo."
+  },
+  {
+    "id": "edtth24",
+    "split": "train",
+    "line_idx": 7991,
+    "original_text": "For your is the First president to impose an audit on the DOD....... This Never happen.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pois é, o primeiro presidente a impor uma auditoria no DOD....... Isso nunca aconteceu."
+  },
+  {
+    "id": "ee8djmg",
+    "split": "train",
+    "line_idx": 7992,
+    "original_text": "I just don't want to see them shame themselves, and actually show their worth and virtue instead of showing themsleves to be a walking sexual object",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Eu só não quero ver eles se envergonhando, e sim mostrando seu valor e virtude em vez de se mostrarem como um objeto sexual ambulante"
+  },
+  {
+    "id": "eeipqj4",
+    "split": "train",
+    "line_idx": 7993,
+    "original_text": "I stuck a bit of glass up there. It was a pane in the ass.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Enfiei um pedaço de vidro lá. Foi uma dor no traseiro."
+  },
+  {
+    "id": "efgjo77",
+    "split": "train",
+    "line_idx": 7994,
+    "original_text": "Doubt this guy is natty",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Duvido que esse cara seja natural"
+  },
+  {
+    "id": "efh9l38",
+    "split": "train",
+    "line_idx": 7995,
+    "original_text": "That's like if she went up to your car and removed your bumper stickers because she doesn't want them in her pictures.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é tipo se ela fosse até o seu carro e tirasse seus adesivos de para-choque porque ela não quer eles nas fotos dela."
+  },
+  {
+    "id": "ee3d5up",
+    "split": "train",
+    "line_idx": 7996,
+    "original_text": "[NAME] has turned into one of the NBA's great actors",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME] virou um dos grandes atores da NBA"
+  },
+  {
+    "id": "ef4f75t",
+    "split": "train",
+    "line_idx": 7997,
+    "original_text": "That is genius.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é genial."
+  },
+  {
+    "id": "edom4zn",
+    "split": "train",
+    "line_idx": 7998,
+    "original_text": "To be fair, we’re still missing CP3 and [NAME]. This game has been pretty ugly overall though. ",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ],
+    "translated_text": "Pra ser justo, ainda estamos sem o CP3 e o [NAME]. Mas esse jogo tá bem feio no geral."
+  },
+  {
+    "id": "ed32s53",
+    "split": "train",
+    "line_idx": 7999,
+    "original_text": "Whats up with the human race turning into invertebrates anyways?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que tá acontecendo com a raça humana virando invertebrada, afinal?"
+  }
+]

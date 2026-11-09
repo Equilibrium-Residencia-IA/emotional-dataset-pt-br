@@ -1,0 +1,556 @@
+[
+  {
+    "id": "ee7xkqb",
+    "split": "train",
+    "line_idx": 11750,
+    "original_text": "Oh I haven’t even found those! That’s hilarious though.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Nossa, eu nem achei esses! Mas é hilário."
+  },
+  {
+    "id": "ed8l11g",
+    "split": "train",
+    "line_idx": 11751,
+    "original_text": "Haha sorry, I make hip hop music 😂",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha malz, eu faço música hip hop 😂"
+  },
+  {
+    "id": "eesghki",
+    "split": "train",
+    "line_idx": 11752,
+    "original_text": "Yeah lol like I'm cool with signing/drafting DL but pls not in the first like 3 rounds lol, much less at 2.",
+    "emotion_ids": "1,23",
+    "emotions": [
+      "amusement",
+      "relief"
+    ],
+    "translated_text": "É, tipo, eu até topo contratar/draftar DL, mas por favor não nas primeiras 3 rodadas, muito menos na 2."
+  },
+  {
+    "id": "ee0wz9o",
+    "split": "train",
+    "line_idx": 11753,
+    "original_text": "hm so overall was this video a + or a -? I'm trying to figure out whether or not to publish it lol",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "hm, então no geral esse vídeo foi positivo ou negativo? Tô tentando decidir se posto ou não rs"
+  },
+  {
+    "id": "edecfaj",
+    "split": "train",
+    "line_idx": 11754,
+    "original_text": "Thanks. Sounds like a bummer about 3, but maybe I should go back to 1 and check that out again.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu. Parece que o 3 é uma decepção, mas talvez eu devesse voltar pro 1 e dar uma olhada de novo."
+  },
+  {
+    "id": "eerjjyr",
+    "split": "train",
+    "line_idx": 11755,
+    "original_text": "True story? Haha",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ],
+    "translated_text": "História real? Haha"
+  },
+  {
+    "id": "ee41gs3",
+    "split": "train",
+    "line_idx": 11756,
+    "original_text": "Wait, australia is like this? I remember carrying a 4 inch sheathed knife as a kid. Nobody batted an eyelid.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Pera, a Austrália é assim? Lembro de andar com uma faca de 4 polegadas na bainha quando era criança. Ninguém nem ligava."
+  },
+  {
+    "id": "edrtg0a",
+    "split": "train",
+    "line_idx": 11757,
+    "original_text": "Al-anon.org I promise you will find the freedom you so desperately want inAlanon.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Al-anon.org, te garanto que você vai encontrar a liberdade que tanto quer no Al-anon."
+  },
+  {
+    "id": "eecd1h9",
+    "split": "train",
+    "line_idx": 11758,
+    "original_text": "Go for it. I could use the excitement.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Manda ver. Eu tô precisando de um pouco de emoção."
+  },
+  {
+    "id": "edv2jz0",
+    "split": "train",
+    "line_idx": 11759,
+    "original_text": "You can humanize and normalize everything.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você consegue humanizar e normalizar qualquer coisa."
+  },
+  {
+    "id": "ed1ykey",
+    "split": "train",
+    "line_idx": 11760,
+    "original_text": "Enjoying oneself automatically makes an action harmless?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Se divertir automaticamente torna uma ação inofensiva?"
+  },
+  {
+    "id": "eet7hc7",
+    "split": "train",
+    "line_idx": 11761,
+    "original_text": "How convenient /s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que conveniente /s"
+  },
+  {
+    "id": "ef8d4ag",
+    "split": "train",
+    "line_idx": 11762,
+    "original_text": "dude stop your gonna make me cry. This is horrible please don't do this STOP right now. Dont it's just not worth it",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "cara para, você vai me fazer chorar. Isso é horrível, por favor não faz isso, PARA agora. Não faz, não vale a pena"
+  },
+  {
+    "id": "edrwlgw",
+    "split": "train",
+    "line_idx": 11763,
+    "original_text": "I think it's the pass rush and that nobody can stay healthy and, but it could be [NAME]. He's not the greatest",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Acho que é o pass rush e que ninguém consegue ficar saudável, mas pode ser o [NAME]. Ele não é lá essas coisas"
+  },
+  {
+    "id": "ed3lhm4",
+    "split": "train",
+    "line_idx": 11764,
+    "original_text": "Same thing happend to me, I still sometimes fix their things if they are polite but say screw it when they angrily shout to fix their crap.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A mesma coisa aconteceu comigo, eu ainda conserto as coisas deles às vezes se forem educados, mas mando se ferrar quando gritam com raiva pra consertar a porcaria deles."
+  },
+  {
+    "id": "edimrwg",
+    "split": "train",
+    "line_idx": 11765,
+    "original_text": "Seems like it was supposed to be funny.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Parece que era pra ser engraçado."
+  },
+  {
+    "id": "ef49beq",
+    "split": "train",
+    "line_idx": 11766,
+    "original_text": "I'm glad that yours is getting slightly better too! Keep on working on it and you'll be a social butterfly someday!",
+    "emotion_ids": "0,5",
+    "emotions": [
+      "admiration",
+      "caring"
+    ],
+    "translated_text": "Fico feliz que o seu também esteja melhorando um pouco! Continua trabalhando nisso que um dia você vai ser o rei do rolê!"
+  },
+  {
+    "id": "eekwgrn",
+    "split": "train",
+    "line_idx": 11767,
+    "original_text": "Are you feeling any better? :)",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Você tá se sentindo melhor? :)"
+  },
+  {
+    "id": "eevkgsi",
+    "split": "train",
+    "line_idx": 11768,
+    "original_text": "Being ugly at some point in your life doesn't mean you deserve death.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ser feio em algum momento da vida não significa que você merece morrer."
+  },
+  {
+    "id": "efh40zw",
+    "split": "train",
+    "line_idx": 11769,
+    "original_text": "We've had so many stories about [NAME], that we do NOT need any about Florida lady. LOL",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Já tivemos tantas histórias sobre o [NAME] que a gente NÃO precisa de nenhuma sobre a doida da Flórida. LOL"
+  },
+  {
+    "id": "edek7xs",
+    "split": "train",
+    "line_idx": 11770,
+    "original_text": "Just got back. They're completely sold out for today. Edit: They sold out at 11:50ish.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acabei de voltar. Esgotou tudo por hoje. Edit: Esgotou por volta das 11:50."
+  },
+  {
+    "id": "edus2tq",
+    "split": "train",
+    "line_idx": 11771,
+    "original_text": "I can't stand when a team member has no shoes, the sound drowns out other sounds for me and its just incredibly annoying to listen to all game",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu não suporto quando um membro do time tá sem sapato, o barulho abafa os outros sons pra mim e é incrivelmente irritante ouvir isso o jogo todo"
+  },
+  {
+    "id": "edv8v87",
+    "split": "train",
+    "line_idx": 11772,
+    "original_text": "I upvoted this comment because I'm a dumbass snarkball who doesn't know how anything works.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu dei upvote nesse comentário porque sou um idiota sarcástico que não sabe como nada funciona."
+  },
+  {
+    "id": "ef3ybh2",
+    "split": "train",
+    "line_idx": 11773,
+    "original_text": "Thank you! That's the explanation I was looking for.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado! Era essa a explicação que eu tava procurando."
+  },
+  {
+    "id": "ed4hxuv",
+    "split": "train",
+    "line_idx": 11774,
+    "original_text": "My wife with BPD hasn't even kissed me in over a year. Get used to it if you're sticking around.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Minha esposa com TPB nem me beija faz mais de um ano. Se acostuma se você pretende ficar."
+  },
+  {
+    "id": "eeppwu0",
+    "split": "train",
+    "line_idx": 11775,
+    "original_text": "as is tradition, guy who played for us scores against us to make us lose, third time in three months",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "como manda a tradição, o cara que jogou com a gente marca contra a gente pra fazer a gente perder, terceira vez em três meses"
+  },
+  {
+    "id": "eegmdth",
+    "split": "train",
+    "line_idx": 11776,
+    "original_text": "No. Going to a competitive high school was harder and more stressful than all my adult endeavors combined.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Não. Ir pra um ensino médio competitivo foi mais difícil e estressante do que todos os meus desafios da vida adulta juntos."
+  },
+  {
+    "id": "eeh2sfj",
+    "split": "train",
+    "line_idx": 11777,
+    "original_text": "I’m sorry should I have brought my make-up wipes and washed my face during my MRI? Or my ultrasound? Find some peace, man. ",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa, eu deveria ter levado meus lenços demaquilantes e lavado o rosto durante minha ressonância? Ou meu ultrassom? Procura um pouco de paz, cara."
+  },
+  {
+    "id": "efdeeie",
+    "split": "train",
+    "line_idx": 11778,
+    "original_text": "3 is a really significant number for the Super Bowl, I don't think it will budge.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "3 é um número muito significativo pro Super Bowl, não acho que vai mudar."
+  },
+  {
+    "id": "efgox59",
+    "split": "train",
+    "line_idx": 11779,
+    "original_text": "I remember writing on them was horrible. Slight delay which threw me off combined with the letters ending up looking like crap. Whiteboard was so much easier.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Lembro que escrever neles era horrível. Um leve atraso que me desconcentrava, somado ao fato de que as letras ficavam uma porcaria. Quadro branco era muito mais fácil."
+  },
+  {
+    "id": "efgupja",
+    "split": "train",
+    "line_idx": 11780,
+    "original_text": "good point I’ll keep that in mind",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "bom ponto, vou levar isso em consideração"
+  },
+  {
+    "id": "eefn37t",
+    "split": "train",
+    "line_idx": 11781,
+    "original_text": "Anyone here know what kind of rifle he's carrying? Looks like an Israeli Galil but I'm not sure.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Alguém aqui sabe que tipo de rifle ele tá carregando? Parece um Galil israelense, mas não tenho certeza."
+  },
+  {
+    "id": "eeqfc01",
+    "split": "train",
+    "line_idx": 11782,
+    "original_text": "Also the world is round.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "E também, a Terra é redonda."
+  },
+  {
+    "id": "eeu9g37",
+    "split": "train",
+    "line_idx": 11783,
+    "original_text": "Weed! Finally!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Maconha! Finalmente!"
+  },
+  {
+    "id": "edab7qr",
+    "split": "train",
+    "line_idx": 11784,
+    "original_text": "[NAME] is a fucking god",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é um deus da porra"
+  },
+  {
+    "id": "eedsd0d",
+    "split": "train",
+    "line_idx": 11785,
+    "original_text": "I'm a university student and even though I have a job, I'm going to find out about this at school. Thanks for the tip!!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sou estudante universitário e mesmo tendo emprego, vou me informar sobre isso na faculdade. Valeu pela dica!!"
+  },
+  {
+    "id": "ef4nvmy",
+    "split": "train",
+    "line_idx": 11786,
+    "original_text": "Loved dropping in from the crack in the ceiling and going out in a blaze of glory.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adorei pular pela fresta do teto e sair num estouro de glória."
+  },
+  {
+    "id": "efeuyie",
+    "split": "train",
+    "line_idx": 11787,
+    "original_text": "It would be nice if south Florida was like that",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Seria legal se o sul da Flórida fosse assim"
+  },
+  {
+    "id": "eego8o8",
+    "split": "train",
+    "line_idx": 11788,
+    "original_text": "I fucking hate [NAME]",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu odeio pra caralho o [NAME]"
+  },
+  {
+    "id": "ef4ah8s",
+    "split": "train",
+    "line_idx": 11789,
+    "original_text": "The first comment wasn't but when you not wanted you should just fuck off",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "O primeiro comentário não foi, mas quando você não é bem-vindo, você deveria simplesmente cair fora"
+  },
+  {
+    "id": "edwtm8q",
+    "split": "train",
+    "line_idx": 11790,
+    "original_text": "Good, don't want speeders in my neighborhood and keeps taxes lower.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Bom, não quero motoristas correndo no meu bairro e isso mantém os impostos mais baixos."
+  },
+  {
+    "id": "edt9mpk",
+    "split": "train",
+    "line_idx": 11791,
+    "original_text": "I've edited my comment. Still a shitty game.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Editei meu comentário. Continua sendo um jogo de merda."
+  },
+  {
+    "id": "ed9wzjf",
+    "split": "train",
+    "line_idx": 11792,
+    "original_text": "Sadly that's probably the worst game I've ever seen [NAME] play.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Infelizmente esse é provavelmente o pior jogo que já vi o [NAME] jogar."
+  },
+  {
+    "id": "edife3u",
+    "split": "train",
+    "line_idx": 11793,
+    "original_text": "im driving and i cant stop screaming i need to talk to someone in sorry",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "tô dirigindo e não consigo parar de gritar, preciso falar com alguém, desculpa"
+  },
+  {
+    "id": "eeqvog9",
+    "split": "train",
+    "line_idx": 11794,
+    "original_text": "I think this is the first time I’ve ever seen this joke.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Acho que essa é a primeira vez que vejo essa piada."
+  },
+  {
+    "id": "efe348i",
+    "split": "train",
+    "line_idx": 11795,
+    "original_text": "What a pretty young lady",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Que moça bonita"
+  },
+  {
+    "id": "efarr87",
+    "split": "train",
+    "line_idx": 11796,
+    "original_text": "Yes. Ask him out. Give it a shot. Talk with him.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim. Chama ele pra sair. Tenta. Conversa com ele."
+  },
+  {
+    "id": "eett28k",
+    "split": "train",
+    "line_idx": 11797,
+    "original_text": "That baby needs a smacking",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse bebê precisa levar umas palmadas"
+  },
+  {
+    "id": "ee9atfa",
+    "split": "train",
+    "line_idx": 11798,
+    "original_text": "[NAME] will remember that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] vai se lembrar disso."
+  },
+  {
+    "id": "ef0w3m7",
+    "split": "train",
+    "line_idx": 11799,
+    "original_text": "I just got kerbal space program flashbacks",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acabei de ter flashbacks de Kerbal Space Program"
+  }
+]

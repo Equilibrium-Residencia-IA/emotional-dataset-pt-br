@@ -1,0 +1,512 @@
+[
+  {
+    "id": "eek7l0r",
+    "split": "train",
+    "line_idx": 28100,
+    "original_text": "No Deal has a decent chance of leading to Scotland and NI leaving and thus the end of the United Kingdom",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eea20io",
+    "split": "train",
+    "line_idx": 28101,
+    "original_text": "It was an honor just to be nominated. Being a runner-up is a dream come true ( I keep my dreams realistic and attainable).",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ]
+  },
+  {
+    "id": "eeovxiz",
+    "split": "train",
+    "line_idx": 28102,
+    "original_text": "She has an amazing voice",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "edw4m95",
+    "split": "train",
+    "line_idx": 28103,
+    "original_text": "This just proves you put the bone there, I'd actually be impressed if you showed him putting the bone there",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ef0hbh5",
+    "split": "train",
+    "line_idx": 28104,
+    "original_text": "What do you think is happening in the post? Read it again and describe your feelings",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eduznjn",
+    "split": "train",
+    "line_idx": 28105,
+    "original_text": "ITS A GOOD BOI!!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "edxrpqh",
+    "split": "train",
+    "line_idx": 28106,
+    "original_text": "Oh, it's thor",
+    "emotion_ids": "26,27",
+    "emotions": [
+      "surprise",
+      "neutral"
+    ]
+  },
+  {
+    "id": "eeaj0q5",
+    "split": "train",
+    "line_idx": 28107,
+    "original_text": "Eh. I say it's accurate.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "eeevvmb",
+    "split": "train",
+    "line_idx": 28108,
+    "original_text": "What are you on about?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ef6vu2l",
+    "split": "train",
+    "line_idx": 28109,
+    "original_text": "My bad I just realized it, I’m 31M and she’s 31F",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ]
+  },
+  {
+    "id": "eds0tur",
+    "split": "train",
+    "line_idx": 28110,
+    "original_text": "Why did [RELIGION] take inspiration from stoicism and neoplatonism and aristotelianism if outside sources are verboten?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ef1y6dd",
+    "split": "train",
+    "line_idx": 28111,
+    "original_text": "What law did they break? This is just another example abusing a system for profit without the necessary laws in place to protect people.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "eepnmbm",
+    "split": "train",
+    "line_idx": 28112,
+    "original_text": "Shoulda called the cops straightaway",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "efgpp1c",
+    "split": "train",
+    "line_idx": 28113,
+    "original_text": ":( disappointed, i expected to give out personal therapy cats.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ]
+  },
+  {
+    "id": "eem9eix",
+    "split": "train",
+    "line_idx": 28114,
+    "original_text": "I wanted to romance [NAME] more than I've wanted to romance more than any other character in the series. Such an awesome dude",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "edpmmb6",
+    "split": "train",
+    "line_idx": 28115,
+    "original_text": "[NAME] has no touch..That is why [NAME] kept dropping the ball..",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eczjfy0",
+    "split": "train",
+    "line_idx": 28116,
+    "original_text": "It's also had derogatory meaning for nearly 400 years. people with any common sense or taste will generally choose *any* other word.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ef8mikx",
+    "split": "train",
+    "line_idx": 28117,
+    "original_text": "Great talent, this. No ysts reaction, but I still appreciate it.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "edzea85",
+    "split": "train",
+    "line_idx": 28118,
+    "original_text": "He was a good dude.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "efdo4w6",
+    "split": "train",
+    "line_idx": 28119,
+    "original_text": "Omg at this rate he's gonna be in the next smash bros",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "ef6s31f",
+    "split": "train",
+    "line_idx": 28120,
+    "original_text": "I did this once with a chimichanga. I was 11 and I cried",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "eekmehn",
+    "split": "train",
+    "line_idx": 28121,
+    "original_text": "How is this a racism?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "edfmtny",
+    "split": "train",
+    "line_idx": 28122,
+    "original_text": "I use to play with colored pencils as a child, I also use to play with chapsticks and lipsticks too! They are very entertaining!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "id": "ef3t0pr",
+    "split": "train",
+    "line_idx": 28123,
+    "original_text": "Because the people pushing the myth are either willfully ignorant or outright malicious.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edq5mpc",
+    "split": "train",
+    "line_idx": 28124,
+    "original_text": "What a sweetheart.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ]
+  },
+  {
+    "id": "ef2e52h",
+    "split": "train",
+    "line_idx": 28125,
+    "original_text": "I don’t see that ending well for [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee3p6u2",
+    "split": "train",
+    "line_idx": 28126,
+    "original_text": "That's a better love story than Twilight!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "edz84v9",
+    "split": "train",
+    "line_idx": 28127,
+    "original_text": "Most police departments have something similar, and it's the name.of the big LEO sub.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edrul66",
+    "split": "train",
+    "line_idx": 28128,
+    "original_text": "Yeah, I'm like I'll get on and play some Magic Arena, but every time I'm like this game is terrible AF. ",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "ee8srla",
+    "split": "train",
+    "line_idx": 28129,
+    "original_text": "Anyone remember Space Dandy? It was short and stupid, but the animation was great. Very tounge in cheek.",
+    "emotion_ids": "0,7,22",
+    "emotions": [
+      "admiration",
+      "curiosity",
+      "realization"
+    ]
+  },
+  {
+    "id": "efa95rb",
+    "split": "train",
+    "line_idx": 28130,
+    "original_text": "Nasty, pigeons are nasty.",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ]
+  },
+  {
+    "id": "eem0xrz",
+    "split": "train",
+    "line_idx": 28131,
+    "original_text": "Is this really a thing? I’ve never heard of this in my life",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee5yq7n",
+    "split": "train",
+    "line_idx": 28132,
+    "original_text": "I meant characters like [NAME] or [NAME], but that works too.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edvm3k4",
+    "split": "train",
+    "line_idx": 28133,
+    "original_text": "I wonder if we need to find a way, as a people, to not be so dependent on the government. ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "edku0aw",
+    "split": "train",
+    "line_idx": 28134,
+    "original_text": "That pedo ring that developed under [NAME] tenure makes him the worst owner of a sports team ever, bar none.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eesc3qg",
+    "split": "train",
+    "line_idx": 28135,
+    "original_text": "Fair, although you'll get caught pretty easily like that",
+    "emotion_ids": "4,20",
+    "emotions": [
+      "approval",
+      "optimism"
+    ]
+  },
+  {
+    "id": "ee30teq",
+    "split": "train",
+    "line_idx": 28136,
+    "original_text": "Do you want help with the big words ?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ed607we",
+    "split": "train",
+    "line_idx": 28137,
+    "original_text": "Banks! I knew it!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "efbc47b",
+    "split": "train",
+    "line_idx": 28138,
+    "original_text": "I love how they keep getting smaller 🙊",
+    "emotion_ids": "18,22",
+    "emotions": [
+      "love",
+      "realization"
+    ]
+  },
+  {
+    "id": "eeadlfa",
+    "split": "train",
+    "line_idx": 28139,
+    "original_text": "Nah it's just weird that they wouldn't try diazepam first since it's so often used.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "ee0j1y7",
+    "split": "train",
+    "line_idx": 28140,
+    "original_text": "Slovenia is awake and ready for some Mavs magic!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ]
+  },
+  {
+    "id": "ee9hsa0",
+    "split": "train",
+    "line_idx": 28141,
+    "original_text": "I actually enjoy doing this on my own. Am I weird?",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "id": "eddd9oc",
+    "split": "train",
+    "line_idx": 28142,
+    "original_text": "Cant agree more on the first part but for the last, it comes out too harsh.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eez345p",
+    "split": "train",
+    "line_idx": 28143,
+    "original_text": "I think this would be common amongst musicians. I wonder if it's related to this discovery regarding muscle memory or if it's something else?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ed4s63x",
+    "split": "train",
+    "line_idx": 28144,
+    "original_text": "My comment provided shame. I am nothing.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ]
+  },
+  {
+    "id": "eeqwz7k",
+    "split": "train",
+    "line_idx": 28145,
+    "original_text": "[NAME] a filthy commie statist who wants to take your guns, has no idea how economics works, and has the morals of a left-wing welfare degenerate. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eefpn19",
+    "split": "train",
+    "line_idx": 28146,
+    "original_text": "Your actions mean your gf is still being bullied. Nice move",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "efe1roo",
+    "split": "train",
+    "line_idx": 28147,
+    "original_text": "u fucked up",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ]
+  },
+  {
+    "id": "edmwzt3",
+    "split": "train",
+    "line_idx": 28148,
+    "original_text": "[NAME] bless [NAME]!",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ]
+  },
+  {
+    "id": "eeaiy0n",
+    "split": "train",
+    "line_idx": 28149,
+    "original_text": "I used to do the same exact thing! Now I love the fat on my steak and watching them cut it off in japanese restaurants makes me sad.",
+    "emotion_ids": "18,25",
+    "emotions": [
+      "love",
+      "sadness"
+    ]
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ee16es8",
+    "split": "train",
+    "line_idx": 10650,
+    "original_text": "Sounds like my SIL with me/hubby. But she's a bitch and we never liked her anyways, so neither of us really care lol. ",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ],
+    "translated_text": "Parece a minha cunhada comigo/marido. Mas ela é uma vaca e a gente nunca gostou dela mesmo, então nenhum de nós liga de verdade kkk."
+  },
+  {
+    "id": "edhtj95",
+    "split": "train",
+    "line_idx": 10651,
+    "original_text": "Thanks man I will check into it.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu cara, vou dar uma olhada nisso."
+  },
+  {
+    "id": "ed55p4p",
+    "split": "train",
+    "line_idx": 10652,
+    "original_text": "I'm wondering how many players have \"PhD In Punishment\" -comment unironically.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Tô me perguntando quantos jogadores têm \"PhD em Punição\" - comentando sem ironia."
+  },
+  {
+    "id": "ed0fyhr",
+    "split": "train",
+    "line_idx": 10653,
+    "original_text": "I read this is the voice of [NAME]. Great job with the narration!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Li isso na voz do [NAME]. Ótimo trabalho com a narração!"
+  },
+  {
+    "id": "efh2i8s",
+    "split": "train",
+    "line_idx": 10654,
+    "original_text": "Cut into this guy's hair, [NAME] is ftfy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Corta o cabelo desse cara, [NAME] é ftfy"
+  },
+  {
+    "id": "ed2o3cm",
+    "split": "train",
+    "line_idx": 10655,
+    "original_text": "Ah, our primary investigator picks another hole with his salt mining tools. Well done.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ah, nosso investigador principal encontra mais um furo com suas ferramentas de minerar sal. Muito bem."
+  },
+  {
+    "id": "eev5d3i",
+    "split": "train",
+    "line_idx": 10656,
+    "original_text": "I've learned everyone in this video is an idiot",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Aprendi que todo mundo nesse vídeo é um idiota"
+  },
+  {
+    "id": "ee5w3lp",
+    "split": "train",
+    "line_idx": 10657,
+    "original_text": "Lol ratheists suck fedoras!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkk ratheists sugam fedoras!"
+  },
+  {
+    "id": "eer7xng",
+    "split": "train",
+    "line_idx": 10658,
+    "original_text": "unbridled bigotry that started as a meme but ended... well, it hasn't yet but its not looking good",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "intolerância desenfreada que começou como um meme mas terminou... bem, ainda não terminou mas não tá com cara boa"
+  },
+  {
+    "id": "eevvlmr",
+    "split": "train",
+    "line_idx": 10659,
+    "original_text": "Nothing gets past you!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nada passa despercebido por você!"
+  },
+  {
+    "id": "efdyiuk",
+    "split": "train",
+    "line_idx": 10660,
+    "original_text": "I honestly think he’s making fun of you",
+    "emotion_ids": "1,20",
+    "emotions": [
+      "amusement",
+      "optimism"
+    ],
+    "translated_text": "Sinceramente, acho que ele tá tirando onda com a sua cara"
+  },
+  {
+    "id": "ee82dih",
+    "split": "train",
+    "line_idx": 10661,
+    "original_text": "So [NAME] guided the process of canonization but then left?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Então o [NAME] guiou o processo de canonização mas depois saiu?"
+  },
+  {
+    "id": "ee52bva",
+    "split": "train",
+    "line_idx": 10662,
+    "original_text": "Excellent, this is exactly what I was looking for. Thank you !!!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Excelente, é exatamente isso que eu tava procurando. Obrigado !!!"
+  },
+  {
+    "id": "eemry1j",
+    "split": "train",
+    "line_idx": 10663,
+    "original_text": "oh... haven't seen it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ah... não vi não."
+  },
+  {
+    "id": "eeus3ve",
+    "split": "train",
+    "line_idx": 10664,
+    "original_text": "I really love that game. It's so chill, I played it a lot. ",
+    "emotion_ids": "13,18",
+    "emotions": [
+      "excitement",
+      "love"
+    ],
+    "translated_text": "Eu amo muito esse jogo. É tão relaxante, joguei bastante."
+  },
+  {
+    "id": "ed6h9fn",
+    "split": "train",
+    "line_idx": 10665,
+    "original_text": "This is why we love Football!!!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "É por isso que a gente ama Futebol!!!"
+  },
+  {
+    "id": "eewgl2z",
+    "split": "train",
+    "line_idx": 10666,
+    "original_text": "Who is bored? I happily entertain myself.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Quem tá entediado? Eu me divirto sozinho numa boa."
+  },
+  {
+    "id": "eddrnwn",
+    "split": "train",
+    "line_idx": 10667,
+    "original_text": "Or use hot glue to stick the bristles together into one big lump! ROTFL!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ou usa cola quente pra grudar as cerdas num bolão só! Rindo litros!"
+  },
+  {
+    "id": "edq38i4",
+    "split": "train",
+    "line_idx": 10668,
+    "original_text": "That's great you guys have been together so long. Do you take any medicine like prep?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que massa que vocês estão juntos há tanto tempo. Vocês tomam algum remédio tipo PrEP?"
+  },
+  {
+    "id": "edlw7ay",
+    "split": "train",
+    "line_idx": 10669,
+    "original_text": "Don’t laugh the way this game went I actually expected he will lay it in... then reality and [NAME] hit... thanks goodness",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Não ria, do jeito que esse jogo tava indo eu realmente esperava que ele fosse guardar... aí a realidade e o [NAME] bateram... graças a Deus"
+  },
+  {
+    "id": "eeacv2w",
+    "split": "train",
+    "line_idx": 10670,
+    "original_text": "Were these the platforms they ran on.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Essas foram as plataformas em que eles rodaram."
+  },
+  {
+    "id": "efeitmt",
+    "split": "train",
+    "line_idx": 10671,
+    "original_text": "The old driving range?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O antigo campo de golfe?"
+  },
+  {
+    "id": "edsmege",
+    "split": "train",
+    "line_idx": 10672,
+    "original_text": "This should be of interest to you. -",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso deve ser do seu interesse. -"
+  },
+  {
+    "id": "edbk2fr",
+    "split": "train",
+    "line_idx": 10673,
+    "original_text": "What then is a good outcome vs a bad? Never mind I get it I’m dumb....",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que então é um bom resultado versus um ruim? Deixa pra lá, entendi, sou burro...."
+  },
+  {
+    "id": "eeayl6x",
+    "split": "train",
+    "line_idx": 10674,
+    "original_text": "Cows should only be milked by their calves. That’s kind of the reason why cows produce milk.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vacas só deveriam ser ordenhadas pelos seus bezerros. Esse é meio que o motivo pelo qual vacas produzem leite."
+  },
+  {
+    "id": "eeccb7p",
+    "split": "train",
+    "line_idx": 10675,
+    "original_text": "Then you're saying its about looks, not the misogyny.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Então você tá dizendo que é sobre aparência, não sobre a misoginia."
+  },
+  {
+    "id": "eeut8hu",
+    "split": "train",
+    "line_idx": 10676,
+    "original_text": "Not really the point I'm making, but thanks.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Não é bem esse o ponto que eu tô levantando, mas obrigado."
+  },
+  {
+    "id": "edbhp4a",
+    "split": "train",
+    "line_idx": 10677,
+    "original_text": "This is how I feel when I use a crosswalk on a busy street",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É assim que eu me sinto quando uso uma faixa de pedestres numa rua movimentada"
+  },
+  {
+    "id": "ee5ibbq",
+    "split": "train",
+    "line_idx": 10678,
+    "original_text": "This shit ain't rocket science GateKeeper",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Essa porra não é ciência de foguetes, GateKeeper"
+  },
+  {
+    "id": "ee8tu2l",
+    "split": "train",
+    "line_idx": 10679,
+    "original_text": "Mmmm....bacon point",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mmmm.... ponto de bacon"
+  },
+  {
+    "id": "eepap5a",
+    "split": "train",
+    "line_idx": 10680,
+    "original_text": "To check if someone was home? Someone answers the door, he just plays dumb and asks for directions or something. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra checar se tinha alguém em casa? Alguém atende a porta, ele só se faz de bobo e pede informação ou algo assim."
+  },
+  {
+    "id": "eebhgin",
+    "split": "train",
+    "line_idx": 10681,
+    "original_text": "Looks like something translated from Irish to English using google.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece algo traduzido do irlandês pro inglês usando o google."
+  },
+  {
+    "id": "eetgm2z",
+    "split": "train",
+    "line_idx": 10682,
+    "original_text": "Yeah suck it, California",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "É, chupa essa, Califórnia"
+  },
+  {
+    "id": "eemh9a3",
+    "split": "train",
+    "line_idx": 10683,
+    "original_text": "Lore wise, this makes sense and I hate/love it with the same energy ",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Em termos de lore, isso faz sentido e eu odeio/amo com a mesma intensidade"
+  },
+  {
+    "id": "edpphav",
+    "split": "train",
+    "line_idx": 10684,
+    "original_text": "I feel personally attacked.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Me senti pessoalmente atacado."
+  },
+  {
+    "id": "edzh7ap",
+    "split": "train",
+    "line_idx": 10685,
+    "original_text": "[NAME] can’t you see, you’re being way too loud for me",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "[NAME] você não tá vendo, você tá sendo barulhento demais pra mim"
+  },
+  {
+    "id": "eewmgiq",
+    "split": "train",
+    "line_idx": 10686,
+    "original_text": "Pokemon Go has kind of helped me with depression, tbh. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Pokemon Go meio que me ajudou com a depressão, pra falar a verdade."
+  },
+  {
+    "id": "eemsbb0",
+    "split": "train",
+    "line_idx": 10687,
+    "original_text": "I'm so proud to be british",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Tenho tanto orgulho de ser britânico"
+  },
+  {
+    "id": "ed8evlm",
+    "split": "train",
+    "line_idx": 10688,
+    "original_text": "He must really hate changing dies.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Ele deve odiar muito trocar matrizes."
+  },
+  {
+    "id": "eejjhbs",
+    "split": "train",
+    "line_idx": 10689,
+    "original_text": "That’s...not even close to being an accurate comparison. What point are you offering by doing this?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Isso... nem de longe é uma comparação precisa. Qual o ponto que você quer chegar fazendo isso?"
+  },
+  {
+    "id": "eemrn23",
+    "split": "train",
+    "line_idx": 10690,
+    "original_text": "this kid is really good",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "esse moleque é muito bom"
+  },
+  {
+    "id": "ef136iy",
+    "split": "train",
+    "line_idx": 10691,
+    "original_text": "You seem fun.",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "Você parece ser divertido."
+  },
+  {
+    "id": "edblofq",
+    "split": "train",
+    "line_idx": 10692,
+    "original_text": "It's all so beautiful, right? ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É tudo tão lindo, né?"
+  },
+  {
+    "id": "ef2boqf",
+    "split": "train",
+    "line_idx": 10693,
+    "original_text": "Cat's trying to tell you to take your damn shoes off",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O gato tá tentando te dizer pra tirar seus sapatos, porra"
+  },
+  {
+    "id": "efenbk0",
+    "split": "train",
+    "line_idx": 10694,
+    "original_text": "Why, it'll be gone in 30 some odd games. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que nada, vai sumir em uns 30 jogos e pouco."
+  },
+  {
+    "id": "ed6bik6",
+    "split": "train",
+    "line_idx": 10695,
+    "original_text": "Don't be so damn lazy, just type NEW YEAR'S EVE! I suppose you caled it Y2K also. - I'm so disappointed in you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não seja tão preguiçoso, só digita VÉSPERA DE ANO NOVO! Imagino que você chamou de Y2K também. - Tô tão decepcionado com você."
+  },
+  {
+    "id": "eeftetq",
+    "split": "train",
+    "line_idx": 10696,
+    "original_text": "Here is their other hot wallet: the story behind",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aqui está a outra carteira quente deles: a história por trás"
+  },
+  {
+    "id": "ed7g3d1",
+    "split": "train",
+    "line_idx": 10697,
+    "original_text": "Truly a blessed day for you! Shine on!",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Verdadeiramente um dia abençoado pra você! Brilhe!"
+  },
+  {
+    "id": "eei45sf",
+    "split": "train",
+    "line_idx": 10698,
+    "original_text": "Not relevant. Evangelicals frequently preferring [NAME] to the likely alternatives has nothing to do with the alt-right; there's a little overlap but not much.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não é relevante. Evangélicos frequentemente preferirem o [NAME] às alternativas prováveis não tem nada a ver com a alt-right; tem um pouco de sobreposição mas não muita."
+  },
+  {
+    "id": "ee6a2mi",
+    "split": "train",
+    "line_idx": 10699,
+    "original_text": "at least you got to experience that",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "pelo menos você pôde vivenciar isso"
+  }
+]

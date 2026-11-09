@@ -1,0 +1,562 @@
+[
+  {
+    "id": "eeljm3p",
+    "split": "train",
+    "line_idx": 16450,
+    "original_text": "Right - and if we rewind 14/15 years to when this started we get Reform Party, universal healthcare, [NAME] as a runningmate [NAME]. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Certo - e se voltarmos uns 14/15 anos pra quando isso começou, a gente tem o Partido Reformista, saúde universal, [NAME] como vice na chapa [NAME]."
+  },
+  {
+    "id": "edbcgss",
+    "split": "train",
+    "line_idx": 16451,
+    "original_text": "I agree. Verbatim.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Concordo. Idem."
+  },
+  {
+    "id": "eepkg1u",
+    "split": "train",
+    "line_idx": 16452,
+    "original_text": "Thank [NAME] I don't have any friends",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Graças a [NAME] que eu não tenho amigos"
+  },
+  {
+    "id": "ef9ehvs",
+    "split": "train",
+    "line_idx": 16453,
+    "original_text": "Dude, whenever I'm bored I either masturbate play games or browse reddit. Not sure how anyone can be bored with such fantastic opportunities.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Cara, sempre que eu tô entediado eu ou bato uma, jogo videogame ou fico navegando no reddit. Não sei como alguém consegue ficar entediado com tantas oportunidades fantásticas."
+  },
+  {
+    "id": "efb93w3",
+    "split": "train",
+    "line_idx": 16454,
+    "original_text": "Even if I close the app, mine still pings.. It's maddening",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Mesmo se eu fechar o app, o meu continua apitando.. É enlouquecedor"
+  },
+  {
+    "id": "ef8j7f8",
+    "split": "train",
+    "line_idx": 16455,
+    "original_text": "I have cried in hotel rooms before thinking about the loss from discovering it is a lie. It's tragic and wonderful at the same time.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu já chorei em quartos de hotel pensando na perda de descobrir que é tudo uma mentira. É trágico e maravilhoso ao mesmo tempo."
+  },
+  {
+    "id": "edivzj6",
+    "split": "train",
+    "line_idx": 16456,
+    "original_text": "Hahaha ;)",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Hahaha ;)"
+  },
+  {
+    "id": "edk08a5",
+    "split": "train",
+    "line_idx": 16457,
+    "original_text": "Thanks for the warning 😉",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pelo aviso 😉"
+  },
+  {
+    "id": "eemexys",
+    "split": "train",
+    "line_idx": 16458,
+    "original_text": "It's like calling a snake a \"danger noodle\" or a hedgehog an \"ouchy mouse\". It's just like a silly thing",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É tipo chamar cobra de \"macarrão perigoso\" ou ouriço de \"rato espinhoso\". É só uma bobeira"
+  },
+  {
+    "id": "edoqd1w",
+    "split": "train",
+    "line_idx": 16459,
+    "original_text": "I like the sound of that, shes definitely a bitch what does chutzpah mean?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Gostei disso, ela é com certeza uma vaca, o que significa chutzpah?"
+  },
+  {
+    "id": "edt3i30",
+    "split": "train",
+    "line_idx": 16460,
+    "original_text": "I love it. This made me smile so much, which is a big change from [NAME] which made me cry and further increase my depression.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Eu amei. Isso me fez sorrir tanto, o que é uma grande mudança em relação a [NAME] que me fez chorar e aumentar ainda mais minha depressão."
+  },
+  {
+    "id": "ee0u9nt",
+    "split": "train",
+    "line_idx": 16461,
+    "original_text": "I asked for trick candles. Thank you for the gift! What a lovely day this turned out to be!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Eu pedi velas que não apagam. Obrigado pelo presente! Que dia adorável acabou sendo!"
+  },
+  {
+    "id": "eeot1n4",
+    "split": "train",
+    "line_idx": 16462,
+    "original_text": "What happened to your previous account?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que aconteceu com sua conta anterior?"
+  },
+  {
+    "id": "ef5skdp",
+    "split": "train",
+    "line_idx": 16463,
+    "original_text": "Dude it was an old video. Your porn math is way off.",
+    "emotion_ids": "3,9,10",
+    "emotions": [
+      "annoyance",
+      "disappointment",
+      "disapproval"
+    ],
+    "translated_text": "Cara, era um vídeo antigo. Sua matemática de pornô tá toda errada."
+  },
+  {
+    "id": "edv4p1h",
+    "split": "train",
+    "line_idx": 16464,
+    "original_text": "At a standstill for hours on end? Yes. It took me 7 hours to get home",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parado por horas a fio? Sim. Levei 7 horas pra chegar em casa"
+  },
+  {
+    "id": "ef9eh23",
+    "split": "train",
+    "line_idx": 16465,
+    "original_text": "Don't forget about foden, I love [NAME], I even bought his shirt at the start of this season, but foden has an even greater ceiling",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Não esquece do Foden, eu amo o [NAME], até comprei a camisa dele no começo dessa temporada, mas o Foden tem um teto ainda maior"
+  },
+  {
+    "id": "eeb4s6s",
+    "split": "train",
+    "line_idx": 16466,
+    "original_text": "Can confirm, I am restaurant",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Posso confirmar, eu sou o restaurante"
+  },
+  {
+    "id": "edciwc1",
+    "split": "train",
+    "line_idx": 16467,
+    "original_text": "I had a nightmare about something similar, the combination of high walls and water is truly scary",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Eu tive um pesadelo sobre algo parecido, a combinação de paredes altas e água é realmente assustadora"
+  },
+  {
+    "id": "edc52sh",
+    "split": "train",
+    "line_idx": 16468,
+    "original_text": "See, the problem is that you're not attractive enough. Pretty people like him don't have mental issues.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Veja bem, o problema é que você não é atraente o suficiente. Gente bonita como ele não tem problemas mentais."
+  },
+  {
+    "id": "eez1mw2",
+    "split": "train",
+    "line_idx": 16469,
+    "original_text": "I use pinecones :)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu uso pinhas :)"
+  },
+  {
+    "id": "ee4gkb5",
+    "split": "train",
+    "line_idx": 16470,
+    "original_text": "Darn it. I was saving all the food stuff.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Droga. Eu tava guardando todas as coisas de comida."
+  },
+  {
+    "id": "ed011g9",
+    "split": "train",
+    "line_idx": 16471,
+    "original_text": "Just curious is this church a “ministry” with multiple branches worldwide with a “general overseer”? This sounds all too familiar.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Só por curiosidade, essa igreja é um \"ministério\" com várias filiais pelo mundo e um \"supervisor geral\"? Isso soa muito familiar."
+  },
+  {
+    "id": "eef058n",
+    "split": "train",
+    "line_idx": 16472,
+    "original_text": "That hug at the end was like a you’re too precious and innocent for this world”",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Aquele abraço no final foi tipo um \"você é precioso e inocente demais para este mundo\""
+  },
+  {
+    "id": "edod4zu",
+    "split": "train",
+    "line_idx": 16473,
+    "original_text": "I am almost there... I am daddy cute now.. almost silver fox.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tô quase lá... Tô um papai gato agora.. quase um galã grisalho."
+  },
+  {
+    "id": "eeg54or",
+    "split": "train",
+    "line_idx": 16474,
+    "original_text": "Feed this mans!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alimentem esse homem!"
+  },
+  {
+    "id": "edj79pa",
+    "split": "train",
+    "line_idx": 16475,
+    "original_text": "[NAME]. I really loved your hustle for 35 yards. That's why it was so hard to cut you.",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "[NAME]. Eu realmente amei sua garra naquelas 35 jardas. É por isso que foi tão difícil te cortar."
+  },
+  {
+    "id": "eetayef",
+    "split": "train",
+    "line_idx": 16476,
+    "original_text": "Sir, you have been warned. You antagonistic attitude will not be tolerated. Please try harder at being a model citizen. Thank you for your cooperation.",
+    "emotion_ids": "2,10,15",
+    "emotions": [
+      "anger",
+      "disapproval",
+      "gratitude"
+    ],
+    "translated_text": "Senhor, você foi avisado. Sua atitude antagônica não será tolerada. Por favor, tente se esforçar mais para ser um cidadão exemplar. Obrigado pela sua cooperação."
+  },
+  {
+    "id": "eedgc7u",
+    "split": "train",
+    "line_idx": 16477,
+    "original_text": "I need like a drawn out visual or something",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu preciso de um desenho explicativo ou algo assim"
+  },
+  {
+    "id": "ed8r6m8",
+    "split": "train",
+    "line_idx": 16478,
+    "original_text": "What happens when a Jedi gets PTSD? Play this game to find out. Hint: ITS FUCKIN BAD NEWS SON",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "O que acontece quando um Jedi tem TEPT? Jogue esse jogo para descobrir. Dica: É UMA PUTA NOTÍCIA RUIM, MEU FILHO"
+  },
+  {
+    "id": "ed0k42m",
+    "split": "train",
+    "line_idx": 16479,
+    "original_text": "So, bloody stop feeding cattle, nothing even compares to the resource consumption (waste) of the animal industry.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Então, para de alimentar gado logo, porra, nada se compara ao consumo de recursos (desperdício) da indústria animal."
+  },
+  {
+    "id": "ede37h7",
+    "split": "train",
+    "line_idx": 16480,
+    "original_text": "> You seem like I good time see previous statement about being uneducated.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> Você parece ser gente boa, veja o comentário anterior sobre ser ignorante."
+  },
+  {
+    "id": "ee15az7",
+    "split": "train",
+    "line_idx": 16481,
+    "original_text": "This is the noise I make in my girlfriend’s ear while y’all are still scared to moan",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Esse é o barulho que eu faço no ouvido da minha namorada enquanto vocês ainda têm medo de gemer"
+  },
+  {
+    "id": "efggsxt",
+    "split": "train",
+    "line_idx": 16482,
+    "original_text": "I noticed this last night when rewatching [NAME]. Her daughter was easily 400 pounds.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Notei isso ontem à noite reassistindo [NAME]. A filha dela tinha uns 200 quilos fácil."
+  },
+  {
+    "id": "eer2s8d",
+    "split": "train",
+    "line_idx": 16483,
+    "original_text": "they are going to need a gardener soon!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "eles vão precisar de um jardineiro logo logo!!"
+  },
+  {
+    "id": "eebg36u",
+    "split": "train",
+    "line_idx": 16484,
+    "original_text": "Yeah. [NAME] couldn't do it, [NAME] couldn't do it. It's probably not gonna happen again",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É. [NAME] não conseguiu, [NAME] não conseguiu. Provavelmente não vai acontecer de novo"
+  },
+  {
+    "id": "ee3tl32",
+    "split": "train",
+    "line_idx": 16485,
+    "original_text": "Y so serious",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Por que tão sério"
+  },
+  {
+    "id": "eeygmvb",
+    "split": "train",
+    "line_idx": 16486,
+    "original_text": "> it should be clear to an decent and mentally apt person which side is obviously the worst That's a rather centrist opinion you hold there buddy /s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> deveria estar claro para uma pessoa decente e mentalmente apta qual lado é obviamente o pior Essa é uma opinião bem centrista que você tem aí, amigão /s"
+  },
+  {
+    "id": "eedcsjd",
+    "split": "train",
+    "line_idx": 16487,
+    "original_text": "Not to be the joke of the entire league",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra não virar piada da liga inteira"
+  },
+  {
+    "id": "eey1z7i",
+    "split": "train",
+    "line_idx": 16488,
+    "original_text": "Very under rated.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Muito subestimado."
+  },
+  {
+    "id": "ed016nu",
+    "split": "train",
+    "line_idx": 16489,
+    "original_text": "How done is she? (Check all that apply) [ ] Done. [ ] So Done. [ ] She can’t even.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O quão acabada ela está? (Marque todas que se aplicam) [ ] Acabada. [ ] Muito acabada. [ ] Ela nem consegue mais."
+  },
+  {
+    "id": "edglk7r",
+    "split": "train",
+    "line_idx": 16490,
+    "original_text": "B E N",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "B E N"
+  },
+  {
+    "id": "edt9smy",
+    "split": "train",
+    "line_idx": 16491,
+    "original_text": "Yeah you have great solidarity with evil reigimes.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É, você tem uma ótima solidariedade com regimes malignos."
+  },
+  {
+    "id": "ef9zy77",
+    "split": "train",
+    "line_idx": 16492,
+    "original_text": "I set the house on fire and almost killed my entire family",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Eu botei fogo na casa e quase matei minha família inteira"
+  },
+  {
+    "id": "edzlwni",
+    "split": "train",
+    "line_idx": 16493,
+    "original_text": "The argument [NAME] is making is that expecting women to cook is considered sexist but expecting men to shovel snow is fine. It's about the double standard.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O argumento que o [NAME] tá fazendo é que esperar que mulheres cozinhem é considerado sexista, mas esperar que homens limpem a neve é de boa. É sobre o peso dois pesos, duas medidas."
+  },
+  {
+    "id": "eeywnlj",
+    "split": "train",
+    "line_idx": 16494,
+    "original_text": "He looks like a Loony Toons character",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele parece um personagem do Looney Tunes"
+  },
+  {
+    "id": "ed4s8um",
+    "split": "train",
+    "line_idx": 16495,
+    "original_text": "2 is washed out, 6 and 10 are too dark. Also imgur showed me a bald naked chimpanzee right after your last picture and I nearly choked. ",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "A 2 tá desbotada, a 6 e a 10 estão muito escuras. Além disso, o imgur me mostrou um chimpanzé careca pelado logo depois da sua última foto e eu quase engasguei."
+  },
+  {
+    "id": "ed3ppty",
+    "split": "train",
+    "line_idx": 16496,
+    "original_text": "Thanks man, hope the holidays were good to you and yours. ",
+    "emotion_ids": "15,20",
+    "emotions": [
+      "gratitude",
+      "optimism"
+    ],
+    "translated_text": "Valeu cara, espero que as festas tenham sido boas para você e os seus."
+  },
+  {
+    "id": "eej3y3f",
+    "split": "train",
+    "line_idx": 16497,
+    "original_text": "Haha, thanks, bot! How's your day going? ❤️🌈🚀",
+    "emotion_ids": "7,15",
+    "emotions": [
+      "curiosity",
+      "gratitude"
+    ],
+    "translated_text": "Haha, valeu, bot! Como tá indo seu dia? ❤️🌈🚀"
+  },
+  {
+    "id": "edw86e1",
+    "split": "train",
+    "line_idx": 16498,
+    "original_text": "I know how it feels being in the hospital alone, I hope you get well soon",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Eu sei como é ficar sozinho no hospital, espero que você melhore logo"
+  },
+  {
+    "id": "eey48sp",
+    "split": "train",
+    "line_idx": 16499,
+    "original_text": "[NAME]* I'm not mad, just dissapointed.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "[NAME]* Não tô bravo, só decepcionado."
+  }
+]

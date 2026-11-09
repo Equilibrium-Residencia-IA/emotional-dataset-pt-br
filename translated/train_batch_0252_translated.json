@@ -1,0 +1,567 @@
+[
+  {
+    "id": "ef40bio",
+    "split": "train",
+    "line_idx": 12600,
+    "original_text": "Your mother is an idiot. If she somehow proved that you were an unfit parent to your children your stbx husband would get them not her.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Sua mãe é uma idiota. Se ela de alguma forma provasse que você não tem condições de cuidar dos seus filhos, seria o seu ex-marido que ficaria com eles, não ela."
+  },
+  {
+    "id": "eesde8k",
+    "split": "train",
+    "line_idx": 12601,
+    "original_text": "That LOD is a moron",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Esse LOD é um babaca"
+  },
+  {
+    "id": "edpzavx",
+    "split": "train",
+    "line_idx": 12602,
+    "original_text": "Omg yes feels like being new born.",
+    "emotion_ids": "4,13,26",
+    "emotions": [
+      "approval",
+      "excitement",
+      "surprise"
+    ],
+    "translated_text": "Meu Deus sim, parece que nasci de novo."
+  },
+  {
+    "id": "ed433ik",
+    "split": "train",
+    "line_idx": 12603,
+    "original_text": "This isn’t a “someone” this is a company.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Isso não é \"alguém\", é uma empresa."
+  },
+  {
+    "id": "edon14i",
+    "split": "train",
+    "line_idx": 12604,
+    "original_text": "You have the personality of a stale bagel: dry and bland",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você tem a personalidade de um pão amanhecido: sem graça e sem sal"
+  },
+  {
+    "id": "ef2d740",
+    "split": "train",
+    "line_idx": 12605,
+    "original_text": "Happy Cake day.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Feliz dia do bolo."
+  },
+  {
+    "id": "ee3742w",
+    "split": "train",
+    "line_idx": 12606,
+    "original_text": "Thank you. That's encouraging. I hope to find people like that to learn from.",
+    "emotion_ids": "15,20",
+    "emotions": [
+      "gratitude",
+      "optimism"
+    ],
+    "translated_text": "Obrigado. Isso é encorajador. Espero encontrar pessoas assim para aprender."
+  },
+  {
+    "id": "ef8t76j",
+    "split": "train",
+    "line_idx": 12607,
+    "original_text": "I wish you to experience exactly the same feelings that I'm experiencing",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Desejo que você sinta exatamente o que eu estou sentindo"
+  },
+  {
+    "id": "ed4i059",
+    "split": "train",
+    "line_idx": 12608,
+    "original_text": "Oh we're doing this again huh",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ah, lá vamos nós de novo, né"
+  },
+  {
+    "id": "ef2vonu",
+    "split": "train",
+    "line_idx": 12609,
+    "original_text": "Oh. It really is [RELIGION]. I was wondering if that was a bad gag.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ah. É realmente [RELIGION]. Eu estava me perguntando se era uma piada de mau gosto."
+  },
+  {
+    "id": "eeh848w",
+    "split": "train",
+    "line_idx": 12610,
+    "original_text": "Damn look at [NAME] and his insane get off. We could use an [NAME] now probably now than anyone on this roster.",
+    "emotion_ids": "20,27",
+    "emotions": [
+      "optimism",
+      "neutral"
+    ],
+    "translated_text": "Caramba, olha o [NAME] e aquela arrancada insana dele. A gente provavelmente precisa mais de um [NAME] agora do que de qualquer outro nesse elenco."
+  },
+  {
+    "id": "eex4jtz",
+    "split": "train",
+    "line_idx": 12611,
+    "original_text": "Is this the track that’s just [NAME] cat meowing but slowed down? My memory is failing me",
+    "emotion_ids": "6,9",
+    "emotions": [
+      "confusion",
+      "disappointment"
+    ],
+    "translated_text": "Essa é a faixa que é só o gato do [NAME] miando, mas em câmera lenta? Minha memória tá falhando"
+  },
+  {
+    "id": "edktoa2",
+    "split": "train",
+    "line_idx": 12612,
+    "original_text": "Most of my friends are [NAME], and I respect them. I don't think they'd be offended. Sincerely. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A maioria dos meus amigos são [NAME], e eu respeito eles. Não acho que eles ficariam ofendidos. Sinceramente."
+  },
+  {
+    "id": "edi17ol",
+    "split": "train",
+    "line_idx": 12613,
+    "original_text": "This reminds me of suits. (Currently about to start season four.)",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Isso me lembra Suits. (Tô quase começando a quarta temporada.)"
+  },
+  {
+    "id": "edgmwtp",
+    "split": "train",
+    "line_idx": 12614,
+    "original_text": "The bed is comfy and I want it to stay that way",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "A cama tá confortável e eu quero que continue assim"
+  },
+  {
+    "id": "edxs6xh",
+    "split": "train",
+    "line_idx": 12615,
+    "original_text": "Still can’t blame him.... we’ve all been there",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Ainda não dá pra culpar ele... todos nós já passamos por isso"
+  },
+  {
+    "id": "eenjouv",
+    "split": "train",
+    "line_idx": 12616,
+    "original_text": "sub banner is a giant neon \"BOTTOM TEXT\" hmmm I dunno, man.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "o banner do sub é um \"TEXTO DE BAIXO\" neon gigante, hmmm não sei, cara."
+  },
+  {
+    "id": "ee5sp7y",
+    "split": "train",
+    "line_idx": 12617,
+    "original_text": "I feel ya.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Te entendo."
+  },
+  {
+    "id": "eetqysc",
+    "split": "train",
+    "line_idx": 12618,
+    "original_text": "i hate that it's over an interstate bridge so people traveling from the west from other states have to look at it edit* because it's fucking corny",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "eu odeio que fica em cima de uma ponte interestadual, então quem viaja do oeste vindo de outros estados tem que olhar praquilo, edite* porque é muito brega pra caralho"
+  },
+  {
+    "id": "eeiiyxs",
+    "split": "train",
+    "line_idx": 12619,
+    "original_text": "Many people are saying this is true. Great story.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Muita gente tá dizendo que isso é verdade. Ótima história."
+  },
+  {
+    "id": "eeemrah",
+    "split": "train",
+    "line_idx": 12620,
+    "original_text": "5 hours late!!!!!!!!! omg.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "5 horas de atraso!!!!!!!!! meu Deus."
+  },
+  {
+    "id": "ed1s7vh",
+    "split": "train",
+    "line_idx": 12621,
+    "original_text": "Might relax you a little bit but definitely don't expect some amazing buzz from just 1 15mg pill. 15mg might feel like 5-7.5mg diazepam.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Pode te relaxar um pouco, mas definitivamente não espere um barato incrível só com 1 comprimido de 15mg. 15mg deve parecer uns 5-7.5mg de diazepam."
+  },
+  {
+    "id": "edgxqb8",
+    "split": "train",
+    "line_idx": 12622,
+    "original_text": "No being around non judgemental people is a very possitive benefit to leaving.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, estar perto de pessoas que não te julgam é um benefício muito positivo de ir embora."
+  },
+  {
+    "id": "efh3jq2",
+    "split": "train",
+    "line_idx": 12623,
+    "original_text": "They're really cute but I'd never in a million years own one because they literally smell like week-old pissed on rugs.",
+    "emotion_ids": "0,4,9",
+    "emotions": [
+      "admiration",
+      "approval",
+      "disappointment"
+    ],
+    "translated_text": "Eles são muito fofos, mas eu nunca na vida teria um porque eles literalmente cheiram a tapete mijado de uma semana."
+  },
+  {
+    "id": "eed0946",
+    "split": "train",
+    "line_idx": 12624,
+    "original_text": "Yeah, but nobody takes McD's hamburgers seriously. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "É, mas ninguém leva os hambúrgueres do McD a sério."
+  },
+  {
+    "id": "efbq00q",
+    "split": "train",
+    "line_idx": 12625,
+    "original_text": "this is def an ad to buy doritos, but ill be goddamned if its not a pretty cool recipe",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "isso é claramente um anúncio pra comprar Doritos, mas que me parta se não é uma receita bem legal"
+  },
+  {
+    "id": "edlho9e",
+    "split": "train",
+    "line_idx": 12626,
+    "original_text": "Interesting to see Dashy and Crimsix change specialists. And Scump is running Stock 2 on his Saug. Seems like they are trying some new things.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Interessante ver o Dashy e o Crimsix trocando de especialistas. E o Scump tá usando Stock 2 na Saug dele. Parece que eles estão tentando coisas novas."
+  },
+  {
+    "id": "edlpdpj",
+    "split": "train",
+    "line_idx": 12627,
+    "original_text": "Wow i didn't really expect both the explosion and him to live",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, eu realmente não esperava tanto a explosão quanto que ele sobrevivesse"
+  },
+  {
+    "id": "edcktk0",
+    "split": "train",
+    "line_idx": 12628,
+    "original_text": "Sorry, I’m out of the loop- are they on this season as well? I forgot about them",
+    "emotion_ids": "7,24",
+    "emotions": [
+      "curiosity",
+      "remorse"
+    ],
+    "translated_text": "Desculpa, tô por fora - eles estão nessa temporada também? Esqueci deles"
+  },
+  {
+    "id": "ef2dt6i",
+    "split": "train",
+    "line_idx": 12629,
+    "original_text": "Bleak but may be accurate. I wonder - are there examples of other franchises that went down the toilet, but that then actually make a comeback?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Sombrio, mas pode ser preciso. Eu me pergunto - existem exemplos de outras franquias que foram pro buraco, mas que depois deram a volta por cima?"
+  },
+  {
+    "id": "eewp5eg",
+    "split": "train",
+    "line_idx": 12630,
+    "original_text": "Wish you good luck",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Te desejo boa sorte"
+  },
+  {
+    "id": "efe93hg",
+    "split": "train",
+    "line_idx": 12631,
+    "original_text": "My class size until 5th grade was 6 students...wish I had more classmates back then.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "O tamanho da minha turma até a 5ª série era de 6 alunos... queria ter tido mais colegas naquela época."
+  },
+  {
+    "id": "eec6w5r",
+    "split": "train",
+    "line_idx": 12632,
+    "original_text": "Make this a weekly PSA, please!! Lmao ",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Transformem isso num aviso semanal, por favor!! Kkkkk"
+  },
+  {
+    "id": "eeiid5s",
+    "split": "train",
+    "line_idx": 12633,
+    "original_text": "Python2 end of life will be nice, though.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O fim do suporte ao Python2 vai ser bom, pelo menos."
+  },
+  {
+    "id": "eevqwdn",
+    "split": "train",
+    "line_idx": 12634,
+    "original_text": "Can this guy just land himself in jail already so we don't have to hear about him anymore",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Esse cara não pode simplesmente ir preso logo pra gente não ter que ouvir falar dele nunca mais?"
+  },
+  {
+    "id": "edfic2f",
+    "split": "train",
+    "line_idx": 12635,
+    "original_text": "Why exactly would I be talking to other men about sex in any circumstance? I'm not in prison",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que exatamente eu estaria falando com outros homens sobre sexo em qualquer circunstância? Eu não tô na prisão"
+  },
+  {
+    "id": "eevsd4k",
+    "split": "train",
+    "line_idx": 12636,
+    "original_text": "Thanks for your words. I appreciate hearing from you. You bring up some very disturbing points.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelas suas palavras. Agradeço por ouvir você. Você levanta pontos muito perturbadores."
+  },
+  {
+    "id": "edwvy2c",
+    "split": "train",
+    "line_idx": 12637,
+    "original_text": "I’m hoping so. I either make peace with it or I decide to move on",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tô torcendo por isso. Ou eu faço as pazes com isso ou decido seguir em frente"
+  },
+  {
+    "id": "efedaey",
+    "split": "train",
+    "line_idx": 12638,
+    "original_text": "Wow, your posting history is a real... interesting ride.",
+    "emotion_ids": "0,26",
+    "emotions": [
+      "admiration",
+      "surprise"
+    ],
+    "translated_text": "Nossa, seu histórico de postagens é uma jornada... interessante."
+  },
+  {
+    "id": "ed85jix",
+    "split": "train",
+    "line_idx": 12639,
+    "original_text": "That's awesome! Thanks for sharing the event!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Isso é incrível! Obrigado por compartilhar o evento!"
+  },
+  {
+    "id": "ee19evr",
+    "split": "train",
+    "line_idx": 12640,
+    "original_text": "I will dude. Have a good one",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Vou sim, cara. Fica bem"
+  },
+  {
+    "id": "edm3k6w",
+    "split": "train",
+    "line_idx": 12641,
+    "original_text": "By far the coolest thing I've seen on this thread yet",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "De longe a coisa mais legal que vi nesse tópico até agora"
+  },
+  {
+    "id": "eec0pph",
+    "split": "train",
+    "line_idx": 12642,
+    "original_text": "I don't know who that is so it wasn't intentional",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não sei quem é, então não foi intencional"
+  },
+  {
+    "id": "ed48wfg",
+    "split": "train",
+    "line_idx": 12643,
+    "original_text": "This girl was kinda like that. She would orgasm walking around if her jeans were too tight.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa garota era meio assim. Ela tinha orgasmo andando por aí se o jeans estivesse muito apertado."
+  },
+  {
+    "id": "edhmg5n",
+    "split": "train",
+    "line_idx": 12644,
+    "original_text": "I keep a GF board at all times under my station just for you guys. We probably do 1k+ in GF sales every day.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu mantenho um quadro de GF o tempo todo embaixo da minha estação só pra vocês. A gente provavelmente faz mais de 1k em vendas de GF todo dia."
+  },
+  {
+    "id": "edx4o5m",
+    "split": "train",
+    "line_idx": 12645,
+    "original_text": "Oh man you sure showed me, good job champ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ah cara, você com certeza me mostrou, bom trabalho campeão"
+  },
+  {
+    "id": "edf3aob",
+    "split": "train",
+    "line_idx": 12646,
+    "original_text": "Here, we [NAME] are open books. Brutal, and often hilarious truth in every word we speak 😂",
+    "emotion_ids": "1,3",
+    "emotions": [
+      "amusement",
+      "annoyance"
+    ],
+    "translated_text": "Aqui, nós [NAME] somos livros abertos. Verdades brutais e muitas vezes hilárias em cada palavra que dizemos 😂"
+  },
+  {
+    "id": "eev3dba",
+    "split": "train",
+    "line_idx": 12647,
+    "original_text": "And yet the guy proclaiming he understands it better than the whole world is trying to justify losing LMAO",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E ainda assim o cara que diz entender melhor do que o mundo todo tá tentando justificar a derrota KKKKK"
+  },
+  {
+    "id": "eerdg34",
+    "split": "train",
+    "line_idx": 12648,
+    "original_text": "Exactly. Some ammo is already cheaper than that.",
+    "emotion_ids": "3,4",
+    "emotions": [
+      "annoyance",
+      "approval"
+    ],
+    "translated_text": "Exatamente. Algumas munições já são mais baratas que isso."
+  },
+  {
+    "id": "ef2c81u",
+    "split": "train",
+    "line_idx": 12649,
+    "original_text": "Next up: Raindrops Keep Falling on My Head",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Próxima: Raindrops Keep Falling on My Head"
+  }
+]

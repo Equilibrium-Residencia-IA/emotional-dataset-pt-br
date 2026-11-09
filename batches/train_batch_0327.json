@@ -1,0 +1,514 @@
+[
+  {
+    "id": "eemw96t",
+    "split": "train",
+    "line_idx": 16350,
+    "original_text": "No, just a bastard pastry",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eemzie8",
+    "split": "train",
+    "line_idx": 16351,
+    "original_text": "Mountaineering is more technical than hiking, and requires ropes and other equipment. Hiking uphill is part of hiking.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eel8zl8",
+    "split": "train",
+    "line_idx": 16352,
+    "original_text": "That's [NAME] and he had a concussion.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edde6us",
+    "split": "train",
+    "line_idx": 16353,
+    "original_text": "I love this story. So much.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "ed9fyxo",
+    "split": "train",
+    "line_idx": 16354,
+    "original_text": "I don't think they really learn so much as they relax and get more comfortable.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "edb7ww6",
+    "split": "train",
+    "line_idx": 16355,
+    "original_text": "Oh sorry I gotcha",
+    "emotion_ids": "12,24",
+    "emotions": [
+      "embarrassment",
+      "remorse"
+    ]
+  },
+  {
+    "id": "ee9jbfd",
+    "split": "train",
+    "line_idx": 16356,
+    "original_text": "That's one of the reasons why I'm wary 😂",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "edwpq57",
+    "split": "train",
+    "line_idx": 16357,
+    "original_text": "It was always kind of a consideration when I did have opening and closing blinds. None of them problems anymore.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "edbgxqd",
+    "split": "train",
+    "line_idx": 16358,
+    "original_text": "My man!",
+    "emotion_ids": "13,27",
+    "emotions": [
+      "excitement",
+      "neutral"
+    ]
+  },
+  {
+    "id": "edlp7ys",
+    "split": "train",
+    "line_idx": 16359,
+    "original_text": "I mean, [NAME] really is downplaying the guys’ friendship. That’s suspect to me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edrexse",
+    "split": "train",
+    "line_idx": 16360,
+    "original_text": "OP, this is the definition of manipulation. Ignore it, I promise it’ll be better for you in the long run. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "edar0t7",
+    "split": "train",
+    "line_idx": 16361,
+    "original_text": "Wow, this is bizarre. Well, I agree too. A wealth tax is exactly what we need.",
+    "emotion_ids": "4,26",
+    "emotions": [
+      "approval",
+      "surprise"
+    ]
+  },
+  {
+    "id": "ed0hzop",
+    "split": "train",
+    "line_idx": 16362,
+    "original_text": "I call even my dog my love (in local language) as a way to be caring to others.",
+    "emotion_ids": "18,27",
+    "emotions": [
+      "love",
+      "neutral"
+    ]
+  },
+  {
+    "id": "edu4fwd",
+    "split": "train",
+    "line_idx": 16363,
+    "original_text": "This guy is in prison for meeting up with a 13 year old girl or whatnot btw",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eefu13w",
+    "split": "train",
+    "line_idx": 16364,
+    "original_text": "I have to imagine the camera lens part is utter BS.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee206iu",
+    "split": "train",
+    "line_idx": 16365,
+    "original_text": "OHHHHH! THAT ONE! Oh, *[NAME]*... ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "edt8e7y",
+    "split": "train",
+    "line_idx": 16366,
+    "original_text": "Pull that sucker right up to your face",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ]
+  },
+  {
+    "id": "edosias",
+    "split": "train",
+    "line_idx": 16367,
+    "original_text": "I love taking my girlfriend to Victorias Secret, we shop together, and the whole experience is a kind of foreplay. I highly suggest that route.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "edyfdum",
+    "split": "train",
+    "line_idx": 16368,
+    "original_text": "Is she worse than [NAME] though?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "eebedob",
+    "split": "train",
+    "line_idx": 16369,
+    "original_text": "I actually got one of those, really fucking good tbh",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eehodhc",
+    "split": "train",
+    "line_idx": 16370,
+    "original_text": "I've long completed everything I can and spent all my fight money. No Kage for me",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "eenyq19",
+    "split": "train",
+    "line_idx": 16371,
+    "original_text": "Sorry but $200 wouldn’t help. Good bye beautiful world!! I’m gonna pray to the ether god to help me :)",
+    "emotion_ids": "0,24",
+    "emotions": [
+      "admiration",
+      "remorse"
+    ]
+  },
+  {
+    "id": "eekxozz",
+    "split": "train",
+    "line_idx": 16372,
+    "original_text": "\"And then I apologized and expressed remorse over the situation\" ",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ]
+  },
+  {
+    "id": "eek8ekc",
+    "split": "train",
+    "line_idx": 16373,
+    "original_text": "I have started my 30 day vacation and I plan on relaxing the whole 30. Please do not make plans for me. Discuss them first with me.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ]
+  },
+  {
+    "id": "eeb9aj8",
+    "split": "train",
+    "line_idx": 16374,
+    "original_text": "Explain to me why you’re not attracted to black men without making broad generalizations about their physical attributes or personalities.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edo3o48",
+    "split": "train",
+    "line_idx": 16375,
+    "original_text": "[NAME] is a creeper and hangs out with underage girls n shit.",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ]
+  },
+  {
+    "id": "ed1k5h7",
+    "split": "train",
+    "line_idx": 16376,
+    "original_text": "Oh, I know. I just don’t think that will go over so well. Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ]
+  },
+  {
+    "id": "ee3oreq",
+    "split": "train",
+    "line_idx": 16377,
+    "original_text": "A couple of times I thought she was going to start laughing.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eedgbga",
+    "split": "train",
+    "line_idx": 16378,
+    "original_text": "Drop a link or piss off",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eeq3env",
+    "split": "train",
+    "line_idx": 16379,
+    "original_text": "He doesn't really fit, he is more of a mid range shooter. Plus we already have to many players at power forward who are better.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eed8pqu",
+    "split": "train",
+    "line_idx": 16380,
+    "original_text": "Don’t make fun of the cancer kid",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "edokk5p",
+    "split": "train",
+    "line_idx": 16381,
+    "original_text": "Funny how artificial famines are genocide when the Brits do it, but not when it's the Soviets. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ]
+  },
+  {
+    "id": "eegah1a",
+    "split": "train",
+    "line_idx": 16382,
+    "original_text": "A lot of times the only thing holding any of us back is ourselves. It's not too late to start writing either.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "ed5dpfh",
+    "split": "train",
+    "line_idx": 16383,
+    "original_text": "Imagine being triggered so hard that you ignore science and make up false claims",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ed9bmag",
+    "split": "train",
+    "line_idx": 16384,
+    "original_text": "🤣🤣🤣🤣 I’m sorry for your misfortune but it’s still funny too.",
+    "emotion_ids": "1,25",
+    "emotions": [
+      "amusement",
+      "sadness"
+    ]
+  },
+  {
+    "id": "ee36m3z",
+    "split": "train",
+    "line_idx": 16385,
+    "original_text": "Wish the blasters were more like BF1",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ]
+  },
+  {
+    "id": "edkaeei",
+    "split": "train",
+    "line_idx": 16386,
+    "original_text": "No, he said he's bringing in somewhere around 10K a month, not 2500 a month. That's a HUGE income gap.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "efh9uog",
+    "split": "train",
+    "line_idx": 16387,
+    "original_text": "The Netflix documentary about [NAME] absolutely sucks. Don't waste your time.",
+    "emotion_ids": "2,11",
+    "emotions": [
+      "anger",
+      "disgust"
+    ]
+  },
+  {
+    "id": "ee5mn54",
+    "split": "train",
+    "line_idx": 16388,
+    "original_text": "I don’t know what this means but it feels significant somehow...",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee1lwh4",
+    "split": "train",
+    "line_idx": 16389,
+    "original_text": "Bar beer garden - fire pits - access to the bike trail - corn hole - bocce ball - food trucks",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edj8gvu",
+    "split": "train",
+    "line_idx": 16390,
+    "original_text": "[NAME] even eluded to the fact that his mom was a bit put off by her age after asking it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ef22w2u",
+    "split": "train",
+    "line_idx": 16391,
+    "original_text": "Have you visited any of the car subs? They may be able to help you diagnose the issue. Good luck though, I hope ya pull through. ",
+    "emotion_ids": "7,20",
+    "emotions": [
+      "curiosity",
+      "optimism"
+    ]
+  },
+  {
+    "id": "ee2tl38",
+    "split": "train",
+    "line_idx": 16392,
+    "original_text": "You'll win in the long run by not shutting up.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "edo3j80",
+    "split": "train",
+    "line_idx": 16393,
+    "original_text": "Assuming it is manufacturer defect, sure. A lot of times, it comes down to the owner not properly caring for their gun.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ee4zyn1",
+    "split": "train",
+    "line_idx": 16394,
+    "original_text": "You're not retarded. It's a natural reaction to a lousy upbringing. Love your username BTW.",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ]
+  },
+  {
+    "id": "eelppgo",
+    "split": "train",
+    "line_idx": 16395,
+    "original_text": "I see your point as well. I wasn’t the one complaining. I was supporting the one everyone was going after",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eetfkv4",
+    "split": "train",
+    "line_idx": 16396,
+    "original_text": "Fool you twice, shame on you",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ]
+  },
+  {
+    "id": "ed5aeoj",
+    "split": "train",
+    "line_idx": 16397,
+    "original_text": "Not cool Op...not cool...",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ]
+  },
+  {
+    "id": "ednq9cz",
+    "split": "train",
+    "line_idx": 16398,
+    "original_text": "It's great you have a friend with the same struggles as long as you both encourage each other to do better. It can be very comforting.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "ee1mil8",
+    "split": "train",
+    "line_idx": 16399,
+    "original_text": "Context is lost in the article, no way to know how it was asked or how the person was behaving.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  }
+]

@@ -1,0 +1,565 @@
+[
+  {
+    "id": "ef6588e",
+    "split": "train",
+    "line_idx": 4150,
+    "original_text": "Welcome to The World of... Mobile MMOs. Where power can be yours, for a price.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Bem-vindo ao mundo dos... MMOs mobile. Onde o poder pode ser seu, por um preço."
+  },
+  {
+    "id": "ef2f15k",
+    "split": "train",
+    "line_idx": 4151,
+    "original_text": "I like [NAME] but she fucking sucks right now for the all star game haha.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu gosto da [NAME], mas ela tá jogando muito mal no all star game, haha."
+  },
+  {
+    "id": "edz8lna",
+    "split": "train",
+    "line_idx": 4152,
+    "original_text": "Here you go:",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aqui está:"
+  },
+  {
+    "id": "eeye9sw",
+    "split": "train",
+    "line_idx": 4153,
+    "original_text": ">She was very normal LMAO This got me",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": ">Ela era muito normal KKKKKK essa me pegou"
+  },
+  {
+    "id": "eeihjnw",
+    "split": "train",
+    "line_idx": 4154,
+    "original_text": "You naughty racist! Your use of logic and facts has been noted and you will be thrashed repeatedly with a rolled-up copy of the Guardian until you repent.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Seu racista safado! Seu uso de lógica e fatos foi notado e você será surrado repetidamente com um exemplar enrolado do Guardian até se arrepender."
+  },
+  {
+    "id": "ee7q7dc",
+    "split": "train",
+    "line_idx": 4155,
+    "original_text": "Family had a little to do with it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A família teve um pouco a ver com isso"
+  },
+  {
+    "id": "ee3nnme",
+    "split": "train",
+    "line_idx": 4156,
+    "original_text": "Why don't you just tell us? We're all dying to know!",
+    "emotion_ids": "7,13",
+    "emotions": [
+      "curiosity",
+      "excitement"
+    ],
+    "translated_text": "Por que você não conta logo pra gente? Estamos todos morrendo de curiosidade!"
+  },
+  {
+    "id": "eenmlg8",
+    "split": "train",
+    "line_idx": 4157,
+    "original_text": "At least the ice didnt break",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Pelo menos o gelo não quebrou"
+  },
+  {
+    "id": "edcyp9j",
+    "split": "train",
+    "line_idx": 4158,
+    "original_text": "Dat trigger discipline though",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas olha só essa disciplina de gatilho"
+  },
+  {
+    "id": "ee45t1m",
+    "split": "train",
+    "line_idx": 4159,
+    "original_text": "As fun as that sounds, please just call the police.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Por mais divertido que isso pareça, por favor, só liga pra polícia."
+  },
+  {
+    "id": "eep6exv",
+    "split": "train",
+    "line_idx": 4160,
+    "original_text": "How the hell do you get downvoted for a submission statement on /r/TrueReddit. Title or not it is still required.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Como diabos você leva downvote por uma declaração de envio no /r/TrueReddit? Com título ou não, ainda é obrigatório."
+  },
+  {
+    "id": "eegqz8g",
+    "split": "train",
+    "line_idx": 4161,
+    "original_text": "I got the feeling too. It's possible, or the ground is just rough. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tive essa sensação também. É possível, ou o chão é só irregular mesmo."
+  },
+  {
+    "id": "ef1rsra",
+    "split": "train",
+    "line_idx": 4162,
+    "original_text": "I’m just gonna go ahead and call bullshit on most of the details of this story.",
+    "emotion_ids": "2,9,11",
+    "emotions": [
+      "anger",
+      "disappointment",
+      "disgust"
+    ],
+    "translated_text": "Vou logo adiantar que não acredito na maior parte dos detalhes dessa história."
+  },
+  {
+    "id": "ed4g96f",
+    "split": "train",
+    "line_idx": 4163,
+    "original_text": "They’ve always loved her. i read this in the space of five episodes.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles sempre amaram ela. Li isso no espaço de cinco episódios."
+  },
+  {
+    "id": "edlggxy",
+    "split": "train",
+    "line_idx": 4164,
+    "original_text": "...to win the popular vote, which she easily did.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "...para ganhar o voto popular, o que ela fez facilmente."
+  },
+  {
+    "id": "edgbks8",
+    "split": "train",
+    "line_idx": 4165,
+    "original_text": "I used to work nights at a 24-hour Walmart, “interesting” is a damn tame word for it.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Eu trabalhava à noite num Walmart 24h, “interessante” é um termo bem fraco pra descrever aquilo."
+  },
+  {
+    "id": "ee0bwmn",
+    "split": "train",
+    "line_idx": 4166,
+    "original_text": "DAMN!!!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "CARACA!!!"
+  },
+  {
+    "id": "een8dwi",
+    "split": "train",
+    "line_idx": 4167,
+    "original_text": "Anti-Vaxer mom: This isn’t supposed to happen, they weren’t supposed to live this long.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Mãe anti-vacina: Isso não era pra acontecer, eles não deveriam ter vivido tanto tempo."
+  },
+  {
+    "id": "ed122p6",
+    "split": "train",
+    "line_idx": 4168,
+    "original_text": "I feel digestive regret just looking at them.",
+    "emotion_ids": "9,24,25",
+    "emotions": [
+      "disappointment",
+      "remorse",
+      "sadness"
+    ],
+    "translated_text": "Sinto um arrependimento digestivo só de olhar pra eles."
+  },
+  {
+    "id": "eecssg7",
+    "split": "train",
+    "line_idx": 4169,
+    "original_text": "RNG gear is a solid no from me.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Equipamento baseado em RNG é um não definitivo pra mim."
+  },
+  {
+    "id": "eeqrskq",
+    "split": "train",
+    "line_idx": 4170,
+    "original_text": "At least you went out with a bang.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo menos você saiu com chave de ouro."
+  },
+  {
+    "id": "efh7oz9",
+    "split": "train",
+    "line_idx": 4171,
+    "original_text": "The capitalist countries have welfare for those that can cope. The other countries dont.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Os países capitalistas têm assistência social pra quem consegue lidar com a vida. Os outros países não."
+  },
+  {
+    "id": "ef4niq7",
+    "split": "train",
+    "line_idx": 4172,
+    "original_text": "Haha yes I did",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Haha sim, eu fiz"
+  },
+  {
+    "id": "edibj3s",
+    "split": "train",
+    "line_idx": 4173,
+    "original_text": "Good ol best available dasher",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O bom e velho melhor entregador disponível"
+  },
+  {
+    "id": "edl4znb",
+    "split": "train",
+    "line_idx": 4174,
+    "original_text": "Age of consent does not apply to sending nude pictures. If you are under 18, that is still possession or distribution of child pornography.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A idade de consentimento não se aplica ao envio de nudes. Se você tem menos de 18 anos, isso ainda é posse ou distribuição de pornografia infantil."
+  },
+  {
+    "id": "ef6xs4t",
+    "split": "train",
+    "line_idx": 4175,
+    "original_text": "So you stay on your theft from auto waiting for them to dispatch the next shift to the backlog of calls.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Então você fica aí no seu roubo de carro esperando eles despacharem o próximo turno pro acúmulo de chamados."
+  },
+  {
+    "id": "eebdh1g",
+    "split": "train",
+    "line_idx": 4176,
+    "original_text": "Hopefully they won't try to blame the trucker.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tomara que não tentem culpar o caminhoneiro."
+  },
+  {
+    "id": "ee9gbyp",
+    "split": "train",
+    "line_idx": 4177,
+    "original_text": "And a hell of a lot better receivers. [NAME], [NAME], prime [NAME], [NAME]. ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "E receptores muito melhores. [NAME], [NAME], [NAME] no auge, [NAME]."
+  },
+  {
+    "id": "eexr9wa",
+    "split": "train",
+    "line_idx": 4178,
+    "original_text": "Freakin cheers man, that looks delicious right now!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Valeu mesmo cara, isso parece delicioso agora!"
+  },
+  {
+    "id": "eda8ura",
+    "split": "train",
+    "line_idx": 4179,
+    "original_text": "Why tho... I don't understand why I like this so much",
+    "emotion_ids": "6,18",
+    "emotions": [
+      "confusion",
+      "love"
+    ],
+    "translated_text": "Por que né... não entendo por que gosto tanto disso"
+  },
+  {
+    "id": "eeub0q7",
+    "split": "train",
+    "line_idx": 4180,
+    "original_text": "Now all we need is to beat them in the playoffs one last time and win the super bowl THEN I'll be able to be happy",
+    "emotion_ids": "17,20",
+    "emotions": [
+      "joy",
+      "optimism"
+    ],
+    "translated_text": "Agora só falta a gente ganhar deles nos playoffs mais uma vez e vencer o super bowl, AÍ sim eu vou conseguir ser feliz"
+  },
+  {
+    "id": "edru9z1",
+    "split": "train",
+    "line_idx": 4181,
+    "original_text": "Might as well try though! Have a good day bro!",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Mas vale a pena tentar! Tenha um bom dia, mano!"
+  },
+  {
+    "id": "ee6ox26",
+    "split": "train",
+    "line_idx": 4182,
+    "original_text": "Couldn't stand it though the story is wonky But this is an eternal debate. For me got will remain. Hope S7 is about to enlightnen all human kind",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não aguentei, embora a história seja estranha. Mas esse é um debate eterno. Pra mim, GoT vai continuar. Espero que a S7 ilumine toda a raça humana"
+  },
+  {
+    "id": "ed28kd5",
+    "split": "train",
+    "line_idx": 4183,
+    "original_text": "Oh, no wonder I like her so much!",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Ah, não é à toa que eu gosto tanto dela!"
+  },
+  {
+    "id": "ef304jo",
+    "split": "train",
+    "line_idx": 4184,
+    "original_text": "Oh, sweet. It's the gaming guy who hasn't uploaded any gaming videos yet! /s (I like him and am just poking fun)",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Ah, que fofo. É o cara dos games que ainda não postou nenhum vídeo de jogo! /s (Eu gosto dele e só estou brincando)"
+  },
+  {
+    "id": "eesvxz1",
+    "split": "train",
+    "line_idx": 4185,
+    "original_text": "[NAME] is the best character in cinematic history",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME] é o melhor personagem da história do cinema"
+  },
+  {
+    "id": "edgm1ne",
+    "split": "train",
+    "line_idx": 4186,
+    "original_text": "Wait. Is this a parenting book with a typo? Because this seems to be a great approach to use with a toddler.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Espera. Isso é um livro de criação de filhos com um erro de digitação? Porque parece ser uma ótima abordagem pra usar com uma criança pequena."
+  },
+  {
+    "id": "edy6zyp",
+    "split": "train",
+    "line_idx": 4187,
+    "original_text": "...says the opioid addicted narcissist with multiple untreated physical and psychological ailments and is completely unable to work with anyone but his own clone.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "...diz o narcisista viciado em opioides com várias doenças físicas e psicológicas não tratadas e completamente incapaz de trabalhar com qualquer um que não seja seu próprio clone."
+  },
+  {
+    "id": "ee72smd",
+    "split": "train",
+    "line_idx": 4188,
+    "original_text": "Ha that’s amazing you may know my little brother he graduated around that time name is [NAME]",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ha, que incrível, você talvez conheça meu irmão mais novo, ele se formou nessa época, o nome dele é [NAME]"
+  },
+  {
+    "id": "eet8ntq",
+    "split": "train",
+    "line_idx": 4189,
+    "original_text": "Thank god. This place was authoritarian.",
+    "emotion_ids": "15,23",
+    "emotions": [
+      "gratitude",
+      "relief"
+    ],
+    "translated_text": "Graças a Deus. Esse lugar era autoritário."
+  },
+  {
+    "id": "edlxtaa",
+    "split": "train",
+    "line_idx": 4190,
+    "original_text": "Doubt that’s what is making or breaking the situation. Either way simply introduce her by her name and let me extrapolate what she is",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Duvido que seja isso que define a situação. De qualquer forma, simplesmente apresente ela pelo nome e deixe eu tirar minhas conclusões sobre quem ela é"
+  },
+  {
+    "id": "eebexi1",
+    "split": "train",
+    "line_idx": 4191,
+    "original_text": "Wow. No words. America, the land of opportunity!!!!!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Uau. Sem palavras. América, a terra das oportunidades!!!!!"
+  },
+  {
+    "id": "ef3ly3m",
+    "split": "train",
+    "line_idx": 4192,
+    "original_text": "Great advice here. Good sleep doesn’t “just happen” with kids. It’s our job as parents to guide them.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ótimo conselho. Uma boa noite de sono não “simplesmente acontece” com crianças. É nosso trabalho como pais guiá-las."
+  },
+  {
+    "id": "ed938lq",
+    "split": "train",
+    "line_idx": 4193,
+    "original_text": "Thank you, that's very good to know!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado, é muito bom saber disso!"
+  },
+  {
+    "id": "edyesx9",
+    "split": "train",
+    "line_idx": 4194,
+    "original_text": "Yeah, he's 8-1 in his last 9 games played. Pretty great if you ask me.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Sim, ele está 8-1 nos seus últimos 9 jogos. Muito bom, se quer saber a minha opinião."
+  },
+  {
+    "id": "ed4ic4u",
+    "split": "train",
+    "line_idx": 4195,
+    "original_text": "My 4 month old just got her second round of shots, so yeah, we feel you. Hope you're able to get a good rest!!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Minha filha de 4 meses acabou de tomar a segunda dose das vacinas, então sim, a gente te entende. Espero que você consiga descansar bem!!"
+  },
+  {
+    "id": "eekwxfj",
+    "split": "train",
+    "line_idx": 4196,
+    "original_text": "Yeah but shortly after got disinterested so i broke it to her lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É, mas logo depois perdi o interesse, então dei um fora nela lol"
+  },
+  {
+    "id": "eeql7n8",
+    "split": "train",
+    "line_idx": 4197,
+    "original_text": "Thanks hehe hit me up on there sometime!",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "Valeu hehe me chama lá qualquer dia!"
+  },
+  {
+    "id": "ee13w6g",
+    "split": "train",
+    "line_idx": 4198,
+    "original_text": "I changed team snapchats name to “Bae❤️” so i get exited every time I get thing from them.",
+    "emotion_ids": "13,18",
+    "emotions": [
+      "excitement",
+      "love"
+    ],
+    "translated_text": "Mudei o nome do snapchat do time pra “Bae❤️” pra eu ficar empolgado toda vez que recebo algo deles."
+  },
+  {
+    "id": "edy5vne",
+    "split": "train",
+    "line_idx": 4199,
+    "original_text": "Your comment is kinda wasted. He can't read.",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "Seu comentário é meio inútil. Ele não sabe ler."
+  }
+]

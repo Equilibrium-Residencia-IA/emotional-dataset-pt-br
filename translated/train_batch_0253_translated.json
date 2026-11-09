@@ -1,0 +1,566 @@
+[
+  {
+    "id": "eefcebv",
+    "split": "train",
+    "line_idx": 12650,
+    "original_text": "well there's a pretty damning set of pictures there, ace.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "bom, tem um conjunto de fotos bem condenatórias aí, campeão."
+  },
+  {
+    "id": "ef2642s",
+    "split": "train",
+    "line_idx": 12651,
+    "original_text": "Being the best [NAME] in SC2 was like being the best [NAME] in basketball.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ser o melhor [NAME] no SC2 era tipo ser o melhor [NAME] no basquete."
+  },
+  {
+    "id": "edbhfbx",
+    "split": "train",
+    "line_idx": 12652,
+    "original_text": "Oh, prodigy might be a bit immature for that group. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, prodígio talvez seja um termo meio imaturo pra esse grupo."
+  },
+  {
+    "id": "ee1quua",
+    "split": "train",
+    "line_idx": 12653,
+    "original_text": "Hmm. Never saw a COMMENT downvoted!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Hmm. Nunca vi um COMENTÁRIO ser negativado!"
+  },
+  {
+    "id": "eczmsxa",
+    "split": "train",
+    "line_idx": 12654,
+    "original_text": "Everyone knows that the rich have a secret cure for cancer! /s",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Todo mundo sabe que os ricos têm a cura secreta pro câncer! /s"
+  },
+  {
+    "id": "eej4b4o",
+    "split": "train",
+    "line_idx": 12655,
+    "original_text": "And that’s it? Then they’re a [NAME]?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "E é só isso? Então eles são um [NAME]?"
+  },
+  {
+    "id": "edona8g",
+    "split": "train",
+    "line_idx": 12656,
+    "original_text": "I wish they would put dfs in for [NAME] right now",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu queria que eles colocassem o dfs pro [NAME] agora"
+  },
+  {
+    "id": "ee38hja",
+    "split": "train",
+    "line_idx": 12657,
+    "original_text": "It's so odd. He even sits in the co-pilot spot. Why isn't he now the pilot? [NAME] had never even flown into space before.",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "É tão estranho. Ele até senta no lugar do copiloto. Por que ele não é o piloto agora? [NAME] nunca nem tinha voado pro espaço antes."
+  },
+  {
+    "id": "edmfo09",
+    "split": "train",
+    "line_idx": 12658,
+    "original_text": "I'm just thinking our government sucks at Civilizations. Should have invaded them decades ago. Lots of water and farm land to use.",
+    "emotion_ids": "3,8,20",
+    "emotions": [
+      "annoyance",
+      "desire",
+      "optimism"
+    ],
+    "translated_text": "Eu só acho que nosso governo é uma porcaria em Civilization. Deviam ter invadido eles décadas atrás. Muita água e terra fértil pra aproveitar."
+  },
+  {
+    "id": "ef6py0w",
+    "split": "train",
+    "line_idx": 12659,
+    "original_text": "Man.. I really loved that team.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Cara.. eu realmente amava aquele time."
+  },
+  {
+    "id": "ed20fjc",
+    "split": "train",
+    "line_idx": 12660,
+    "original_text": "oh Ye crazy again for 2019 huh",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "oh Ye tá doidão de novo pra 2019 hein"
+  },
+  {
+    "id": "edt2tdy",
+    "split": "train",
+    "line_idx": 12661,
+    "original_text": "Astrology and asttonomy used to be the same thing. The scientific aspect diverged and got renamed to astronomy to distance itself from the bullshit.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Astrologia e astronomia costumavam ser a mesma coisa. O aspecto científico divergiu e foi renomeado pra astronomia pra se distanciar dessa palhaçada."
+  },
+  {
+    "id": "eeerpnd",
+    "split": "train",
+    "line_idx": 12662,
+    "original_text": "LOL. Glad you noticed.",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "KKKK. Que bom que você notou."
+  },
+  {
+    "id": "edwo00k",
+    "split": "train",
+    "line_idx": 12663,
+    "original_text": "Your nurse is an idiot and I'm sorry you dealt with that. Yes you are sterile, and talking to your doctor is a good idea.",
+    "emotion_ids": "0,24",
+    "emotions": [
+      "admiration",
+      "remorse"
+    ],
+    "translated_text": "Sua enfermeira é uma idiota e sinto muito que você tenha passado por isso. Sim, você é estéril, e falar com seu médico é uma boa ideia."
+  },
+  {
+    "id": "eetw30p",
+    "split": "train",
+    "line_idx": 12664,
+    "original_text": "Just do it... Do her I mean... Get it over and done with.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só faz logo... vai lá com ela, quero dizer... acaba logo com isso."
+  },
+  {
+    "id": "eefasnl",
+    "split": "train",
+    "line_idx": 12665,
+    "original_text": "I always admire a pinch of salt in anything. I can't upvote you enough sir.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Eu sempre admiro uma pitada de sal em qualquer coisa. Não consigo te dar votos positivos o suficiente, senhor."
+  },
+  {
+    "id": "eds4j9f",
+    "split": "train",
+    "line_idx": 12666,
+    "original_text": "you keep telling yourself that - now go back to sleep before you embarrass yourself even more",
+    "emotion_ids": "12,27",
+    "emotions": [
+      "embarrassment",
+      "neutral"
+    ],
+    "translated_text": "continua repetindo isso pra você mesmo - agora volta a dormir antes que você passe ainda mais vergonha"
+  },
+  {
+    "id": "edye2y8",
+    "split": "train",
+    "line_idx": 12667,
+    "original_text": "Which means it isnt his fault? And the 4th? What the fuck was he supposed to do. stop blaming 1 player.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que significa que não é culpa dele? E o 4º? Que porra ele deveria ter feito. parem de culpar 1 jogador."
+  },
+  {
+    "id": "edw6dim",
+    "split": "train",
+    "line_idx": 12668,
+    "original_text": "I'd rather have [NAME]. Killing her off was a waste.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu preferia ter a [NAME]. Matar ela foi um desperdício."
+  },
+  {
+    "id": "ef1lcto",
+    "split": "train",
+    "line_idx": 12669,
+    "original_text": "That's exactly what it was modelled on, MTV show as well. The pun was just begging to made so they did ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Foi exatamente nisso que se basearam, no programa da MTV também. O trocadilho tava implorando pra ser feito, então fizeram"
+  },
+  {
+    "id": "eehsbux",
+    "split": "train",
+    "line_idx": 12670,
+    "original_text": "He did tell me we would play catch when he returned so I am excited about that",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ele me disse que a gente ia jogar bola quando ele voltasse, então tô empolgado com isso"
+  },
+  {
+    "id": "ee91tat",
+    "split": "train",
+    "line_idx": 12671,
+    "original_text": "[NAME] too busy picking his nose with his tongue to pick up that shitty pass?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] ocupado demais cutucando o nariz com a língua pra pegar aquele passe de merda?"
+  },
+  {
+    "id": "edz70tw",
+    "split": "train",
+    "line_idx": 12672,
+    "original_text": "Marketing! That’s a great word to describe what they do.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Marketing! Essa é uma ótima palavra pra descrever o que eles fazem."
+  },
+  {
+    "id": "eeg8z3i",
+    "split": "train",
+    "line_idx": 12673,
+    "original_text": "Vegas favorite getting No picks. That's gotta be pretty unusual",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Favorito de Vegas não recebendo palpites. Isso deve ser bem incomum"
+  },
+  {
+    "id": "ederv8q",
+    "split": "train",
+    "line_idx": 12674,
+    "original_text": "I dunno, \"Lobbyist\" and \"Senator\" seem like mighty fine jobs",
+    "emotion_ids": "4,6",
+    "emotions": [
+      "approval",
+      "confusion"
+    ],
+    "translated_text": "Não sei, \"Lobista\" e \"Senador\" parecem empregos muito bons"
+  },
+  {
+    "id": "eetk2a0",
+    "split": "train",
+    "line_idx": 12675,
+    "original_text": "I would honestly say maybe your son just realised how bad his parent is.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu diria honestamente que talvez seu filho só tenha percebido o quão ruim o pai/mãe dele é."
+  },
+  {
+    "id": "eeev05q",
+    "split": "train",
+    "line_idx": 12676,
+    "original_text": "Love the song! First one I’ve bought in a long time",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amei a música! A primeira que comprei em muito tempo"
+  },
+  {
+    "id": "efh42f5",
+    "split": "train",
+    "line_idx": 12677,
+    "original_text": "At least the crazy lady didn't hunt ya down mate!",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Pelo menos a doida não te caçou, cara!"
+  },
+  {
+    "id": "ef85wa9",
+    "split": "train",
+    "line_idx": 12678,
+    "original_text": "that's hysterical. two legitimate babes.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "isso é hilário. duas gatas legítimas."
+  },
+  {
+    "id": "eeqn255",
+    "split": "train",
+    "line_idx": 12679,
+    "original_text": "ROOMS TO GO LOUNGE TIME",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "HORA DO LOUNGE ROOMS TO GO"
+  },
+  {
+    "id": "ee5qo4m",
+    "split": "train",
+    "line_idx": 12680,
+    "original_text": "I don't know why he'd take it like that, he was gone for so long so someone was going to do a show like that.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não sei por que ele levaria pro lado pessoal, ele ficou fora por tanto tempo que alguém ia acabar fazendo um programa assim."
+  },
+  {
+    "id": "ef89o82",
+    "split": "train",
+    "line_idx": 12681,
+    "original_text": "Went on a trip to the Austin area. This park is nice if you haven’t been there. Subscribe if you can. Enjoy",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Fui fazer uma viagem pra região de Austin. Esse parque é legal se você ainda não foi. Se inscreve se puder. Aproveita"
+  },
+  {
+    "id": "eeq7e8x",
+    "split": "train",
+    "line_idx": 12682,
+    "original_text": "I completely understand why some people would want to report this, I just said that I wouldn’t. You do what you think is right.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu entendo perfeitamente por que algumas pessoas gostariam de denunciar isso, eu só disse que eu não faria. Você faz o que achar certo."
+  },
+  {
+    "id": "eeduzwn",
+    "split": "train",
+    "line_idx": 12683,
+    "original_text": "I'll call [NAME], somebody else get smashmouth ready",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vou ligar pro [NAME], alguém prepare o smashmouth"
+  },
+  {
+    "id": "ed3z6by",
+    "split": "train",
+    "line_idx": 12684,
+    "original_text": "This team isn’t winning the 2019 cup. I’m focused on 2022 and beyond",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Esse time não vai ganhar a copa de 2019. Tô focado em 2022 e além"
+  },
+  {
+    "id": "ed8swrf",
+    "split": "train",
+    "line_idx": 12685,
+    "original_text": "🤷🏻‍♀️ As a wise man once said: he was a bastard in life thus a bastard in death ",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "🤷🏻‍♀️ Como um sábio disse uma vez: ele foi um canalha na vida, então é um canalha na morte"
+  },
+  {
+    "id": "ee0v1hu",
+    "split": "train",
+    "line_idx": 12686,
+    "original_text": "They didn’t even respond to my email so I don’t think it’s gonna work",
+    "emotion_ids": "3,9,25",
+    "emotions": [
+      "annoyance",
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Eles nem responderam meu e-mail, então não acho que vai dar certo"
+  },
+  {
+    "id": "efdimek",
+    "split": "train",
+    "line_idx": 12687,
+    "original_text": "Rumor is false. New system has been posted on the sub here somewhere.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O boato é falso. O novo sistema foi postado aqui no sub em algum lugar."
+  },
+  {
+    "id": "ef145n0",
+    "split": "train",
+    "line_idx": 12688,
+    "original_text": "I agree with this coked-up fiend.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Concordo com esse viciado cheirado."
+  },
+  {
+    "id": "ef3566e",
+    "split": "train",
+    "line_idx": 12689,
+    "original_text": "Don’t be getting notions",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não começa a ter ideias"
+  },
+  {
+    "id": "edc84ig",
+    "split": "train",
+    "line_idx": 12690,
+    "original_text": "Gaaahhh. That one would hurt.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Gaaahhh. Essa deve ter doído."
+  },
+  {
+    "id": "eesa2xc",
+    "split": "train",
+    "line_idx": 12691,
+    "original_text": "I think I just view her even more as a friend instead of as a psychiatrist. I can’t help but worry about her wellbeing listening to me",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Acho que só vejo ela cada vez mais como uma amiga do que como psiquiatra. Não consigo evitar de me preocupar com o bem-estar dela me ouvindo"
+  },
+  {
+    "id": "edycshi",
+    "split": "train",
+    "line_idx": 12692,
+    "original_text": "username check out",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "o nome de usuário faz sentido"
+  },
+  {
+    "id": "eevwrrj",
+    "split": "train",
+    "line_idx": 12693,
+    "original_text": "San Diego is fucking awesome! This is coming from someone who lives in arguably the best place to live in Canada",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "San Diego é bom pra caralho! E olha que eu moro no que provavelmente é o melhor lugar pra se viver no Canadá"
+  },
+  {
+    "id": "ee73y1y",
+    "split": "train",
+    "line_idx": 12694,
+    "original_text": "Well I don't think it works the other way around. As someone who is incredibly insecure, I am also definitely not a narcissist.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Bom, eu não acho que funcione ao contrário. Como alguém que é extremamente inseguro, eu definitivamente não sou um narcisista."
+  },
+  {
+    "id": "ef9sdql",
+    "split": "train",
+    "line_idx": 12695,
+    "original_text": "He will, I feel like it's Christmas Eve and I'm waiting for [NAME].",
+    "emotion_ids": "8,13,17",
+    "emotions": [
+      "desire",
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Ele vai, sinto como se fosse véspera de Natal e eu estivesse esperando o [NAME]."
+  },
+  {
+    "id": "edy8bgh",
+    "split": "train",
+    "line_idx": 12696,
+    "original_text": "come on, Redwings won, Knights need to win. give me another 2-fer, baby!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "qualé, Redwings ganharam, Knights precisam ganhar. me dá outro combo, bebê!"
+  },
+  {
+    "id": "ef9tryf",
+    "split": "train",
+    "line_idx": 12697,
+    "original_text": "I, too, am a lot of fun at parties. We can stand together in the corner! ",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu também sou muito divertido em festas. Podemos ficar juntos no canto!"
+  },
+  {
+    "id": "ee7a8v9",
+    "split": "train",
+    "line_idx": 12698,
+    "original_text": "This guy should go to HELL",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Esse cara deveria ir pro INFERNO"
+  },
+  {
+    "id": "eeqf86c",
+    "split": "train",
+    "line_idx": 12699,
+    "original_text": "Poor dva keeps getting nerfed because she works well with every comp.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A pobre dva continua sendo nerfada porque ela funciona bem com qualquer composição."
+  }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "id": "eeo56tk",
+    "split": "train",
+    "line_idx": 3700,
+    "original_text": "Ur a dumbass",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Você é um idiota"
+  },
+  {
+    "id": "edrqncb",
+    "split": "train",
+    "line_idx": 3701,
+    "original_text": "Looks like its straight outta Napoleon Dynamite",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que saiu direto de Napoleon Dynamite"
+  },
+  {
+    "id": "eep1k4i",
+    "split": "train",
+    "line_idx": 3702,
+    "original_text": "How to instantly look 20 years younger!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Como parecer 20 anos mais jovem instantaneamente!"
+  },
+  {
+    "id": "efbbe42",
+    "split": "train",
+    "line_idx": 3703,
+    "original_text": "Don't move there without at least a few months' living expenses saved up.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não se mude para lá sem ter pelo menos uns meses de custo de vida guardados."
+  },
+  {
+    "id": "ee0uqwk",
+    "split": "train",
+    "line_idx": 3704,
+    "original_text": "Sorry to be the bearer of bad news",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa ser o portador de más notícias"
+  },
+  {
+    "id": "edk9ju2",
+    "split": "train",
+    "line_idx": 3705,
+    "original_text": "oh, that's nice. welcome everyone!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "ah, que legal. bem-vindos a todos!"
+  },
+  {
+    "id": "ef5ey4w",
+    "split": "train",
+    "line_idx": 3706,
+    "original_text": "I probably would have upvoted it for effort.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Eu provavelmente teria dado um upvote pelo esforço."
+  },
+  {
+    "id": "edic68v",
+    "split": "train",
+    "line_idx": 3707,
+    "original_text": "Oh [NAME] how awful",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Ah [NAME] que horror"
+  },
+  {
+    "id": "eejlo9o",
+    "split": "train",
+    "line_idx": 3708,
+    "original_text": "Thanks [NAME], very cool.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu [NAME], muito legal."
+  },
+  {
+    "id": "edn6az8",
+    "split": "train",
+    "line_idx": 3709,
+    "original_text": "I love PnR",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo PnR"
+  },
+  {
+    "id": "ed1k0vl",
+    "split": "train",
+    "line_idx": 3710,
+    "original_text": "I love polo shirts",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo camisas polo"
+  },
+  {
+    "id": "eek8r0t",
+    "split": "train",
+    "line_idx": 3711,
+    "original_text": "Allegedly boosted. Tournament is over and it went down to 10k",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Supostamente impulsionado. O torneio acabou e caiu para 10k"
+  },
+  {
+    "id": "ee67jdw",
+    "split": "train",
+    "line_idx": 3712,
+    "original_text": "Wow 😮 you really convinced me... like gtfo here",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa 😮 você realmente me convenceu... tipo, vaza daqui"
+  },
+  {
+    "id": "eezbune",
+    "split": "train",
+    "line_idx": 3713,
+    "original_text": "That does help a bit, thanks.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Isso ajuda um pouco, valeu."
+  },
+  {
+    "id": "ee4qmhs",
+    "split": "train",
+    "line_idx": 3714,
+    "original_text": "Damnit - I'm blind. It's 6am here - I should really go to sleep, but I want to see what happens next.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Droga - tô cego. São 6 da manhã aqui - eu devia mesmo ir dormir, mas quero ver o que acontece depois."
+  },
+  {
+    "id": "edcmkkf",
+    "split": "train",
+    "line_idx": 3715,
+    "original_text": "NCAA is a poor barometer for scoring. [NAME] was leading scorer in all NCAA for like 3 years running. Not even sure he got drafted.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "NCAA é um péssimo termômetro para pontuação. [NAME] foi o maior pontuador de toda a NCAA por uns 3 anos seguidos. Nem tenho certeza se ele foi draftado."
+  },
+  {
+    "id": "eff92us",
+    "split": "train",
+    "line_idx": 3716,
+    "original_text": "I love how someone put a laughing emoji on that.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adoro como alguém colocou um emoji de risada nisso."
+  },
+  {
+    "id": "edyjkm5",
+    "split": "train",
+    "line_idx": 3717,
+    "original_text": "Ooh! Ooh! I want to lose more than 5-10 vanity pounds! (...wink wink)",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ooh! Ooh! Eu quero perder mais do que 5-10 quilos de vaidade! (...piscadinha)"
+  },
+  {
+    "id": "eevuxug",
+    "split": "train",
+    "line_idx": 3718,
+    "original_text": "Like always i will wait and see thanks for the post tho [NAME]",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Como sempre vou esperar para ver, mas valeu pelo post [NAME]"
+  },
+  {
+    "id": "eebf4a6",
+    "split": "train",
+    "line_idx": 3719,
+    "original_text": "Don't see it at all, but she's cute with the freckles",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Não vejo nada disso, mas ela é fofa com as sardas"
+  },
+  {
+    "id": "eeqwdr4",
+    "split": "train",
+    "line_idx": 3720,
+    "original_text": "Well thank you for all that you are doing. Have you considered becoming a dispatcher too while you are at it? Haha",
+    "emotion_ids": "1,7,15",
+    "emotions": [
+      "amusement",
+      "curiosity",
+      "gratitude"
+    ],
+    "translated_text": "Bem, obrigado por tudo que você está fazendo. Você já pensou em virar despachante também enquanto está nisso? Haha"
+  },
+  {
+    "id": "ed2egrq",
+    "split": "train",
+    "line_idx": 3721,
+    "original_text": "It is not selfish to end a relationship that is causing you great stress and you feel is over despite loving them.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não é egoísmo terminar um relacionamento que está te causando muito estresse e que você sente que acabou, apesar de amá-los."
+  },
+  {
+    "id": "ed852ln",
+    "split": "train",
+    "line_idx": 3722,
+    "original_text": "Same can be said for fragile liberals who can't handle cultural traditions and keep trying to push the envelope.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "O mesmo pode ser dito para liberais frágeis que não aguentam tradições culturais e ficam tentando forçar a barra."
+  },
+  {
+    "id": "edwat00",
+    "split": "train",
+    "line_idx": 3723,
+    "original_text": "Today on 'Days of Our Steelers'...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Hoje em 'Days of Our Steelers'..."
+  },
+  {
+    "id": "ef6utjz",
+    "split": "train",
+    "line_idx": 3724,
+    "original_text": "5'11\" [NAME]. He's basically 6 foot, so I must be missing something here.",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "1,80m [NAME]. Ele tem basicamente 1,83m, então devo estar perdendo alguma coisa aqui."
+  },
+  {
+    "id": "edh5b7z",
+    "split": "train",
+    "line_idx": 3725,
+    "original_text": "Ironic. He could save others from secrecy-enabled corruption, but not himself.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Irônico. Ele podia salvar os outros da corrupção facilitada pelo sigilo, mas não a si mesmo."
+  },
+  {
+    "id": "ed6ysxd",
+    "split": "train",
+    "line_idx": 3726,
+    "original_text": "Ah, cool cool cool",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, legal legal legal"
+  },
+  {
+    "id": "ed1n6hy",
+    "split": "train",
+    "line_idx": 3727,
+    "original_text": "I can’t believe that’s real",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Não acredito que isso é real"
+  },
+  {
+    "id": "edftzmy",
+    "split": "train",
+    "line_idx": 3728,
+    "original_text": "They can always fall back on Married with Children re-runs.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles sempre podem recorrer às reprises de Married with Children."
+  },
+  {
+    "id": "ef8hlyp",
+    "split": "train",
+    "line_idx": 3729,
+    "original_text": "SO FAR I couldn’t even listen to all of zombie bastards and ckth was mediocre",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ATÉ AGORA eu nem consegui ouvir todos os zombie bastards e ckth foi medíocre"
+  },
+  {
+    "id": "ef31len",
+    "split": "train",
+    "line_idx": 3730,
+    "original_text": "Haha yeah actually they don't feel that good but life does involve sacrifice.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Haha é, na verdade eles não são tão bons assim, mas a vida envolve sacrifício."
+  },
+  {
+    "id": "edm61ke",
+    "split": "train",
+    "line_idx": 3731,
+    "original_text": "B, I dont frink coffee anyways ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "B, eu nem bebo café mesmo"
+  },
+  {
+    "id": "edu0iab",
+    "split": "train",
+    "line_idx": 3732,
+    "original_text": "Bless them!",
+    "emotion_ids": "5,18",
+    "emotions": [
+      "caring",
+      "love"
+    ],
+    "translated_text": "Deus os abençoe!"
+  },
+  {
+    "id": "ee708vb",
+    "split": "train",
+    "line_idx": 3733,
+    "original_text": "Faceee, you see all those models, be it plus sized, underweight or fit, all have one thing in common , good facial features",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Rosto, você vê todas essas modelos, sejam plus size, abaixo do peso ou em forma, todas têm uma coisa em comum, bons traços faciais"
+  },
+  {
+    "id": "eevykox",
+    "split": "train",
+    "line_idx": 3734,
+    "original_text": "I'm not a real estate guy, but isn't it normal for rich people to buy nice houses in nice areas?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não sou do ramo imobiliário, mas não é normal gente rica comprar casas boas em áreas boas?"
+  },
+  {
+    "id": "ed1ivu3",
+    "split": "train",
+    "line_idx": 3735,
+    "original_text": "Oi he got stabbed in the eye",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eita, ele levou uma facada no olho"
+  },
+  {
+    "id": "ednwvhe",
+    "split": "train",
+    "line_idx": 3736,
+    "original_text": "Reason number 1523648856 PFF is trash no one should take seriously",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Motivo número 1523648856 pelo qual o PFF é um lixo e ninguém deveria levar a sério"
+  },
+  {
+    "id": "edy001r",
+    "split": "train",
+    "line_idx": 3737,
+    "original_text": "I'm happy however those two don't get a ring. Would be overjoyed if it was at the hands of [NAME], [NAME], and [NAME].",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Fico feliz que aqueles dois não ganhem um anel. Ficaria radiante se fosse pelas mãos de [NAME], [NAME] e [NAME]."
+  },
+  {
+    "id": "edz45t9",
+    "split": "train",
+    "line_idx": 3738,
+    "original_text": "Ever since I could squat, deadlift, and bench more than my father he never questioned my decision. haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Desde que consegui fazer agachamento, levantamento terra e supino com mais peso que meu pai, ele nunca questionou minha decisão. haha"
+  },
+  {
+    "id": "eejrf4b",
+    "split": "train",
+    "line_idx": 3739,
+    "original_text": "It's only 5 mins, but I hope this is the one. Sorry that happened to you friend.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "São só 5 minutos, mas espero que seja esse. Sinto muito que isso tenha acontecido com você, amigo."
+  },
+  {
+    "id": "eeszd0g",
+    "split": "train",
+    "line_idx": 3740,
+    "original_text": "But everybody got mad when Russia recognized [NAME] as US president. Go figure.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Mas todo mundo ficou bravo quando a Rússia reconheceu [NAME] como presidente dos EUA. Vai entender."
+  },
+  {
+    "id": "ee6ziv2",
+    "split": "train",
+    "line_idx": 3741,
+    "original_text": "This is why I love Reddit.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "É por isso que eu amo o Reddit."
+  },
+  {
+    "id": "eezhes4",
+    "split": "train",
+    "line_idx": 3742,
+    "original_text": "When he formally announces, that's when my big donation will drop.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando ele anunciar formalmente, é aí que minha grande doação vai cair."
+  },
+  {
+    "id": "ef6490d",
+    "split": "train",
+    "line_idx": 3743,
+    "original_text": "Hello, future people!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Olá, pessoas do futuro!"
+  },
+  {
+    "id": "ed9uvwi",
+    "split": "train",
+    "line_idx": 3744,
+    "original_text": "I love the sense of humor on this sub. It gets me.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Adoro o senso de humor desse sub. Ele me entende."
+  },
+  {
+    "id": "edctc89",
+    "split": "train",
+    "line_idx": 3745,
+    "original_text": "I’m so sorry. <3",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Sinto muito. <3"
+  },
+  {
+    "id": "effla1v",
+    "split": "train",
+    "line_idx": 3746,
+    "original_text": "Hot damn.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Caramba."
+  },
+  {
+    "id": "ef0zqce",
+    "split": "train",
+    "line_idx": 3747,
+    "original_text": "I mean he's still not wrong. A traitor did bring out the worst in him then.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Quer dizer, ele ainda não está errado. Um traidor trouxe o pior dele naquela época."
+  },
+  {
+    "id": "edheugv",
+    "split": "train",
+    "line_idx": 3748,
+    "original_text": "He drives to the basket like [NAME] used to. And can shoot the 3. And he's super clutch. Love the dude",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Ele dirige para a cesta como o [NAME] costumava fazer. E sabe arremessar de 3. E é super decisivo. Adoro o cara"
+  },
+  {
+    "id": "ef8t8wr",
+    "split": "train",
+    "line_idx": 3749,
+    "original_text": "This is why you play runescape as a kid, it teaches how to trust no one that offers free rune plate trimming",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "É por isso que você joga runescape quando criança, ele ensina a não confiar em ninguém que oferece aparar armadura rúnica de graça"
+  }
+]

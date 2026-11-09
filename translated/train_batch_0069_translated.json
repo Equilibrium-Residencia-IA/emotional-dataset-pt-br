@@ -1,0 +1,558 @@
+[
+  {
+    "id": "ee4v0ep",
+    "split": "train",
+    "line_idx": 3450,
+    "original_text": "Also why we only get two Senators per state.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "E também por que a gente só tem dois senadores por estado."
+  },
+  {
+    "id": "edh39ib",
+    "split": "train",
+    "line_idx": 3451,
+    "original_text": "Can we ban posts about him now he's a predator? It just makes me sad now, Idk about anyone else",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Dá pra banir posts sobre ele agora que ele é um predador? Isso só me deixa triste agora, não sei quanto aos outros"
+  },
+  {
+    "id": "edlyj9j",
+    "split": "train",
+    "line_idx": 3452,
+    "original_text": "22 years to the day. It was uncanny.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "22 anos cravados. Foi bizarro."
+  },
+  {
+    "id": "ef5jmac",
+    "split": "train",
+    "line_idx": 3453,
+    "original_text": "I finally know where [NAME] is: drunk at a train station.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Finalmente descobri onde o [NAME] está: bêbado numa estação de trem."
+  },
+  {
+    "id": "ee3gnjc",
+    "split": "train",
+    "line_idx": 3454,
+    "original_text": "the fuck? I would do it in a heart beat. ya'll nuts if you think [NAME] will draft any better than [NAME]",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "que porra é essa? Eu faria isso num piscar de olhos. vocês são malucos se acham que o [NAME] vai draftar melhor que o [NAME]"
+  },
+  {
+    "id": "ed64745",
+    "split": "train",
+    "line_idx": 3455,
+    "original_text": "Belive in yourself",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acredite em você mesmo"
+  },
+  {
+    "id": "ef7jc7u",
+    "split": "train",
+    "line_idx": 3456,
+    "original_text": "Stop, your hurting me!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Para, você tá me machucando!"
+  },
+  {
+    "id": "edommtk",
+    "split": "train",
+    "line_idx": 3457,
+    "original_text": "Forcing your partner to suppress their interests because you dislike them.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Forçar seu parceiro a reprimir os interesses dele só porque você não gosta."
+  },
+  {
+    "id": "edlp5ed",
+    "split": "train",
+    "line_idx": 3458,
+    "original_text": "That’s on Canada. Sorry but I gotta give credit where credits due",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Isso é com o Canadá. Desculpa, mas tenho que dar o braço a torcer quando merece"
+  },
+  {
+    "id": "edqhgkk",
+    "split": "train",
+    "line_idx": 3459,
+    "original_text": "I believe if under 6 months you'll get it all back in the end.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Eu acredito que se for menos de 6 meses você recebe tudo de volta no final."
+  },
+  {
+    "id": "eep6z96",
+    "split": "train",
+    "line_idx": 3460,
+    "original_text": "You can't control what happens around you. You can only control how you react to it.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você não pode controlar o que acontece ao seu redor. Você só pode controlar como reage a isso."
+  },
+  {
+    "id": "efa02bk",
+    "split": "train",
+    "line_idx": 3461,
+    "original_text": "Wow. That went south both times. Wanna try for a third?",
+    "emotion_ids": "7,26",
+    "emotions": [
+      "curiosity",
+      "surprise"
+    ],
+    "translated_text": "Nossa. Deu ruim nas duas vezes. Quer tentar uma terceira?"
+  },
+  {
+    "id": "edcdj5t",
+    "split": "train",
+    "line_idx": 3462,
+    "original_text": "Wait, so you really can't carry bags to school in US? ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pera, então vocês realmente não podem levar mochila pra escola nos EUA?"
+  },
+  {
+    "id": "eeu0xdw",
+    "split": "train",
+    "line_idx": 3463,
+    "original_text": "Seriously! I'm on Xbox and all my crew and we have never had an issue!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Sério mesmo! Eu jogo no Xbox e todo o meu grupo e a gente nunca teve problema nenhum!"
+  },
+  {
+    "id": "edmgs7m",
+    "split": "train",
+    "line_idx": 3464,
+    "original_text": "But it literally had. Her name on it. Kids are so fucking stupid.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Mas literalmente tinha. O nome dela escrito. Crianças são muito burras pra caralho."
+  },
+  {
+    "id": "ee815ot",
+    "split": "train",
+    "line_idx": 3465,
+    "original_text": "My wife is not allowed to flick my ears for any reason, and apparently I'm not allowed to stick my finger into her bellybutton lmao.",
+    "emotion_ids": "1,27",
+    "emotions": [
+      "amusement",
+      "neutral"
+    ],
+    "translated_text": "Minha esposa não tem permissão pra dar peteleco na minha orelha por motivo nenhum, e aparentemente eu não posso enfiar meu dedo no umbigo dela kkkkk"
+  },
+  {
+    "id": "ee6csut",
+    "split": "train",
+    "line_idx": 3466,
+    "original_text": "Very good! Now run along little boy. Shew! Fft!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Muito bem! Agora vai brincar, garotinho. Xô! Sai pra lá!"
+  },
+  {
+    "id": "ee4iq91",
+    "split": "train",
+    "line_idx": 3467,
+    "original_text": "Thanks. I though it was fooling a penquin.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu. Eu achei que tava enganando um pinguim."
+  },
+  {
+    "id": "ee85jm2",
+    "split": "train",
+    "line_idx": 3468,
+    "original_text": "Good luck going to jail.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Boa sorte indo pra cadeia."
+  },
+  {
+    "id": "eduibgu",
+    "split": "train",
+    "line_idx": 3469,
+    "original_text": "Lmao. Thank God [NAME] lost and [NAME] crushed the souls of these lunatics in 2016",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Kkkkk. Graças a Deus o [NAME] perdeu e o [NAME] destruiu a alma desses lunáticos em 2016"
+  },
+  {
+    "id": "eet5ryt",
+    "split": "train",
+    "line_idx": 3470,
+    "original_text": "Large McDonalds fry 🙈",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Batata frita grande do McDonald's 🙈"
+  },
+  {
+    "id": "edmik0z",
+    "split": "train",
+    "line_idx": 3471,
+    "original_text": "But was he wrong though?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Mas ele tava errado, por acaso?"
+  },
+  {
+    "id": "eexdk28",
+    "split": "train",
+    "line_idx": 3472,
+    "original_text": "r/fellowkids is like the epitome of Weezer. Looking at you, Pacific Daydream. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "r/fellowkids é tipo o epítome do Weezer. Tô olhando pra você, Pacific Daydream."
+  },
+  {
+    "id": "ef9s3wl",
+    "split": "train",
+    "line_idx": 3473,
+    "original_text": "Thank you so much! Having these few subs for the quality videos he's creating makes the channel a hidden gem.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado! Ter esses poucos inscritos pros vídeos de qualidade que ele tá criando faz do canal uma joia escondida."
+  },
+  {
+    "id": "ee6ieq7",
+    "split": "train",
+    "line_idx": 3474,
+    "original_text": "She liked the picture too so it’s even better. Like she really does not give a shit hahaha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ela curtiu a foto também, então é melhor ainda. Tipo, ela realmente não tá nem aí hahaha"
+  },
+  {
+    "id": "eecg1a4",
+    "split": "train",
+    "line_idx": 3475,
+    "original_text": "Wow, *only* 7 exes. You are definitely FA.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, *só* 7 exes. Você é definitivamente um fracassado amoroso."
+  },
+  {
+    "id": "edd2zws",
+    "split": "train",
+    "line_idx": 3476,
+    "original_text": "Oh man, dream date right there. Zoo then sushi?? Yes please. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nossa cara, encontro dos sonhos aí. Zoológico e depois sushi?? Com certeza, por favor."
+  },
+  {
+    "id": "efaw1e5",
+    "split": "train",
+    "line_idx": 3477,
+    "original_text": "Oh you're getting trolls trolls. Damn what sub you think they are getting you from, lol I'm not gonna mess with them.",
+    "emotion_ids": "1,11",
+    "emotions": [
+      "amusement",
+      "disgust"
+    ],
+    "translated_text": "Ah, você tá sendo trollado, trollado. Caramba, de qual sub você acha que eles estão vindo, kkk não vou me meter com eles."
+  },
+  {
+    "id": "ee5ch34",
+    "split": "train",
+    "line_idx": 3478,
+    "original_text": "Pretty sure neither team wants this, it's a BS rumor",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tenho quase certeza que nenhum dos times quer isso, é um boato sem noção"
+  },
+  {
+    "id": "ed62r32",
+    "split": "train",
+    "line_idx": 3479,
+    "original_text": "Cruelty free for animals anyway. 🤦",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Pelo menos é livre de crueldade contra animais. 🤦"
+  },
+  {
+    "id": "ed4a8si",
+    "split": "train",
+    "line_idx": 3480,
+    "original_text": "The truly sad thing is she's getting burned to legitimize Russiagate. It's a shame she wasn't a legit whistleblower.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "O que é realmente triste é que ela tá sendo queimada pra legitimar o Russiagate. É uma pena que ela não tenha sido uma denunciante legítima."
+  },
+  {
+    "id": "eevv2qq",
+    "split": "train",
+    "line_idx": 3481,
+    "original_text": "They're mad",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles estão putos"
+  },
+  {
+    "id": "eda1ry0",
+    "split": "train",
+    "line_idx": 3482,
+    "original_text": "\"While we've decided not to hire you for this postion mr. [NAME], we have an opening at the ticket window\"",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "\"Embora tenhamos decidido não te contratar para esta vaga, Sr. [NAME], temos uma vaga aberta na bilheteria\""
+  },
+  {
+    "id": "eelatgw",
+    "split": "train",
+    "line_idx": 3483,
+    "original_text": "PATS DEFENSE YOU ARE USELESS.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "DEFESA DOS PATS VOCÊS SÃO INÚTEIS."
+  },
+  {
+    "id": "efci8wu",
+    "split": "train",
+    "line_idx": 3484,
+    "original_text": "What's up, man? I'm new to this but I will try my best ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "E aí, cara? Sou novo nisso, mas vou dar o meu melhor"
+  },
+  {
+    "id": "edqc8g7",
+    "split": "train",
+    "line_idx": 3485,
+    "original_text": "Is Arges the Bright one available? I see his spawn location is in game now",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "O Arges, o Brilhante, tá disponível? Vi que o local de spawn dele tá no jogo agora"
+  },
+  {
+    "id": "efgm9ds",
+    "split": "train",
+    "line_idx": 3486,
+    "original_text": "[NAME]! [NAME]! A bag of your finest wine please, to go!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]! [NAME]! Uma garrafa do seu melhor vinho, por favor, pra levar!"
+  },
+  {
+    "id": "edoa8jv",
+    "split": "train",
+    "line_idx": 3487,
+    "original_text": "Upvoted because [NAME] is a good boi and can’t help it, but tbh it makes me sad to see him struggle like that..!",
+    "emotion_ids": "4,25",
+    "emotions": [
+      "approval",
+      "sadness"
+    ],
+    "translated_text": "Dei upvote porque o [NAME] é um bom garoto e não tem culpa, mas na real me deixa triste ver ele sofrendo assim..!"
+  },
+  {
+    "id": "ee891lc",
+    "split": "train",
+    "line_idx": 3488,
+    "original_text": "West Hartford, CT. Unfortunately it's not religious. Thank you for the response.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "West Hartford, CT. Infelizmente não é religioso. Obrigado pela resposta."
+  },
+  {
+    "id": "ef85e6h",
+    "split": "train",
+    "line_idx": 3489,
+    "original_text": "I should be back tomorrow according to your GM",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu devo voltar amanhã, de acordo com o seu GM"
+  },
+  {
+    "id": "edsfrfj",
+    "split": "train",
+    "line_idx": 3490,
+    "original_text": "I eat crayons I shit crayons",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Eu como giz, eu cago giz"
+  },
+  {
+    "id": "edp09vq",
+    "split": "train",
+    "line_idx": 3491,
+    "original_text": "I mainly play EDH. Did try standard at one point as well but lost interest",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu jogo principalmente EDH. Cheguei a tentar o standard uma vez também, mas perdi o interesse"
+  },
+  {
+    "id": "edx9as5",
+    "split": "train",
+    "line_idx": 3492,
+    "original_text": "[NAME] is for real. This is gonna be his league in a few years imo. Great pick.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O [NAME] é de verdade. Essa liga vai ser dele daqui a uns anos, na minha opinião. Ótima escolha."
+  },
+  {
+    "id": "ef7d389",
+    "split": "train",
+    "line_idx": 3493,
+    "original_text": "Hate them. I really don't need to hear about you pissing your pants in the first grade.",
+    "emotion_ids": "2,10",
+    "emotions": [
+      "anger",
+      "disapproval"
+    ],
+    "translated_text": "Odeio eles. Eu realmente não preciso ouvir sobre você ter mijado nas calças na primeira série."
+  },
+  {
+    "id": "edzsyk7",
+    "split": "train",
+    "line_idx": 3494,
+    "original_text": "Eh, that can happen anywhere. It isn't exclusive to Dallas where that stuff happens. Good luck tho.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ah, isso pode acontecer em qualquer lugar. Não é exclusivo de Dallas, onde essas coisas acontecem. Boa sorte, no entanto."
+  },
+  {
+    "id": "ee9302b",
+    "split": "train",
+    "line_idx": 3495,
+    "original_text": "not having periods for sure",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "com certeza não menstruar"
+  },
+  {
+    "id": "ef56viz",
+    "split": "train",
+    "line_idx": 3496,
+    "original_text": "Ugh, I want to have his baby too...",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Aff, eu também quero ter um filho dele..."
+  },
+  {
+    "id": "ef0q5g0",
+    "split": "train",
+    "line_idx": 3497,
+    "original_text": "I did not know Donuts could be so complicated.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Eu não sabia que Donuts podiam ser tão complicados."
+  },
+  {
+    "id": "eezg1vb",
+    "split": "train",
+    "line_idx": 3498,
+    "original_text": "A surprise to no one. Absolute stud.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Surpresa pra ninguém. Um garanhão absoluto."
+  },
+  {
+    "id": "ee9amsf",
+    "split": "train",
+    "line_idx": 3499,
+    "original_text": "Well what is she gonna do, climb over the wall?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, o que ela vai fazer, escalar o muro?"
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "id": "ed8mswd",
+    "split": "train",
+    "line_idx": 11550,
+    "original_text": "Am I *wooshing*? I don’t believe there’s a patriarchy in the US",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tô viajando ou o quê? Não acredito que exista um patriarcado nos EUA"
+  },
+  {
+    "id": "ed8ezqg",
+    "split": "train",
+    "line_idx": 11551,
+    "original_text": "Notley-nomics helps grow the economy once again! Thank [NAME] we have such good governance.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "A Notley-nomics ajudando a economia a crescer de novo! Graças a [NAME] que a gente tem uma gestão tão boa."
+  },
+  {
+    "id": "ed1pej5",
+    "split": "train",
+    "line_idx": 11552,
+    "original_text": "Weird how this shouldn’t be SFW, but it is",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bizarro como isso não deveria ser SFW, mas é"
+  },
+  {
+    "id": "eefylsk",
+    "split": "train",
+    "line_idx": 11553,
+    "original_text": "This was driving me NUTS!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Isso tava me deixando MALUCO!"
+  },
+  {
+    "id": "ed7o9t2",
+    "split": "train",
+    "line_idx": 11554,
+    "original_text": "But i like being the trickiest of traps 😣",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Mas eu gosto de ser a mais ardilosa das armadilhas 😣"
+  },
+  {
+    "id": "eczsex7",
+    "split": "train",
+    "line_idx": 11555,
+    "original_text": "The worst is when those moments pop up randomly. Especially when you’re feeling happy and then a mistake you did back in 2005 comes creeping up.",
+    "emotion_ids": "2,17",
+    "emotions": [
+      "anger",
+      "joy"
+    ],
+    "translated_text": "O pior é quando esses momentos surgem do nada. Especialmente quando você tá se sentindo feliz e aí um erro que você cometeu lá em 2005 vem te assombrar."
+  },
+  {
+    "id": "effkc51",
+    "split": "train",
+    "line_idx": 11556,
+    "original_text": "Its the same AS to go to a bank and to say My kid loves money give him all of it",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "É a mesma coisa que ir num banco e falar: meu filho ama dinheiro, dá tudo pra ele"
+  },
+  {
+    "id": "eecpfdu",
+    "split": "train",
+    "line_idx": 11557,
+    "original_text": "This is the worst advice I've ever read. You should be ashamed for posting it.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Esse é o pior conselho que eu já li. Você deveria ter vergonha de postar isso."
+  },
+  {
+    "id": "ed2e27l",
+    "split": "train",
+    "line_idx": 11558,
+    "original_text": "Naw she's got \"meth belly\". When they are so skinny from not eating but burning calories but they are bloated so much they look pregnant. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, ela tá com \"barriga de metanfetamina\". Quando elas ficam tão magras por não comer, mas queimando calorias, e ficam tão inchadas que parecem grávidas."
+  },
+  {
+    "id": "ef1lqh1",
+    "split": "train",
+    "line_idx": 11559,
+    "original_text": "Oh, you sweet summer angel.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, sua alma pura e inocente."
+  },
+  {
+    "id": "ee3lyo1",
+    "split": "train",
+    "line_idx": 11560,
+    "original_text": "Oceania is my favorite Smashing Pumpkins album",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Oceania é meu álbum favorito do Smashing Pumpkins"
+  },
+  {
+    "id": "edoeofb",
+    "split": "train",
+    "line_idx": 11561,
+    "original_text": "Lol kill me now",
+    "emotion_ids": "1,2",
+    "emotions": [
+      "amusement",
+      "anger"
+    ],
+    "translated_text": "Lol me mata agora"
+  },
+  {
+    "id": "eezolho",
+    "split": "train",
+    "line_idx": 11562,
+    "original_text": "Bah gawd that drop step fake pass turnaround jumper is [NAME] move! They really love each other!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu Deus, esse drible, o passe falso e o arremesso girando é a jogada do [NAME]! Eles realmente se amam!"
+  },
+  {
+    "id": "ed8enfj",
+    "split": "train",
+    "line_idx": 11563,
+    "original_text": "She knew the magic words. Luckily it doesn't seem like anyone else was harmed.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Ela sabia as palavras mágicas. Felizmente, não parece que mais ninguém se machucou."
+  },
+  {
+    "id": "eezicrw",
+    "split": "train",
+    "line_idx": 11564,
+    "original_text": "I love how all these suspects greet [NAME] like an old friend.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu adoro como todos esses suspeitos cumprimentam o [NAME] como se fosse um velho amigo."
+  },
+  {
+    "id": "ed2io8u",
+    "split": "train",
+    "line_idx": 11565,
+    "original_text": "So true, their track record isn't great. Feels like you can only play her in limited ways or die though.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tão verdade, o histórico deles não é dos melhores. Parece que você só consegue jogar com ela de formas limitadas ou então você morre."
+  },
+  {
+    "id": "ede7vp7",
+    "split": "train",
+    "line_idx": 11566,
+    "original_text": "It's common knowledge that offering to feed yourselves to wolves makes them leave you alone out of boredom.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É senso comum que se oferecer pra ser comida de lobo faz eles te deixarem em paz por puro tédio."
+  },
+  {
+    "id": "eef4frp",
+    "split": "train",
+    "line_idx": 11567,
+    "original_text": "Right? I'd launch myself at him. Beautiful looking guy. <3",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Né? Eu me jogaria em cima dele. Cara lindo demais. <3"
+  },
+  {
+    "id": "edn6g6m",
+    "split": "train",
+    "line_idx": 11568,
+    "original_text": "Also a possibility.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Também é uma possibilidade."
+  },
+  {
+    "id": "ef8vrrz",
+    "split": "train",
+    "line_idx": 11569,
+    "original_text": "Just saying what is already known really. Nobody will do anything and we'll continue down the same path.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só falando o que já é sabido, na real. Ninguém vai fazer nada e a gente vai continuar no mesmo caminho."
+  },
+  {
+    "id": "eea715e",
+    "split": "train",
+    "line_idx": 11570,
+    "original_text": "That creepy realization that everything [NAME] says is projection...",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Aquela percepção assustadora de que tudo o que o [NAME] diz é projeção..."
+  },
+  {
+    "id": "eeh70ak",
+    "split": "train",
+    "line_idx": 11571,
+    "original_text": "No seriously, why do you have the Daily Mail app on your phone?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Não, sério, por que você tem o app do Daily Mail no seu celular?"
+  },
+  {
+    "id": "eeofx58",
+    "split": "train",
+    "line_idx": 11572,
+    "original_text": "This whole thing is ridiculous, I love reddit sometimes. ... and I'm sure reddit really loves this ridiculousness too!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Isso tudo é ridículo, às vezes eu amo o reddit. ... e tenho certeza que o reddit também ama essa ridicularia!"
+  },
+  {
+    "id": "ed7fc1h",
+    "split": "train",
+    "line_idx": 11573,
+    "original_text": "Wish me luck fellas need Houston +8.5 to win $1700ish currently 113-114 Come on gambling gods",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Me desejem sorte, galera, preciso que Houston ganhe por +8.5 pra levar uns 1700 dólares, tá 113-114 agora. Bora, deuses das apostas"
+  },
+  {
+    "id": "edfs10v",
+    "split": "train",
+    "line_idx": 11574,
+    "original_text": "Nurse is by far the most loyal team mate we have!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nurse é de longe o companheiro de equipe mais leal que a gente tem!"
+  },
+  {
+    "id": "eegktu3",
+    "split": "train",
+    "line_idx": 11575,
+    "original_text": "This chick is a lunatic now",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Essa mina tá uma lunática agora"
+  },
+  {
+    "id": "ed2ry5f",
+    "split": "train",
+    "line_idx": 11576,
+    "original_text": "He forgot the most important law : Everyone can be stupid, and everyone will be at some point. Although he does illustrate it very well with his article.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ele esqueceu a lei mais importante: todo mundo pode ser estúpido, e todo mundo vai ser em algum momento. Embora ele ilustre isso muito bem com o artigo dele."
+  },
+  {
+    "id": "eddmarb",
+    "split": "train",
+    "line_idx": 11577,
+    "original_text": "You goatta be kidding me!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Você só pode estar brincando comigo!"
+  },
+  {
+    "id": "ee7wkaw",
+    "split": "train",
+    "line_idx": 11578,
+    "original_text": "Look, I knew the end of that last sentence in my mind. It's not my fault you can't keep up.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Olha, eu já sabia o final daquela última frase na minha cabeça. Não é culpa minha se você não consegue acompanhar."
+  },
+  {
+    "id": "eeyq0y6",
+    "split": "train",
+    "line_idx": 11579,
+    "original_text": "Nah he kept blowing on it for like 25 mins agitating it then put his head close to it . Dude totally desearved it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, ele ficou soprando por uns 25 minutos, provocando, e depois colocou a cabeça perto. O cara mereceu totalmente"
+  },
+  {
+    "id": "edlvn5z",
+    "split": "train",
+    "line_idx": 11580,
+    "original_text": "Holy shit!!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Puta merda!!"
+  },
+  {
+    "id": "ef93a8x",
+    "split": "train",
+    "line_idx": 11581,
+    "original_text": "Came here to say that. I'm genuinely astounded that it's as much as 12%.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Vim aqui pra dizer isso. Tô genuinamente pasmo que chegue a 12%."
+  },
+  {
+    "id": "ed0x3ik",
+    "split": "train",
+    "line_idx": 11582,
+    "original_text": "Can we ban this person? Post history is sketch. Thanks in advance!",
+    "emotion_ids": "6,15",
+    "emotions": [
+      "confusion",
+      "gratitude"
+    ],
+    "translated_text": "Dá pra banir essa pessoa? O histórico de posts é suspeito. Valeu desde já!"
+  },
+  {
+    "id": "eejwier",
+    "split": "train",
+    "line_idx": 11583,
+    "original_text": "I love how she has no idea what to do. Like stop drop and roll 🤦‍♂️",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo como ela não tem ideia do que fazer. Tipo, pare, deite e role 🤦‍♂️"
+  },
+  {
+    "id": "ee54jyv",
+    "split": "train",
+    "line_idx": 11584,
+    "original_text": "I can’t wait for socialist Norway to collapse.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Mal posso esperar pra Noruega socialista colapsar."
+  },
+  {
+    "id": "ed20e79",
+    "split": "train",
+    "line_idx": 11585,
+    "original_text": "[NAME] on Road Trippin' with how much fun she has with ET and gets super straight forward with anybody else.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] no Road Trippin' mostrando o quanto ela se diverte com o ET e sendo super direta com qualquer outra pessoa."
+  },
+  {
+    "id": "ee1pq2d",
+    "split": "train",
+    "line_idx": 11586,
+    "original_text": "Woah Dude!!! I would be freaking out",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa mano!!! Eu ia surtar"
+  },
+  {
+    "id": "efalo7t",
+    "split": "train",
+    "line_idx": 11587,
+    "original_text": "My father has been dead for two years and it's still been difficult to not talk about him as if he's still alive.",
+    "emotion_ids": "16",
+    "emotions": [
+      "grief"
+    ],
+    "translated_text": "Meu pai morreu faz dois anos e ainda é difícil não falar dele como se ele ainda estivesse vivo."
+  },
+  {
+    "id": "ednwtgg",
+    "split": "train",
+    "line_idx": 11588,
+    "original_text": "You are absolutely stunning and you’re a triple threat. Black is beautiful! And you’re intelligent and very pretty.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você é absolutamente deslumbrante e uma artista completa. Negro é lindo! E você é inteligente e muito bonita."
+  },
+  {
+    "id": "efdnodh",
+    "split": "train",
+    "line_idx": 11589,
+    "original_text": "Yeah I hope so! I really love her but I understand too that I can only do so much! Thank you.",
+    "emotion_ids": "15,18",
+    "emotions": [
+      "gratitude",
+      "love"
+    ],
+    "translated_text": "Sim, espero que sim! Eu amo muito ela, mas também entendo que só posso fazer até certo ponto! Obrigado."
+  },
+  {
+    "id": "ee8cwq6",
+    "split": "train",
+    "line_idx": 11590,
+    "original_text": "It took 8 years of healing before I could open my journals. Pace yourself, you'll heal, friend.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Levei 8 anos de cura antes de conseguir abrir meus diários. Vá no seu tempo, você vai se curar, amigo."
+  },
+  {
+    "id": "eephy8b",
+    "split": "train",
+    "line_idx": 11591,
+    "original_text": "Late 60's. I am old.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quase 70 anos. Tô velho."
+  },
+  {
+    "id": "edigp6r",
+    "split": "train",
+    "line_idx": 11592,
+    "original_text": "There was a weirdly similar post to this on LegalAdviceUK maybe a couple of days back.",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Teve um post estranhamente parecido com esse no LegalAdviceUK uns dois dias atrás."
+  },
+  {
+    "id": "eevdmwo",
+    "split": "train",
+    "line_idx": 11593,
+    "original_text": "Yeah I guess in perspective it really isn't a big number at all.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É, acho que em perspectiva não é um número tão grande assim."
+  },
+  {
+    "id": "eddpvrt",
+    "split": "train",
+    "line_idx": 11594,
+    "original_text": "Or her girlfriend was a man when she started dating her",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ou a namorada dela era um homem quando ela começou a sair com ela"
+  },
+  {
+    "id": "eemf5fy",
+    "split": "train",
+    "line_idx": 11595,
+    "original_text": "Like, they get it ALL straight in their face anyway. Esp if walking ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tipo, eles levam TUDO na cara de qualquer jeito. Especialmente se estiver andando"
+  },
+  {
+    "id": "efbt7mb",
+    "split": "train",
+    "line_idx": 11596,
+    "original_text": "PARENTS: VACCINATE YOUR FUCKING KIDS OR THE NEXT NAP THEY TAKE WILL BE IN A COFFIN OMFG",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "PAIS: VACINEM SEUS FILHOS PORRA OU A PRÓXIMA SONECA QUE ELES TIRAREM VAI SER NUM CAIXÃO PQP"
+  },
+  {
+    "id": "efb8cff",
+    "split": "train",
+    "line_idx": 11597,
+    "original_text": "Honestly capital G god is probaby the only diety I would struggle allowing at my table, no matter which [NAME] religion it was picked from.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sinceramente, o Deus com G maiúsculo é provavelmente a única divindade que eu teria dificuldade em aceitar na minha mesa, não importa de qual religião [NAME] tenha sido tirado."
+  },
+  {
+    "id": "edl2iih",
+    "split": "train",
+    "line_idx": 11598,
+    "original_text": "We’re honestly not doing that bad besides [NAME]. Clear pen, unlucky. Let’s hope for the best in the second half",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "A gente não tá indo tão mal, tirando o [NAME]. Pênalti claro, azar. Vamos torcer pelo melhor no segundo tempo"
+  },
+  {
+    "id": "ee7y4ul",
+    "split": "train",
+    "line_idx": 11599,
+    "original_text": "OMG thank you. Just thank you all",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "OMG obrigado. Só obrigado a todos"
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "id": "ee374pv",
+    "split": "train",
+    "line_idx": 15150,
+    "original_text": "Don’t take this seriously man, I was joking.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Não leva isso a sério, cara, eu tava brincando."
+  },
+  {
+    "id": "edu2obs",
+    "split": "train",
+    "line_idx": 15151,
+    "original_text": "The House comes and goes every few years. Judges hang on until they die. Congrats on the House.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A Câmara muda a cada poucos anos. Juízes ficam lá até morrerem. Parabéns pela Câmara."
+  },
+  {
+    "id": "edkmdos",
+    "split": "train",
+    "line_idx": 15152,
+    "original_text": "Hey its me [NAME]",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ei, sou eu, o [NAME]"
+  },
+  {
+    "id": "eepdhqu",
+    "split": "train",
+    "line_idx": 15153,
+    "original_text": "It kind of was for some people.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meio que foi pra algumas pessoas."
+  },
+  {
+    "id": "ef707vp",
+    "split": "train",
+    "line_idx": 15154,
+    "original_text": "Good always love him",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Bom, sempre amo ele"
+  },
+  {
+    "id": "eelqvli",
+    "split": "train",
+    "line_idx": 15155,
+    "original_text": "Unfortunately half the country are not being reasonable.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Infelizmente, metade do país não tá sendo razoável."
+  },
+  {
+    "id": "eempyl2",
+    "split": "train",
+    "line_idx": 15156,
+    "original_text": "[NAME] needs to force the democrats to condemn this. Otherwise democrats will end up murdering kids",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] precisa forçar os democratas a condenarem isso. Senão, os democratas vão acabar matando crianças"
+  },
+  {
+    "id": "ef43ust",
+    "split": "train",
+    "line_idx": 15157,
+    "original_text": "Ok, I will take this with a pinch of salt, but take it into consideration nonetheless. Thanks.",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Ok, vou levar isso com um pé atrás, mas vou considerar mesmo assim. Valeu."
+  },
+  {
+    "id": "edx5vic",
+    "split": "train",
+    "line_idx": 15158,
+    "original_text": "I would not be that mad though. Just disappointed. I am angry at people like you, not the show in itself.",
+    "emotion_ids": "2,9",
+    "emotions": [
+      "anger",
+      "disappointment"
+    ],
+    "translated_text": "Eu não ficaria tão bravo assim, não. Só decepcionado. Eu tô é com raiva de gente como você, não da série em si."
+  },
+  {
+    "id": "ediq3m7",
+    "split": "train",
+    "line_idx": 15159,
+    "original_text": "*Looks at Amoeba music shirt* Cool i have every album ever made!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "*Olha pra camiseta da Amoeba Music* Legal, eu tenho todos os álbuns já feitos!"
+  },
+  {
+    "id": "edaly7r",
+    "split": "train",
+    "line_idx": 15160,
+    "original_text": "Escape and after some time then die, this is a pretty bad advice so just don't do it",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Fugir e depois de um tempo morrer, esse é um conselho bem ruim, então só não faz isso"
+  },
+  {
+    "id": "edby45d",
+    "split": "train",
+    "line_idx": 15161,
+    "original_text": "Incorrect. I'll go with what [NAME] tells me thanks.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Incorreto. Vou ficar com o que o [NAME] me disser, valeu."
+  },
+  {
+    "id": "eeh3zvr",
+    "split": "train",
+    "line_idx": 15162,
+    "original_text": "That’s awesome.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível."
+  },
+  {
+    "id": "eeu8e7h",
+    "split": "train",
+    "line_idx": 15163,
+    "original_text": "Yeeeeaaaaahhhhh, im gonna need a source on that 40% statistic",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Siiiiiiim, vou precisar de uma fonte pra essa estatística de 40%"
+  },
+  {
+    "id": "edgpr1t",
+    "split": "train",
+    "line_idx": 15164,
+    "original_text": "FYI: Time in Europe works the same as in the State. We do not have 'weird time'",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Pra sua informação: o tempo na Europa funciona igual ao dos Estados Unidos. A gente não tem 'tempo estranho'"
+  },
+  {
+    "id": "ef7sg6m",
+    "split": "train",
+    "line_idx": 15165,
+    "original_text": "I didn't call you a [NAME]. Your use of Nazi-adjacent statements is extremely sketchy, though.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não te chamei de [NAME]. Mas o seu uso de declarações quase nazistas é extremamente suspeito."
+  },
+  {
+    "id": "ees09v1",
+    "split": "train",
+    "line_idx": 15166,
+    "original_text": "Sitting there dreaming of hot girls coming up to you in your room is better.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ficar sentado aí sonhando com garotas gatas vindo falar com você no seu quarto é melhor."
+  },
+  {
+    "id": "eeutvf8",
+    "split": "train",
+    "line_idx": 15167,
+    "original_text": "As a person who lives in NYC, I couldn't possibly agree more",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Como alguém que mora em NYC, eu não poderia concordar mais"
+  },
+  {
+    "id": "edgc1ng",
+    "split": "train",
+    "line_idx": 15168,
+    "original_text": "Its more of a suggestion its not in forced at all i doubt a lot of people even see the quiet carriage sign",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "É mais uma sugestão, não é forçado de jeito nenhum, duvido até que muita gente veja a placa do vagão silencioso"
+  },
+  {
+    "id": "ed5c84u",
+    "split": "train",
+    "line_idx": 15169,
+    "original_text": "Thank [NAME] for you",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Agradeça ao [NAME] por você"
+  },
+  {
+    "id": "eefufao",
+    "split": "train",
+    "line_idx": 15170,
+    "original_text": "How does that work on joystick though? Never played on console, is this still a problem?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Mas como isso funciona no joystick? Nunca joguei no console, isso ainda é um problema?"
+  },
+  {
+    "id": "eeql4i6",
+    "split": "train",
+    "line_idx": 15171,
+    "original_text": "Time to do my thing.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Hora de fazer a minha parte."
+  },
+  {
+    "id": "eehzcc6",
+    "split": "train",
+    "line_idx": 15172,
+    "original_text": "if it makes you feel better I still think your a good person .",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se te faz sentir melhor, eu ainda acho que você é uma boa pessoa."
+  },
+  {
+    "id": "edw1d5k",
+    "split": "train",
+    "line_idx": 15173,
+    "original_text": "Probably cause our FBs are not strong enough defensively so we need a way to justify playing them",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Provavelmente porque nossos laterais não são fortes defensivamente, então a gente precisa de um jeito de justificar escalar eles"
+  },
+  {
+    "id": "ee9ck85",
+    "split": "train",
+    "line_idx": 15174,
+    "original_text": "oh wow, that's great news! 12 episodes of a good show always leave me on my appetite!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "ah nossa, que notícia ótima! 12 episódios de uma série boa sempre me deixam com gostinho de quero mais!"
+  },
+  {
+    "id": "eeqe7ff",
+    "split": "train",
+    "line_idx": 15175,
+    "original_text": "Some guys are gonna get their hopes up if you are at all young *or* pretty. You may attract less attention if you can avoid moving.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguns caras vão criar esperanças se você for minimamente jovem *ou* bonita. Você pode atrair menos atenção se conseguir evitar se mexer."
+  },
+  {
+    "id": "ee7p9nr",
+    "split": "train",
+    "line_idx": 15176,
+    "original_text": "Ah I had no idea!",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ah, eu não fazia ideia!"
+  },
+  {
+    "id": "eei4aa9",
+    "split": "train",
+    "line_idx": 15177,
+    "original_text": "In that conversation it was the girl being boring and closed... sometimes it’s not your fault and people feel they’re the ones being awkward",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Naquela conversa, era a garota que tava sendo chata e fechada... às vezes a culpa não é sua e as pessoas sentem que são elas que tão sendo estranhas"
+  },
+  {
+    "id": "eezvyc1",
+    "split": "train",
+    "line_idx": 15178,
+    "original_text": "Cheers, [NAME]!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Valeu, [NAME]!"
+  },
+  {
+    "id": "eedkpk8",
+    "split": "train",
+    "line_idx": 15179,
+    "original_text": "Venetian Snares x [NAME]. Amazing",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Venetian Snares x [NAME]. Incrível"
+  },
+  {
+    "id": "ee0tqqn",
+    "split": "train",
+    "line_idx": 15180,
+    "original_text": "I would be surprised if she's doesn't have at least 1 kid",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Eu ficaria surpreso se ela não tivesse pelo menos 1 filho"
+  },
+  {
+    "id": "edzkxv5",
+    "split": "train",
+    "line_idx": 15181,
+    "original_text": "This hurts me more than the fan meme.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Isso dói mais em mim do que o meme dos fãs."
+  },
+  {
+    "id": "eek1d82",
+    "split": "train",
+    "line_idx": 15182,
+    "original_text": "And then they clapped and gave you $100, I'm sure",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "E aí todo mundo aplaudiu e te deu 100 dólares, tenho certeza"
+  },
+  {
+    "id": "edsi9v1",
+    "split": "train",
+    "line_idx": 15183,
+    "original_text": "What a (morbid) analogy - I like it!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Que analogia (mórbida) - eu gostei!"
+  },
+  {
+    "id": "edns6jb",
+    "split": "train",
+    "line_idx": 15184,
+    "original_text": "I agree a congressional library of excuses already. fella should try to hit the trim asap and get over her asap",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Concordo, uma biblioteca do congresso de desculpas já. O cara devia tentar superar logo e esquecer ela o quanto antes"
+  },
+  {
+    "id": "efct8mj",
+    "split": "train",
+    "line_idx": 15185,
+    "original_text": "omg ;; my boy heavy",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "meu deus ;; meu garoto é pesado"
+  },
+  {
+    "id": "eeq9jj8",
+    "split": "train",
+    "line_idx": 15186,
+    "original_text": "I'm not responding until you point me where any of my statements contradict cut and clear",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não vou responder até você me apontar onde qualquer uma das minhas afirmações contradiz o que tá claro"
+  },
+  {
+    "id": "eevgtxz",
+    "split": "train",
+    "line_idx": 15187,
+    "original_text": "11 seconds. I'll try harder next time.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "11 segundos. Vou tentar mais na próxima."
+  },
+  {
+    "id": "ef8oyl3",
+    "split": "train",
+    "line_idx": 15188,
+    "original_text": "It's been 10 minutes, I'm still laughing 😂😂😂",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Já faz 10 minutos e eu ainda tô rindo 😂😂😂"
+  },
+  {
+    "id": "efa3toi",
+    "split": "train",
+    "line_idx": 15189,
+    "original_text": "i think he did. of course i’m not sure since it didn’t happen to me but to a close friend",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "acho que ele fez. claro que não tenho certeza já que não aconteceu comigo, mas com um amigo próximo"
+  },
+  {
+    "id": "edwp3ru",
+    "split": "train",
+    "line_idx": 15190,
+    "original_text": "Disinfected or sanitized maybe. No way an entire exam table is sterilized.",
+    "emotion_ids": "6,10",
+    "emotions": [
+      "confusion",
+      "disapproval"
+    ],
+    "translated_text": "Desinfetada ou higienizada, talvez. Não tem como uma maca inteira ser esterilizada."
+  },
+  {
+    "id": "edglqtg",
+    "split": "train",
+    "line_idx": 15191,
+    "original_text": "You can do it girl! I believe in you! :)",
+    "emotion_ids": "4,20",
+    "emotions": [
+      "approval",
+      "optimism"
+    ],
+    "translated_text": "Você consegue, garota! Eu acredito em você! :)"
+  },
+  {
+    "id": "ef8g32q",
+    "split": "train",
+    "line_idx": 15192,
+    "original_text": "Let me go you fiend.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Me solta, seu demônio."
+  },
+  {
+    "id": "ee6vb9c",
+    "split": "train",
+    "line_idx": 15193,
+    "original_text": "If you're on a budget, anywhere that's cheap. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se você tá com o orçamento apertado, qualquer lugar que seja barato."
+  },
+  {
+    "id": "eel4721",
+    "split": "train",
+    "line_idx": 15194,
+    "original_text": "I’m not an Aub man. Check the flair.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu não sou cara da Aub. Dá uma olhada na flair."
+  },
+  {
+    "id": "efbfj3a",
+    "split": "train",
+    "line_idx": 15195,
+    "original_text": "Not at all!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "De jeito nenhum!"
+  },
+  {
+    "id": "edvd7wg",
+    "split": "train",
+    "line_idx": 15196,
+    "original_text": "I'll take just being able to have the Wellington ending in season 4. Atm you cant even get the scar in season 4.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu me contento só de poder ter o final de Wellington na 4ª temporada. No momento, você nem consegue a cicatriz na 4ª temporada."
+  },
+  {
+    "id": "eesyrbp",
+    "split": "train",
+    "line_idx": 15197,
+    "original_text": "The murder rate in Venezuela has skyrocketed under [NAME] and [NAME]. It's probably best to leave.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A taxa de homicídios na Venezuela disparou sob o [NAME] e o [NAME]. Provavelmente é melhor ir embora."
+  },
+  {
+    "id": "eecsck5",
+    "split": "train",
+    "line_idx": 15198,
+    "original_text": "wait... so are ugly people downwoted all the time or they don't post or what is going on here...",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "espera... então pessoas feias são negativadas o tempo todo ou elas não postam ou o que tá acontecendo aqui..."
+  },
+  {
+    "id": "ef503fd",
+    "split": "train",
+    "line_idx": 15199,
+    "original_text": "Oh you mean [NAME]?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, você quer dizer o [NAME]?"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "ee3kbfy",
+    "split": "train",
+    "line_idx": 11600,
+    "original_text": "I am so glad that your grandfather learned better and was able to share his story of growth. That takes humility in learning a better way.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Fico muito feliz que seu avô tenha aprendido a ser uma pessoa melhor e conseguido compartilhar sua história de crescimento. É preciso muita humildade para aprender um caminho melhor."
+  },
+  {
+    "id": "efgxngv",
+    "split": "train",
+    "line_idx": 11601,
+    "original_text": "Ha interesting. Grew up in MN and never thought about this.",
+    "emotion_ids": "0,4,22",
+    "emotions": [
+      "admiration",
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Ah, interessante. Cresci em MN e nunca tinha pensado nisso."
+  },
+  {
+    "id": "eczj0wm",
+    "split": "train",
+    "line_idx": 11602,
+    "original_text": "No. There's a fair amount of nudity, violence and foul language. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não. Tem uma quantidade considerável de nudez, violência e palavrões."
+  },
+  {
+    "id": "ed9xut3",
+    "split": "train",
+    "line_idx": 11603,
+    "original_text": "CNC is just the safe way to play out a rape fetish",
+    "emotion_ids": "3,4",
+    "emotions": [
+      "annoyance",
+      "approval"
+    ],
+    "translated_text": "CNC é só o jeito seguro de realizar uma fantasia de estupro"
+  },
+  {
+    "id": "ee4kvyp",
+    "split": "train",
+    "line_idx": 11604,
+    "original_text": "Sneaky ass ESPN changing their app so I almost accidentally purchase ESPN+ for the low price of 4.99 a month.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "ESPN pilantra, mudando o app deles pra eu quase assinar o ESPN+ por acidente pelo precinho de 4,99 por mês."
+  },
+  {
+    "id": "ed91mvx",
+    "split": "train",
+    "line_idx": 11605,
+    "original_text": "Just shut up dude",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Só cala a boca, cara"
+  },
+  {
+    "id": "eesooag",
+    "split": "train",
+    "line_idx": 11606,
+    "original_text": "Just because you lack critical thinking and reading skills doesnt mean i am a moron, it means you need to learn how to think for yourself.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Só porque você não tem capacidade de leitura e pensamento crítico não significa que eu seja um idiota, significa que você precisa aprender a pensar por si mesmo."
+  },
+  {
+    "id": "edneu98",
+    "split": "train",
+    "line_idx": 11607,
+    "original_text": "Whoa I didn’t even think he was a husky from the first picture.",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Nossa, eu nem achei que ele era um husky pela primeira foto."
+  },
+  {
+    "id": "edtwzwd",
+    "split": "train",
+    "line_idx": 11608,
+    "original_text": "All the more reason for us to trade down for oline.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mais um motivo pra gente trocar a escolha por alguém da linha ofensiva."
+  },
+  {
+    "id": "eezubi9",
+    "split": "train",
+    "line_idx": 11609,
+    "original_text": "Not sure about the dates off the top of my head, but Feits is so full of shit that theres a good chance he just made this up.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não tenho certeza das datas de cabeça, mas o Feits fala tanta merda que tem uma boa chance de ele ter inventado isso."
+  },
+  {
+    "id": "ednog4e",
+    "split": "train",
+    "line_idx": 11610,
+    "original_text": "There shouldn't be a rule against it. That just makes the target even softer.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não deveria ter uma regra contra isso. Isso só deixa o alvo ainda mais vulnerável."
+  },
+  {
+    "id": "efcbm3e",
+    "split": "train",
+    "line_idx": 11611,
+    "original_text": "Funny coincidence that Kingdom Hearts 3 released alongside another RE game yet again. Someone should contact [NAME] to make a sequel",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Coincidência engraçada o Kingdom Hearts 3 ter lançado junto com outro jogo de RE de novo. Alguém deveria entrar em contato com [NAME] pra fazer uma sequência"
+  },
+  {
+    "id": "efd754u",
+    "split": "train",
+    "line_idx": 11612,
+    "original_text": "True that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pode crer."
+  },
+  {
+    "id": "edn2x02",
+    "split": "train",
+    "line_idx": 11613,
+    "original_text": "[NAME] damn it, dude. Are you trying to ensure every gun owner in PA votes red? Because that's how you do that. ",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Puta que pariu, [NAME], cara. Você tá tentando garantir que todo dono de arma na PA vote nos republicanos? Porque é assim que se faz isso."
+  },
+  {
+    "id": "edrt0xz",
+    "split": "train",
+    "line_idx": 11614,
+    "original_text": "do your own homework",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "faz seu próprio dever de casa"
+  },
+  {
+    "id": "eerhznm",
+    "split": "train",
+    "line_idx": 11615,
+    "original_text": "I mastered the smelling weed in public. Just ignore them.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu virei mestre em sentir cheiro de maconha em público. É só ignorar eles."
+  },
+  {
+    "id": "ee05pvt",
+    "split": "train",
+    "line_idx": 11616,
+    "original_text": "That arena announcer is irritating.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Aquele locutor da arena é irritante."
+  },
+  {
+    "id": "ee1ed14",
+    "split": "train",
+    "line_idx": 11617,
+    "original_text": "Lmao the revolution is here haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lmao a revolução chegou haha"
+  },
+  {
+    "id": "eeuq3iw",
+    "split": "train",
+    "line_idx": 11618,
+    "original_text": "Even though it was fake, the Olive Garden commercial was pretty good.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Mesmo sendo fake, o comercial do Olive Garden foi muito bom."
+  },
+  {
+    "id": "ee0fz73",
+    "split": "train",
+    "line_idx": 11619,
+    "original_text": "People will go mental hoarding food, so you should be hoarding food, not like those idiots that panic. I'm confused.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "O pessoal vai ficar maluco estocando comida, então você deveria estar estocando comida, não igual àqueles idiotas que entram em pânico. Tô confuso."
+  },
+  {
+    "id": "eepzj25",
+    "split": "train",
+    "line_idx": 11620,
+    "original_text": "Oh dayum. Didn't notice that the first time I looked at it. Yikes for OP.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, caramba. Não tinha notado isso na primeira vez que olhei. Que vacilo pro OP."
+  },
+  {
+    "id": "eehswsb",
+    "split": "train",
+    "line_idx": 11621,
+    "original_text": "Vancouver is such a beautiful city! I visited it for a half a day and really want to go back.",
+    "emotion_ids": "0,8",
+    "emotions": [
+      "admiration",
+      "desire"
+    ],
+    "translated_text": "Vancouver é uma cidade tão linda! Visitei por meio dia e quero muito voltar."
+  },
+  {
+    "id": "eezwth9",
+    "split": "train",
+    "line_idx": 11622,
+    "original_text": "You guys are a problem.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Vocês são um problema."
+  },
+  {
+    "id": "ed11zaf",
+    "split": "train",
+    "line_idx": 11623,
+    "original_text": "lmao so many dumb fouls from lsu",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "lmao quantas faltas idiotas de lsu"
+  },
+  {
+    "id": "eduvay2",
+    "split": "train",
+    "line_idx": 11624,
+    "original_text": "Suffocation, no breathing",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sufocamento, sem ar"
+  },
+  {
+    "id": "edwmtc2",
+    "split": "train",
+    "line_idx": 11625,
+    "original_text": "Do i just need to watch just 'some' or all of them, oh and what about his books? I gotta buy them too right?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Eu preciso assistir só 'alguns' ou todos eles? Ah, e quanto aos livros dele? Tenho que comprar eles também, né?"
+  },
+  {
+    "id": "efc56uj",
+    "split": "train",
+    "line_idx": 11626,
+    "original_text": "Someone posted about this happening with their pet chicken but I forgot which subreddit",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém postou sobre isso acontecendo com o animal de estimação deles, uma galinha, mas esqueci qual subreddit foi"
+  },
+  {
+    "id": "eetd4bn",
+    "split": "train",
+    "line_idx": 11627,
+    "original_text": "That goddamn wink slayed me. Swoon so hard...",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Aquela piscadinha maldita me destruiu. Apaixonei demais..."
+  },
+  {
+    "id": "edf1aat",
+    "split": "train",
+    "line_idx": 11628,
+    "original_text": "That face in 0:18. That's the face of happiness",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Aquela cara em 0:18. Essa é a cara da felicidade"
+  },
+  {
+    "id": "edh4tiq",
+    "split": "train",
+    "line_idx": 11629,
+    "original_text": "Oh fuck. Is that legal?",
+    "emotion_ids": "6,7,26",
+    "emotions": [
+      "confusion",
+      "curiosity",
+      "surprise"
+    ],
+    "translated_text": "Puta merda. Isso é legal?"
+  },
+  {
+    "id": "eet3krm",
+    "split": "train",
+    "line_idx": 11630,
+    "original_text": "That's amazing...I have to admit, Google making me do this while on VPN has moved me to Bing. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível... tenho que admitir, o Google me obrigar a fazer isso enquanto tô na VPN me fez mudar pro Bing."
+  },
+  {
+    "id": "ed3swqc",
+    "split": "train",
+    "line_idx": 11631,
+    "original_text": "I also love that her correction was wrong. But all the bustling millinery on The Island can do that to a person.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu também adoro que a correção dela estava errada. Mas toda aquela agitação de chapelaria na Ilha pode fazer isso com uma pessoa."
+  },
+  {
+    "id": "edrctuk",
+    "split": "train",
+    "line_idx": 11632,
+    "original_text": "Sweet thank you!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, obrigado!"
+  },
+  {
+    "id": "edhcy71",
+    "split": "train",
+    "line_idx": 11633,
+    "original_text": "Being adorable mostly",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Sendo adorável, basicamente"
+  },
+  {
+    "id": "ef8o36y",
+    "split": "train",
+    "line_idx": 11634,
+    "original_text": "Free dog!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cachorro de graça!"
+  },
+  {
+    "id": "ednqlt7",
+    "split": "train",
+    "line_idx": 11635,
+    "original_text": "Best RB draft pick ever? Sure. Best draft pick ever? No lmao",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "Melhor escolha de RB no draft de todos os tempos? Com certeza. Melhor escolha de draft de todos os tempos? Não, lmao"
+  },
+  {
+    "id": "ed23ws8",
+    "split": "train",
+    "line_idx": 11636,
+    "original_text": "what's a friend",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "o que é um amigo"
+  },
+  {
+    "id": "ednxwbb",
+    "split": "train",
+    "line_idx": 11637,
+    "original_text": "What if [NAME] shows up? I heard he loves Mexican food.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E se o [NAME] aparecer? Ouvi dizer que ele ama comida mexicana."
+  },
+  {
+    "id": "ed4auie",
+    "split": "train",
+    "line_idx": 11638,
+    "original_text": "It would be an atrocity to bring him back, I think the F.O will be forced to bring in someone else.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Seria uma atrocidade trazer ele de volta, acho que a diretoria vai ser forçada a trazer outra pessoa."
+  },
+  {
+    "id": "edzvm9e",
+    "split": "train",
+    "line_idx": 11639,
+    "original_text": "Of all the stupid terms for people out there “womxn” is by far the stupidest",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "De todos os termos estúpidos que existem por aí, “womxn” é de longe o mais estúpido"
+  },
+  {
+    "id": "efezgxz",
+    "split": "train",
+    "line_idx": 11640,
+    "original_text": "That's how Catholicism works.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É assim que o catolicismo funciona."
+  },
+  {
+    "id": "eeryq2i",
+    "split": "train",
+    "line_idx": 11641,
+    "original_text": "Sadly, that’s not the interpretation that many elders in your church have made. See: the Australian Royal Commission into Institutional Abuse. :(",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Infelizmente, essa não é a interpretação que muitos anciãos da sua igreja fizeram. Veja: a Comissão Real Australiana sobre Abuso Institucional. :("
+  },
+  {
+    "id": "ee1jrns",
+    "split": "train",
+    "line_idx": 11642,
+    "original_text": "I liked TB 18, too bad it tanked. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu gostava de TB 18 também, pena que fracassou."
+  },
+  {
+    "id": "eepdkca",
+    "split": "train",
+    "line_idx": 11643,
+    "original_text": "I love this",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo isso"
+  },
+  {
+    "id": "ef8e4px",
+    "split": "train",
+    "line_idx": 11644,
+    "original_text": "I hope you bundle up too, Mr. President. ",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que você se agasalhe bem também, Sr. Presidente."
+  },
+  {
+    "id": "ee36y33",
+    "split": "train",
+    "line_idx": 11645,
+    "original_text": "You look like a bear.... An ugly cartoon bear",
+    "emotion_ids": "10,11",
+    "emotions": [
+      "disapproval",
+      "disgust"
+    ],
+    "translated_text": "Você parece um urso.... Um urso de desenho animado feio"
+  },
+  {
+    "id": "edk1wy7",
+    "split": "train",
+    "line_idx": 11646,
+    "original_text": "Good grief... cushion those talons with some toilet paper or Kleenex next time. It’ll give you better traction, too. ",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Meu Deus... amorteça essas garras com um pouco de papel higiênico ou lenço da próxima vez. Vai te dar mais tração também."
+  },
+  {
+    "id": "eeametw",
+    "split": "train",
+    "line_idx": 11647,
+    "original_text": "What a joke",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Que piada"
+  },
+  {
+    "id": "edim55i",
+    "split": "train",
+    "line_idx": 11648,
+    "original_text": "Well done, OP. Thanks.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito bem, OP. Obrigado."
+  },
+  {
+    "id": "edgihk0",
+    "split": "train",
+    "line_idx": 11649,
+    "original_text": "/uj I’d use a vegan-marketed version of that for tofu or even potatoes",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "/uj Eu usaria uma versão vegana disso pra tofu ou até batatas"
+  }
+]

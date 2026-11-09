@@ -1,0 +1,519 @@
+[
+  {
+    "id": "ee955gt",
+    "split": "train",
+    "line_idx": 41300,
+    "original_text": "Don't worry about stupid people and you do whatever you want. Screw them kind of people.",
+    "emotion_ids": "2,5",
+    "emotions": [
+      "anger",
+      "caring"
+    ]
+  },
+  {
+    "id": "eestktk",
+    "split": "train",
+    "line_idx": 41301,
+    "original_text": "I regret my psycho ex. Does that mean I was raped? Or do the rules not apply because I'm a man?",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ]
+  },
+  {
+    "id": "edu7mei",
+    "split": "train",
+    "line_idx": 41302,
+    "original_text": "We accept the love we think we deserve - Perks of Being a Wallflower",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ]
+  },
+  {
+    "id": "ed7y9gz",
+    "split": "train",
+    "line_idx": 41303,
+    "original_text": "I don’t understand why he’s being considered by teams. Can someone explain it to me?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "eeor81i",
+    "split": "train",
+    "line_idx": 41304,
+    "original_text": "Surely anyone can submit an application for a writ of habeas corpus?",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ee0rx52",
+    "split": "train",
+    "line_idx": 41305,
+    "original_text": "No, she is my ex from a long time ago and we are still good mates",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edjrni7",
+    "split": "train",
+    "line_idx": 41306,
+    "original_text": "It seems hazy, and there’s been conflicting messages",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ]
+  },
+  {
+    "id": "een0l5d",
+    "split": "train",
+    "line_idx": 41307,
+    "original_text": "> Most resent season",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edd8fvi",
+    "split": "train",
+    "line_idx": 41308,
+    "original_text": "you deserve love too",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "edp5ob7",
+    "split": "train",
+    "line_idx": 41309,
+    "original_text": "Nah, some cake sniffers were enjoying the books way before.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "id": "ed54ebn",
+    "split": "train",
+    "line_idx": 41310,
+    "original_text": "Sounds like you got really lucky bro :). Did you ever see the guy again? If so, did he ever bully you again? ",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ef7awgn",
+    "split": "train",
+    "line_idx": 41311,
+    "original_text": "I’m reading Homegoing by [NAME] and it’s so good! It reminds me of Pachinko, which I also loved. ",
+    "emotion_ids": "0,18,22",
+    "emotions": [
+      "admiration",
+      "love",
+      "realization"
+    ]
+  },
+  {
+    "id": "efgaz38",
+    "split": "train",
+    "line_idx": 41312,
+    "original_text": "This is awesome. I have so much junk in my head that I need to address the way you describe. Thanks for sharing.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ]
+  },
+  {
+    "id": "ed3csso",
+    "split": "train",
+    "line_idx": 41313,
+    "original_text": "Weeb is confused! Weeb hurt itself in its confusion",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ]
+  },
+  {
+    "id": "eegmcos",
+    "split": "train",
+    "line_idx": 41314,
+    "original_text": "I don't think this is bad enough for the police chief to be embarrassed. (He should be, but he won't be)",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "edy3r3r",
+    "split": "train",
+    "line_idx": 41315,
+    "original_text": "Good on your manager for having your back as well",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ]
+  },
+  {
+    "id": "eevupfw",
+    "split": "train",
+    "line_idx": 41316,
+    "original_text": "What a sweet “welcome to your new home!”",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ]
+  },
+  {
+    "id": "edylvqw",
+    "split": "train",
+    "line_idx": 41317,
+    "original_text": "Mate just go out and get yourself a steak dinner, you will enjoy it much more than Artifact.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "id": "eeebco6",
+    "split": "train",
+    "line_idx": 41318,
+    "original_text": "r/succulents is one of my fav subs and I thought this was from there scrollin' through.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edv613k",
+    "split": "train",
+    "line_idx": 41319,
+    "original_text": "So you’re telling me you think [NAME] is better than [NAME] whatever you say man",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "edov0a6",
+    "split": "train",
+    "line_idx": 41320,
+    "original_text": "I more than half expected there to be an AK in there. Still very much impressed.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eebkld2",
+    "split": "train",
+    "line_idx": 41321,
+    "original_text": "Coming from [NAME] who is addicted to Facebook. Thanks Facebook!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edze5e7",
+    "split": "train",
+    "line_idx": 41322,
+    "original_text": "Not super subtle with my water tool on top though. Thank god for my backyard!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ]
+  },
+  {
+    "id": "eetkkvs",
+    "split": "train",
+    "line_idx": 41323,
+    "original_text": "Looking through the lives of various figures of the New Atheist movement in the social and political change they sought to create and how it stacked up with reality.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ]
+  },
+  {
+    "id": "eehpuzn",
+    "split": "train",
+    "line_idx": 41324,
+    "original_text": "I reccomend this! I",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "efgk1x9",
+    "split": "train",
+    "line_idx": 41325,
+    "original_text": "Aw bummer. She lost her screenshot of the copy of a copy of bullshit articles handwritten in 1992. Somebody help a girl out.",
+    "emotion_ids": "5,25",
+    "emotions": [
+      "caring",
+      "sadness"
+    ]
+  },
+  {
+    "id": "edowi8f",
+    "split": "train",
+    "line_idx": 41326,
+    "original_text": "Love him.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "ed6kfll",
+    "split": "train",
+    "line_idx": 41327,
+    "original_text": "You two are perfect for one another.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "edfw07z",
+    "split": "train",
+    "line_idx": 41328,
+    "original_text": "Well this hurt tonight but it could have been worse. Plus the bears choked. LOL. Offset the hurt a bit.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ]
+  },
+  {
+    "id": "eezq0wi",
+    "split": "train",
+    "line_idx": 41329,
+    "original_text": "Oh no, not what I meant at all! Sorry for the confusion :O",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ]
+  },
+  {
+    "id": "ed58sf1",
+    "split": "train",
+    "line_idx": 41330,
+    "original_text": "But his parents love him and that's what’s important /s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee1xabz",
+    "split": "train",
+    "line_idx": 41331,
+    "original_text": " Whoa, my little brother had that toy! Awesome.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eepppvq",
+    "split": "train",
+    "line_idx": 41332,
+    "original_text": "I would love it if they could, but I don't think his trade value is that high",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "edndmmt",
+    "split": "train",
+    "line_idx": 41333,
+    "original_text": "Tell him he needs to go to rehab or he’ll be kicked out.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ]
+  },
+  {
+    "id": "ees62z8",
+    "split": "train",
+    "line_idx": 41334,
+    "original_text": "I'd go with \"Thanks\" and leave it there or maybe ask what exactly they are praying for depending on what kinda relationship it is.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ]
+  },
+  {
+    "id": "ed4rm1t",
+    "split": "train",
+    "line_idx": 41335,
+    "original_text": "I’m thinking yes and this was done on purpose.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ed1qd4j",
+    "split": "train",
+    "line_idx": 41336,
+    "original_text": "Everytime I see something in this sub that looks sharp, I get very worried. ",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ]
+  },
+  {
+    "id": "ee1i3ch",
+    "split": "train",
+    "line_idx": 41337,
+    "original_text": "I'm speechless.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "efh1u5b",
+    "split": "train",
+    "line_idx": 41338,
+    "original_text": "True, my bad. ",
+    "emotion_ids": "4,24",
+    "emotions": [
+      "approval",
+      "remorse"
+    ]
+  },
+  {
+    "id": "eej9ste",
+    "split": "train",
+    "line_idx": 41339,
+    "original_text": "Oh. That is unfortunate",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ]
+  },
+  {
+    "id": "ee4p75d",
+    "split": "train",
+    "line_idx": 41340,
+    "original_text": "We do? Strong disagree.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "edjas2q",
+    "split": "train",
+    "line_idx": 41341,
+    "original_text": "Be happy because I won't be short anymore one day",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "id": "edk9ml9",
+    "split": "train",
+    "line_idx": 41342,
+    "original_text": "A blanket opinion doesn't cover all the problems in a particular situation.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eepp44j",
+    "split": "train",
+    "line_idx": 41343,
+    "original_text": "There I did it for you.",
+    "emotion_ids": "5,18",
+    "emotions": [
+      "caring",
+      "love"
+    ]
+  },
+  {
+    "id": "ee6axat",
+    "split": "train",
+    "line_idx": 41344,
+    "original_text": "not really. but those people that go out of their way to say stuff like \"have a blessed day\" or whatever kinda creep me out. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eewmxdl",
+    "split": "train",
+    "line_idx": 41345,
+    "original_text": "I'm in. Hopefully I don't end up on the dumpster fire that is the Oilers",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ]
+  },
+  {
+    "id": "ef74nul",
+    "split": "train",
+    "line_idx": 41346,
+    "original_text": "I love how some people have the mindset \"children should be seen not heard, unless they something rediculously outlandish then they must have a supernatural connection.\"",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "edkgu1y",
+    "split": "train",
+    "line_idx": 41347,
+    "original_text": "Sucks even more to be the sons that actually died eh🤔",
+    "emotion_ids": "3,9,16",
+    "emotions": [
+      "annoyance",
+      "disappointment",
+      "grief"
+    ]
+  },
+  {
+    "id": "eedsgpg",
+    "split": "train",
+    "line_idx": 41348,
+    "original_text": "Ah so basically SDS is saying they're officially done with 18. Does the event never end",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ees7g3e",
+    "split": "train",
+    "line_idx": 41349,
+    "original_text": "Could you give an example? You're basically saying that you do MC but don't really say how :P",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  }
+]

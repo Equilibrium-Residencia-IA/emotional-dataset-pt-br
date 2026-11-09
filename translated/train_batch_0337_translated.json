@@ -1,0 +1,559 @@
+[
+  {
+    "id": "edyqbyd",
+    "split": "train",
+    "line_idx": 16850,
+    "original_text": "I saw 25yr old with 3 kids and a house. How do u think I feel. I'm over 30 and still single.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Vi uma pessoa de 25 anos com 3 filhos e uma casa. Como você acha que eu me sinto? Tenho mais de 30 e ainda estou solteiro."
+  },
+  {
+    "id": "eeaynu1",
+    "split": "train",
+    "line_idx": 16851,
+    "original_text": "[NAME] best girl",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é a melhor garota"
+  },
+  {
+    "id": "edroegf",
+    "split": "train",
+    "line_idx": 16852,
+    "original_text": "[NAME] is a jinx. Please send him back.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é um pé-frio. Por favor, mandem ele de volta."
+  },
+  {
+    "id": "eeepzt5",
+    "split": "train",
+    "line_idx": 16853,
+    "original_text": "The NERVE! 🤣",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que AUDÁCIA! 🤣"
+  },
+  {
+    "id": "edrbaax",
+    "split": "train",
+    "line_idx": 16854,
+    "original_text": "your post is awesome. People need to hear this more. Thank you.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "seu post é incrível. As pessoas precisam ouvir isso mais vezes. Obrigado."
+  },
+  {
+    "id": "ef470b7",
+    "split": "train",
+    "line_idx": 16855,
+    "original_text": "Also not true. Germany had pervasive antisemetism long before [NAME]. Ignoring that error your argument is horrible and you should be ashamed.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Também não é verdade. A Alemanha tinha um antissemitismo generalizado muito antes de [NAME]. Ignorando esse erro, seu argumento é horrível e você deveria ter vergonha."
+  },
+  {
+    "id": "edgqn60",
+    "split": "train",
+    "line_idx": 16856,
+    "original_text": "Jobby is a new one for me, is that another way of saying taking a crap?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Jobby é uma nova pra mim, é outro jeito de dizer que vai cagar?"
+  },
+  {
+    "id": "eewne9b",
+    "split": "train",
+    "line_idx": 16857,
+    "original_text": "An other skier that wasn't injured I guess",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mais um esquiador que não se machucou, eu acho"
+  },
+  {
+    "id": "ef2skwk",
+    "split": "train",
+    "line_idx": 16858,
+    "original_text": "lol, suit yourself.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "lol, você que sabe."
+  },
+  {
+    "id": "effsqj8",
+    "split": "train",
+    "line_idx": 16859,
+    "original_text": "Why not make a piece and send it to them?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que não faz uma peça e manda pra eles?"
+  },
+  {
+    "id": "efdkia9",
+    "split": "train",
+    "line_idx": 16860,
+    "original_text": "I don't have a problem with this if their hands are clean.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu não tenho problema com isso se eles estiverem com as mãos limpas."
+  },
+  {
+    "id": "effwyot",
+    "split": "train",
+    "line_idx": 16861,
+    "original_text": "Half the topics on this board are various factions insistent that the other factions are ruining this game.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Metade dos tópicos nesse fórum são facções diferentes insistindo que as outras facções estão estragando esse jogo."
+  },
+  {
+    "id": "eemqi9p",
+    "split": "train",
+    "line_idx": 16862,
+    "original_text": "By that logic the NDP need to stop existing to prevent the Liberals from going to the left.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Seguindo essa lógica, o NDP precisa parar de existir para evitar que os Liberais vão para a esquerda."
+  },
+  {
+    "id": "ed4fe9l",
+    "split": "train",
+    "line_idx": 16863,
+    "original_text": "Thank you so much, kind stranger. I really need that",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado, gentil estranho. Eu realmente precisava disso"
+  },
+  {
+    "id": "eec9d92",
+    "split": "train",
+    "line_idx": 16864,
+    "original_text": "I feel more attracted to boys. It's not a conscious choice.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu me sinto mais atraído por garotos. Não é uma escolha consciente."
+  },
+  {
+    "id": "ee8uwy5",
+    "split": "train",
+    "line_idx": 16865,
+    "original_text": "If he wants to play more, he should play better. Otherwise, leave. [NAME] has been very bad.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Se ele quer jogar mais, ele deveria jogar melhor. Caso contrário, vaza. [NAME] tem jogado muito mal."
+  },
+  {
+    "id": "ede6ydv",
+    "split": "train",
+    "line_idx": 16866,
+    "original_text": "Same. Body hair (on my own body..I don't care what anybody else does with THEIR body hair) grosses me the fuck out.",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ],
+    "translated_text": "Eu também. Pelo corporal (no meu próprio corpo... não me importo com o que os outros fazem com o pelo corporal DELES) me dá um nojo do caralho."
+  },
+  {
+    "id": "efdkzur",
+    "split": "train",
+    "line_idx": 16867,
+    "original_text": "You’re a vet; you at least WERE poor lol. I’m a vet too dude I know the struggle.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Você é veterano; pelo menos VOCÊ JÁ FOI pobre lol. Eu também sou veterano, cara, eu sei como é o perrengue."
+  },
+  {
+    "id": "edzut69",
+    "split": "train",
+    "line_idx": 16868,
+    "original_text": "Beard length 10",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Comprimento da barba 10"
+  },
+  {
+    "id": "ee0j46v",
+    "split": "train",
+    "line_idx": 16869,
+    "original_text": "Know it’s late but got one extra ticket for anyone who wants it. Dm ASAP! EDIT SOLD",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sei que é tarde, mas tenho um ingresso extra pra quem quiser. DM logo! EDIT: VENDIDO"
+  },
+  {
+    "id": "edliuze",
+    "split": "train",
+    "line_idx": 16870,
+    "original_text": "Whaaat. I liked Season 8 [NAME]. I wish the whole love arc between him and [NAME] had never been a thing, but I liked [NAME]. ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Nossa. Eu gostei da 8ª temporada de [NAME]. Queria que todo aquele arco amoroso entre ele e [NAME] nunca tivesse existido, mas eu gostava do [NAME]."
+  },
+  {
+    "id": "ed3jh2z",
+    "split": "train",
+    "line_idx": 16871,
+    "original_text": "I'm sorry, no. The hostess was 15. I was 24. At the steakhouse, only hostess girls answered phones.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Desculpa, não. A recepcionista tinha 15 anos. Eu tinha 24. Na churrascaria, só as recepcionistas atendiam o telefone."
+  },
+  {
+    "id": "ef3yna0",
+    "split": "train",
+    "line_idx": 16872,
+    "original_text": "It sounds like you’re the one who is afraid of the internet. Relax, bud. You’re on r/cringe ",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Parece que é você quem tem medo da internet. Relaxa, cara. Você está no r/cringe"
+  },
+  {
+    "id": "efh3sgx",
+    "split": "train",
+    "line_idx": 16873,
+    "original_text": "I went to the theaters by myself just to go see it lol. I rewatched it last night too. If anybody needs a link, PM me!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Fui ao cinema sozinho só pra ver isso lol. Assisti de novo ontem à noite também. Se alguém precisar de um link, me manda MP!"
+  },
+  {
+    "id": "eeenwax",
+    "split": "train",
+    "line_idx": 16874,
+    "original_text": "How right you are.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como você tem razão."
+  },
+  {
+    "id": "ee0lolg",
+    "split": "train",
+    "line_idx": 16875,
+    "original_text": "The point is no 13yr old is perfect and shit happens that doesn't mean they were scumbags that deserved to die for making the wrong choice.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "O ponto é que nenhum jovem de 13 anos é perfeito e merdas acontecem, isso não significa que eles eram uns lixos que mereciam morrer por terem feito a escolha errada."
+  },
+  {
+    "id": "edutcwh",
+    "split": "train",
+    "line_idx": 16876,
+    "original_text": "I want [NAME] and [NAME] in Top 3 so I’m feeling the omens girl",
+    "emotion_ids": "4,8",
+    "emotions": [
+      "approval",
+      "desire"
+    ],
+    "translated_text": "Eu quero [NAME] e [NAME] no Top 3, então estou sentindo os presságios, gata"
+  },
+  {
+    "id": "ee5ywyw",
+    "split": "train",
+    "line_idx": 16877,
+    "original_text": "Don't make me run! I'm full of chocolate!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não me faz correr! Estou cheio de chocolate!"
+  },
+  {
+    "id": "ef82nr1",
+    "split": "train",
+    "line_idx": 16878,
+    "original_text": "Resize the image",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Redimensione a imagem"
+  },
+  {
+    "id": "ee4n563",
+    "split": "train",
+    "line_idx": 16879,
+    "original_text": "Cc issue was never meant to be fixed in this patch, its a server side update, they already did one.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O problema de Cc nunca foi planejado para ser corrigido neste patch, é uma atualização do lado do servidor, eles já fizeram uma."
+  },
+  {
+    "id": "ef2msto",
+    "split": "train",
+    "line_idx": 16880,
+    "original_text": "Cool. Thanks for the tips!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Legal. Valeu pelas dicas!"
+  },
+  {
+    "id": "ede5sen",
+    "split": "train",
+    "line_idx": 16881,
+    "original_text": "Definitely not angry. He who smelt it dealt it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Definitivamente não estou bravo. Quem sentiu o cheiro, foi quem fez."
+  },
+  {
+    "id": "ef173ol",
+    "split": "train",
+    "line_idx": 16882,
+    "original_text": "I am not saying that I think many of the latest disputes my husband and i have had ours for a little while longer.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não estou dizendo que acho que muitas das últimas discussões que meu marido e eu tivemos duraram um pouco mais."
+  },
+  {
+    "id": "edfpd3t",
+    "split": "train",
+    "line_idx": 16883,
+    "original_text": "If you’re downloading from windows I believe so",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Se você está baixando do Windows, acredito que sim"
+  },
+  {
+    "id": "eewv2yh",
+    "split": "train",
+    "line_idx": 16884,
+    "original_text": "You've been muted. Usually awarded for extreme toxicity, don't worry though its temporary.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Você foi silenciado. Geralmente dado por toxicidade extrema, mas não se preocupe, é temporário."
+  },
+  {
+    "id": "ee335il",
+    "split": "train",
+    "line_idx": 16885,
+    "original_text": "I am just saying that it makes no sense in Russian",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Só estou dizendo que não faz sentido em russo"
+  },
+  {
+    "id": "eemu2su",
+    "split": "train",
+    "line_idx": 16886,
+    "original_text": "Just like he couldn’t call his executive producer [NAME] to ask if [NAME] had met [NAME] in TFA.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Assim como ele não pôde ligar para seu produtor executivo [NAME] para perguntar se [NAME] tinha conhecido [NAME] em TFA."
+  },
+  {
+    "id": "eenp1ip",
+    "split": "train",
+    "line_idx": 16887,
+    "original_text": "Yeah, think there's only about 100k of them. Can certainly say I don't know of any besides [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, acho que só existem uns 100 mil deles. Com certeza posso dizer que não conheço nenhum além de [NAME]."
+  },
+  {
+    "id": "edngwsi",
+    "split": "train",
+    "line_idx": 16888,
+    "original_text": "Well I was balding at 22 so I didn't have choice lol",
+    "emotion_ids": "1,22",
+    "emotions": [
+      "amusement",
+      "realization"
+    ],
+    "translated_text": "Bom, eu estava ficando careca aos 22, então não tive escolha lol"
+  },
+  {
+    "id": "edsy5yc",
+    "split": "train",
+    "line_idx": 16889,
+    "original_text": "Admin is all over it!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O admin está em cima disso!"
+  },
+  {
+    "id": "ee7d4p2",
+    "split": "train",
+    "line_idx": 16890,
+    "original_text": "It would certainly improve some services (like transit) but would piss off enough people of both cities that I can't imagine anyone proposing it.",
+    "emotion_ids": "3,20",
+    "emotions": [
+      "annoyance",
+      "optimism"
+    ],
+    "translated_text": "Certamente melhoraria alguns serviços (como transporte), mas irritaria tantas pessoas das duas cidades que não consigo imaginar ninguém propondo isso."
+  },
+  {
+    "id": "edps13p",
+    "split": "train",
+    "line_idx": 16891,
+    "original_text": "And? Did i say they didnt? Read the whole thread you bimbo",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "E daí? Eu disse que não fizeram? Leia o tópico inteiro, sua idiota"
+  },
+  {
+    "id": "efblk8r",
+    "split": "train",
+    "line_idx": 16892,
+    "original_text": "r/mildlyinteresting's stupid \"guys look at this thing I made aren't I cool??\" posts are the absolute worst",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Os posts estúpidos do r/mildlyinteresting do tipo \"galera, olha essa coisa que eu fiz, não sou legal??\" são os piores de todos"
+  },
+  {
+    "id": "eczkjwy",
+    "split": "train",
+    "line_idx": 16893,
+    "original_text": "But. They just played Africa. Not even a new song. They have an album to promote!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas. Eles acabaram de tocar Africa. Nem foi uma música nova. Eles têm um álbum para promover!"
+  },
+  {
+    "id": "eeok1ct",
+    "split": "train",
+    "line_idx": 16894,
+    "original_text": "will watch the films, thanks for the recommendation ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "vou assistir aos filmes, obrigado pela recomendação"
+  },
+  {
+    "id": "edh7eu3",
+    "split": "train",
+    "line_idx": 16895,
+    "original_text": "What’s this from? An aftershow or something?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "De onde é isso? Um aftershow ou algo assim?"
+  },
+  {
+    "id": "ef8hjsa",
+    "split": "train",
+    "line_idx": 16896,
+    "original_text": "Facechat. Fax. Oh mama",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Facechat. Fax. Ai mamãe"
+  },
+  {
+    "id": "eeoeeat",
+    "split": "train",
+    "line_idx": 16897,
+    "original_text": "Thank you very much for the advice I didn't really have anywhere else to turn",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado pelo conselho, eu realmente não tinha para onde recorrer"
+  },
+  {
+    "id": "ef9agn1",
+    "split": "train",
+    "line_idx": 16898,
+    "original_text": "It's great.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É ótimo."
+  },
+  {
+    "id": "edhmved",
+    "split": "train",
+    "line_idx": 16899,
+    "original_text": "That ice is dangerously thin for such a hot take.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Esse gelo está perigosamente fino para uma opinião tão polêmica."
+  }
+]

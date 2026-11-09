@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ed9kf0i",
+    "split": "train",
+    "line_idx": 10550,
+    "original_text": "Don’t forget sports gambling. THEN we’ll be happy.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Não esquece das apostas esportivas. AÍ sim a gente vai ser feliz."
+  },
+  {
+    "id": "eejnvcr",
+    "split": "train",
+    "line_idx": 10551,
+    "original_text": "I like it! It kinda feels like new territory, almost more real than old reality shows. It’s funnier and lighter too",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu curti! Parece um território novo, quase mais real que os reality shows antigos. É mais engraçado e leve também"
+  },
+  {
+    "id": "ed8lebf",
+    "split": "train",
+    "line_idx": 10552,
+    "original_text": "[NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]."
+  },
+  {
+    "id": "ee4or8t",
+    "split": "train",
+    "line_idx": 10553,
+    "original_text": "It’s more like a large youtuber trying to sue a smaller youtuber because both of their names have a C in it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É mais tipo um youtuber grande tentando processar um menor só porque o nome dos dois tem a letra C."
+  },
+  {
+    "id": "eett99d",
+    "split": "train",
+    "line_idx": 10554,
+    "original_text": "What I'm suggesting is that since companies are \"people\" in the terms of citizens united, something like this could have some interesting unintended consequences.",
+    "emotion_ids": "8,20",
+    "emotions": [
+      "desire",
+      "optimism"
+    ],
+    "translated_text": "O que eu tô sugerindo é que, já que empresas são \"pessoas\" nos termos do citizens united, algo assim poderia ter umas consequências inesperadas bem interessantes."
+  },
+  {
+    "id": "eejtwmb",
+    "split": "train",
+    "line_idx": 10555,
+    "original_text": "Similar to seroquel?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parecido com seroquel?"
+  },
+  {
+    "id": "edofcye",
+    "split": "train",
+    "line_idx": 10556,
+    "original_text": "Was that before or after the Sulphuric Sphincter show?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Isso foi antes ou depois do show do Esfíncter Sulfúrico?"
+  },
+  {
+    "id": "eejl5ow",
+    "split": "train",
+    "line_idx": 10557,
+    "original_text": "Okay I will, thanks so much you are helpful. I don’t even know if she is into me or anything but... I will see. ",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Beleza, vou fazer isso, valeu demais, você tá me ajudando muito. Nem sei se ela tá a fim de mim ou algo do tipo, mas... vou ver."
+  },
+  {
+    "id": "ed0utvo",
+    "split": "train",
+    "line_idx": 10558,
+    "original_text": "It's a hit headline from coin desk that has nothing to do with the article--which is glowingly positive for Ethereum and the Ethereum space.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É uma manchete caça-clique do coin desk que não tem nada a ver com o artigo--que é super positivo pra Ethereum e pro ecossistema da Ethereum."
+  },
+  {
+    "id": "eednnqm",
+    "split": "train",
+    "line_idx": 10559,
+    "original_text": "Damn bro thats wack. But life has a way to with things she'll reap what she sows. Feel better",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Nossa mano, que vacilo. Mas a vida dá voltas, ela vai colher o que plantou. Melhora aí."
+  },
+  {
+    "id": "edl7ki5",
+    "split": "train",
+    "line_idx": 10560,
+    "original_text": "Omg yes lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Meu Deus, sim kkkk"
+  },
+  {
+    "id": "ed4ci05",
+    "split": "train",
+    "line_idx": 10561,
+    "original_text": "*All I want is to be left alone* *In my average home* *But why do I always feel* *Like I'm in the Twilight Zone?*",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "*Tudo o que eu quero é ser deixado em paz* *Na minha casa comum* *Mas por que eu sempre me sinto* *Como se estivesse na Além da Imaginação?*"
+  },
+  {
+    "id": "efgkygv",
+    "split": "train",
+    "line_idx": 10562,
+    "original_text": "Ex-Marines are the best.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ex-fuzileiros navais são os melhores."
+  },
+  {
+    "id": "effxy6e",
+    "split": "train",
+    "line_idx": 10563,
+    "original_text": "Gotta eliminate the competition. It's Just Good Business.",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "Tem que eliminar a concorrência. São apenas bons negócios."
+  },
+  {
+    "id": "edl10sv",
+    "split": "train",
+    "line_idx": 10564,
+    "original_text": "An online poll that the Berners didn't manage to swarm? Color me shocked.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Uma enquete online que os seguidores do Bernie não conseguiram lotar? Tô chocado, imagina."
+  },
+  {
+    "id": "eez1syh",
+    "split": "train",
+    "line_idx": 10565,
+    "original_text": "Ya uh that's gen Z sorry",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Ah, é, isso aí é geração Z, malz."
+  },
+  {
+    "id": "ee5f1so",
+    "split": "train",
+    "line_idx": 10566,
+    "original_text": "I don't think a [NAME] would agree....",
+    "emotion_ids": "10,20",
+    "emotions": [
+      "disapproval",
+      "optimism"
+    ],
+    "translated_text": "Não acho que um [NAME] concordaria com isso...."
+  },
+  {
+    "id": "ee016pm",
+    "split": "train",
+    "line_idx": 10567,
+    "original_text": "1. Divine Speech by [NAME] and [NAME] 2. Also [NAME] book on the topic",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "1. Discurso Divino por [NAME] e [NAME] 2. Também o livro do [NAME] sobre o assunto"
+  },
+  {
+    "id": "eeplbei",
+    "split": "train",
+    "line_idx": 10568,
+    "original_text": "lol not bullying. Just a socially aware nerd complaining about how annoying most of my people are. ¯_(ツ)_/¯",
+    "emotion_ids": "1,3,10",
+    "emotions": [
+      "amusement",
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "kkk não é bullying não. É só um nerd consciente reclamando de como a maioria do meu povo é chata. ¯_(ツ)_/¯"
+  },
+  {
+    "id": "eevn1ld",
+    "split": "train",
+    "line_idx": 10569,
+    "original_text": "Just leave already",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só vai embora logo"
+  },
+  {
+    "id": "ed486al",
+    "split": "train",
+    "line_idx": 10570,
+    "original_text": "Try \"turn that shite aff!\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tenta um \"desliga essa porra aí!\""
+  },
+  {
+    "id": "ee0tzvm",
+    "split": "train",
+    "line_idx": 10571,
+    "original_text": "He dunked all the time with us. Loved the reverse two hand slam",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele enterrava o tempo todo com a gente. Amava a enterrada reversa com as duas mãos"
+  },
+  {
+    "id": "eddg3te",
+    "split": "train",
+    "line_idx": 10572,
+    "original_text": "Seeing him give the stone was the only one left in the entire universe, that’s like having a problem (which is really distribution).",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ver ele entregar a pedra sendo a única que sobrou no universo inteiro, é tipo ter um problema (que na verdade é de distribuição)."
+  },
+  {
+    "id": "ed1g9an",
+    "split": "train",
+    "line_idx": 10573,
+    "original_text": "For a 30 yo WR I'd package [NAME] and a 2020 2nd rounder. But I'd rather get [NAME] and draft a guy in the 4th.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por um WR de 30 anos eu mandaria o [NAME] e uma escolha de 2ª rodada de 2020. Mas prefiro pegar o [NAME] e draftar um cara na 4ª."
+  },
+  {
+    "id": "ed3elk7",
+    "split": "train",
+    "line_idx": 10574,
+    "original_text": "That’s awesome. Feed the gators while getting rid of Pits. Kill two birds with one stone.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível. Alimentar os jacarés enquanto se livra de Pits. Matar dois coelhos com uma cajadada só."
+  },
+  {
+    "id": "ee10724",
+    "split": "train",
+    "line_idx": 10575,
+    "original_text": "You got me",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você me pegou"
+  },
+  {
+    "id": "eet6zti",
+    "split": "train",
+    "line_idx": 10576,
+    "original_text": "Ah that makes sense, thanks for the quick reply. I'm new to the world of working so I have no idea what's what. ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ah, faz sentido, valeu pela resposta rápida. Sou novo nesse mundo do trabalho, então não faço ideia de como as coisas funcionam."
+  },
+  {
+    "id": "edfah1i",
+    "split": "train",
+    "line_idx": 10577,
+    "original_text": "I grew up on the other side of Ama but live in Tulia now. I will have some El Burrito for you",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu cresci do outro lado de Ama, mas moro em Tulia agora. Vou comer um El Burrito por você"
+  },
+  {
+    "id": "ed9873u",
+    "split": "train",
+    "line_idx": 10578,
+    "original_text": "Yeah, sorry for that one. Some opportunities are too good to pass up.",
+    "emotion_ids": "24,25",
+    "emotions": [
+      "remorse",
+      "sadness"
+    ],
+    "translated_text": "É, malz por essa. Algumas oportunidades são boas demais pra deixar passar."
+  },
+  {
+    "id": "efb6vct",
+    "split": "train",
+    "line_idx": 10579,
+    "original_text": "You don't have a Mrs do you?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Você não tem uma patroa, né?"
+  },
+  {
+    "id": "edobqlo",
+    "split": "train",
+    "line_idx": 10580,
+    "original_text": "[NAME] fast asleep is adorable. I love how the two blonde girls are asleep and with drool.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME] dormindo profundamente é adorável. Adoro como as duas meninas loiras estão dormindo e babando."
+  },
+  {
+    "id": "edubyqv",
+    "split": "train",
+    "line_idx": 10581,
+    "original_text": "That's true.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É verdade."
+  },
+  {
+    "id": "eeye9u5",
+    "split": "train",
+    "line_idx": 10582,
+    "original_text": "Don't get down. You have only ruined it with that one person.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não fica pra baixo. Você só estragou tudo com essa uma pessoa."
+  },
+  {
+    "id": "ef0gk6n",
+    "split": "train",
+    "line_idx": 10583,
+    "original_text": "They will most likely be branded as PKK symphatizers by Turkish media. Which sucks because next time something like this happens some of them might get shot",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eles provavelmente vão ser rotulados como simpatizantes do PKK pela mídia turca. O que é uma merda porque da próxima vez que algo assim acontecer, alguns deles podem acabar levando um tiro"
+  },
+  {
+    "id": "ee9e4sa",
+    "split": "train",
+    "line_idx": 10584,
+    "original_text": "I imagine it would be helpful for little kids who cant reach the faucet.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Imagino que seria útil pra crianças pequenas que não alcançam a torneira."
+  },
+  {
+    "id": "eeuegqi",
+    "split": "train",
+    "line_idx": 10585,
+    "original_text": "Say thos: mom, dad, she's busted. Respect my wishes!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Fala assim: mãe, pai, ela tá ferrada. Respeitem minhas vontades!"
+  },
+  {
+    "id": "edf6rj8",
+    "split": "train",
+    "line_idx": 10586,
+    "original_text": "Now this is a gem.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora isso sim é uma pérola."
+  },
+  {
+    "id": "edpyorp",
+    "split": "train",
+    "line_idx": 10587,
+    "original_text": "Did this a lot when I was a kid but never did it as bad as this",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Fazia muito isso quando era criança, mas nunca tão feio quanto isso"
+  },
+  {
+    "id": "eeddmte",
+    "split": "train",
+    "line_idx": 10588,
+    "original_text": "Should have just gotten massive foundation donations and laundered the profits that way.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Deveria ter só conseguido doações gigantescas pra fundação e lavado o lucro desse jeito."
+  },
+  {
+    "id": "eelf9bs",
+    "split": "train",
+    "line_idx": 10589,
+    "original_text": "I actually want to die rn. I don't want to watch the SB but I know I'm going to.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Na moral, quero morrer agora. Não quero assistir o Super Bowl, mas sei que vou assistir."
+  },
+  {
+    "id": "efgf5oo",
+    "split": "train",
+    "line_idx": 10590,
+    "original_text": "No? Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Não? kkk"
+  },
+  {
+    "id": "efdtfe5",
+    "split": "train",
+    "line_idx": 10591,
+    "original_text": "The weird eyes.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os olhos estranhos."
+  },
+  {
+    "id": "edoleff",
+    "split": "train",
+    "line_idx": 10592,
+    "original_text": "I can try. That sounds interesting. Its hard for me to not be interrupted at my house too. But ill definitely try.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Posso tentar. Parece interessante. É difícil pra mim não ser interrompido na minha casa também. Mas com certeza vou tentar."
+  },
+  {
+    "id": "efh09wy",
+    "split": "train",
+    "line_idx": 10593,
+    "original_text": "I love conspiracy theories with no shred of proof",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo teorias da conspiração sem um pingo de prova"
+  },
+  {
+    "id": "ed4enm2",
+    "split": "train",
+    "line_idx": 10594,
+    "original_text": "Congrats on the mild success of your stolen story",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Parabéns pelo sucesso mediano da sua história roubada"
+  },
+  {
+    "id": "ee9tlpv",
+    "split": "train",
+    "line_idx": 10595,
+    "original_text": "Wait... so you do or don't have Cole Madison news? I heard he became a [NAME] and he's living in Thailand.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Espera... então você tem ou não tem notícias do Cole Madison? Ouvi dizer que ele virou [NAME] e tá morando na Tailândia."
+  },
+  {
+    "id": "edafzut",
+    "split": "train",
+    "line_idx": 10596,
+    "original_text": "Aladdin is my jam as well! :D",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aladdin é minha vibe também! :D"
+  },
+  {
+    "id": "ee9jw7b",
+    "split": "train",
+    "line_idx": 10597,
+    "original_text": "this definitely fits in r/BoneAppleTea.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "isso com certeza cabe no r/BoneAppleTea."
+  },
+  {
+    "id": "eepm5cr",
+    "split": "train",
+    "line_idx": 10598,
+    "original_text": "Tell them I was born autistic.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fala pra eles que eu nasci autista."
+  },
+  {
+    "id": "eeeok3v",
+    "split": "train",
+    "line_idx": 10599,
+    "original_text": "I like how he called his mom asking if she was trying to contact him just so he could tell her what’s wrong",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Achei legal como ele ligou pra mãe perguntando se ela tava tentando entrar em contato só pra poder contar pra ela o que tava errado"
+  }
+]

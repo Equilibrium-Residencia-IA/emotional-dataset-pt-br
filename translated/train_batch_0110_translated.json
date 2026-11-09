@@ -1,0 +1,561 @@
+[
+  {
+    "id": "efh455y",
+    "split": "train",
+    "line_idx": 5500,
+    "original_text": " out yours and his, then work to find ways you can both express yourselves in ways the other will perceive as love. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "coloque as suas e as dele na mesa, depois tentem achar um jeito de ambos se expressarem de uma forma que o outro sinta que é amor."
+  },
+  {
+    "id": "ee4ygeu",
+    "split": "train",
+    "line_idx": 5501,
+    "original_text": "Now only up 250,000%!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora só subiu 250.000%!"
+  },
+  {
+    "id": "ed7ltuk",
+    "split": "train",
+    "line_idx": 5502,
+    "original_text": "Breaking bad all over again",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Breaking Bad tudo de novo"
+  },
+  {
+    "id": "eeqt7nk",
+    "split": "train",
+    "line_idx": 5503,
+    "original_text": "Come on curry",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vamos lá, Curry"
+  },
+  {
+    "id": "edh7l7o",
+    "split": "train",
+    "line_idx": 5504,
+    "original_text": "Those flowers look painted on",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essas flores parecem pintadas"
+  },
+  {
+    "id": "edg806n",
+    "split": "train",
+    "line_idx": 5505,
+    "original_text": "He’s a douche because... why? He got turned on by some animal porn? Why does that make him a douche?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Ele é um babaca por quê... exatamente? Ele ficou excitado com pornografia animal? Por que isso faz dele um babaca?"
+  },
+  {
+    "id": "edxtrss",
+    "split": "train",
+    "line_idx": 5506,
+    "original_text": "So did my fat closet racist uncle in Nevada.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu tio gordo e racista enrustido de Nevada também."
+  },
+  {
+    "id": "ee3qrdt",
+    "split": "train",
+    "line_idx": 5507,
+    "original_text": "You got more upvotes. Now you are beating me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você ganhou mais upvotes. Agora você está me superando."
+  },
+  {
+    "id": "ef8htel",
+    "split": "train",
+    "line_idx": 5508,
+    "original_text": "Jokes about [NAME] hopefully being in MK11",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Piadas sobre o [NAME] possivelmente estar no MK11"
+  },
+  {
+    "id": "ee0wiyr",
+    "split": "train",
+    "line_idx": 5509,
+    "original_text": "Sometimes it makes me squint. It's fine with friends because they just think I'm high. It's not as great with colleagues and such.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Às vezes isso me faz semicerrar os olhos. Com amigos é de boa porque eles só acham que eu tô chapado. Não é tão legal com colegas de trabalho e tal."
+  },
+  {
+    "id": "ee9nrmn",
+    "split": "train",
+    "line_idx": 5510,
+    "original_text": "Brutal piece!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que pedrada!"
+  },
+  {
+    "id": "edhf54v",
+    "split": "train",
+    "line_idx": 5511,
+    "original_text": "Well attention whores are women(mostly) that always seek validation from other people, something that can really become very obnoxious and annoying.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Bom, attention whores são mulheres (na maioria) que sempre buscam validação dos outros, algo que pode se tornar muito chato e irritante."
+  },
+  {
+    "id": "ef8aotu",
+    "split": "train",
+    "line_idx": 5512,
+    "original_text": "I almost pissed myself waiting so long in the tunnel. Not a fun feeling",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu quase me mijei esperando tanto tempo no túnel. Não é uma sensação nada legal"
+  },
+  {
+    "id": "eeeirb4",
+    "split": "train",
+    "line_idx": 5513,
+    "original_text": "Just a joke post on how someone will go through blah blah blah and come out on top.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só um post de zoeira sobre como alguém vai passar por blá blá blá e sair por cima."
+  },
+  {
+    "id": "efc72ly",
+    "split": "train",
+    "line_idx": 5514,
+    "original_text": "I cannot believe the fucking audacity of him. Have some shame for [NAME] sake.",
+    "emotion_ids": "2,3,9",
+    "emotions": [
+      "anger",
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Eu não consigo acreditar na audácia desse cara, na moral. Tenha um pouco de vergonha na cara pelo amor de [NAME]."
+  },
+  {
+    "id": "eeytigc",
+    "split": "train",
+    "line_idx": 5515,
+    "original_text": "haha someone's gotta rep for our struggling sports programs",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "haha alguém tem que representar nossos programas esportivos que estão na pior"
+  },
+  {
+    "id": "edo3ztf",
+    "split": "train",
+    "line_idx": 5516,
+    "original_text": "They’ve performed it live together so maybe you’ve heard that.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eles já tocaram isso ao vivo juntos, então talvez você tenha ouvido essa versão."
+  },
+  {
+    "id": "eebursf",
+    "split": "train",
+    "line_idx": 5517,
+    "original_text": "Then why do you say it's racist when senior servers dont want to serve them?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então por que você diz que é racismo quando os garçons mais velhos não querem atendê-los?"
+  },
+  {
+    "id": "ee9ld8l",
+    "split": "train",
+    "line_idx": 5518,
+    "original_text": "That's the theme of this excellent play:",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse é o tema dessa peça excelente:"
+  },
+  {
+    "id": "effffov",
+    "split": "train",
+    "line_idx": 5519,
+    "original_text": "With a lot of severe brain damage after being beat back to life with an ugly stick.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Com um monte de dano cerebral severo depois de ter apanhado até voltar à vida com um pedaço de pau feio."
+  },
+  {
+    "id": "edghux8",
+    "split": "train",
+    "line_idx": 5520,
+    "original_text": "The real problem is the malicious prosecution engaged in by Monsanto against small farmers.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "O verdadeiro problema é a perseguição maliciosa que a Monsanto faz contra os pequenos agricultores."
+  },
+  {
+    "id": "edrw5wr",
+    "split": "train",
+    "line_idx": 5521,
+    "original_text": "Nervously laughs in anxiety",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Risada nervosa de ansiedade"
+  },
+  {
+    "id": "ee6twds",
+    "split": "train",
+    "line_idx": 5522,
+    "original_text": "I’m guessing this is in response to an advertisement from the shaving company Gillette. missed my chance....”contextttt!”",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tô achando que isso é uma resposta àquele anúncio da Gillette. Perdi a chance... \"contextoooo!\""
+  },
+  {
+    "id": "edqav2l",
+    "split": "train",
+    "line_idx": 5523,
+    "original_text": "Why or when was he ever a locker room cancer though? Am I missing something? Thanks for the downvote for asking a question, though. ",
+    "emotion_ids": "6,7,15",
+    "emotions": [
+      "confusion",
+      "curiosity",
+      "gratitude"
+    ],
+    "translated_text": "Mas por que ou quando ele foi um câncer no vestiário? Tô perdendo alguma coisa? Valeu pelo downvote por fazer uma pergunta, aliás."
+  },
+  {
+    "id": "ed5rmsl",
+    "split": "train",
+    "line_idx": 5524,
+    "original_text": "I didn't realize it was that common of a thing for guys to do xD",
+    "emotion_ids": "1,22",
+    "emotions": [
+      "amusement",
+      "realization"
+    ],
+    "translated_text": "Eu não sabia que era tão comum os caras fazerem isso xD"
+  },
+  {
+    "id": "eeugdp1",
+    "split": "train",
+    "line_idx": 5525,
+    "original_text": "How so. What is the basis for your feeling of universal entitlement?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como assim? Qual a base para esse seu sentimento de direito universal a tudo?"
+  },
+  {
+    "id": "eer4ums",
+    "split": "train",
+    "line_idx": 5526,
+    "original_text": "How many attempts did that insane tech take to pull off?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Quantas tentativas aquela técnica insana levou para conseguir?"
+  },
+  {
+    "id": "ef9lvwj",
+    "split": "train",
+    "line_idx": 5527,
+    "original_text": "I mean it's just not. A lot of people are just like this.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quer dizer, não é não. Muita gente é exatamente assim."
+  },
+  {
+    "id": "ef3tbcf",
+    "split": "train",
+    "line_idx": 5528,
+    "original_text": "> It almost feels like this is totally a shameless, contentless promo post for your YouTube channel and this book.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "> Parece muito que isso é um post promocional sem vergonha e vazio pro seu canal no YouTube e pra esse livro."
+  },
+  {
+    "id": "eff720e",
+    "split": "train",
+    "line_idx": 5529,
+    "original_text": "Good answer. Thanks for taking the time.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Boa resposta. Valeu por tirar um tempo pra responder."
+  },
+  {
+    "id": "edqvf2a",
+    "split": "train",
+    "line_idx": 5530,
+    "original_text": "I don't see a mom referring to a group chat as a \"thread\".",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não vejo uma mãe chamando um grupo de conversa de \"thread\"."
+  },
+  {
+    "id": "edkt6d4",
+    "split": "train",
+    "line_idx": 5531,
+    "original_text": "We did it guys! We’re the real heroes!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Conseguimos, pessoal! Nós somos os verdadeiros heróis!"
+  },
+  {
+    "id": "ee2akjk",
+    "split": "train",
+    "line_idx": 5532,
+    "original_text": "Bloody Peasant!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Camponês maldito!"
+  },
+  {
+    "id": "ee3twmx",
+    "split": "train",
+    "line_idx": 5533,
+    "original_text": "He looks like that one guy",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ele parece aquele cara"
+  },
+  {
+    "id": "edb8eg4",
+    "split": "train",
+    "line_idx": 5534,
+    "original_text": "“To put us all know who [NAME] laughed through it all.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "“Para que todos saibamos quem [NAME] riu disso tudo."
+  },
+  {
+    "id": "eemf5z5",
+    "split": "train",
+    "line_idx": 5535,
+    "original_text": "I don't think that's true. Every major story I remember from the [NAME] investigation has been from court documents.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu não acho que isso seja verdade. Toda história importante que eu lembro da investigação do [NAME] veio de documentos judiciais."
+  },
+  {
+    "id": "eczh3g4",
+    "split": "train",
+    "line_idx": 5536,
+    "original_text": "So far she seems pretty decent but I'm side-eyeing the hell out of him. His conduct at the restaurant was so bizarre and creepy.",
+    "emotion_ids": "0,3",
+    "emotions": [
+      "admiration",
+      "annoyance"
+    ],
+    "translated_text": "Até agora ela parece bem decente, mas tô olhando ele com uma desconfiança absurda. O comportamento dele no restaurante foi tão bizarro e assustador."
+  },
+  {
+    "id": "ee8t4bb",
+    "split": "train",
+    "line_idx": 5537,
+    "original_text": "Yeah, that also came up in the thread, and the reason was mentioned on BestOf here.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, isso também apareceu na thread, e o motivo foi mencionado no BestOf aqui."
+  },
+  {
+    "id": "ee0gjha",
+    "split": "train",
+    "line_idx": 5538,
+    "original_text": "Not for long!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não por muito tempo!"
+  },
+  {
+    "id": "eeoylml",
+    "split": "train",
+    "line_idx": 5539,
+    "original_text": "Too bad [NAME] is going to be completely overshadowed by [NAME] to even notice.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pena que o [NAME] vai ser completamente ofuscado pelo [NAME] a ponto de nem notarem."
+  },
+  {
+    "id": "edgwcyb",
+    "split": "train",
+    "line_idx": 5540,
+    "original_text": "I’m literally shaking right now😫",
+    "emotion_ids": "14,19",
+    "emotions": [
+      "fear",
+      "nervousness"
+    ],
+    "translated_text": "Eu tô literalmente tremendo agora😫"
+  },
+  {
+    "id": "ee0kykb",
+    "split": "train",
+    "line_idx": 5541,
+    "original_text": "Very good points. Thank you for sharing that!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Pontos muito bons. Obrigado por compartilhar isso!"
+  },
+  {
+    "id": "edyj547",
+    "split": "train",
+    "line_idx": 5542,
+    "original_text": "Stop what?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parar o quê?"
+  },
+  {
+    "id": "ee6m3md",
+    "split": "train",
+    "line_idx": 5543,
+    "original_text": "NEVER SEEN BEFORE! READ ALL ABOUT IT!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "NUNCA VISTO ANTES! LEIAM TUDO SOBRE ISSO!"
+  },
+  {
+    "id": "eeeansc",
+    "split": "train",
+    "line_idx": 5544,
+    "original_text": "Of course. I'm glad you were able to revisit in a healthy manner.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Com certeza. Fico feliz que você conseguiu revisitar isso de uma forma saudável."
+  },
+  {
+    "id": "edlgxce",
+    "split": "train",
+    "line_idx": 5545,
+    "original_text": "I report these every time they appear on the buy/swap/sell groups.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu denuncio esses posts toda vez que aparecem nos grupos de compra/venda/troca."
+  },
+  {
+    "id": "ed9ylmv",
+    "split": "train",
+    "line_idx": 5546,
+    "original_text": "It just feels like everything is so false. If I can't care about myself why would anyone else.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Parece que tudo é tão falso. Se eu não consigo me importar comigo mesmo, por que alguém mais se importaria?"
+  },
+  {
+    "id": "eewsxew",
+    "split": "train",
+    "line_idx": 5547,
+    "original_text": "ive been looking at buying this exact knife for like 6 months.. how is it?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "tô querendo comprar exatamente essa faca faz uns 6 meses... como ela é?"
+  },
+  {
+    "id": "ee5bq8n",
+    "split": "train",
+    "line_idx": 5548,
+    "original_text": "SOME newborns are ugly. I did think my little sister was ugly af.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ALGUNS recém-nascidos são feios. Eu achava minha irmãzinha feia pra caramba."
+  },
+  {
+    "id": "edqwmts",
+    "split": "train",
+    "line_idx": 5549,
+    "original_text": "Stay strong brother - it's coming.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Aguenta firme, irmão - tá chegando."
+  }
+]

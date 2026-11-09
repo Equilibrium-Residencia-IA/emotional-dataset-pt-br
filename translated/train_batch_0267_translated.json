@@ -1,0 +1,558 @@
+[
+  {
+    "id": "eegmdjg",
+    "split": "train",
+    "line_idx": 13350,
+    "original_text": "Yes, that's an interesting thing that I've been curious about ever since the merger. And the new party has pretty much purged the Wildrosers.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Sim, isso é algo interessante que eu tenho ficado curioso desde a fusão. E o novo partido praticamente expurgou os Wildrosers."
+  },
+  {
+    "id": "edoiofr",
+    "split": "train",
+    "line_idx": 13351,
+    "original_text": "Whenever I hear about someone I haven’t previously and someone says wow really they’re a YouTube ________ I physically twitch",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Toda vez que ouço falar de alguém que eu não conhecia antes e alguém diz 'nossa, sério, eles são um ________ do YouTube', eu tenho um tique nervoso"
+  },
+  {
+    "id": "ee2c4av",
+    "split": "train",
+    "line_idx": 13352,
+    "original_text": "It's funny how BMI doesn't measure those things. My torque wrench doesn't measure alpha radiation either.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É engraçado como o IMC não mede essas coisas. Meu torquímetro também não mede radiação alfa."
+  },
+  {
+    "id": "efdrzyo",
+    "split": "train",
+    "line_idx": 13353,
+    "original_text": "Yea no shit wtf",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, nem me fale, que porra é essa"
+  },
+  {
+    "id": "eduuu5r",
+    "split": "train",
+    "line_idx": 13354,
+    "original_text": "Well one of them does anyway. His sister bites his ankles to herd him while he fetches.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, um deles faz, pelo menos. A irmã dele morde os tornozelos dele pra pastorear ele enquanto ele busca as coisas."
+  },
+  {
+    "id": "eczukzw",
+    "split": "train",
+    "line_idx": 13355,
+    "original_text": "\"No\" is the complete sentence I will use for this exercise.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "\"Não\" é a frase completa que vou usar pra esse exercício."
+  },
+  {
+    "id": "eebwx5v",
+    "split": "train",
+    "line_idx": 13356,
+    "original_text": "Because it's so ridiculously stupid people just can't help themselves.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Porque é tão ridiculamente estúpido que as pessoas simplesmente não conseguem se segurar."
+  },
+  {
+    "id": "edyf258",
+    "split": "train",
+    "line_idx": 13357,
+    "original_text": "Forever this.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra sempre isso."
+  },
+  {
+    "id": "eeoo01y",
+    "split": "train",
+    "line_idx": 13358,
+    "original_text": "That's what makes the best reply you could paste the comment at mumble rap and 10 day tho.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "É isso que faz a melhor resposta que você poderia colar o comentário no mumble rap e 10 dias, né."
+  },
+  {
+    "id": "efh2f3g",
+    "split": "train",
+    "line_idx": 13359,
+    "original_text": "I want my kids to feel like life will take care of them -[NAME] \"LIFE will take care of them?\" *signature [NAME] face* hahahhaha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu quero que meus filhos sintam que a vida vai cuidar deles - [NAME] \"A VIDA vai cuidar deles?\" *cara clássica do [NAME]* hahahhaha"
+  },
+  {
+    "id": "edexws1",
+    "split": "train",
+    "line_idx": 13360,
+    "original_text": "Fun movie, good choices of songs, and excellent visuals",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Filme divertido, boas escolhas de músicas e visuais excelentes"
+  },
+  {
+    "id": "ee6dbjn",
+    "split": "train",
+    "line_idx": 13361,
+    "original_text": "We're here but WE NEED TO BE UP HERE!!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente tá aqui, mas A GENTE PRECISA ESTAR AQUI EM CIMA!!!!"
+  },
+  {
+    "id": "ee5bmx1",
+    "split": "train",
+    "line_idx": 13362,
+    "original_text": "If you're making a point I'm missing it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se você tá tentando argumentar algo, eu não tô entendendo"
+  },
+  {
+    "id": "efbpi7h",
+    "split": "train",
+    "line_idx": 13363,
+    "original_text": "Willing to replace [NAME] for Her",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Disposto a substituir o [NAME] por ela"
+  },
+  {
+    "id": "eevo6oc",
+    "split": "train",
+    "line_idx": 13364,
+    "original_text": "Oh and just fyi for everyone, the girls are bisexual (obviously haha) and I am Pansexual, though [NAME] thinks she may be Pansexual too 😁",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, e só pra avisar todo mundo, as meninas são bissexuais (obviamente né haha) e eu sou pansexual, embora a [NAME] ache que ela também possa ser pansexual 😁"
+  },
+  {
+    "id": "ed5km0e",
+    "split": "train",
+    "line_idx": 13365,
+    "original_text": "There has to be a term for people who use the Occam's Razor this much to get to their conclusions. Occam's Masochist?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem que ter um termo pra pessoas que usam a Navalha de Ockham tanto assim pra chegar nas suas conclusões. Masoquista de Ockham?"
+  },
+  {
+    "id": "edac4w3",
+    "split": "train",
+    "line_idx": 13366,
+    "original_text": "Accurate ! Thanks",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Preciso! Valeu"
+  },
+  {
+    "id": "efadu6d",
+    "split": "train",
+    "line_idx": 13367,
+    "original_text": "Capitalism coerces all of us into exchanging labor for money. Respect all hustles of non harmful types! 🙌🏻",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "O capitalismo nos força a trocar trabalho por dinheiro. Respeito todos os corres que não fazem mal a ninguém! 🙌🏻"
+  },
+  {
+    "id": "ee7cmzv",
+    "split": "train",
+    "line_idx": 13368,
+    "original_text": "Kratz and insertion in the same sentence makes me nauseous for some reason..",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Kratz e inserção na mesma frase me dão náusea por algum motivo.."
+  },
+  {
+    "id": "edzzu4q",
+    "split": "train",
+    "line_idx": 13369,
+    "original_text": "Then you'll be arrested, play stupid games win stupid prizes.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Então você vai ser preso, quem brinca com fogo acaba se queimando."
+  },
+  {
+    "id": "eeluuwj",
+    "split": "train",
+    "line_idx": 13370,
+    "original_text": "She's not. She's not in any place. She doesn't exist.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Ela não é. Ela não está em lugar nenhum. Ela não existe."
+  },
+  {
+    "id": "edvkpm2",
+    "split": "train",
+    "line_idx": 13371,
+    "original_text": "Haha wait why does this sounds so familiar",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha pera, por que isso soa tão familiar"
+  },
+  {
+    "id": "ed10y07",
+    "split": "train",
+    "line_idx": 13372,
+    "original_text": "That entire family is so embarrassing.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Família inteira muito vergonhosa."
+  },
+  {
+    "id": "edbbnj9",
+    "split": "train",
+    "line_idx": 13373,
+    "original_text": "As an Aaron Jones owner, I did hate [NAME]. Lol but I’d still like the hire and just pray he becomes more innovative.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Como dono do Aaron Jones, eu odiei o [NAME]. Lol, mas ainda gostaria da contratação e só rezaria pra ele ser mais inovador."
+  },
+  {
+    "id": "eduxx9u",
+    "split": "train",
+    "line_idx": 13374,
+    "original_text": "Oh heck oh frick",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ah droga, ah caramba"
+  },
+  {
+    "id": "ef7pbuj",
+    "split": "train",
+    "line_idx": 13375,
+    "original_text": "mirotic is beal now?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O mirotic é beal agora?"
+  },
+  {
+    "id": "edc4o61",
+    "split": "train",
+    "line_idx": 13376,
+    "original_text": "Thanks man, words give me strength",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu cara, essas palavras me dão força"
+  },
+  {
+    "id": "edq5xbg",
+    "split": "train",
+    "line_idx": 13377,
+    "original_text": "> saving the children Because this will save a tiny of fraction of what could be saved with a cell phone ban.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> salvando as crianças Porque isso vai salvar uma fração minúscula do que poderia ser salvo com um banimento de celulares."
+  },
+  {
+    "id": "edruzxt",
+    "split": "train",
+    "line_idx": 13378,
+    "original_text": "I second that",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Eu apoio isso"
+  },
+  {
+    "id": "ef0xqrg",
+    "split": "train",
+    "line_idx": 13379,
+    "original_text": "Yes it is I’m 99.9% sure! Thank you! Enjoy your gold.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sim, é, tenho 99,9% de certeza! Obrigado! Aproveite seu gold."
+  },
+  {
+    "id": "ee86dlg",
+    "split": "train",
+    "line_idx": 13380,
+    "original_text": "People change their minds when trust is broken.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "As pessoas mudam de ideia quando a confiança é quebrada."
+  },
+  {
+    "id": "eejqteq",
+    "split": "train",
+    "line_idx": 13381,
+    "original_text": "[NAME] [NAME] speed option was so much fun. They are the most criminally underrated cfb duo in my opinion",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "A opção de velocidade do [NAME] e [NAME] era muito divertida. Eles são a dupla de futebol americano universitário mais subestimada criminosamente na minha opinião"
+  },
+  {
+    "id": "eeiefui",
+    "split": "train",
+    "line_idx": 13382,
+    "original_text": "I live in that District. I vote [NAME], watch her kicked [NAME] ass(4 time). She's got this.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu moro nesse distrito. Eu voto na [NAME], vi ela chutar a bunda do [NAME] (4 vezes). Ela consegue."
+  },
+  {
+    "id": "edgt7hu",
+    "split": "train",
+    "line_idx": 13383,
+    "original_text": "Class topper meant something way different when I was growing up lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "O melhor da turma significava algo bem diferente quando eu tava crescendo lol"
+  },
+  {
+    "id": "edkylum",
+    "split": "train",
+    "line_idx": 13384,
+    "original_text": "[NAME] isn't advocating socialism. He's advocating the government intervene in the labor market because those mean free marketers. Not [NAME] but populist left",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] não tá defendendo o socialismo. Ele tá defendendo que o governo intervenha no mercado de trabalho por causa desses malvados defensores do livre mercado. Não é o [NAME], é a esquerda populista"
+  },
+  {
+    "id": "edy5j4g",
+    "split": "train",
+    "line_idx": 13385,
+    "original_text": "\"every time she was in trouble I was there for her\" - the man who caused most of her troubles ",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "\"toda vez que ela estava em apuros eu estava lá por ela\" - o homem que causou a maioria dos apuros dela"
+  },
+  {
+    "id": "eem5ojk",
+    "split": "train",
+    "line_idx": 13386,
+    "original_text": "Good instincts to try to get move out of the road. Hope they are alright.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Bons instintos tentar tirar da estrada. Espero que eles estejam bem."
+  },
+  {
+    "id": "ee6kxgs",
+    "split": "train",
+    "line_idx": 13387,
+    "original_text": "Thanks alot!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado!"
+  },
+  {
+    "id": "edq57vw",
+    "split": "train",
+    "line_idx": 13388,
+    "original_text": "They NAILED [NAME]. That looks legit, dude! I might steal your idea, haha",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles ACERTARAM no [NAME]. Isso parece legítimo, cara! Talvez eu roube sua ideia, haha"
+  },
+  {
+    "id": "edpr3nd",
+    "split": "train",
+    "line_idx": 13389,
+    "original_text": "I guess nobody cares about what you want.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que ninguém liga pro que você quer."
+  },
+  {
+    "id": "eeuurd2",
+    "split": "train",
+    "line_idx": 13390,
+    "original_text": "I like how you're insinuating that the other half is family reunification rather than giving us the real answer.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Gosto de como você tá insinuando que a outra metade é reunificação familiar em vez de dar a resposta real pra gente."
+  },
+  {
+    "id": "ednp9uj",
+    "split": "train",
+    "line_idx": 13391,
+    "original_text": "So the person reached over the gate from the wrong side? Is that right?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então a pessoa esticou a mão pelo portão pelo lado errado? É isso?"
+  },
+  {
+    "id": "efcatfs",
+    "split": "train",
+    "line_idx": 13392,
+    "original_text": "oh ok thanks for explaining",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "ah ok, valeu por explicar"
+  },
+  {
+    "id": "eel1u1m",
+    "split": "train",
+    "line_idx": 13393,
+    "original_text": "Looked like it hurt",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Pareceu que doeu"
+  },
+  {
+    "id": "edpje7g",
+    "split": "train",
+    "line_idx": 13394,
+    "original_text": "Thanks for the tip. Just sold 100K",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela dica. Acabei de vender 100 mil"
+  },
+  {
+    "id": "eedqp50",
+    "split": "train",
+    "line_idx": 13395,
+    "original_text": "I love [NAME] and totally understand. I hope she and [NAME] are able to have their healthy baby.",
+    "emotion_ids": "18,20",
+    "emotions": [
+      "love",
+      "optimism"
+    ],
+    "translated_text": "Eu amo a [NAME] e entendo totalmente. Espero que ela e o [NAME] consigam ter seu bebê saudável."
+  },
+  {
+    "id": "edpuqzs",
+    "split": "train",
+    "line_idx": 13396,
+    "original_text": "are they worried their dog will get autism or something?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "eles estão preocupados que o cachorro deles vá pegar autismo ou algo assim?"
+  },
+  {
+    "id": "ee4glft",
+    "split": "train",
+    "line_idx": 13397,
+    "original_text": "[NAME], the LAPD chief who created it, was a notorious racist who is responsible for mass mistrust between the LA cops and nonwhite residents.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], o chefe da polícia de LA que criou isso, era um racista notório que é responsável pela desconfiança em massa entre os policiais de LA e os moradores não brancos."
+  },
+  {
+    "id": "ee5x49c",
+    "split": "train",
+    "line_idx": 13398,
+    "original_text": "I'd rather watch [NAME] chuck threes",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu prefiro ver o [NAME] arremessando de três"
+  },
+  {
+    "id": "ee4zzfr",
+    "split": "train",
+    "line_idx": 13399,
+    "original_text": "Well, the bill was about 100+ per person. Must be amazing lunch there.",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "Bom, a conta deu uns 100+ por pessoa. Deve ser um almoço incrível lá."
+  }
+]

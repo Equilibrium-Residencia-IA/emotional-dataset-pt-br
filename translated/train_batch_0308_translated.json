@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ed4n9mh",
+    "split": "train",
+    "line_idx": 15400,
+    "original_text": "thanks mate! yes, will buy some protein shakes today.. fucking expensive but better than starving i guess",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "valeu cara! sim, vou comprar uns whey hoje.. caro pra cacete mas é melhor do que passar fome eu acho"
+  },
+  {
+    "id": "edmoi58",
+    "split": "train",
+    "line_idx": 15401,
+    "original_text": "I think you also underestimate how big Chelsea has become, especially in the States",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Acho que você também subestima o tamanho que o Chelsea ficou, especialmente nos Estados Unidos"
+  },
+  {
+    "id": "edjikpr",
+    "split": "train",
+    "line_idx": 15402,
+    "original_text": "Hope + Sabres = Mistake Just remember that you love hockey and do your best to enjoy the ride.",
+    "emotion_ids": "5,18,27",
+    "emotions": [
+      "caring",
+      "love",
+      "neutral"
+    ],
+    "translated_text": "Esperança + Sabres = Erro. Só lembre que você ama hóquei e faça o seu melhor pra curtir a jornada."
+  },
+  {
+    "id": "ee0ujgf",
+    "split": "train",
+    "line_idx": 15403,
+    "original_text": "So how did all the new airmen with you in that class feel like after being treated to the real Air Force?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E aí, como é que todos os novos recrutas da sua turma se sentiram depois de serem apresentados à verdadeira Força Aérea?"
+  },
+  {
+    "id": "ed0dtnw",
+    "split": "train",
+    "line_idx": 15404,
+    "original_text": "??? Where the hell is this article getting it's data from...",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "??? De onde diabos esse artigo tá tirando esses dados..."
+  },
+  {
+    "id": "edbzhwh",
+    "split": "train",
+    "line_idx": 15405,
+    "original_text": "You know he meant Golden Gardens. You are not discussing this in good faith.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Você sabe que ele quis dizer Golden Gardens. Você não tá discutindo isso de boa fé."
+  },
+  {
+    "id": "edeoy0e",
+    "split": "train",
+    "line_idx": 15406,
+    "original_text": "Oh, fuck off. It’s no one’s fault but yours that you think every mention of the word ‘men’ means you specifically. ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Ah, vai se ferrar. A culpa não é de ninguém além sua se você acha que toda menção à palavra 'homens' significa você especificamente."
+  },
+  {
+    "id": "edvizmr",
+    "split": "train",
+    "line_idx": 15407,
+    "original_text": "It’s fitting. All things Considered.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É apropriado. Considerando tudo."
+  },
+  {
+    "id": "eev42fc",
+    "split": "train",
+    "line_idx": 15408,
+    "original_text": "That's me too! I even try to avoid trailers since they reveal too much these days.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu também sou assim! Até evito trailers porque eles revelam demais hoje em dia."
+  },
+  {
+    "id": "ed8lz85",
+    "split": "train",
+    "line_idx": 15409,
+    "original_text": "I lost it when all the heroes kept going back and forth into siege range",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu perdi a linha quando todos os heróis ficavam entrando e saindo do alcance de cerco"
+  },
+  {
+    "id": "ed2me0o",
+    "split": "train",
+    "line_idx": 15410,
+    "original_text": "nice, was a big fan of REQ but haven't kept up with their progress much the last year",
+    "emotion_ids": "15,18",
+    "emotions": [
+      "gratitude",
+      "love"
+    ],
+    "translated_text": "legal, eu era muito fã da REQ mas não acompanhei muito o progresso deles no último ano"
+  },
+  {
+    "id": "ed4ant8",
+    "split": "train",
+    "line_idx": 15411,
+    "original_text": "Let's do this... 4 game win streak again!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Vamos nessa... 4 vitórias seguidas de novo!"
+  },
+  {
+    "id": "ee5f93j",
+    "split": "train",
+    "line_idx": 15412,
+    "original_text": "They didn't actually run any tests to confirm it was even bone, let alone human.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eles nem fizeram testes pra confirmar se era osso, muito menos humano."
+  },
+  {
+    "id": "eel2a4i",
+    "split": "train",
+    "line_idx": 15413,
+    "original_text": "I hope these young women change the church and not the other way around.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que essas jovens mulheres mudem a igreja e não o contrário."
+  },
+  {
+    "id": "efdj8zb",
+    "split": "train",
+    "line_idx": 15414,
+    "original_text": "I ate 2 lots of rice a day, with chilli. I also had a bowl of high carb cereal. I lost 4stone. CICO, is real! ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu comia 2 porções de arroz por dia, com pimenta. Também tomava uma tigela de cereal com muito carboidrato. Perdi uns 25kg. CICO é real!"
+  },
+  {
+    "id": "efdsksn",
+    "split": "train",
+    "line_idx": 15415,
+    "original_text": "they're shite - disgruntled OCSC fan",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "eles são um lixo - um torcedor do OCSC revoltado"
+  },
+  {
+    "id": "edtsvju",
+    "split": "train",
+    "line_idx": 15416,
+    "original_text": "My own worst enemy singalong is my favorite LOL",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "A cantoria de My own worst enemy é a minha favorita kkkkk"
+  },
+  {
+    "id": "edox8mp",
+    "split": "train",
+    "line_idx": 15417,
+    "original_text": "Hi, [NAME]! I am dropping by to wish you the most fantastic day of your life! Have a good one! -HappyFriendlyBot",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Oi, [NAME]! Tô passando pra te desejar o dia mais fantástico da sua vida! Aproveita! -HappyFriendlyBot"
+  },
+  {
+    "id": "edvdx43",
+    "split": "train",
+    "line_idx": 15418,
+    "original_text": "[NAME] Just sell the team your true love is the Chicago white suxs",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] Só vende o time, seu amor verdadeiro é o Chicago White Sux"
+  },
+  {
+    "id": "ed52tdv",
+    "split": "train",
+    "line_idx": 15419,
+    "original_text": "Actually pretty :(( as [NAME] since the Hair is one big abomination and it could have been sooooo cool.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Na verdade bem :(( como [NAME] já que o cabelo é uma grande abominação e poderia ter ficado tãooooo legal."
+  },
+  {
+    "id": "ee5zmoj",
+    "split": "train",
+    "line_idx": 15420,
+    "original_text": "This is a powerful mood.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso define muito o meu humor."
+  },
+  {
+    "id": "edhqh3o",
+    "split": "train",
+    "line_idx": 15421,
+    "original_text": "I always wondered where it was on ormond. I managed to find the toolbox last week on yamaoka as killer.",
+    "emotion_ids": "7,26",
+    "emotions": [
+      "curiosity",
+      "surprise"
+    ],
+    "translated_text": "Eu sempre me perguntei onde ficava em Ormond. Consegui achar a caixa de ferramentas semana passada em Yamaoka jogando de assassino."
+  },
+  {
+    "id": "ee0oy6v",
+    "split": "train",
+    "line_idx": 15422,
+    "original_text": "That was a fluid motion and it scared me",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Aquele movimento foi fluido e me deu um susto"
+  },
+  {
+    "id": "eewan7f",
+    "split": "train",
+    "line_idx": 15423,
+    "original_text": "In the worst of the anger phase I took up running. It’s hard to stay in that state while your legs are burning that much.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "No pior da fase de raiva eu comecei a correr. É difícil ficar nesse estado quando suas pernas estão queimando tanto."
+  },
+  {
+    "id": "edowqu9",
+    "split": "train",
+    "line_idx": 15424,
+    "original_text": "You can cancel his single orb shot with melee too. Great for close range as discord headshot+melee is a shitload of damage.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você também pode cancelar o tiro de orbe único dele com o corpo a corpo. Ótimo pra curta distância, já que o tiro na cabeça com discórdia + corpo a corpo dá um dano absurdo."
+  },
+  {
+    "id": "edtaywn",
+    "split": "train",
+    "line_idx": 15425,
+    "original_text": "[NAME] path made me hate everything associated with pirates",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "A trajetória do [NAME] me fez odiar tudo que é associado a piratas"
+  },
+  {
+    "id": "edkcj65",
+    "split": "train",
+    "line_idx": 15426,
+    "original_text": "Hey congrats!! That's amazing, you've done such amazing progress! Hope you have a great day :)",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ei, parabéns!! Isso é incrível, você teve um progresso maravilhoso! Espero que tenha um ótimo dia :)"
+  },
+  {
+    "id": "eeq60rd",
+    "split": "train",
+    "line_idx": 15427,
+    "original_text": "Oh.. yeah dried",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah.. sim, seco"
+  },
+  {
+    "id": "edthuow",
+    "split": "train",
+    "line_idx": 15428,
+    "original_text": "Thank you for your input! I’ll look into it",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pela sua opinião! Vou dar uma olhada"
+  },
+  {
+    "id": "edm7bqb",
+    "split": "train",
+    "line_idx": 15429,
+    "original_text": "Yes. (That's the back side of the Palace hotel.)",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sim. (Aquele é o lado de trás do hotel Palace.)"
+  },
+  {
+    "id": "edjxz27",
+    "split": "train",
+    "line_idx": 15430,
+    "original_text": "Wishing you all of the best friend !!!!",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Desejando tudo de melhor pra você, amigo !!!!"
+  },
+  {
+    "id": "eemywxe",
+    "split": "train",
+    "line_idx": 15431,
+    "original_text": "I know! It amazes me every day, but I'm SO, SO thankful for those lists.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Eu sei! Me surpreende todo dia, mas sou TÃO, TÃO grata por essas listas."
+  },
+  {
+    "id": "ef10bq0",
+    "split": "train",
+    "line_idx": 15432,
+    "original_text": "Oh [NAME], oh no, no no no",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Ah [NAME], ah não, não não não"
+  },
+  {
+    "id": "efh6e6t",
+    "split": "train",
+    "line_idx": 15433,
+    "original_text": "[NAME] enslaved the [NAME] and MLMs enslave...well...everybody.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "[NAME] escravizou o [NAME] e as MLMs escravizam... bom... todo mundo."
+  },
+  {
+    "id": "ee46q28",
+    "split": "train",
+    "line_idx": 15434,
+    "original_text": "Damn girl, Stockholm syndrome is strong with you. All I can say is I wish you all the best.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Nossa gata, a síndrome de Estocolmo tá forte em você. Tudo que posso dizer é que te desejo tudo de melhor."
+  },
+  {
+    "id": "ee21y05",
+    "split": "train",
+    "line_idx": 15435,
+    "original_text": "Because I have no self-control and I hate myself.",
+    "emotion_ids": "2,24",
+    "emotions": [
+      "anger",
+      "remorse"
+    ],
+    "translated_text": "Porque eu não tenho autocontrole e me odeio."
+  },
+  {
+    "id": "ed35t8f",
+    "split": "train",
+    "line_idx": 15436,
+    "original_text": "Wish i had more up votes for you.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Queria ter mais upvotes pra te dar."
+  },
+  {
+    "id": "edpqgh8",
+    "split": "train",
+    "line_idx": 15437,
+    "original_text": "So, they want a more profitable split? Surprised they wouldn't go for the Discord store then. Didn't it offer even better a split?",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Então, eles querem uma divisão mais lucrativa? Surpreso que não tenham ido pra loja da Discord então. Ela não oferecia uma divisão ainda melhor?"
+  },
+  {
+    "id": "ef1nvtz",
+    "split": "train",
+    "line_idx": 15438,
+    "original_text": "Those cards are so cool",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Essas cartas são muito legais"
+  },
+  {
+    "id": "eeniywp",
+    "split": "train",
+    "line_idx": 15439,
+    "original_text": "Cute pupper 😍😍😍",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Cachorrinho fofo 😍😍😍"
+  },
+  {
+    "id": "ed4bf6i",
+    "split": "train",
+    "line_idx": 15440,
+    "original_text": "Yeah that’s one of the things I’m most worried about, still hopeful!",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "É, essa é uma das coisas que mais me preocupa, mas ainda tô esperançoso!"
+  },
+  {
+    "id": "eenrd2o",
+    "split": "train",
+    "line_idx": 15441,
+    "original_text": "They do it because easily entertained people appears to be .... entertained by this. So they won't stop until people stop clicking on this trash",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles fazem isso porque as pessoas facilmente entretidas parecem estar.... entretidas com isso. Então eles não vão parar até que as pessoas parem de clicar nesse lixo"
+  },
+  {
+    "id": "ed2azcx",
+    "split": "train",
+    "line_idx": 15442,
+    "original_text": "Should have drafted [NAME] and then never traded for THJ...Anyways, just happy we got [NAME] out of this finally.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Deveriam ter escolhido o [NAME] e nunca ter trocado pelo THJ... De qualquer forma, só feliz que finalmente tiramos o [NAME] disso."
+  },
+  {
+    "id": "edkvd3h",
+    "split": "train",
+    "line_idx": 15443,
+    "original_text": "You used the correct term. Good job.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você usou o termo correto. Bom trabalho."
+  },
+  {
+    "id": "edizvov",
+    "split": "train",
+    "line_idx": 15444,
+    "original_text": "He raped you. Leave. Now. Cut all contact. Easy answers here. You deserve far far better than this",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Ele te estuprou. Vai embora. Agora. Corta todo contato. Respostas fáceis aqui. Você merece muito, muito melhor que isso"
+  },
+  {
+    "id": "eeu6ut2",
+    "split": "train",
+    "line_idx": 15445,
+    "original_text": "Shoot, darn. You win again!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Putz, droga. Você ganhou de novo!"
+  },
+  {
+    "id": "eey2ayd",
+    "split": "train",
+    "line_idx": 15446,
+    "original_text": "I look cuter in red P’s.",
+    "emotion_ids": "17,21",
+    "emotions": [
+      "joy",
+      "pride"
+    ],
+    "translated_text": "Eu fico mais fofa de P's vermelhos."
+  },
+  {
+    "id": "ef9fc4b",
+    "split": "train",
+    "line_idx": 15447,
+    "original_text": "Read in the news yesterday that 3.6 million have lost their insurance since the rump took office. I wonder how many of them died because of it?",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Li no noticiário ontem que 3,6 milhões perderam o seguro desde que o rump assumiu o cargo. Fico me perguntando quantos deles morreram por causa disso?"
+  },
+  {
+    "id": "ee32zda",
+    "split": "train",
+    "line_idx": 15448,
+    "original_text": "He's ridiculous, I've never watched out west when he was on the Spurs. But damn. Hope He stay.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Ele é ridículo, nunca assisti aos jogos do oeste quando ele estava no Spurs. Mas caramba. Espero que ele fique."
+  },
+  {
+    "id": "ef8f22j",
+    "split": "train",
+    "line_idx": 15449,
+    "original_text": "Disgusting making [NAME] talk to this fat moron",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Nojento fazer o [NAME] falar com esse idiota gordo"
+  }
+]

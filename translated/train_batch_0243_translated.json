@@ -1,0 +1,562 @@
+[
+  {
+    "id": "eepsm4t",
+    "split": "train",
+    "line_idx": 12150,
+    "original_text": "You're gross",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Você é nojento"
+  },
+  {
+    "id": "ee3hvbc",
+    "split": "train",
+    "line_idx": 12151,
+    "original_text": "You were disappointed in 2014?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você ficou decepcionado em 2014?"
+  },
+  {
+    "id": "ees8lnu",
+    "split": "train",
+    "line_idx": 12152,
+    "original_text": "Most likely cuz it’s an addiction to dopamine",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Muito provavelmente porque é um vício em dopamina"
+  },
+  {
+    "id": "ee2bt7h",
+    "split": "train",
+    "line_idx": 12153,
+    "original_text": "Perfect. Thanks!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Perfeito. Valeu!"
+  },
+  {
+    "id": "edcz4zm",
+    "split": "train",
+    "line_idx": 12154,
+    "original_text": "I still can't believe those guys got nominated.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Eu ainda não acredito que aqueles caras foram indicados."
+  },
+  {
+    "id": "ee0tdvv",
+    "split": "train",
+    "line_idx": 12155,
+    "original_text": "Man I remember playing street hockey at desert breeze growing up, good times",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Cara, eu lembro de jogar hóquei de rua no desert breeze quando era mais novo, bons tempos"
+  },
+  {
+    "id": "eegvhid",
+    "split": "train",
+    "line_idx": 12156,
+    "original_text": "I can't believe you're giving these trolls the time of day but good on ya bud. Epic post.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não acredito que você tá dando trela pra esses trolls, mas parabéns pra você, cara. Post épico."
+  },
+  {
+    "id": "edv22sq",
+    "split": "train",
+    "line_idx": 12157,
+    "original_text": "It was. I accept that, and it taught me a valuable lesson.",
+    "emotion_ids": "0,4,22",
+    "emotions": [
+      "admiration",
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Foi mesmo. Eu aceito isso, e serviu de lição pra mim."
+  },
+  {
+    "id": "ee4jrho",
+    "split": "train",
+    "line_idx": 12158,
+    "original_text": "Thanks for sharing.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu por compartilhar."
+  },
+  {
+    "id": "eesm3ij",
+    "split": "train",
+    "line_idx": 12159,
+    "original_text": "Spoken like a true man. My science teacher supposedly has ramblings about “not touching people.”",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Falou como um homem de verdade. Meu professor de ciências supostamente tem uns delírios sobre \"não tocar nas pessoas\"."
+  },
+  {
+    "id": "ed9mh65",
+    "split": "train",
+    "line_idx": 12160,
+    "original_text": "Hate to break this to ya but you are that guy [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Odeio ter que te falar isso, mas você é esse cara, [NAME]"
+  },
+  {
+    "id": "ees0whg",
+    "split": "train",
+    "line_idx": 12161,
+    "original_text": "Not everyone has given up on Wigs. We’re much better off staying the course.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nem todo mundo desistiu do Wigs. A gente se dá muito melhor mantendo o plano."
+  },
+  {
+    "id": "eew5qa8",
+    "split": "train",
+    "line_idx": 12162,
+    "original_text": "No. Well...maybe. Good point.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não. Bom... talvez. Belo ponto."
+  },
+  {
+    "id": "eczxy40",
+    "split": "train",
+    "line_idx": 12163,
+    "original_text": "I was convinced that you can just use one of the above. If you clean up just like the truck in the back of one person beat him.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu estava convencido de que você pode usar apenas um dos acima. Se você limpar igual ao caminhão na parte de trás de uma pessoa, bata nele."
+  },
+  {
+    "id": "eddhr7v",
+    "split": "train",
+    "line_idx": 12164,
+    "original_text": "yeah but FUCK devil roar. I swear a volcano happens every single time I step on land there",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "é, mas FODA-SE devil roar. Juro que acontece um vulcão toda vez que eu piso em terra firme lá"
+  },
+  {
+    "id": "efcicsc",
+    "split": "train",
+    "line_idx": 12165,
+    "original_text": "Wow, whereabouts in Croydon are you it wasn't this bad where I am! ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, onde em Croydon você tá? Não tava tão ruim onde eu moro!"
+  },
+  {
+    "id": "edzcqdy",
+    "split": "train",
+    "line_idx": 12166,
+    "original_text": "Dear OP: Proper punctuation please/thank you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Caro OP: pontuação adequada, por favor/obrigado."
+  },
+  {
+    "id": "ed1qgl8",
+    "split": "train",
+    "line_idx": 12167,
+    "original_text": "Looks like a hover hand for a few frames.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece uma mão boba por alguns frames."
+  },
+  {
+    "id": "edjp1e1",
+    "split": "train",
+    "line_idx": 12168,
+    "original_text": "Unfortunately many of the people that say they understand and endorse that statement, and the ideals behind it, do neither.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Infelizmente, muitas das pessoas que dizem entender e apoiar essa afirmação, e os ideais por trás dela, não fazem nem uma coisa nem outra."
+  },
+  {
+    "id": "ed3crx2",
+    "split": "train",
+    "line_idx": 12169,
+    "original_text": "Cholent powered rockets will fly men to the moon'🎶",
+    "emotion_ids": "4,20",
+    "emotions": [
+      "approval",
+      "optimism"
+    ],
+    "translated_text": "Foguetes movidos a cholent vão levar homens à lua'🎶"
+  },
+  {
+    "id": "eesqpp6",
+    "split": "train",
+    "line_idx": 12170,
+    "original_text": "Like a glove",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que nem uma luva"
+  },
+  {
+    "id": "eef8git",
+    "split": "train",
+    "line_idx": 12171,
+    "original_text": "My target has lots of stuff. *This target had fortnite.*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu alvo tem um monte de coisa. *Esse alvo tinha fortnite.*"
+  },
+  {
+    "id": "eeodamo",
+    "split": "train",
+    "line_idx": 12172,
+    "original_text": "Emotional support [NAME]?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] de suporte emocional?"
+  },
+  {
+    "id": "efdea7z",
+    "split": "train",
+    "line_idx": 12173,
+    "original_text": "Why is it so hard for people to accept the word no? Jfc. She definitely deserved what she got lol.",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ],
+    "translated_text": "Por que é tão difícil pras pessoas aceitarem a palavra não? Pqp. Ela com certeza mereceu o que aconteceu com ela kkk."
+  },
+  {
+    "id": "ee3cd92",
+    "split": "train",
+    "line_idx": 12174,
+    "original_text": "wtf i love basketball again.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "pqp eu amo basquete de novo."
+  },
+  {
+    "id": "edmdz4n",
+    "split": "train",
+    "line_idx": 12175,
+    "original_text": "Have to agree. The government welfare and biased divorce courts which are enforced by the state are to blame.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tenho que concordar. O bem-estar do governo e os tribunais de divórcio tendenciosos que são impostos pelo estado são os culpados."
+  },
+  {
+    "id": "edyde4j",
+    "split": "train",
+    "line_idx": 12176,
+    "original_text": "Damn that sucks dude! Personally I’d fill the soil with barbed wire so when they stick their hands in they’d get nice and cut up",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Nossa, que droga, cara! Pessoalmente, eu encheria a terra com arame farpado, assim, quando eles enfiassem as mãos, iam ficar bem cortadinhos"
+  },
+  {
+    "id": "eeympky",
+    "split": "train",
+    "line_idx": 12177,
+    "original_text": "I think those red hats increase their IQ by -1",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu acho que aqueles bonés vermelhos aumentam o QI deles em -1"
+  },
+  {
+    "id": "ee5d2uv",
+    "split": "train",
+    "line_idx": 12178,
+    "original_text": "I’m curious, do any other coaches do this?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tô curioso, algum outro treinador faz isso?"
+  },
+  {
+    "id": "edbvvjc",
+    "split": "train",
+    "line_idx": 12179,
+    "original_text": "Misery loves company",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A miséria adora companhia"
+  },
+  {
+    "id": "edrfzrj",
+    "split": "train",
+    "line_idx": 12180,
+    "original_text": "Help that damn cat",
+    "emotion_ids": "3,5",
+    "emotions": [
+      "annoyance",
+      "caring"
+    ],
+    "translated_text": "Ajuda aquele gato maldito"
+  },
+  {
+    "id": "edl0xi8",
+    "split": "train",
+    "line_idx": 12181,
+    "original_text": "I graduated in 2002 and had history books that ended with [NAME] 2nd term. I had great teachers but terrible materials.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Eu me formei em 2002 e tinha livros de história que terminavam no 2º mandato do [NAME]. Tive ótimos professores, mas materiais horríveis."
+  },
+  {
+    "id": "ed47f3d",
+    "split": "train",
+    "line_idx": 12182,
+    "original_text": "Happy Birthday [NAME]!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Feliz aniversário [NAME]!"
+  },
+  {
+    "id": "edib2j1",
+    "split": "train",
+    "line_idx": 12183,
+    "original_text": "I'd be happy with a Goff win too. And you can't hate Brees. Rams vs. Chargers would be perfect. final score 72-70.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu ficaria feliz com uma vitória do Goff também. E não dá pra odiar o Brees. Rams vs. Chargers seria perfeito. placar final 72-70."
+  },
+  {
+    "id": "ee34hb1",
+    "split": "train",
+    "line_idx": 12184,
+    "original_text": "That's still crazy to me as it's the same price online and in store here. We just have a flat rate.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Isso ainda é loucura pra mim, já que o preço é o mesmo online e na loja aqui. A gente só tem uma taxa fixa."
+  },
+  {
+    "id": "efb1n7r",
+    "split": "train",
+    "line_idx": 12185,
+    "original_text": "I wonder how many managers you've pissed off",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu me pergunto quantos gerentes você já irritou"
+  },
+  {
+    "id": "eecuw98",
+    "split": "train",
+    "line_idx": 12186,
+    "original_text": "People don't have installation and maintenance costs and when they break down you can go outside and find another one really quick.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "As pessoas não têm custos de instalação e manutenção e, quando quebram, você pode ir lá fora e encontrar outro bem rápido."
+  },
+  {
+    "id": "eepczrq",
+    "split": "train",
+    "line_idx": 12187,
+    "original_text": "I don't find it awkward, it's relaxing and I want to enjoy having some else wash and cut my hair.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu não acho estranho, é relaxante e eu quero aproveitar ter outra pessoa lavando e cortando meu cabelo."
+  },
+  {
+    "id": "edecorn",
+    "split": "train",
+    "line_idx": 12188,
+    "original_text": "love that the block against AZ is in this. what a year for Kittle.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "adorei que o bloqueio contra o AZ tá nisso. que ano pro Kittle."
+  },
+  {
+    "id": "eemk4b5",
+    "split": "train",
+    "line_idx": 12189,
+    "original_text": "Maybe if we didn't choke to inferior teams we could've made the playoffs and done something about it. But of course, we didn't so.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Talvez se a gente não tivesse pipocado pra times inferiores, a gente poderia ter ido pros playoffs e feito alguma coisa a respeito. Mas é claro que não fizemos, então."
+  },
+  {
+    "id": "edoeovd",
+    "split": "train",
+    "line_idx": 12190,
+    "original_text": "Good, hope he actually takes that to heart!",
+    "emotion_ids": "4,5,20",
+    "emotions": [
+      "approval",
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Bom, espero que ele realmente leve isso a sério!"
+  },
+  {
+    "id": "eeujf3m",
+    "split": "train",
+    "line_idx": 12191,
+    "original_text": "Check Billboard's actual site. Not Wikipedia. Can't knock the hustle hit #10 on 1-12-2019",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dá uma olhada no site real da Billboard. Não na Wikipédia. Não dá pra negar o corre, chegou no nº 10 em 12/01/2019"
+  },
+  {
+    "id": "ef4pl3m",
+    "split": "train",
+    "line_idx": 12192,
+    "original_text": "i wonder how people who are in college/undergrad who are in stable relationships do it.",
+    "emotion_ids": "6,26",
+    "emotions": [
+      "confusion",
+      "surprise"
+    ],
+    "translated_text": "eu me pergunto como as pessoas que estão na faculdade/graduação e em relacionamentos estáveis conseguem."
+  },
+  {
+    "id": "ef6dpsf",
+    "split": "train",
+    "line_idx": 12193,
+    "original_text": "The reason I play quickmatch. I wont feel the shame..",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "O motivo pelo qual eu jogo quickmatch. Não vou sentir a vergonha.."
+  },
+  {
+    "id": "eeq7q1q",
+    "split": "train",
+    "line_idx": 12194,
+    "original_text": "From what I've gathered it seems a dose is about 10-30 mg of THC, so I don't think you'll feel much.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo que eu entendi, parece que uma dose é cerca de 10-30 mg de THC, então não acho que você vai sentir muita coisa."
+  },
+  {
+    "id": "eeix2zg",
+    "split": "train",
+    "line_idx": 12195,
+    "original_text": "She could delete her personal accounts and create professional accounts that are only for advertising her business.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela poderia deletar as contas pessoais dela e criar contas profissionais que sejam só pra divulgar o negócio dela."
+  },
+  {
+    "id": "eejyawj",
+    "split": "train",
+    "line_idx": 12196,
+    "original_text": "Glad to see people actively calling out yet another asshole on here pretending to want to help people. Good show!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Bom ver as pessoas chamando ativamente mais um babaca aqui que finge querer ajudar os outros. Belo show!"
+  },
+  {
+    "id": "ee1ixf8",
+    "split": "train",
+    "line_idx": 12197,
+    "original_text": "Here. I didn’t delete it, but rather changed my tumblr name.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aqui. Eu não deletei, mas mudei meu nome no tumblr."
+  },
+  {
+    "id": "ee28rzf",
+    "split": "train",
+    "line_idx": 12198,
+    "original_text": "I found some very interesting things on the mind shock podcasts about questions I had. Enjoy the digging in the reddit hole.",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Eu encontrei algumas coisas muito interessantes nos podcasts mind shock sobre perguntas que eu tinha. Aproveite a escavação na toca do coelho do reddit."
+  },
+  {
+    "id": "ee7k8n2",
+    "split": "train",
+    "line_idx": 12199,
+    "original_text": "Ok thanks bro for the opinion. I’m trying to settle a argument.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ok, valeu mano pela opinião. Tô tentando resolver uma discussão."
+  }
+]

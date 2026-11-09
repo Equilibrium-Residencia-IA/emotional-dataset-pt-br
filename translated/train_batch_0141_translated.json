@@ -1,0 +1,564 @@
+[
+  {
+    "id": "ef78vt9",
+    "split": "train",
+    "line_idx": 7050,
+    "original_text": "THE IMAGE ASKS \"WOULD YOU VIOLENCE THIS BABY IF BABY WORE HAT\" THE ANSWER IS \"NEH\"",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "A IMAGEM PERGUNTA \"VOCÊ VIOLENTARIA ESSE BEBÊ SE ELE ESTIVESSE DE CHAPÉU\" A RESPOSTA É \"NEM\""
+  },
+  {
+    "id": "ef41wol",
+    "split": "train",
+    "line_idx": 7051,
+    "original_text": "Lol, that actually sounds kinda like [NAME]' rallying cry! ",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lol, isso na verdade soa meio como o grito de guerra do [NAME]!"
+  },
+  {
+    "id": "ef5auen",
+    "split": "train",
+    "line_idx": 7052,
+    "original_text": "Burn it into your soul",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Grave isso na sua alma"
+  },
+  {
+    "id": "eem3f55",
+    "split": "train",
+    "line_idx": 7053,
+    "original_text": "When they touch my arm or shoulder while talking. Usually they do it with no sexual intent at all, but it still gives me butterflies. ",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Quando eles tocam no meu braço ou ombro enquanto conversam. Geralmente fazem isso sem intenção sexual nenhuma, mas ainda assim me dá um frio na barriga."
+  },
+  {
+    "id": "eet4uvy",
+    "split": "train",
+    "line_idx": 7054,
+    "original_text": "my 3.5mm jack came with my iphone se and I can literally never lose it as long as I have my phone.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "meu adaptador de 3.5mm veio com meu iphone se e eu literalmente nunca vou perder ele contanto que eu tenha meu celular."
+  },
+  {
+    "id": "eelsphs",
+    "split": "train",
+    "line_idx": 7055,
+    "original_text": "She’ll just be like, not in my backyard!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela só vai dizer, não no meu quintal!"
+  },
+  {
+    "id": "ee5qbl5",
+    "split": "train",
+    "line_idx": 7056,
+    "original_text": "Humiliation on top of arrest!!!",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Humilhação em cima da prisão!!!"
+  },
+  {
+    "id": "eff2hkk",
+    "split": "train",
+    "line_idx": 7057,
+    "original_text": "[NAME] looks like original [NAME] and [NAME] had a love child together or like ran at each other and morphed into one being...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] parece que o [NAME] original e o [NAME] tiveram um filho juntos ou que correram um em direção ao outro e se fundiram em um só ser..."
+  },
+  {
+    "id": "eez3ef5",
+    "split": "train",
+    "line_idx": 7058,
+    "original_text": "Sorry I am kind of new to posting here. Didn't even know that existed! Gonna try and move over there.",
+    "emotion_ids": "12,22,24",
+    "emotions": [
+      "embarrassment",
+      "realization",
+      "remorse"
+    ],
+    "translated_text": "Desculpa, sou meio novo postando aqui. Nem sabia que isso existia! Vou tentar me mudar pra lá."
+  },
+  {
+    "id": "ee8zw83",
+    "split": "train",
+    "line_idx": 7059,
+    "original_text": "This is my favorite [NAME] joke I've seen",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Essa é a minha piada favorita do [NAME] que eu já vi"
+  },
+  {
+    "id": "edwalet",
+    "split": "train",
+    "line_idx": 7060,
+    "original_text": "I'm worried that even in the summer we're not going to have the funds necessary to do that.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Estou preocupado que mesmo no verão a gente não vá ter os fundos necessários pra fazer isso."
+  },
+  {
+    "id": "efcd7ns",
+    "split": "train",
+    "line_idx": 7061,
+    "original_text": "Funding was never the problem of Mass Effect. EA is. You're confirming their bad business strategy.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "O problema de Mass Effect nunca foi verba. É a EA. Você tá confirmando a estratégia de negócios ruim deles."
+  },
+  {
+    "id": "ed23jff",
+    "split": "train",
+    "line_idx": 7062,
+    "original_text": "You could have the sweetest peach in the world, and there is always someone who just doesn't like peaches.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Você pode ter o pêssego mais doce do mundo, e sempre vai ter alguém que simplesmente não gosta de pêssegos."
+  },
+  {
+    "id": "eed6fbm",
+    "split": "train",
+    "line_idx": 7063,
+    "original_text": "I skipped school, went directly to be an apprentice. No regrets.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu larguei a escola, fui direto ser aprendiz. Sem arrependimentos."
+  },
+  {
+    "id": "ef6susn",
+    "split": "train",
+    "line_idx": 7064,
+    "original_text": "Since the ref the Beeb has been worthless.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Desde o referendo a Beeb não vale nada."
+  },
+  {
+    "id": "ef0wfr6",
+    "split": "train",
+    "line_idx": 7065,
+    "original_text": "Interesting how [NAME] leads his team in BPM and RPM every year while not being the most important player. Defense and efficiency matters.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Interessante como [NAME] lidera seu time em BPM e RPM todo ano sem ser o jogador mais importante. Defesa e eficiência importam."
+  },
+  {
+    "id": "eeeqttm",
+    "split": "train",
+    "line_idx": 7066,
+    "original_text": "Y’all some sharks. I’m really just out here trying to be hopeful for the future of my team after a heart shattering lost.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Vocês são uns tubarões. Eu tô aqui só tentando ter esperança pelo futuro do meu time depois de uma derrota de partir o coração."
+  },
+  {
+    "id": "ed0500z",
+    "split": "train",
+    "line_idx": 7067,
+    "original_text": "Except it's the NFL an he can say fuck it an demand more money at anytime and I wouldn't put it past him.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Só que é a NFL e ele pode mandar todo mundo se ferrar e exigir mais dinheiro a qualquer momento e eu não duvidaria nada dele."
+  },
+  {
+    "id": "edc0al4",
+    "split": "train",
+    "line_idx": 7068,
+    "original_text": "Thanks for your opinion. It's highly respected lol",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela sua opinião. É altamente respeitada lol"
+  },
+  {
+    "id": "eegjqp5",
+    "split": "train",
+    "line_idx": 7069,
+    "original_text": "Complete with “No Stairway to Heaven!” sign",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Completo com a placa de “Proibido tocar Stairway to Heaven!”"
+  },
+  {
+    "id": "eexhjj7",
+    "split": "train",
+    "line_idx": 7070,
+    "original_text": "> always ahead of everyone else!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> sempre à frente de todo mundo!"
+  },
+  {
+    "id": "eefohxw",
+    "split": "train",
+    "line_idx": 7071,
+    "original_text": "Ugh, sometimes I have both at the same time!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aff, às vezes eu tenho os dois ao mesmo tempo!"
+  },
+  {
+    "id": "eeskmoi",
+    "split": "train",
+    "line_idx": 7072,
+    "original_text": "Haha damn this put a huge smile on my face! Good job on handling that situation. This almost deserves it's own post!",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "Haha caramba, isso colocou um sorrisão no meu rosto! Mandou bem em lidar com essa situação. Isso quase merece seu próprio post!"
+  },
+  {
+    "id": "eenytll",
+    "split": "train",
+    "line_idx": 7073,
+    "original_text": "The Iowa State Cyclones are my favorite college basketball team.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Os Iowa State Cyclones são meu time de basquete universitário favorito."
+  },
+  {
+    "id": "ef9hhwq",
+    "split": "train",
+    "line_idx": 7074,
+    "original_text": "No, honestly. I’ve never had this problem until now and I’m not sure what’s happening ",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não, sério. Eu nunca tive esse problema até agora e não tenho certeza do que tá acontecendo"
+  },
+  {
+    "id": "ed7jip5",
+    "split": "train",
+    "line_idx": 7075,
+    "original_text": "There is... use a credit or debit card.... lol it hits instantly I just did it literally last Sunday",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "Tem sim... usa um cartão de crédito ou débito.... lol cai na hora, eu fiz isso literalmente domingo passado"
+  },
+  {
+    "id": "edho16r",
+    "split": "train",
+    "line_idx": 7076,
+    "original_text": "You look like 1 of those ISIS fighters got shot in the head",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Você parece um daqueles combatentes do ISIS que levou um tiro na cabeça"
+  },
+  {
+    "id": "ed85b6p",
+    "split": "train",
+    "line_idx": 7077,
+    "original_text": "Was getting ready to comment about this one. Was really surprised how much I liked it but can see why it’s not for everyone",
+    "emotion_ids": "4,26",
+    "emotions": [
+      "approval",
+      "surprise"
+    ],
+    "translated_text": "Tava me preparando pra comentar sobre esse. Fiquei bem surpreso com o quanto eu gostei, mas dá pra entender por que não é pra todo mundo"
+  },
+  {
+    "id": "ednt9i0",
+    "split": "train",
+    "line_idx": 7078,
+    "original_text": "I agree with everything. Yet, society and its stupid outdated, conservative norms see it otherwise.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Concordo com tudo. Ainda assim, a sociedade e suas normas conservadoras estúpidas e ultrapassadas veem de outro jeito."
+  },
+  {
+    "id": "eda04we",
+    "split": "train",
+    "line_idx": 7079,
+    "original_text": "Thank you!!! /s",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado!!! /s"
+  },
+  {
+    "id": "ef8p8f4",
+    "split": "train",
+    "line_idx": 7080,
+    "original_text": "Rain and snow, the whitetail mountains would have looked so nice covered in snow",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Chuva e neve, as montanhas whitetail teriam ficado tão lindas cobertas de neve"
+  },
+  {
+    "id": "ee78nfv",
+    "split": "train",
+    "line_idx": 7081,
+    "original_text": "> The only concrete rule change was to limit underage players (usually students) total daily play time. Is that a good thing really?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "> A única mudança concreta na regra foi limitar o tempo total de jogo diário de jogadores menores de idade (geralmente estudantes). Isso é uma coisa boa mesmo?"
+  },
+  {
+    "id": "edj7nrf",
+    "split": "train",
+    "line_idx": 7082,
+    "original_text": "That's the reason I am terrified to wear contacts on duty. I'm afraid it'll get stuck between my contacts and eyes and destroy my pupils.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Esse é o motivo de eu ter pavor de usar lentes de contato em serviço. Tenho medo de que entre algo entre as lentes e meus olhos e destrua minhas pupilas."
+  },
+  {
+    "id": "ef88dqt",
+    "split": "train",
+    "line_idx": 7083,
+    "original_text": "NINE NINE!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "NOVE NOVE!!!"
+  },
+  {
+    "id": "ed6j58v",
+    "split": "train",
+    "line_idx": 7084,
+    "original_text": "I was picturing [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tava imaginando o [NAME]"
+  },
+  {
+    "id": "ee0rp1e",
+    "split": "train",
+    "line_idx": 7085,
+    "original_text": "Trust me, I my self wish it happened before this filming",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Confia em mim, eu mesmo queria que tivesse acontecido antes dessa filmagem"
+  },
+  {
+    "id": "eepypd7",
+    "split": "train",
+    "line_idx": 7086,
+    "original_text": "I've been waiting to watch [NAME] die for a long long time. Sure hope that one is right.",
+    "emotion_ids": "7,20",
+    "emotions": [
+      "curiosity",
+      "optimism"
+    ],
+    "translated_text": "Tô esperando pra ver o [NAME] morrer faz um tempão. Tomara que essa esteja certa."
+  },
+  {
+    "id": "ef40amw",
+    "split": "train",
+    "line_idx": 7087,
+    "original_text": "Can you imagine not being able to pick your nose THE WHOLE GAME ! Those poor bastards.",
+    "emotion_ids": "2,3,11",
+    "emotions": [
+      "anger",
+      "annoyance",
+      "disgust"
+    ],
+    "translated_text": "Você consegue imaginar não poder cutucar o nariz O JOGO TODO ! Coitados desses desgraçados."
+  },
+  {
+    "id": "eef9zak",
+    "split": "train",
+    "line_idx": 7088,
+    "original_text": "Are you saying only corrupt companies make a profit? That doesn't sound right to me.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você tá dizendo que só empresas corruptas lucram? Isso não me parece certo."
+  },
+  {
+    "id": "eecs93w",
+    "split": "train",
+    "line_idx": 7089,
+    "original_text": "Ok. You’re just being silly now. Good night.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ok. Você tá sendo bobo agora. Boa noite."
+  },
+  {
+    "id": "ef0yetq",
+    "split": "train",
+    "line_idx": 7090,
+    "original_text": "Gotta play the identity politics game. She’s black and a lady.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tem que jogar o jogo da política de identidade. Ela é negra e mulher."
+  },
+  {
+    "id": "edcdyp9",
+    "split": "train",
+    "line_idx": 7091,
+    "original_text": "oh my [NAME] that first post 🤢🤢",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "ai meu [NAME] aquele primeiro post 🤢🤢"
+  },
+  {
+    "id": "eep4kaf",
+    "split": "train",
+    "line_idx": 7092,
+    "original_text": "I see, thanks for the clarification.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Entendi, obrigado pelo esclarecimento."
+  },
+  {
+    "id": "edjok9u",
+    "split": "train",
+    "line_idx": 7093,
+    "original_text": "You could just omit the walking part.....",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você podia só omitir a parte da caminhada....."
+  },
+  {
+    "id": "eee310b",
+    "split": "train",
+    "line_idx": 7094,
+    "original_text": "This happened to me too. Also how I found out my cpa is an exmo.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso aconteceu comigo também. E foi assim que descobri que meu contador é um ex-mórmon."
+  },
+  {
+    "id": "eewm6sp",
+    "split": "train",
+    "line_idx": 7095,
+    "original_text": "The face in the bottom photo is perfect!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A cara na foto de baixo tá perfeita!"
+  },
+  {
+    "id": "edxytxj",
+    "split": "train",
+    "line_idx": 7096,
+    "original_text": "I don't wear panties. You'll need to describe the sensation.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não uso calcinha. Você vai ter que descrever a sensação."
+  },
+  {
+    "id": "edvcsq3",
+    "split": "train",
+    "line_idx": 7097,
+    "original_text": "I'm not in the loop of this storyline as college has consumed whatever free time I have, so can you explain this to me please",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu não tô por dentro dessa história porque a faculdade consumiu todo o tempo livre que eu tenho, então você pode me explicar isso por favor"
+  },
+  {
+    "id": "eevnzjt",
+    "split": "train",
+    "line_idx": 7098,
+    "original_text": "I'm okay with killing babies in general. I mean, mastification is the cornerstone of my diet.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu não ligo de matar bebês no geral. Digo, mastigação é a base da minha dieta."
+  },
+  {
+    "id": "edmo8vr",
+    "split": "train",
+    "line_idx": 7099,
+    "original_text": "Thank you for these advices can't wait to make them to the test ;)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado por esses conselhos, mal posso esperar pra colocá-los à prova ;)"
+  }
+]

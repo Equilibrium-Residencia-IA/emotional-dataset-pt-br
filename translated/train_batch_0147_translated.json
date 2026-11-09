@@ -1,0 +1,562 @@
+[
+  {
+    "id": "eeon4mp",
+    "split": "train",
+    "line_idx": 7350,
+    "original_text": "Something cute and fluffy who gets to nap a lot, lol.",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "Algo fofinho e peludo que pode tirar um monte de sonecas, rs."
+  },
+  {
+    "id": "eenfcb7",
+    "split": "train",
+    "line_idx": 7351,
+    "original_text": "That's really interesting.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é muito interessante."
+  },
+  {
+    "id": "ee9khqj",
+    "split": "train",
+    "line_idx": 7352,
+    "original_text": "Still love [NAME]. Gave his heart to the Broncos for many years. Hope he can go out and win himself another ring this year.",
+    "emotion_ids": "18,20",
+    "emotions": [
+      "love",
+      "optimism"
+    ],
+    "translated_text": "Ainda amo o [NAME]. Deu o sangue pelos Broncos por muitos anos. Espero que ele consiga ganhar outro anel este ano."
+  },
+  {
+    "id": "edwj0fy",
+    "split": "train",
+    "line_idx": 7353,
+    "original_text": "I forgot it’s Saturday r/trees :) If you read the rules you get this",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Esqueci que hoje é sábado r/trees :) Se você ler as regras, você entende"
+  },
+  {
+    "id": "ee150qo",
+    "split": "train",
+    "line_idx": 7354,
+    "original_text": "Yes!! Im always horny when I am with my BF, but right around ovulation, I am super horny!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Sim!! Eu sempre fico com tesão quando estou com meu namorado, mas perto da ovulação, eu fico super excitada!"
+  },
+  {
+    "id": "edb2h3r",
+    "split": "train",
+    "line_idx": 7355,
+    "original_text": "Ooofffhh, that'd be a tough lesson to learn.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nossa, essa seria uma lição difícil de aprender."
+  },
+  {
+    "id": "edrvfsf",
+    "split": "train",
+    "line_idx": 7356,
+    "original_text": "[NAME] and [NAME] for Trout?",
+    "emotion_ids": "6,7,27",
+    "emotions": [
+      "confusion",
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "[NAME] e [NAME] pelo Trout?"
+  },
+  {
+    "id": "efgs5y1",
+    "split": "train",
+    "line_idx": 7357,
+    "original_text": "Dude I did think about doing a fake obnoxious cough to get their attention but then that would make me actually cough lmao",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cara, eu até pensei em dar uma tosse falsa e escrota pra chamar a atenção deles, mas aí eu ia acabar tossindo de verdade, rindo muito"
+  },
+  {
+    "id": "efdxb2r",
+    "split": "train",
+    "line_idx": 7358,
+    "original_text": "All spreadsheeters are killers but not all killers are spreadsheeters 💡",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Todos os usuários de planilha são assassinos, mas nem todos os assassinos são usuários de planilha 💡"
+  },
+  {
+    "id": "ed6vr9q",
+    "split": "train",
+    "line_idx": 7359,
+    "original_text": "I like the pig because shes stealthy",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Eu gosto do porco porque ele é sorrateiro"
+  },
+  {
+    "id": "ed016ly",
+    "split": "train",
+    "line_idx": 7360,
+    "original_text": "Happy New Year everyone! It’s 11:42 in CA 2019’s almost here",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Feliz Ano Novo, pessoal! São 23:42 na Califórnia, 2019 tá quase chegando"
+  },
+  {
+    "id": "edghv94",
+    "split": "train",
+    "line_idx": 7361,
+    "original_text": "Don't hold your breath!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não crie expectativas!"
+  },
+  {
+    "id": "ed4u1m2",
+    "split": "train",
+    "line_idx": 7362,
+    "original_text": "Wait u went to a hooker? I thought it was a massage person that was attracted to you",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Espera, você foi numa garota de programa? Eu achei que fosse uma massagista que tava a fim de você"
+  },
+  {
+    "id": "ee65vw9",
+    "split": "train",
+    "line_idx": 7363,
+    "original_text": "I don't believe you, but even if that were true it still harms nobody",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu não acredito em você, mas mesmo que fosse verdade, não faz mal a ninguém"
+  },
+  {
+    "id": "edxzekv",
+    "split": "train",
+    "line_idx": 7364,
+    "original_text": "All it takes is a single touch to get me out of my armor and in my underwear?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só precisa de um toque pra me tirar da armadura e me deixar de cueca?"
+  },
+  {
+    "id": "ee0am1i",
+    "split": "train",
+    "line_idx": 7365,
+    "original_text": "They just shot up a mall. They’re complete fucking idiots.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eles acabaram de metralhar um shopping. São uns completos idiotas do caralho."
+  },
+  {
+    "id": "efecqbd",
+    "split": "train",
+    "line_idx": 7366,
+    "original_text": "Every time I see this it makes me so happy.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Toda vez que vejo isso, fico tão feliz."
+  },
+  {
+    "id": "ef4bbah",
+    "split": "train",
+    "line_idx": 7367,
+    "original_text": "Screw that psycho lady. [NAME] is ridiculously adorable, OP, please give him gentle head pats from me!",
+    "emotion_ids": "0,3",
+    "emotions": [
+      "admiration",
+      "annoyance"
+    ],
+    "translated_text": "Dane-se aquela mulher psicopata. O [NAME] é ridiculamente adorável, OP, por favor, dê uns tapinhas gentis na cabeça dele por mim!"
+  },
+  {
+    "id": "ee7dht3",
+    "split": "train",
+    "line_idx": 7368,
+    "original_text": "... the eagle was chosen as the emblem of US in 1782. How are your timelines this messed up?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "... a águia foi escolhida como emblema dos EUA em 1782. Como é que as suas linhas do tempo estão tão bagunçadas?"
+  },
+  {
+    "id": "eee8x2v",
+    "split": "train",
+    "line_idx": 7369,
+    "original_text": "I hate that myself",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu mesmo odeio isso"
+  },
+  {
+    "id": "eda0fd9",
+    "split": "train",
+    "line_idx": 7370,
+    "original_text": "It was weird indeed, but I liked it too! (Maybe because I’m a musicals geek).",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Foi estranho mesmo, mas eu também gostei! (Talvez porque eu seja um nerd de musicais)."
+  },
+  {
+    "id": "ee8ykqr",
+    "split": "train",
+    "line_idx": 7371,
+    "original_text": "Good job, white truck! Don't use the damn shoulder to pass!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Bom trabalho, caminhão branco! Não use o acostamento pra ultrapassar, porra!"
+  },
+  {
+    "id": "ee48de5",
+    "split": "train",
+    "line_idx": 7372,
+    "original_text": "Konami?! They havent made a relevant or decent game since the 90s.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Konami?! Eles não fazem um jogo relevante ou decente desde os anos 90."
+  },
+  {
+    "id": "ed5mzqo",
+    "split": "train",
+    "line_idx": 7373,
+    "original_text": "Thats true but [NAME] is still a valuable resource. In business, you dont dump those. Thats how I see this with an average roster at best",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é verdade, mas o [NAME] ainda é um recurso valioso. Nos negócios, você não descarta esses. É assim que eu vejo isso com um elenco que é, na melhor das hipóteses, mediano"
+  },
+  {
+    "id": "ed177rm",
+    "split": "train",
+    "line_idx": 7374,
+    "original_text": "Pretty much lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Basicamente, rs"
+  },
+  {
+    "id": "edq8wfk",
+    "split": "train",
+    "line_idx": 7375,
+    "original_text": "It may have been funny in 2010, but now it's completely unorginal and boring. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Pode ter tido graça em 2010, mas agora é completamente sem originalidade e chato."
+  },
+  {
+    "id": "edr57s8",
+    "split": "train",
+    "line_idx": 7376,
+    "original_text": "in your neck?",
+    "emotion_ids": "6,7,27",
+    "emotions": [
+      "confusion",
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "no seu pescoço?"
+  },
+  {
+    "id": "ee6co25",
+    "split": "train",
+    "line_idx": 7377,
+    "original_text": "Yeah, I don’t get paid 30 million a year to get my a** kicked.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, eu não ganho 30 milhões por ano pra levar um chute na bunda."
+  },
+  {
+    "id": "eds2bdi",
+    "split": "train",
+    "line_idx": 7378,
+    "original_text": "The first guy had his balls covered, he knew.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O primeiro cara tava com as bolas protegidas, ele sabia."
+  },
+  {
+    "id": "eepxomb",
+    "split": "train",
+    "line_idx": 7379,
+    "original_text": "Kinda reminds me of Arctic Monkeys' 'Favourite Worst Nightmare' cover art",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Me lembra um pouco a capa do álbum 'Favourite Worst Nightmare' do Arctic Monkeys"
+  },
+  {
+    "id": "eexspgq",
+    "split": "train",
+    "line_idx": 7380,
+    "original_text": "[NAME] gonna miss the game tonight because I’ll be traveling to Phoenix. Give me another blowout win like the ones last week.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] vai perder o jogo hoje à noite porque vou viajar pra Phoenix. Me deem outra vitória esmagadora como as da semana passada."
+  },
+  {
+    "id": "eec4srq",
+    "split": "train",
+    "line_idx": 7381,
+    "original_text": "This is an excellently written response, thank you for offering her your support. ",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Essa é uma resposta muito bem escrita, obrigado por oferecer apoio a ela."
+  },
+  {
+    "id": "ef27vm9",
+    "split": "train",
+    "line_idx": 7382,
+    "original_text": "Oh, sorry",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Ah, desculpa"
+  },
+  {
+    "id": "edmf0qc",
+    "split": "train",
+    "line_idx": 7383,
+    "original_text": "Are you being sarcastic for good news? lol",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você tá sendo sarcástico sobre uma notícia boa? rs"
+  },
+  {
+    "id": "ed6hla8",
+    "split": "train",
+    "line_idx": 7384,
+    "original_text": "Imagine being born in 1987 and not having been invited to a party since your friend's birthday party in 1999 though :(",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Imagina ter nascido em 1987 e não ter sido convidado pra uma festa desde o aniversário do seu amigo em 1999, né :("
+  },
+  {
+    "id": "ee85dr4",
+    "split": "train",
+    "line_idx": 7385,
+    "original_text": "Good lord [NAME], just don’t buy it",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Meu Deus [NAME], só não compra"
+  },
+  {
+    "id": "eetxm8q",
+    "split": "train",
+    "line_idx": 7386,
+    "original_text": "It is odd you are singling me out rather than those who identify with those terms and use them endlessly and with insults.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É estranho você me escolher como alvo em vez daqueles que se identificam com esses termos e os usam sem parar e com insultos."
+  },
+  {
+    "id": "edrcao2",
+    "split": "train",
+    "line_idx": 7387,
+    "original_text": ">I think any progressive would be against laws that force anyone to say anything. You thought wrong.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": ">Eu acho que qualquer progressista seria contra leis que forçam alguém a dizer qualquer coisa. Você pensou errado."
+  },
+  {
+    "id": "efdm00c",
+    "split": "train",
+    "line_idx": 7388,
+    "original_text": "wow great news . happy for him",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "nossa que notícia boa . feliz por ele"
+  },
+  {
+    "id": "edwiv4a",
+    "split": "train",
+    "line_idx": 7389,
+    "original_text": "Yay!!! Finally the fix we're all looking for after hours of endless scrolling.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Eba!!! Finalmente a correção que todos nós estávamos procurando depois de horas rolando a tela sem parar."
+  },
+  {
+    "id": "ef6itkp",
+    "split": "train",
+    "line_idx": 7390,
+    "original_text": "This joke is disgusting and offensive. Dictionaries don't contain proper nouns!",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Essa piada é nojenta e ofensiva. Dicionários não contêm nomes próprios!"
+  },
+  {
+    "id": "eduu5rz",
+    "split": "train",
+    "line_idx": 7391,
+    "original_text": "Time for these shows to be held liable. They're putting abusers on left and right. Even married at first sight etc",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tá na hora desses programas serem responsabilizados. Eles estão colocando abusadores o tempo todo. Até no 'Casamento às Cegas' etc"
+  },
+  {
+    "id": "ef5qklb",
+    "split": "train",
+    "line_idx": 7392,
+    "original_text": "You all are looking at this guy reading this book, but ARE YOU SEEING HOW HAIRY THIS GUYS ARM IS?!?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Vocês todos estão olhando pra esse cara lendo o livro, mas VOCÊS TÃO VENDO O QUANTO O BRAÇO DESSE CARA É PELUDO?!?"
+  },
+  {
+    "id": "ef413ri",
+    "split": "train",
+    "line_idx": 7393,
+    "original_text": "Nice try FBI.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Boa tentativa, FBI."
+  },
+  {
+    "id": "ed6n0go",
+    "split": "train",
+    "line_idx": 7394,
+    "original_text": "The worst part is that neither party appears to have learned anything from this dumpster fire.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "A pior parte é que nenhum dos lados parece ter aprendido nada com esse desastre total."
+  },
+  {
+    "id": "edm874d",
+    "split": "train",
+    "line_idx": 7395,
+    "original_text": "These look like flat rats. : /",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parecem ratos achatados. : /"
+  },
+  {
+    "id": "eenywlb",
+    "split": "train",
+    "line_idx": 7396,
+    "original_text": ">You can't do anything about it now, and nobody cares. Hundreds of thousands would disagree with you.",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": ">Você não pode fazer nada a respeito agora, e ninguém se importa. Centenas de milhares discordariam de você."
+  },
+  {
+    "id": "eda9w3f",
+    "split": "train",
+    "line_idx": 7397,
+    "original_text": "Lol what boyfriend",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Rs que namorado"
+  },
+  {
+    "id": "ed30mge",
+    "split": "train",
+    "line_idx": 7398,
+    "original_text": "You are forgetting driving. Somehow the law is full of examples of this double standard.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Você tá esquecendo de dirigir. De alguma forma, a lei tá cheia de exemplos desse padrão duplo."
+  },
+  {
+    "id": "ee7id6g",
+    "split": "train",
+    "line_idx": 7399,
+    "original_text": "Because Warlord actually has NO moveset at all and is literally the most boring videogame char to play.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Porque o Warlord na verdade NÃO tem nenhum conjunto de movimentos e é literalmente o personagem de videogame mais chato de jogar."
+  }
+]

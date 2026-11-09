@@ -1,0 +1,560 @@
+[
+  {
+    "id": "edout2d",
+    "split": "train",
+    "line_idx": 5200,
+    "original_text": "Thats a meme? That feels more like depression",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Isso é um meme? Parece mais depressão"
+  },
+  {
+    "id": "ee2j1xo",
+    "split": "train",
+    "line_idx": 5201,
+    "original_text": "Pretty sure he stayed because he was told he's got the NE job once [NAME] is gone.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tenho quase certeza que ele ficou porque disseram que ele vai pegar o cargo de NE assim que o [NAME] sair."
+  },
+  {
+    "id": "eezigzy",
+    "split": "train",
+    "line_idx": 5202,
+    "original_text": "Only 5 more years to go. Can’t wait!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Só faltam mais 5 anos. Mal posso esperar!"
+  },
+  {
+    "id": "efcjvyp",
+    "split": "train",
+    "line_idx": 5203,
+    "original_text": "bargaining chip for what? The 25% tariff increase is not big enough of a bargaining chip? lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Moeda de troca pra quê? O aumento de 25% na tarifa não é moeda de troca suficiente? kkk"
+  },
+  {
+    "id": "eea38en",
+    "split": "train",
+    "line_idx": 5204,
+    "original_text": "Well, I’ll be here when you fail!",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Bom, estarei aqui quando você fracassar!"
+  },
+  {
+    "id": "eek95j5",
+    "split": "train",
+    "line_idx": 5205,
+    "original_text": "Good idea. With the power of those two consoles combined we might be able to get the fps up into double digits",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Boa ideia. Com o poder desses dois consoles combinados, talvez a gente consiga fazer o fps chegar nos dois dígitos"
+  },
+  {
+    "id": "efekeua",
+    "split": "train",
+    "line_idx": 5206,
+    "original_text": "Bipolar symptoms tend to be very fun and exciting, but they can also be very bad and harmful. She should get some help.",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Sintomas de bipolaridade costumam ser bem divertidos e empolgantes, mas também podem ser muito ruins e prejudiciais. Ela deveria procurar ajuda."
+  },
+  {
+    "id": "ed2kzjn",
+    "split": "train",
+    "line_idx": 5207,
+    "original_text": "There are assholes who think that these are \"their trails\" and do this sort of thing.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem uns babacas que acham que essas trilhas são \"deles\" e ficam fazendo esse tipo de coisa."
+  },
+  {
+    "id": "eemjxtq",
+    "split": "train",
+    "line_idx": 5208,
+    "original_text": "Wow thanks I gotta try this!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Nossa, valeu, tenho que tentar isso!"
+  },
+  {
+    "id": "edgxdjl",
+    "split": "train",
+    "line_idx": 5209,
+    "original_text": "Also, they ruined Top Gear but that’s a whole other issue.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Além disso, eles estragaram o Top Gear, mas isso já é outra história."
+  },
+  {
+    "id": "ed19w3b",
+    "split": "train",
+    "line_idx": 5210,
+    "original_text": "and I love him for that",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "e eu amo ele por isso"
+  },
+  {
+    "id": "eey9qd2",
+    "split": "train",
+    "line_idx": 5211,
+    "original_text": "Girl then DM me if you visit! It’s a great place to live. I moved from NY.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Amiga, então me manda DM se você vier visitar! É um lugar ótimo pra morar. Eu me mudei de NY."
+  },
+  {
+    "id": "ee290h2",
+    "split": "train",
+    "line_idx": 5212,
+    "original_text": "Can the Ark be filled to the brim with animals? I would love to Dynamite two of every kind.",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Dá pra encher a Arca até a boca com animais? Eu adoraria explodir dois de cada espécie."
+  },
+  {
+    "id": "ee46nv2",
+    "split": "train",
+    "line_idx": 5213,
+    "original_text": "Depends of the raise pre and your stack and your opponent and your range and what you last ate",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Depende do raise pré, do seu stack, do seu oponente, do seu range e do que você comeu por último"
+  },
+  {
+    "id": "edj3t2z",
+    "split": "train",
+    "line_idx": 5214,
+    "original_text": "Human nature also leads us to greed, violence and aggression. Natural doesn’t equal good. Cancer is natural.",
+    "emotion_ids": "4,11",
+    "emotions": [
+      "approval",
+      "disgust"
+    ],
+    "translated_text": "A natureza humana também nos leva à ganância, violência e agressão. Natural não é sinônimo de bom. Câncer é natural."
+  },
+  {
+    "id": "efbfak8",
+    "split": "train",
+    "line_idx": 5215,
+    "original_text": "[NAME] and [NAME] gonna run around and discover stuff",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] e [NAME] vão correr por aí e descobrir coisas"
+  },
+  {
+    "id": "edpydma",
+    "split": "train",
+    "line_idx": 5216,
+    "original_text": "Well when you’re on the internet never say use the term no one because theres always those few idiots",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, quando você tá na internet, nunca use o termo \"ninguém\", porque sempre tem aqueles poucos idiotas"
+  },
+  {
+    "id": "ef0sfus",
+    "split": "train",
+    "line_idx": 5217,
+    "original_text": "Lmao I feel you.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Mds, te entendo perfeitamente."
+  },
+  {
+    "id": "eer24d4",
+    "split": "train",
+    "line_idx": 5218,
+    "original_text": ">Add in reduced physician compensation and the number of doctors will go down, Where is this info?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": ">Adicione a redução na remuneração dos médicos e o número de médicos vai cair. Onde tá essa informação?"
+  },
+  {
+    "id": "eeel2p2",
+    "split": "train",
+    "line_idx": 5219,
+    "original_text": "She thought the fuel pump was cold and decided to try warming it up. You know, to prevent the gasoline from freezing and causing blockage.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela achou que a bomba de combustível tava fria e decidiu tentar esquentar. Sabe, pra evitar que a gasolina congelasse e causasse um bloqueio."
+  },
+  {
+    "id": "eekuotl",
+    "split": "train",
+    "line_idx": 5220,
+    "original_text": "> Same guy that was saying about this time last year that using P2PKH was harmful to Bitcoin and people should use SegWit. Liar",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> O mesmo cara que tava dizendo por volta dessa época no ano passado que usar P2PKH era prejudicial pro Bitcoin e que as pessoas deveriam usar SegWit. Mentiroso"
+  },
+  {
+    "id": "eerj7we",
+    "split": "train",
+    "line_idx": 5221,
+    "original_text": "Oh she'll most probably die in that route for sure. I just hope she doesn't get a lame death, that's all",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Ah, ela provavelmente vai morrer nessa rota, com certeza. Só espero que não seja uma morte tosca, só isso"
+  },
+  {
+    "id": "efeb0zd",
+    "split": "train",
+    "line_idx": 5222,
+    "original_text": "no your are disrespectful at least i pay my respects",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "não, você que é desrespeitoso, pelo menos eu presto minhas homenagens"
+  },
+  {
+    "id": "ed666yw",
+    "split": "train",
+    "line_idx": 5223,
+    "original_text": "Very very accurate.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Muito, muito preciso."
+  },
+  {
+    "id": "eezgkw2",
+    "split": "train",
+    "line_idx": 5224,
+    "original_text": "Right on. Thanks!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Com certeza. Valeu!"
+  },
+  {
+    "id": "edw6jvo",
+    "split": "train",
+    "line_idx": 5225,
+    "original_text": "Amen, block all immigration.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Amém, bloqueiem toda a imigração."
+  },
+  {
+    "id": "edq7j4u",
+    "split": "train",
+    "line_idx": 5226,
+    "original_text": "I'm curious - are you under the age of 30?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tô curioso - você tem menos de 30 anos?"
+  },
+  {
+    "id": "eekjq0y",
+    "split": "train",
+    "line_idx": 5227,
+    "original_text": "I don't care it's amazing there lol",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "Não tô nem aí, é incrível lá kkk"
+  },
+  {
+    "id": "efg4e6i",
+    "split": "train",
+    "line_idx": 5228,
+    "original_text": "Oh come on! Stop posting this stuff. FFS will you think of my blood pressure!? You’re killing me (figuratively speaking).",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Ah, qual é! Para de postar essas coisas. PQP, você quer que eu tenha um infarto!? Você tá me matando (figurativamente falando)."
+  },
+  {
+    "id": "ed4cqc1",
+    "split": "train",
+    "line_idx": 5229,
+    "original_text": "I like hearing about these positive encounters.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Gosto de ouvir sobre esses encontros positivos."
+  },
+  {
+    "id": "edpw0gu",
+    "split": "train",
+    "line_idx": 5230,
+    "original_text": "Source? Wouldn't doubt it's possible though games like BDO can get pretty nuts with whales.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fonte? Não duvido que seja possível, porém, jogos como BDO podem ficar bem malucos com as baleias."
+  },
+  {
+    "id": "ed6eann",
+    "split": "train",
+    "line_idx": 5231,
+    "original_text": "Love seeing the guys have fun.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adoro ver os caras se divertindo."
+  },
+  {
+    "id": "eeebfa2",
+    "split": "train",
+    "line_idx": 5232,
+    "original_text": "Shes thicc... gigiddy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela é mó gostosa... gigiddy"
+  },
+  {
+    "id": "efea9x3",
+    "split": "train",
+    "line_idx": 5233,
+    "original_text": "So, he was partly an average product of his time, and partly a terrible, notorious man by the standards of his time.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então, ele foi em parte um produto comum do seu tempo, e em parte um homem terrível e notório pelos padrões da época dele."
+  },
+  {
+    "id": "eebqrrk",
+    "split": "train",
+    "line_idx": 5234,
+    "original_text": "Omg. This is the real gem in this post. Thank you sir",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Meu Deus. Essa é a verdadeira joia desse post. Obrigado, senhor"
+  },
+  {
+    "id": "eemhygd",
+    "split": "train",
+    "line_idx": 5235,
+    "original_text": "I'll take that on board! I'm a mostly patient person. At least I hope so, lol. Thanks for the advice (:",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Vou levar isso em consideração! Sou uma pessoa majoritariamente paciente. Pelo menos espero que sim, kkk. Valeu pelo conselho (:"
+  },
+  {
+    "id": "edx3ku0",
+    "split": "train",
+    "line_idx": 5236,
+    "original_text": "Yeah, I just visited there and it seems more disordered than this sub... Strange",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É, eu acabei de visitar lá e parece mais bagunçado que esse sub... Estranho"
+  },
+  {
+    "id": "ef4kxx0",
+    "split": "train",
+    "line_idx": 5237,
+    "original_text": "Keep them until November, and then return them. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fica com eles até novembro e depois devolve."
+  },
+  {
+    "id": "ed3qj00",
+    "split": "train",
+    "line_idx": 5238,
+    "original_text": "I’m an NA boy and Rival/Dig were my two favorite orgs. Glad to see at least one of them is returning.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Sou fã da NA e a Rival/Dig eram minhas duas organizações favoritas. Fico feliz em ver que pelo menos uma delas tá voltando."
+  },
+  {
+    "id": "efbm8e1",
+    "split": "train",
+    "line_idx": 5239,
+    "original_text": "You sir are a true hero.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Você, senhor, é um verdadeiro herói."
+  },
+  {
+    "id": "ed5c74n",
+    "split": "train",
+    "line_idx": 5240,
+    "original_text": "Funny, the right only seems to say this about women and people of color 🤔🤔🤔",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Engraçado, a direita só parece dizer isso sobre mulheres e pessoas não brancas 🤔🤔🤔"
+  },
+  {
+    "id": "eez0mmw",
+    "split": "train",
+    "line_idx": 5241,
+    "original_text": "i communicate through morse code by constantly crouching and standing up. I generally prefer explaining how my oponent can improve when i beat them badly",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "eu me comunico por código morse agachando e levantando sem parar. Geralmente prefiro explicar como meu oponente pode melhorar quando eu dou uma surra nele"
+  },
+  {
+    "id": "edvkkxa",
+    "split": "train",
+    "line_idx": 5242,
+    "original_text": "Oh god, going to a social event with someone and never leaving their side is me at almost every social event I go to.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Ai meu Deus, ir a um evento social com alguém e nunca sair do lado da pessoa sou eu em quase todo evento social que eu vou."
+  },
+  {
+    "id": "ef228qm",
+    "split": "train",
+    "line_idx": 5243,
+    "original_text": "[NAME] is Asian. She is also white. She has talked before about how she does not like people to erase either half of her.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é asiática. Ela também é branca. Ela já falou antes sobre como não gosta que as pessoas apaguem nenhuma das metades dela."
+  },
+  {
+    "id": "ed59fs8",
+    "split": "train",
+    "line_idx": 5244,
+    "original_text": "Bet you don't even get £400, you probably only started this thread for some attention ",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Aposto que você nem ganha 400 libras, provavelmente só começou esse tópico pra chamar atenção"
+  },
+  {
+    "id": "edxv5xg",
+    "split": "train",
+    "line_idx": 5245,
+    "original_text": "“You bring home gifts in bag.”",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "“Você traz presentes pra casa na sacola.”"
+  },
+  {
+    "id": "ee78nq2",
+    "split": "train",
+    "line_idx": 5246,
+    "original_text": "I'd give you a shovel so you could dig your head out of the sand, but I have a feeling you'd refuse.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu te daria uma pá pra você tirar a cabeça da areia, mas tenho a sensação de que você recusaria."
+  },
+  {
+    "id": "edu15zz",
+    "split": "train",
+    "line_idx": 5247,
+    "original_text": "It's a cruel, uncaring universe we live in. Fingers crossed things won't completely fall apart for them.",
+    "emotion_ids": "2,20",
+    "emotions": [
+      "anger",
+      "optimism"
+    ],
+    "translated_text": "Vivemos em um universo cruel e indiferente. Dedos cruzados pra que as coisas não desmoronem completamente pra eles."
+  },
+  {
+    "id": "ednaldp",
+    "split": "train",
+    "line_idx": 5248,
+    "original_text": "With those pieces I’d be surprised 😒",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Com essas peças, eu ficaria surpreso 😒"
+  },
+  {
+    "id": "eep57tu",
+    "split": "train",
+    "line_idx": 5249,
+    "original_text": "Roll on 5pm till i sit in bumper to bumper traffic until about 7pm when i can finally roll into lisburn",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que cheguem logo as 17h pra eu ficar num trânsito de para-choque com para-choque até umas 19h, quando finalmente posso chegar em Lisburn"
+  }
+]

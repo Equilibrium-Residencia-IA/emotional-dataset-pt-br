@@ -1,0 +1,563 @@
+[
+  {
+    "id": "eeckrcp",
+    "split": "train",
+    "line_idx": 9100,
+    "original_text": "I’LL SEE YOU AGAIN NEXT TIME",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "A GENTE SE VÊ NA PRÓXIMA"
+  },
+  {
+    "id": "eeafovn",
+    "split": "train",
+    "line_idx": 9101,
+    "original_text": "Is there an all time favorite moment you can point to in your career?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tem algum momento favorito de todos os tempos que você destacaria na sua carreira?"
+  },
+  {
+    "id": "ef7udh4",
+    "split": "train",
+    "line_idx": 9102,
+    "original_text": "It would be pretty epic if [NAME], the artist that did the San Bernadino '17 poster, did the cover art for the new album... ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Seria épico se o [NAME], o artista que fez o pôster de San Bernadino '17, fizesse a capa do álbum novo..."
+  },
+  {
+    "id": "efgqboi",
+    "split": "train",
+    "line_idx": 9103,
+    "original_text": "This is going in the next update.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso vai entrar na próxima atualização."
+  },
+  {
+    "id": "ed488jd",
+    "split": "train",
+    "line_idx": 9104,
+    "original_text": "I wish you with all my heart to find a woman that will love you so much that will get you a bj bell.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Desejo de todo o meu coração que você encontre uma mulher que te ame tanto a ponto de te dar um sino de boquete."
+  },
+  {
+    "id": "ef9e2m7",
+    "split": "train",
+    "line_idx": 9105,
+    "original_text": "It's weird. You might be right to worry.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "É estranho. Talvez você tenha razão em se preocupar."
+  },
+  {
+    "id": "ee1mu3e",
+    "split": "train",
+    "line_idx": 9106,
+    "original_text": "I'll chase you till the ends of the eaaaaarth, Shooooooooooooooooooooooooooocker!!!!!!!",
+    "emotion_ids": "2,26",
+    "emotions": [
+      "anger",
+      "surprise"
+    ],
+    "translated_text": "Vou te perseguir até os confins da teeeeeerra, Shooooooooooooooooooooooooooocker!!!!!!!"
+  },
+  {
+    "id": "eferc2f",
+    "split": "train",
+    "line_idx": 9107,
+    "original_text": "I literally, like, hate people like that.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu literalmente, tipo, odeio gente assim."
+  },
+  {
+    "id": "ee2gxt0",
+    "split": "train",
+    "line_idx": 9108,
+    "original_text": "Aren't reaction gifs *supposed* to be textless? The concept originates from imageboards after all",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gifs de reação não deveriam ser sem texto? O conceito surgiu nos imageboards, afinal"
+  },
+  {
+    "id": "eda60tq",
+    "split": "train",
+    "line_idx": 9109,
+    "original_text": "Don't judge our love",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Não julgue nosso amor"
+  },
+  {
+    "id": "ed18xz2",
+    "split": "train",
+    "line_idx": 9110,
+    "original_text": "Not to mention people who illegally own guns probably aren't going to admit it for a study either.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sem falar que pessoas que possuem armas ilegalmente provavelmente não vão admitir isso para um estudo também."
+  },
+  {
+    "id": "ef9sb0v",
+    "split": "train",
+    "line_idx": 9111,
+    "original_text": "Theres nothing more despicable in this world than a carelessly brewed mug of chai brother. You gotta get with the program.",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Não tem nada mais desprezível neste mundo do que uma xícara de chai feita de qualquer jeito, irmão. Você tem que se ligar."
+  },
+  {
+    "id": "ed4jdzb",
+    "split": "train",
+    "line_idx": 9112,
+    "original_text": "I hope things get better soon. I'm proud of you for getting help and talking about it and wish you the best",
+    "emotion_ids": "0,20,21",
+    "emotions": [
+      "admiration",
+      "optimism",
+      "pride"
+    ],
+    "translated_text": "Espero que as coisas melhorem logo. Tenho orgulho de você por buscar ajuda e falar sobre isso e te desejo o melhor"
+  },
+  {
+    "id": "edkmni3",
+    "split": "train",
+    "line_idx": 9113,
+    "original_text": "Is this season 7? I don't remember it.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Isso é da 7ª temporada? Não me lembro disso."
+  },
+  {
+    "id": "eens3mp",
+    "split": "train",
+    "line_idx": 9114,
+    "original_text": "This dude live near me. All my highschool classmates are big fans of his and look up to him.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse cara mora perto de mim. Todos os meus colegas de ensino médio são grandes fãs dele e o admiram."
+  },
+  {
+    "id": "edu0w4x",
+    "split": "train",
+    "line_idx": 9115,
+    "original_text": "Flirting isn't attractive per se, but (if done right) it shows social acuity and comfort with one's own sexuality, which are 2 attractive traits",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Flertar não é atraente por si só, mas (se feito do jeito certo) mostra perspicácia social e conforto com a própria sexualidade, que são 2 traços atraentes"
+  },
+  {
+    "id": "efemepz",
+    "split": "train",
+    "line_idx": 9116,
+    "original_text": "You gonn give me one of dem?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Vai me dar um desses?"
+  },
+  {
+    "id": "edi6htm",
+    "split": "train",
+    "line_idx": 9117,
+    "original_text": "Explaines Why I’m on the lookout for cats when I’m anxious! Thanks",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Explica por que eu fico procurando gatos quando estou ansioso! Valeu"
+  },
+  {
+    "id": "eexyvx1",
+    "split": "train",
+    "line_idx": 9118,
+    "original_text": "Yes,on top of that feel like vomitting,can't breathe and thinking I will faint.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Sim, além disso sinto vontade de vomitar, não consigo respirar e acho que vou desmaiar."
+  },
+  {
+    "id": "edok0i5",
+    "split": "train",
+    "line_idx": 9119,
+    "original_text": "I do play League of legends and [NAME] is my favorite character that's why my name has Thresh in it :)",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Eu jogo League of Legends e o [NAME] é meu personagem favorito, por isso meu nome tem Thresh nele :)"
+  },
+  {
+    "id": "ednodxp",
+    "split": "train",
+    "line_idx": 9120,
+    "original_text": "“So which one is she” “Uhhhhhhh.....”",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "“Então, qual delas é ela?” “Ehhhhhhh.....”"
+  },
+  {
+    "id": "edkszqu",
+    "split": "train",
+    "line_idx": 9121,
+    "original_text": "shouldve just given him the sum you usually pay and transfer the burden of awkwardness onto him",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Deveria ter dado a ele a quantia que você costuma pagar e transferido o peso do constrangimento para ele"
+  },
+  {
+    "id": "eeuwoqv",
+    "split": "train",
+    "line_idx": 9122,
+    "original_text": "With the way [NAME] carried himself in Hard Knocks I wouldn’t be surprised if he flew off the handle during his firing.",
+    "emotion_ids": "0,26",
+    "emotions": [
+      "admiration",
+      "surprise"
+    ],
+    "translated_text": "Pelo jeito que o [NAME] se portou no Hard Knocks, eu não ficaria surpreso se ele tivesse perdido a cabeça na hora da demissão."
+  },
+  {
+    "id": "edo6qnd",
+    "split": "train",
+    "line_idx": 9123,
+    "original_text": "When will [NAME] learn that recycling his old favorite beliefs and takes from 2008, will not end or age well. ",
+    "emotion_ids": "7,22",
+    "emotions": [
+      "curiosity",
+      "realization"
+    ],
+    "translated_text": "Quando é que o [NAME] vai aprender que reciclar suas velhas crenças e opiniões favoritas de 2008 não vai acabar bem nem envelhecer bem."
+  },
+  {
+    "id": "eekadjx",
+    "split": "train",
+    "line_idx": 9124,
+    "original_text": "1. How was the video fabricated? 2. Even if it was, how would this invalidate my statement?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "1. Como o vídeo foi fabricado? 2. Mesmo que fosse, como isso invalidaria minha afirmação?"
+  },
+  {
+    "id": "ed3c32p",
+    "split": "train",
+    "line_idx": 9125,
+    "original_text": "For those who are wondering, that would leave you with about $1,000,000",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Para quem está se perguntando, isso te deixaria com cerca de $1.000.000"
+  },
+  {
+    "id": "ee1x9zq",
+    "split": "train",
+    "line_idx": 9126,
+    "original_text": "Agreed. To add, we also need to see how coaching changes shake out when it's all done.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Concordo. Para acrescentar, também precisamos ver como as mudanças na comissão técnica vão se desenrolar quando tudo terminar."
+  },
+  {
+    "id": "ed9s32l",
+    "split": "train",
+    "line_idx": 9127,
+    "original_text": "That's the point tho, they had lots of talent already, and just a couple of changes at the key spots changed everything ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Esse é o ponto, eles já tinham muito talento, e só algumas mudanças nos pontos-chave mudaram tudo"
+  },
+  {
+    "id": "eeifhno",
+    "split": "train",
+    "line_idx": 9128,
+    "original_text": "yeah [NAME] was reminding [NAME] that he should remain calm and not go crazy on the last 10 seconds of every round",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "é, o [NAME] estava lembrando o [NAME] de que ele deveria manter a calma e não pirar nos últimos 10 segundos de cada round"
+  },
+  {
+    "id": "efehyue",
+    "split": "train",
+    "line_idx": 9129,
+    "original_text": "i prefer this",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "prefiro esse"
+  },
+  {
+    "id": "edwmpmd",
+    "split": "train",
+    "line_idx": 9130,
+    "original_text": "I bought my nephew a megaphone one year. Revenge is sweet!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Comprei um megafone pro meu sobrinho um ano. A vingança é um prato que se come frio!"
+  },
+  {
+    "id": "edxglr8",
+    "split": "train",
+    "line_idx": 9131,
+    "original_text": "If this is how earth is meant to function then it is a literal hell, as dark luciferian beliefs reign supreme.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se é assim que a terra deveria funcionar, então é um inferno literal, já que crenças luciferianas sombrias reinam supremas."
+  },
+  {
+    "id": "ee31g5l",
+    "split": "train",
+    "line_idx": 9132,
+    "original_text": "Hugs to you It will get better",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Abraços para você, vai melhorar"
+  },
+  {
+    "id": "edv47dh",
+    "split": "train",
+    "line_idx": 9133,
+    "original_text": "Yes, clearly u/backwoodmenace was repeating misinformation intentionally.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Sim, claramente o u/backwoodmenace estava repetindo desinformação intencionalmente."
+  },
+  {
+    "id": "eeg82c9",
+    "split": "train",
+    "line_idx": 9134,
+    "original_text": "Chiclets bump!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bump do Chiclets!"
+  },
+  {
+    "id": "eeyc4r4",
+    "split": "train",
+    "line_idx": 9135,
+    "original_text": "Don’t do it homie. Think of what it would be like for your kids.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não faz isso, mano. Pensa em como seria para seus filhos."
+  },
+  {
+    "id": "ed3gsox",
+    "split": "train",
+    "line_idx": 9136,
+    "original_text": "Cool! Tell me more about yourself---PM me if you're more comfortable.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Legal! Me conta mais sobre você---me manda uma DM se ficar mais à vontade."
+  },
+  {
+    "id": "ee2ibz1",
+    "split": "train",
+    "line_idx": 9137,
+    "original_text": "Oh man, I love [NAME]. She's so consistently good. ",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Nossa cara, eu amo a [NAME]. Ela é sempre muito boa."
+  },
+  {
+    "id": "ef8r4k6",
+    "split": "train",
+    "line_idx": 9138,
+    "original_text": "Crosspost from same community?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Crosspost da mesma comunidade?"
+  },
+  {
+    "id": "eeinq1p",
+    "split": "train",
+    "line_idx": 9139,
+    "original_text": "Love how she actually cross referenced the picture with the POTUS.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Adoro como ela realmente cruzou a referência da foto com o POTUS."
+  },
+  {
+    "id": "ef9ehla",
+    "split": "train",
+    "line_idx": 9140,
+    "original_text": ">He was deeply and utterly insecure, and it was pathetic. He still is. And it still is.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">Ele era profunda e totalmente inseguro, e era patético. Ele ainda é. E ainda é."
+  },
+  {
+    "id": "efevoju",
+    "split": "train",
+    "line_idx": 9141,
+    "original_text": "I wanna see [NAME] too at the ASG too!! He gotta show that [NAME] Magic with [NAME] as teammate",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Eu quero ver o [NAME] no ASG também!! Ele tem que mostrar aquela mágica do [NAME] com o [NAME] como companheiro de equipe"
+  },
+  {
+    "id": "efgjyz2",
+    "split": "train",
+    "line_idx": 9142,
+    "original_text": "Umm... educated people who think that killing a fetus after viability is abhorrent?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Hum... pessoas instruídas que acham que matar um feto após a viabilidade é abominável?"
+  },
+  {
+    "id": "edgkzvj",
+    "split": "train",
+    "line_idx": 9143,
+    "original_text": "Is this funny but sad? This just seems like a normal meme to me",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Isso é engraçado mas triste? Para mim, isso parece só um meme normal"
+  },
+  {
+    "id": "edottp2",
+    "split": "train",
+    "line_idx": 9144,
+    "original_text": "You win one internet!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você ganhou uma internet!"
+  },
+  {
+    "id": "edlcd2c",
+    "split": "train",
+    "line_idx": 9145,
+    "original_text": "> [Citation needed] The fact that no woman will date you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> [Citação necessária] O fato de que nenhuma mulher quer sair com você."
+  },
+  {
+    "id": "ee0dfr6",
+    "split": "train",
+    "line_idx": 9146,
+    "original_text": "Not only does the overbooking hurt the customers financials and time, but violations like this one put lives in danger.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "O overbooking não só prejudica o financeiro e o tempo dos clientes, mas violações como esta colocam vidas em perigo."
+  },
+  {
+    "id": "eeveave",
+    "split": "train",
+    "line_idx": 9147,
+    "original_text": "The character missions are still there but they just unlock an outfit now",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "As missões de personagem ainda estão lá, mas agora elas só desbloqueiam uma roupa"
+  },
+  {
+    "id": "ef7woff",
+    "split": "train",
+    "line_idx": 9148,
+    "original_text": "you get an upvote for that username! I wish I was a funhammer",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "você ganhou um upvote por esse nome de usuário! Queria eu ser um funhammer"
+  },
+  {
+    "id": "ee18x0e",
+    "split": "train",
+    "line_idx": 9149,
+    "original_text": "[NAME] (swt) does not need your worship. If you do good deeds and humble yourself and seek forgiveness He might guide you again.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] (swt) não precisa da sua adoração. Se você fizer boas ações, for humilde e buscar perdão, Ele pode te guiar novamente."
+  }
+]

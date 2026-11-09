@@ -1,0 +1,516 @@
+[
+  {
+    "id": "eetas5k",
+    "split": "train",
+    "line_idx": 1000,
+    "original_text": "I changed from [NAME] to [NAME] last night because I panicked. I am very pleased with my decision.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ee2k7jn",
+    "split": "train",
+    "line_idx": 1001,
+    "original_text": "Omg i hope this is about [NAME]. I would LOVE to see [NAME] and [NAME] go head to head",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ]
+  },
+  {
+    "id": "ef637gp",
+    "split": "train",
+    "line_idx": 1002,
+    "original_text": "Finale",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ed6urto",
+    "split": "train",
+    "line_idx": 1003,
+    "original_text": "Which suggests nothing in itself. The same mods you claim are abusive are probably as hyperbolic about the racism issue as you are.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ]
+  },
+  {
+    "id": "ed4hvmx",
+    "split": "train",
+    "line_idx": 1004,
+    "original_text": "I double dog dare him.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee74ui2",
+    "split": "train",
+    "line_idx": 1005,
+    "original_text": "Believe you me. TLJ is much, much worse.",
+    "emotion_ids": "9,11",
+    "emotions": [
+      "disappointment",
+      "disgust"
+    ]
+  },
+  {
+    "id": "ednshbf",
+    "split": "train",
+    "line_idx": 1006,
+    "original_text": "I don't really want to do anything.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eesuzje",
+    "split": "train",
+    "line_idx": 1007,
+    "original_text": "I’d buy a cheap version of it.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "eexo5ja",
+    "split": "train",
+    "line_idx": 1008,
+    "original_text": "Not to mention that the full video is part of the kids PR campaign according to [NAME] idiot",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ]
+  },
+  {
+    "id": "ed1u2wi",
+    "split": "train",
+    "line_idx": 1009,
+    "original_text": "How did U quit being obsessed? It’s my goal for 2019.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ed0rmo9",
+    "split": "train",
+    "line_idx": 1010,
+    "original_text": "Most of them keep it on the down-low, but, yeah, they voted and support [NAME]. Only one of the brother-in-laws didn't vote for him. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ed1z0e1",
+    "split": "train",
+    "line_idx": 1011,
+    "original_text": "That’s one of my favorite movies pans labyrinth.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ]
+  },
+  {
+    "id": "eeydkdq",
+    "split": "train",
+    "line_idx": 1012,
+    "original_text": "I feel there will be a direct correlation between using expeditious retreat to charge, and the amount you fall to 0.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eeh5itw",
+    "split": "train",
+    "line_idx": 1013,
+    "original_text": "Go to class!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee888be",
+    "split": "train",
+    "line_idx": 1014,
+    "original_text": "Because [NAME] doesn't have time to monitor what is going on in a couples bedroom.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "ee1oyhz",
+    "split": "train",
+    "line_idx": 1015,
+    "original_text": "Wow this is amazing. LOVE THIS!!!",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ]
+  },
+  {
+    "id": "eemrrt5",
+    "split": "train",
+    "line_idx": 1016,
+    "original_text": "Huh, I'd missed this one when looking for new games a few months back. Might have to give it a try.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ]
+  },
+  {
+    "id": "ef4krks",
+    "split": "train",
+    "line_idx": 1017,
+    "original_text": "Since she ate other food I would guess it is a way of getting around a digestive disorder or carbs.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee6c291",
+    "split": "train",
+    "line_idx": 1018,
+    "original_text": "Troo, troo....worse eban dan eat pizza wif aht a ferk. ",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ]
+  },
+  {
+    "id": "eehj8cg",
+    "split": "train",
+    "line_idx": 1019,
+    "original_text": "He’s soft. No heart.",
+    "emotion_ids": "9,22",
+    "emotions": [
+      "disappointment",
+      "realization"
+    ]
+  },
+  {
+    "id": "eeyqhm1",
+    "split": "train",
+    "line_idx": 1020,
+    "original_text": "You were at a casino. Sounds like you won.",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "eed4jlv",
+    "split": "train",
+    "line_idx": 1021,
+    "original_text": "I like [NAME] because she hates America",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "ee3tqag",
+    "split": "train",
+    "line_idx": 1022,
+    "original_text": "why are you the way that you are",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eeuv5tf",
+    "split": "train",
+    "line_idx": 1023,
+    "original_text": "Hahaha I KNEW y'all were gonna post this",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ]
+  },
+  {
+    "id": "eeao04e",
+    "split": "train",
+    "line_idx": 1024,
+    "original_text": "Yes! What the hell is it with ikea? My husband and I don’t go together anymore.",
+    "emotion_ids": "2,3,9",
+    "emotions": [
+      "anger",
+      "annoyance",
+      "disappointment"
+    ]
+  },
+  {
+    "id": "eeljtyr",
+    "split": "train",
+    "line_idx": 1025,
+    "original_text": "Omg lala a housewife I can’t even imagine!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "ef3xjft",
+    "split": "train",
+    "line_idx": 1026,
+    "original_text": "The great ancap argument lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ]
+  },
+  {
+    "id": "efh2r9f",
+    "split": "train",
+    "line_idx": 1027,
+    "original_text": "I didn't come out [of my mother] drawing [goshdarn] [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ef6jtjd",
+    "split": "train",
+    "line_idx": 1028,
+    "original_text": "What the hell are you talking about?",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ]
+  },
+  {
+    "id": "eecrfg8",
+    "split": "train",
+    "line_idx": 1029,
+    "original_text": "The sign doesn't have units! Maybe the speed limit is 45 light yrs per second!!!!",
+    "emotion_ids": "6,10",
+    "emotions": [
+      "confusion",
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eeo9eeh",
+    "split": "train",
+    "line_idx": 1030,
+    "original_text": "A surprise to be sure, but a welcome one.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ]
+  },
+  {
+    "id": "ef5uwc8",
+    "split": "train",
+    "line_idx": 1031,
+    "original_text": "Haha, yes.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ]
+  },
+  {
+    "id": "eetgrdd",
+    "split": "train",
+    "line_idx": 1032,
+    "original_text": "that hunkish dunked his way into my butt if you catch my drift",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee678x6",
+    "split": "train",
+    "line_idx": 1033,
+    "original_text": "If your host stand has a register that isn’t locked securely you have bigger problems than this lady I think",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edvx1rl",
+    "split": "train",
+    "line_idx": 1034,
+    "original_text": "Let's go!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee7furn",
+    "split": "train",
+    "line_idx": 1035,
+    "original_text": "He is looking for the one that is leaking information, he doesn't want to throw anyone under the bus on purpose",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee0k91c",
+    "split": "train",
+    "line_idx": 1036,
+    "original_text": "> I really hope QCX addresses that last point. Who knows [NAME] could've fled with the money or something. What the hell dude. lol",
+    "emotion_ids": "1,3,8",
+    "emotions": [
+      "amusement",
+      "annoyance",
+      "desire"
+    ]
+  },
+  {
+    "id": "eebs3dw",
+    "split": "train",
+    "line_idx": 1037,
+    "original_text": "I am [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eebjrae",
+    "split": "train",
+    "line_idx": 1038,
+    "original_text": "LOL top right one says \"It's MY birthday\"",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "id": "edcs5ky",
+    "split": "train",
+    "line_idx": 1039,
+    "original_text": "You started over at 46? Wow. You are badass. You give me hope that if I finally had to, I could do it.",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ]
+  },
+  {
+    "id": "eel7aw2",
+    "split": "train",
+    "line_idx": 1040,
+    "original_text": "That would be perfect! Wish I had that.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ]
+  },
+  {
+    "id": "efdyi0p",
+    "split": "train",
+    "line_idx": 1041,
+    "original_text": "That's true for every loss except for this one. He's being really petty and hasn't taken the [NAME] loss well.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "ed8cnqt",
+    "split": "train",
+    "line_idx": 1042,
+    "original_text": "This part. I don’t know how so many people my age group have optimism. It’s not just about your money either.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ednqyw5",
+    "split": "train",
+    "line_idx": 1043,
+    "original_text": "I want to see [NAME] and [NAME], fresh blood is gonna do us only good at this point",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eefaf29",
+    "split": "train",
+    "line_idx": 1044,
+    "original_text": "I’m telling ya, we really need to impose a basic hockey knowledge test to post here. I’m sick of the mouth breathers.",
+    "emotion_ids": "3,25",
+    "emotions": [
+      "annoyance",
+      "sadness"
+    ]
+  },
+  {
+    "id": "ee0zrmg",
+    "split": "train",
+    "line_idx": 1045,
+    "original_text": "“Richtofen breaks the cycle!”",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eecogm3",
+    "split": "train",
+    "line_idx": 1046,
+    "original_text": "That dude is Russian intelligence",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eezderw",
+    "split": "train",
+    "line_idx": 1047,
+    "original_text": "Ik these are great!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eefcivw",
+    "split": "train",
+    "line_idx": 1048,
+    "original_text": "He hatet [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "een6l21",
+    "split": "train",
+    "line_idx": 1049,
+    "original_text": "Uhhh... unfortunately I can't read the article due to some regulations...but pretty sure that post is just the article",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ]
+  }
+]

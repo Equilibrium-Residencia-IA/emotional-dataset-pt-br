@@ -1,0 +1,563 @@
+[
+  {
+    "id": "efav5j4",
+    "split": "train",
+    "line_idx": 15350,
+    "original_text": "you never wanna hear that but sadly people will say they love you when what they really mean is you are convenient.",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "você nunca quer ouvir isso, mas infelizmente as pessoas dizem que te amam quando o que elas realmente querem dizer é que você é conveniente."
+  },
+  {
+    "id": "edt60bk",
+    "split": "train",
+    "line_idx": 15351,
+    "original_text": "[NAME], I love science.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME], eu amo ciência."
+  },
+  {
+    "id": "ef79gzm",
+    "split": "train",
+    "line_idx": 15352,
+    "original_text": "Wow, essential oils can now replace oxygen",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, óleos essenciais agora podem substituir o oxigênio"
+  },
+  {
+    "id": "ed7vjv5",
+    "split": "train",
+    "line_idx": 15353,
+    "original_text": "but [NAME] is",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "mas o [NAME] é"
+  },
+  {
+    "id": "eezybgx",
+    "split": "train",
+    "line_idx": 15354,
+    "original_text": "Oh hi [NAME]",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ah, oi [NAME]"
+  },
+  {
+    "id": "eevyd9g",
+    "split": "train",
+    "line_idx": 15355,
+    "original_text": "Honestly wish I could do this, I miss my long hair sometimes :(",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Sinceramente, queria muito conseguir fazer isso, às vezes sinto falta do meu cabelo comprido :("
+  },
+  {
+    "id": "eenddoa",
+    "split": "train",
+    "line_idx": 15356,
+    "original_text": "Then stop electing those officials.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então parem de eleger esses políticos."
+  },
+  {
+    "id": "edojr5n",
+    "split": "train",
+    "line_idx": 15357,
+    "original_text": "If I get another dog imma name it after a [NAME] song SO FUCKING CUUUUTE",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Se eu pegar outro cachorro, vou dar a ele o nome de uma música do [NAME], TÃO FOFO PQP"
+  },
+  {
+    "id": "eczf4ox",
+    "split": "train",
+    "line_idx": 15358,
+    "original_text": "I'm confused why you reposted this from this sub. I'm even more confused why you left evidence that shows this.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Tô confuso sobre por que você repostou isso desse sub. Tô mais confuso ainda sobre por que você deixou a prova que mostra isso."
+  },
+  {
+    "id": "ee8nz8h",
+    "split": "train",
+    "line_idx": 15359,
+    "original_text": "Thanks. People on the sub are unreasonable. They think [NAME] is worth so much yet won't give up much for [NAME]",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu. O pessoal desse sub é sem noção. Eles acham que o [NAME] vale tanto, mas não abrem mão de quase nada pelo [NAME]"
+  },
+  {
+    "id": "eeqlo60",
+    "split": "train",
+    "line_idx": 15360,
+    "original_text": "It won't be. Just a rumor.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não vai ser. Só um boato."
+  },
+  {
+    "id": "ed0jekk",
+    "split": "train",
+    "line_idx": 15361,
+    "original_text": "This is the day we've been waiting for! WWOOOOOOOOOOOO!!!!!!",
+    "emotion_ids": "13,23",
+    "emotions": [
+      "excitement",
+      "relief"
+    ],
+    "translated_text": "Esse é o dia que a gente tava esperando! WWOOOOOOOOOOOO!!!!!!"
+  },
+  {
+    "id": "eelgu57",
+    "split": "train",
+    "line_idx": 15362,
+    "original_text": "second this <3",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "apoio isso <3"
+  },
+  {
+    "id": "edowjjp",
+    "split": "train",
+    "line_idx": 15363,
+    "original_text": "Wow you found the answer, wish you were on top, will link to you in my post",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, você achou a resposta, queria que seu comentário tivesse mais destaque, vou colocar o link pra ele no meu post"
+  },
+  {
+    "id": "ed81egi",
+    "split": "train",
+    "line_idx": 15364,
+    "original_text": "Wow, that would have been messy.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Nossa, isso teria dado uma confusão."
+  },
+  {
+    "id": "ef3sly2",
+    "split": "train",
+    "line_idx": 15365,
+    "original_text": "This is how mafia works",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "É assim que a máfia funciona"
+  },
+  {
+    "id": "eezt0vb",
+    "split": "train",
+    "line_idx": 15366,
+    "original_text": "These leaks are actually very credible. It's sad that you guys let Hate and anger blind you from enjoying the experience.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Esses vazamentos são bem confiáveis, na verdade. É triste que vocês deixem o ódio e a raiva cegarem vocês de aproveitar a experiência."
+  },
+  {
+    "id": "ed7sd9x",
+    "split": "train",
+    "line_idx": 15367,
+    "original_text": "I'm surprised everyone seems to think there will be a season 2.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Tô surpreso que todo mundo parece achar que vai ter uma segunda temporada."
+  },
+  {
+    "id": "edhxs5j",
+    "split": "train",
+    "line_idx": 15368,
+    "original_text": "Sorry to hear that, mate. Please get some professional help. ",
+    "emotion_ids": "5,25",
+    "emotions": [
+      "caring",
+      "sadness"
+    ],
+    "translated_text": "Sinto muito por isso, cara. Por favor, procure ajuda profissional."
+  },
+  {
+    "id": "eeub19f",
+    "split": "train",
+    "line_idx": 15369,
+    "original_text": "Thanks a lot!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado!"
+  },
+  {
+    "id": "edbojm8",
+    "split": "train",
+    "line_idx": 15370,
+    "original_text": "At least her granddaughter will grow up to know her worth. *Oh wait.*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo menos a neta dela vai crescer sabendo o seu valor. *Ah, espera.*"
+  },
+  {
+    "id": "eev6769",
+    "split": "train",
+    "line_idx": 15371,
+    "original_text": "I came. So smooth. So brutal.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gozei. Tão suave. Tão brutal."
+  },
+  {
+    "id": "eefr1k0",
+    "split": "train",
+    "line_idx": 15372,
+    "original_text": "what's your MBTI type?, just curious btw",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "qual é o seu tipo MBTI?, só por curiosidade mesmo"
+  },
+  {
+    "id": "eduhfxb",
+    "split": "train",
+    "line_idx": 15373,
+    "original_text": "I will have nothing to do with this specter, who selectively appears to individuals and abandons others. No better than a cruel warlord.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Não quero ter nada a ver com esse espectro, que aparece seletivamente para alguns indivíduos e abandona outros. Não é melhor do que um senhor da guerra cruel."
+  },
+  {
+    "id": "ee6kdib",
+    "split": "train",
+    "line_idx": 15374,
+    "original_text": "that sucks, good luck next time!",
+    "emotion_ids": "2,15",
+    "emotions": [
+      "anger",
+      "gratitude"
+    ],
+    "translated_text": "que droga, boa sorte na próxima!"
+  },
+  {
+    "id": "ee4sdqq",
+    "split": "train",
+    "line_idx": 15375,
+    "original_text": "My knees shattered and my collarbone broke just reading this",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meus joelhos estalaram e minha clavícula quebrou só de ler isso"
+  },
+  {
+    "id": "eezsg2r",
+    "split": "train",
+    "line_idx": 15376,
+    "original_text": "Not a good time to make life altering plans like moving in with him right now. Good luck, though. [NAME]",
+    "emotion_ids": "5,10",
+    "emotions": [
+      "caring",
+      "disapproval"
+    ],
+    "translated_text": "Não é uma boa hora pra fazer planos que mudam a vida, tipo morar com ele agora. Boa sorte, no entanto. [NAME]"
+  },
+  {
+    "id": "ed8ib4y",
+    "split": "train",
+    "line_idx": 15377,
+    "original_text": "Must've misunderstood something about his injury. Thanks for pointing it out",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Devo ter entendido algo errado sobre a lesão dele. Valeu por apontar isso"
+  },
+  {
+    "id": "eert7ck",
+    "split": "train",
+    "line_idx": 15378,
+    "original_text": "Not a woosh but ok",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não foi um woosh, mas ok"
+  },
+  {
+    "id": "eeswprf",
+    "split": "train",
+    "line_idx": 15379,
+    "original_text": "Wow.....",
+    "emotion_ids": "13,26",
+    "emotions": [
+      "excitement",
+      "surprise"
+    ],
+    "translated_text": "Nossa....."
+  },
+  {
+    "id": "eeons9i",
+    "split": "train",
+    "line_idx": 15380,
+    "original_text": "Used to be the same with [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Costumava ser igual com o [NAME]"
+  },
+  {
+    "id": "ee4m1f6",
+    "split": "train",
+    "line_idx": 15381,
+    "original_text": "Meaning of life is to work 8h + a day and then convert your lifetime in coins you can spend on useless shit.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O sentido da vida é trabalhar 8h+ por dia e depois converter seu tempo de vida em moedas que você pode gastar em porcarias inúteis."
+  },
+  {
+    "id": "edbkwjs",
+    "split": "train",
+    "line_idx": 15382,
+    "original_text": "Thank you. Posted this to Facebook!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. Postei isso no Facebook!"
+  },
+  {
+    "id": "ee2w11s",
+    "split": "train",
+    "line_idx": 15383,
+    "original_text": "Maybe or my reptilian DNA hasn't manifested yet",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Talvez, ou meu DNA reptiliano ainda não se manifestou"
+  },
+  {
+    "id": "eevt2yy",
+    "split": "train",
+    "line_idx": 15384,
+    "original_text": "Best side quest ever!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Melhor missão secundária de todas!"
+  },
+  {
+    "id": "ee5e8v0",
+    "split": "train",
+    "line_idx": 15385,
+    "original_text": "This is why nobody takes feminism seriously!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É por isso que ninguém leva o feminismo a sério!"
+  },
+  {
+    "id": "edzsofe",
+    "split": "train",
+    "line_idx": 15386,
+    "original_text": "Yes Thank you ! Someone might try to sue me because they pulled out and got pregnant ... use full body condoms if you think Facebook should support your baybeeees",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sim, obrigado ! Alguém pode tentar me processar porque eles tiraram e engravidaram ... usem camisinha de corpo inteiro se vocês acham que o Facebook deveria sustentar seus bebezinhos"
+  },
+  {
+    "id": "ed0oknz",
+    "split": "train",
+    "line_idx": 15387,
+    "original_text": "At least you went out! For what it's worth, I definitely would have gone out with you if you were near me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo menos você saiu! Se serve de consolo, eu definitivamente teria saído com você se estivesse perto de mim."
+  },
+  {
+    "id": "ee5z2kr",
+    "split": "train",
+    "line_idx": 15388,
+    "original_text": "Fluid to the top!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fluido até o topo!"
+  },
+  {
+    "id": "edvlf7k",
+    "split": "train",
+    "line_idx": 15389,
+    "original_text": "Lol nice. I can't say the same yet. What do you do for a living if I may ask?",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ],
+    "translated_text": "Lol, legal. Não posso dizer o mesmo ainda. Com o que você trabalha, se eu puder perguntar?"
+  },
+  {
+    "id": "edotxo9",
+    "split": "train",
+    "line_idx": 15390,
+    "original_text": "I was grouping twitter with it. Tweets were great this year",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu tava colocando o Twitter no mesmo saco. Os tweets foram ótimos esse ano"
+  },
+  {
+    "id": "ee2jtxt",
+    "split": "train",
+    "line_idx": 15391,
+    "original_text": "good to hear my man!",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "bom saber, meu mano!"
+  },
+  {
+    "id": "ed50g1w",
+    "split": "train",
+    "line_idx": 15392,
+    "original_text": "Can I see it?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Posso ver?"
+  },
+  {
+    "id": "eduakgs",
+    "split": "train",
+    "line_idx": 15393,
+    "original_text": "Your appearance doesn't magically look objectively creepy just because you're a creep. You're being stupid.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Sua aparência não fica magicamente assustadora só porque você é um babaca. Você tá sendo estúpido."
+  },
+  {
+    "id": "eevu8lr",
+    "split": "train",
+    "line_idx": 15394,
+    "original_text": "I don't think I've ever seen that flag flying in this city, we mostly just have the provincial flag and the Canada flag",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que nunca vi essa bandeira hasteada nesta cidade, a gente só tem a bandeira da província e a do Canadá mesmo"
+  },
+  {
+    "id": "ef2xn2j",
+    "split": "train",
+    "line_idx": 15395,
+    "original_text": "*snerk* People like this kill me. Idiots.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "*risadinha* Gente assim me mata. Idiotas."
+  },
+  {
+    "id": "eervsgj",
+    "split": "train",
+    "line_idx": 15396,
+    "original_text": "Wow. Racists are really coming out of the woodwork to excuse and defend racism. How sad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Nossa. Os racistas estão realmente saindo da toca pra justificar e defender o racismo. Que triste."
+  },
+  {
+    "id": "ee3nxfi",
+    "split": "train",
+    "line_idx": 15397,
+    "original_text": "Glad we aren't all like you , the world would have sucked",
+    "emotion_ids": "3,23",
+    "emotions": [
+      "annoyance",
+      "relief"
+    ],
+    "translated_text": "Ainda bem que não somos todos como você, o mundo seria uma porcaria"
+  },
+  {
+    "id": "ed5wiso",
+    "split": "train",
+    "line_idx": 15398,
+    "original_text": "You didn’t offer any proof. She gave the dnc some money to stay afloat. You have yet to explain how that translates to them damaging [NAME] campaign",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não ofereceu nenhuma prova. Ela deu algum dinheiro pro DNC pra se manter à tona. Você ainda não explicou como isso se traduz em eles prejudicarem a campanha do [NAME]"
+  },
+  {
+    "id": "ef1ih8v",
+    "split": "train",
+    "line_idx": 15399,
+    "original_text": "You just need to live your best life. Do the things that make you happy and don't dwell on any of the negatives.",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Você só precisa viver sua melhor vida. Faça as coisas que te fazem feliz e não fique remoendo os pontos negativos."
+  }
+]

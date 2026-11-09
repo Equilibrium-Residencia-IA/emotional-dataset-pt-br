@@ -1,0 +1,562 @@
+[
+  {
+    "id": "edbybx3",
+    "split": "train",
+    "line_idx": 12750,
+    "original_text": "It's so beautiful out. If only the sun wasn't so consistently low.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tá tão bonito lá fora. Se ao menos o sol não ficasse tão baixo o tempo todo."
+  },
+  {
+    "id": "ef0b4qm",
+    "split": "train",
+    "line_idx": 12751,
+    "original_text": "Ask their jock size in response",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pergunta o tamanho da cueca deles como resposta"
+  },
+  {
+    "id": "eepecn6",
+    "split": "train",
+    "line_idx": 12752,
+    "original_text": "I like, don't like it!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu gosto, não gosto disso!"
+  },
+  {
+    "id": "efdkwwt",
+    "split": "train",
+    "line_idx": 12753,
+    "original_text": "Same at my office. Just sitting and waiting until DC tells us what to do",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A mesma coisa no meu escritório. Só sentado esperando até que o DC diga o que a gente tem que fazer"
+  },
+  {
+    "id": "efbsowo",
+    "split": "train",
+    "line_idx": 12754,
+    "original_text": "I have a feeling if my car won’t start my ETL would come and Uber me to work",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tenho a sensação de que se meu carro não pegasse, meu ETL viria e me levaria de Uber pro trabalho"
+  },
+  {
+    "id": "eezxe5h",
+    "split": "train",
+    "line_idx": 12755,
+    "original_text": "Good luck buddy!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Boa sorte, parceiro!"
+  },
+  {
+    "id": "eevqtgr",
+    "split": "train",
+    "line_idx": 12756,
+    "original_text": "I personally am very proud to be a vegetable. Corn, to be exact. Corn pride y'all",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Eu pessoalmente tenho muito orgulho de ser um vegetal. Milho, pra ser exato. Orgulho de ser milho, galera"
+  },
+  {
+    "id": "eda7udf",
+    "split": "train",
+    "line_idx": 12757,
+    "original_text": "I have almost 5 months now. If I can do it, anyone can. You got this baby ❤️",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Já estou quase há 5 meses. Se eu consigo, qualquer um consegue. Você consegue, bebê ❤️"
+  },
+  {
+    "id": "edfjkwi",
+    "split": "train",
+    "line_idx": 12758,
+    "original_text": "So many inaccuracies here.....",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Tantas imprecisões aqui....."
+  },
+  {
+    "id": "ed836fh",
+    "split": "train",
+    "line_idx": 12759,
+    "original_text": "It doesn't add up that a person who was receiving threats took actions to stop receiving threats?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não faz sentido que uma pessoa que estava recebendo ameaças tenha tomado medidas para parar de receber ameaças?"
+  },
+  {
+    "id": "ee1ijig",
+    "split": "train",
+    "line_idx": 12760,
+    "original_text": "If he was a rap ‘musician ‘ then I’m all in favour.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se ele era um 'músico' de rap, então eu super apoio."
+  },
+  {
+    "id": "eeg07i1",
+    "split": "train",
+    "line_idx": 12761,
+    "original_text": "How are we playing, just tuned in",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Como estamos jogando? Acabei de chegar"
+  },
+  {
+    "id": "eczwd4q",
+    "split": "train",
+    "line_idx": 12762,
+    "original_text": "It took me a while, but then I realized your friend was one of the “weird guys”",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Demorou um pouco, mas aí eu percebi que seu amigo era um dos \"caras estranhos\""
+  },
+  {
+    "id": "eefror4",
+    "split": "train",
+    "line_idx": 12763,
+    "original_text": "Wanted to see if someone *wood* eat it or not.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Queria ver se alguém *madeira* comer ou não."
+  },
+  {
+    "id": "eduuk2l",
+    "split": "train",
+    "line_idx": 12764,
+    "original_text": "Meanwhile, in r/nba *Typical [NAME] publicity stunt with a grandmother, the perfect deflection smh* Probably.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Enquanto isso, no r/nba *Típico golpe publicitário do [NAME] com uma avó, a distração perfeita, aff* Provavelmente."
+  },
+  {
+    "id": "edzaz8b",
+    "split": "train",
+    "line_idx": 12765,
+    "original_text": "Haha I should probably clarify it was family owned and managed",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha, provavelmente devo esclarecer que era de propriedade e gestão familiar"
+  },
+  {
+    "id": "edsss7v",
+    "split": "train",
+    "line_idx": 12766,
+    "original_text": "This is the shitposting I love",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Esse é o shitposting que eu amo"
+  },
+  {
+    "id": "edkolqv",
+    "split": "train",
+    "line_idx": 12767,
+    "original_text": "At this point all you can do is put full faith in the man. Let him get creative",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A essa altura, tudo o que você pode fazer é depositar total confiança no cara. Deixa ele ser criativo"
+  },
+  {
+    "id": "eenk2g6",
+    "split": "train",
+    "line_idx": 12768,
+    "original_text": "The social cohesion after brexit is going to be super cool too, everyone with flags on the windows.",
+    "emotion_ids": "0,13",
+    "emotions": [
+      "admiration",
+      "excitement"
+    ],
+    "translated_text": "A coesão social depois do brexit vai ser super legal também, todo mundo com bandeiras nas janelas."
+  },
+  {
+    "id": "eegdgoo",
+    "split": "train",
+    "line_idx": 12769,
+    "original_text": "Wait, how do u know he is a therapist",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Espera, como você sabe que ele é terapeuta"
+  },
+  {
+    "id": "eelogwm",
+    "split": "train",
+    "line_idx": 12770,
+    "original_text": "This makes perfect sense, thank you for explaining! ",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Isso faz todo sentido, obrigado por explicar!"
+  },
+  {
+    "id": "efecm4g",
+    "split": "train",
+    "line_idx": 12771,
+    "original_text": "Everybody let’s join hands",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Todo mundo, vamos dar as mãos"
+  },
+  {
+    "id": "edsy2uo",
+    "split": "train",
+    "line_idx": 12772,
+    "original_text": "Youtube is my Wikipedia. Videos about any interest. But I read Wikipedia sometimes too when I want to know the details.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O Youtube é minha Wikipédia. Vídeos sobre qualquer interesse. Mas eu leio a Wikipédia às vezes também quando quero saber os detalhes."
+  },
+  {
+    "id": "eenqksh",
+    "split": "train",
+    "line_idx": 12773,
+    "original_text": "We'll see. It's too early to tell, if he's ready, he'll be with the team, they are losing [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vamos ver. É muito cedo pra dizer, se ele estiver pronto, ele vai estar com o time, eles estão perdendo o [NAME]."
+  },
+  {
+    "id": "eeyhaor",
+    "split": "train",
+    "line_idx": 12774,
+    "original_text": "What do you mean?",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "O que você quer dizer?"
+  },
+  {
+    "id": "eesoodc",
+    "split": "train",
+    "line_idx": 12775,
+    "original_text": "Think this was an underrated signing. Dudes such a beast when he’s on, can go multiple innings.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Acho que essa foi uma contratação subestimada. O cara é uma fera quando tá no dia dele, consegue jogar várias entradas."
+  },
+  {
+    "id": "ednlv4l",
+    "split": "train",
+    "line_idx": 12776,
+    "original_text": "Seek out a therapist? It sounds quite depressing n I wouldn't want it overwheming me.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Procurar um terapeuta? Parece bem deprimente e eu não gostaria que isso me sobrecarregasse."
+  },
+  {
+    "id": "eedaxg8",
+    "split": "train",
+    "line_idx": 12777,
+    "original_text": "Unrelated, but no way N’keal [NAME] goes that high",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nada a ver, mas não tem como o N’keal [NAME] ser escolhido tão cedo"
+  },
+  {
+    "id": "edo2yqh",
+    "split": "train",
+    "line_idx": 12778,
+    "original_text": "No its an edited one by someone on this sub, I can't find it though. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, é uma editada por alguém aqui do sub, mas não consigo achar."
+  },
+  {
+    "id": "ednh8gb",
+    "split": "train",
+    "line_idx": 12779,
+    "original_text": "Ever heard of the New Deal? Look it up, it was pretty cool.",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Já ouviu falar do New Deal? Dá uma pesquisada, era bem legal."
+  },
+  {
+    "id": "eetzyip",
+    "split": "train",
+    "line_idx": 12780,
+    "original_text": "I legitimately want to brutally murder this person for saying that about us autistics",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Eu legitimamente quero assassinar brutalmente essa pessoa por dizer isso sobre nós autistas"
+  },
+  {
+    "id": "efgog45",
+    "split": "train",
+    "line_idx": 12781,
+    "original_text": "It's always nice to tell someone a pleasant story before they go to sleep.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "É sempre bom contar uma história agradável para alguém antes de dormir."
+  },
+  {
+    "id": "edrl99e",
+    "split": "train",
+    "line_idx": 12782,
+    "original_text": "Breaking news- Man having fun at party is mocked by basement dwelling redditor.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Notícia urgente - Homem se divertindo em festa é ridicularizado por redditor que mora no porão."
+  },
+  {
+    "id": "ef8n1xa",
+    "split": "train",
+    "line_idx": 12783,
+    "original_text": "Yeah take it slow..I mean you waited 7 years you can wait a bit. Hope it will turn out good for you guys",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "É, vai com calma.. digo, você esperou 7 anos, pode esperar um pouco. Espero que dê tudo certo pra vocês"
+  },
+  {
+    "id": "eeav360",
+    "split": "train",
+    "line_idx": 12784,
+    "original_text": "They can’t allow it because then the left would fall apart. The only way you can truly be a leftist is if you believe in lies.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles não podem permitir porque aí a esquerda desmoronaria. A única maneira de você ser verdadeiramente de esquerda é se você acreditar em mentiras."
+  },
+  {
+    "id": "ed2s2f4",
+    "split": "train",
+    "line_idx": 12785,
+    "original_text": "This is horrible",
+    "emotion_ids": "2,11",
+    "emotions": [
+      "anger",
+      "disgust"
+    ],
+    "translated_text": "Isso é horrível"
+  },
+  {
+    "id": "eda2t8s",
+    "split": "train",
+    "line_idx": 12786,
+    "original_text": "Holy fuck, that save was on what was essentially a wide open net",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Puta que pariu, aquela defesa foi num gol que estava praticamente aberto"
+  },
+  {
+    "id": "efaz8sr",
+    "split": "train",
+    "line_idx": 12787,
+    "original_text": "12 years, that's it? Psh I've been dating my gf for 20 and engaged for 10 years",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "12 anos, só isso? Pff, namoro minha namorada há 20 e estamos noivos há 10 anos"
+  },
+  {
+    "id": "eep7qbd",
+    "split": "train",
+    "line_idx": 12788,
+    "original_text": "[NAME]! Big fan of your graphic novels!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME]! Grande fã das suas graphic novels!"
+  },
+  {
+    "id": "edw30eb",
+    "split": "train",
+    "line_idx": 12789,
+    "original_text": "lol dont worry im aware, just thought it fit more here is all",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "lol não se preocupa, eu tô ligado, só achei que combinava mais aqui, só isso"
+  },
+  {
+    "id": "eeb41sr",
+    "split": "train",
+    "line_idx": 12790,
+    "original_text": "He was in a state of shock lol",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Ele estava em estado de choque lol"
+  },
+  {
+    "id": "ee0mgs7",
+    "split": "train",
+    "line_idx": 12791,
+    "original_text": "[NAME] play fake mad is great. Sitting there starring like he’s the most hardcore fan there is",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O [NAME] fingindo estar bravo é ótimo. Sentado lá encarando como se fosse o fã mais hardcore que existe"
+  },
+  {
+    "id": "edla554",
+    "split": "train",
+    "line_idx": 12792,
+    "original_text": "The fuck?! You're in the wrong subreddit with this regressive bullshit victim blaming.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Que porra é essa?! Você tá no subreddit errado com essa merda regressiva de culpar a vítima."
+  },
+  {
+    "id": "edu0gch",
+    "split": "train",
+    "line_idx": 12793,
+    "original_text": "Thats a good way to lose any good will free agents might have about coming here. Promise them something in a deal and then immediately reverse course.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa é uma boa maneira de perder qualquer boa vontade que agentes livres possam ter em vir pra cá. Promete algo num acordo e depois volta atrás imediatamente."
+  },
+  {
+    "id": "edux69m",
+    "split": "train",
+    "line_idx": 12794,
+    "original_text": "Tan woman here. I can see my boob veins too. Kinda cool to trace the lightening strike",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mulher morena aqui. Eu também consigo ver as veias dos meus peitos. Meio legal traçar o raio"
+  },
+  {
+    "id": "edoe6p5",
+    "split": "train",
+    "line_idx": 12795,
+    "original_text": "This guy isn't getting laid lmao he's tipping girls and buying them things in exchange for webcam sessions and videos.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse cara não tá transando, lmao, ele tá dando gorjeta pras minas e comprando coisas pra elas em troca de sessões de webcam e vídeos."
+  },
+  {
+    "id": "ed6yi34",
+    "split": "train",
+    "line_idx": 12796,
+    "original_text": "I *want* to like R&M but people are making it really difficult",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Eu *quero* gostar de R&M, mas as pessoas estão tornando isso muito difícil"
+  },
+  {
+    "id": "efbkgub",
+    "split": "train",
+    "line_idx": 12797,
+    "original_text": "Hoping Heavy Machinery get the win. Would like to see them as champs.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Torcendo pra Heavy Machinery ganhar. Gostaria de vê-los como campeões."
+  },
+  {
+    "id": "ef5trpf",
+    "split": "train",
+    "line_idx": 12798,
+    "original_text": "“Fall in love with at least one physical, one artistic, and one intellectual pursuit” — This is great advice! Thank you 😊",
+    "emotion_ids": "0,4,15",
+    "emotions": [
+      "admiration",
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "“Apaixone-se por pelo menos uma busca física, uma artística e uma intelectual” — Esse é um ótimo conselho! Obrigado 😊"
+  },
+  {
+    "id": "eeem1iu",
+    "split": "train",
+    "line_idx": 12799,
+    "original_text": "Right? No one brattier than incels.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Né? Ninguém é mais mimado que incel."
+  }
+]

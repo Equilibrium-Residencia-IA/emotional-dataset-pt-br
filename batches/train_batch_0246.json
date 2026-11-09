@@ -1,0 +1,513 @@
+[
+  {
+    "id": "eel849u",
+    "split": "train",
+    "line_idx": 12300,
+    "original_text": "I have pledged myself to truth, I don't remember signing a pledge.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "eeqvbkc",
+    "split": "train",
+    "line_idx": 12301,
+    "original_text": "What could it cost? $10?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ee19oyk",
+    "split": "train",
+    "line_idx": 12302,
+    "original_text": "Anecdotally, I have severe hypothyroidism and it hasn't significantly affected my weight loss. The key for me was tackling the synthroid dose first.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eer20cp",
+    "split": "train",
+    "line_idx": 12303,
+    "original_text": ">I think this is the same for most people. Exactly.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ]
+  },
+  {
+    "id": "edbn5j6",
+    "split": "train",
+    "line_idx": 12304,
+    "original_text": "Reminds me of [NAME]",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "edivoj9",
+    "split": "train",
+    "line_idx": 12305,
+    "original_text": "Forgive me for being so forward but you’re hot af",
+    "emotion_ids": "0,24,27",
+    "emotions": [
+      "admiration",
+      "remorse",
+      "neutral"
+    ]
+  },
+  {
+    "id": "ee44zb8",
+    "split": "train",
+    "line_idx": 12306,
+    "original_text": "Definitely valid in my case. But let's remember our friends who have had or are currently having a rough time when it comes to family life, as well.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ]
+  },
+  {
+    "id": "edktfo7",
+    "split": "train",
+    "line_idx": 12307,
+    "original_text": "I'll continue to be dumb for supporting a company I like. Thanks for your input poor.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ]
+  },
+  {
+    "id": "ee6yga0",
+    "split": "train",
+    "line_idx": 12308,
+    "original_text": "ya shes stressed out alot. oh ok. thanks for the advice.",
+    "emotion_ids": "15,25",
+    "emotions": [
+      "gratitude",
+      "sadness"
+    ]
+  },
+  {
+    "id": "efh30uw",
+    "split": "train",
+    "line_idx": 12309,
+    "original_text": "Not available in my country. Can't believe this has to be a thing in the modern age.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "ee5k7vy",
+    "split": "train",
+    "line_idx": 12310,
+    "original_text": "It's not your cake day tho, so take a blue arrow. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edn9ym0",
+    "split": "train",
+    "line_idx": 12311,
+    "original_text": "A little girl recently died because her parents refused to get her medical treatment and insisted [NAME] would heal her.",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ]
+  },
+  {
+    "id": "edoi7jg",
+    "split": "train",
+    "line_idx": 12312,
+    "original_text": "I agree. I could tell she was really upset.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ee3yzt5",
+    "split": "train",
+    "line_idx": 12313,
+    "original_text": "Well, that was dumb.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ]
+  },
+  {
+    "id": "efbbg35",
+    "split": "train",
+    "line_idx": 12314,
+    "original_text": "yes, because I like her already anyway",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "edmrelx",
+    "split": "train",
+    "line_idx": 12315,
+    "original_text": "Cancer is even scarier my friend. Let's just hug it out",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "efe2hew",
+    "split": "train",
+    "line_idx": 12316,
+    "original_text": "Stop all the bullshit. Keep AB. Pick one.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ]
+  },
+  {
+    "id": "ed0cpch",
+    "split": "train",
+    "line_idx": 12317,
+    "original_text": "What a confession! Unbelievable!",
+    "emotion_ids": "0,26",
+    "emotions": [
+      "admiration",
+      "surprise"
+    ]
+  },
+  {
+    "id": "ef6wa8d",
+    "split": "train",
+    "line_idx": 12318,
+    "original_text": "Stantler? It's one of the weaker gen 2 designs I guess. It'd be better if its nose wasnt so stupid",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edl2fhv",
+    "split": "train",
+    "line_idx": 12319,
+    "original_text": "I don’t know man I feel like this goal is just a combination of unluckiness",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ]
+  },
+  {
+    "id": "eeytfk2",
+    "split": "train",
+    "line_idx": 12320,
+    "original_text": "Show me one conservative congressman/senator who is actively fighting climate change to break this stereotype",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eeyps15",
+    "split": "train",
+    "line_idx": 12321,
+    "original_text": "Some of us only play QP. I’d like to think QP is just as important as comp.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ]
+  },
+  {
+    "id": "efbi27w",
+    "split": "train",
+    "line_idx": 12322,
+    "original_text": "[NAME] is such a wholesome woman. The world needs more people like her.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eddl74m",
+    "split": "train",
+    "line_idx": 12323,
+    "original_text": "Im sorry, my autocorret happened. But i think you can read between the lines? Or maybe just go full r*** :)",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ]
+  },
+  {
+    "id": "eev1bt3",
+    "split": "train",
+    "line_idx": 12324,
+    "original_text": "Great. Literally nothing is sacred anymore.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eem31bj",
+    "split": "train",
+    "line_idx": 12325,
+    "original_text": "Partial reopening within the next two weeks for services to the [NAME], but unfortunately for some a lot of the government is never coming back from this.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ]
+  },
+  {
+    "id": "edd3byk",
+    "split": "train",
+    "line_idx": 12326,
+    "original_text": "I can say the same for yours",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edo9gqz",
+    "split": "train",
+    "line_idx": 12327,
+    "original_text": "first alien is hotter tbh",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "ee0pha7",
+    "split": "train",
+    "line_idx": 12328,
+    "original_text": "Also known as the song ice cream trucks play. I was wondering why it sounded so familiar!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "eeqmaon",
+    "split": "train",
+    "line_idx": 12329,
+    "original_text": "Problem is as soon as someone criticises Israel they jump up and down and scream anti semitism",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ]
+  },
+  {
+    "id": "ed5d4hm",
+    "split": "train",
+    "line_idx": 12330,
+    "original_text": "I dated a girl from Broomfield Colorado. She'd end sentences with \"yo\". I ended us.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ed44njr",
+    "split": "train",
+    "line_idx": 12331,
+    "original_text": "Got my attention.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edpah6v",
+    "split": "train",
+    "line_idx": 12332,
+    "original_text": "Yessss thats it ...thanks",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ]
+  },
+  {
+    "id": "ee1t7hd",
+    "split": "train",
+    "line_idx": 12333,
+    "original_text": "Funny how it do",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ]
+  },
+  {
+    "id": "ee88i90",
+    "split": "train",
+    "line_idx": 12334,
+    "original_text": "It is a fictional llama...how much PC do we actually need?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ]
+  },
+  {
+    "id": "eefctmb",
+    "split": "train",
+    "line_idx": 12335,
+    "original_text": "Who are you again?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ]
+  },
+  {
+    "id": "edfsrhs",
+    "split": "train",
+    "line_idx": 12336,
+    "original_text": "I'm surprised they play the national anthem at derby bouts there, been to many bouts in Minnesota and haven't once heard the national anthem performed.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ]
+  },
+  {
+    "id": "ef6zcu0",
+    "split": "train",
+    "line_idx": 12337,
+    "original_text": "ITT: People saying \"I'm doing to get downvoted for this\" and then not getting downvoted.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ]
+  },
+  {
+    "id": "eejci6d",
+    "split": "train",
+    "line_idx": 12338,
+    "original_text": "It's pretty stupid honestly. [NAME] clearly pointed a bug and people are saying \"oh, it's a feature\". ...seriously now.",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ]
+  },
+  {
+    "id": "eel3u2l",
+    "split": "train",
+    "line_idx": 12339,
+    "original_text": "Because cognitive dissonance.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edp4he0",
+    "split": "train",
+    "line_idx": 12340,
+    "original_text": "You are disgusting.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ]
+  },
+  {
+    "id": "eew1ws4",
+    "split": "train",
+    "line_idx": 12341,
+    "original_text": "Dutch bros made this a legit drink. It’s their cold brew steamed I believe. Edit: spelling",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ed511fw",
+    "split": "train",
+    "line_idx": 12342,
+    "original_text": ">Just be glad he didn’t kiss [NAME] mum. that'd make a good storyline tho tbh",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ]
+  },
+  {
+    "id": "eetxboc",
+    "split": "train",
+    "line_idx": 12343,
+    "original_text": "Congratulations! It's an amazing feeling isn't it! 😍",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ]
+  },
+  {
+    "id": "eedojrs",
+    "split": "train",
+    "line_idx": 12344,
+    "original_text": "Tell him congrats. And that he srsly needs to work on his bunting; it's just painful to watch.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ]
+  },
+  {
+    "id": "edrlg18",
+    "split": "train",
+    "line_idx": 12345,
+    "original_text": "Weird, just got back from the one on Grand 45 min ago and I got in and out no problem. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ed1bf9d",
+    "split": "train",
+    "line_idx": 12346,
+    "original_text": "Yeah there's a lot of innately absurd conclusions this guy's drawing here",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eek56e8",
+    "split": "train",
+    "line_idx": 12347,
+    "original_text": "His estate still have property in places like ireland. To this he has grounds rent paid to him",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "efgc1vc",
+    "split": "train",
+    "line_idx": 12348,
+    "original_text": "Wow, a Walmart Truck Stop. I think that would be outstanding! They should do that everywhere, I mean they already have the land.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ]
+  },
+  {
+    "id": "ef9nrxy",
+    "split": "train",
+    "line_idx": 12349,
+    "original_text": "If you crack the code for getting a city job please let me know.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "id": "ef5djqn",
+    "split": "train",
+    "line_idx": 8200,
+    "original_text": "Wow he wants people to donate so he can make a large profit off his atm? Lmao Good gig if you can get it I guess...",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Nossa, ele quer que as pessoas doem pra ele lucrar em cima do caixa eletrônico dele? Kkkkkk baita negócio se você conseguir, né..."
+  },
+  {
+    "id": "ee27tbv",
+    "split": "train",
+    "line_idx": 8201,
+    "original_text": "I’ve never heard of this website! Thanks for letting me know.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Nunca ouvi falar desse site! Valeu por avisar."
+  },
+  {
+    "id": "ediu6ag",
+    "split": "train",
+    "line_idx": 8202,
+    "original_text": "Whoever the mod is that removed this needs to rethink their priorities.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem quer que seja o moderador que removeu isso, precisa repensar suas prioridades."
+  },
+  {
+    "id": "edq1rmk",
+    "split": "train",
+    "line_idx": 8203,
+    "original_text": "Oh damn it! I was just on my way to the post box",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Ah, droga! Eu tava indo justamente pro correio"
+  },
+  {
+    "id": "ednzn5f",
+    "split": "train",
+    "line_idx": 8204,
+    "original_text": "For real though, I do apologize. That's a bad run of luck for sure, it's such a rare syndrome ",
+    "emotion_ids": "11,24",
+    "emotions": [
+      "disgust",
+      "remorse"
+    ],
+    "translated_text": "Na moral mesmo, peço desculpas. Isso é uma maré de azar daquelas, é uma síndrome tão rara"
+  },
+  {
+    "id": "ef2qyih",
+    "split": "train",
+    "line_idx": 8205,
+    "original_text": "Ahh dammit I knew that was why I was getting the feels",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ahh droga, eu sabia que era por isso que eu tava sentindo essas coisas"
+  },
+  {
+    "id": "ef1j0ka",
+    "split": "train",
+    "line_idx": 8206,
+    "original_text": "Nvm, I see that the drama sub sees what's up",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Deixa quieto, vi que o sub de drama tá ligado no que tá rolando"
+  },
+  {
+    "id": "ed3zuxc",
+    "split": "train",
+    "line_idx": 8207,
+    "original_text": "Have you tried finding other communities to join? Now I know ex-[RELIGION] communities are not that common but just non-religious communities should be rather commen right?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você tentou achar outras comunidades pra entrar? Agora, eu sei que comunidades ex-[RELIGION] não são tão comuns, mas comunidades não religiosas deveriam ser bem comuns, né?"
+  },
+  {
+    "id": "edt51jc",
+    "split": "train",
+    "line_idx": 8208,
+    "original_text": "As you hint at, I think it's more jealousy than prudishness.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como você deu a entender, acho que é mais inveja do que puritanismo."
+  },
+  {
+    "id": "ef5ki17",
+    "split": "train",
+    "line_idx": 8209,
+    "original_text": "Yes. Views are a real thing that matters. The very fact that a person makes an effort to appeal to voters is not.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim. Visualizações são uma coisa real que importa. O fato de uma pessoa se esforçar pra atrair eleitores, não."
+  },
+  {
+    "id": "eeep85e",
+    "split": "train",
+    "line_idx": 8210,
+    "original_text": "Laughed. Out. Loud",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ri. Alto. Pra. Caramba"
+  },
+  {
+    "id": "edl2yxk",
+    "split": "train",
+    "line_idx": 8211,
+    "original_text": "My point is that they give him shit for legitimate reasons.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Meu ponto é que eles descem a lenha nele por motivos legítimos."
+  },
+  {
+    "id": "eemlljc",
+    "split": "train",
+    "line_idx": 8212,
+    "original_text": "See there you go. Using the excuse to excuse the excuse.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tá vendo, lá vai você. Usando a desculpa pra justificar a desculpa."
+  },
+  {
+    "id": "edc7xgc",
+    "split": "train",
+    "line_idx": 8213,
+    "original_text": "Love how she was able to find a 'rabbi' from N anti-Semitic group to \"prove\" her defense of anti-Semitism. Just fantastic. /s",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Adoro como ela conseguiu achar um 'rabino' de um grupo anti-semita pra \"provar\" a defesa dela contra o anti-semitismo. Simplesmente fantástico. /s"
+  },
+  {
+    "id": "ee3vdty",
+    "split": "train",
+    "line_idx": 8214,
+    "original_text": "Yeah, but most people who have body pillows don't have girlfriends so can we really use this as a good example",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, mas a maioria das pessoas que tem travesseiro de corpo não tem namorada, então será que dá pra usar isso como um bom exemplo?"
+  },
+  {
+    "id": "ee4g8uo",
+    "split": "train",
+    "line_idx": 8215,
+    "original_text": "Post on the [NAME] and listen to info wars, you shouldn’t have an opinion on the Internet and you should not share it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Posta no [NAME] e ouve o info wars, você não deveria ter opinião na internet e não deveria compartilhar ela"
+  },
+  {
+    "id": "eei3rqf",
+    "split": "train",
+    "line_idx": 8216,
+    "original_text": "Gangster as fuck bruh, that's why i fly a green bandana.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Muito gangster, mano, é por isso que eu uso uma bandana verde."
+  },
+  {
+    "id": "eeoldjs",
+    "split": "train",
+    "line_idx": 8217,
+    "original_text": "Shouldn't it be NAA?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Não deveria ser NAA?"
+  },
+  {
+    "id": "edlhq8c",
+    "split": "train",
+    "line_idx": 8218,
+    "original_text": "can you give us a quick summary (no spoilers)?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "pode dar um resumo rápido pra gente (sem spoilers)?"
+  },
+  {
+    "id": "ed6cibc",
+    "split": "train",
+    "line_idx": 8219,
+    "original_text": "Was injured a lot his rookie year too. And had trouble handling [NAME] duties.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele se machucou muito no ano de calouro também. E teve dificuldade pra lidar com as funções de [NAME]."
+  },
+  {
+    "id": "eepbee2",
+    "split": "train",
+    "line_idx": 8220,
+    "original_text": "Not in CA.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não na CA."
+  },
+  {
+    "id": "ee175xa",
+    "split": "train",
+    "line_idx": 8221,
+    "original_text": "OH [NAME] I CAN'T TELL ANYMORE!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "AI [NAME] EU NÃO CONSIGO MAIS SABER!"
+  },
+  {
+    "id": "ee0hcpq",
+    "split": "train",
+    "line_idx": 8222,
+    "original_text": "Surprising you choose to believe things that aren’t true 🤔",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Surpreendente você escolher acreditar em coisas que não são verdade 🤔"
+  },
+  {
+    "id": "ee00v0l",
+    "split": "train",
+    "line_idx": 8223,
+    "original_text": "Omw. When my man sends me that I get all warm and excited cuz I know I get to spends the next couple hours or days with him",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Tô indo. Quando meu homem me manda isso eu fico toda quente e empolgada porque sei que vou passar as próximas horas ou dias com ele"
+  },
+  {
+    "id": "eesbtoq",
+    "split": "train",
+    "line_idx": 8224,
+    "original_text": "I just don't like OP for not explaining it before using the abbreviation. So even though the TIFU was great I downvoted it.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu só não gosto do OP por não explicar antes de usar a abreviação. Então, mesmo que o TIFU tenha sido ótimo, eu dei downvote."
+  },
+  {
+    "id": "edlwomr",
+    "split": "train",
+    "line_idx": 8225,
+    "original_text": "How you ask? Simple answer, by voting.....or not hence the importance of voting",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Como você pergunta? Resposta simples, votando.....ou não, daí a importância de votar"
+  },
+  {
+    "id": "ed9s47p",
+    "split": "train",
+    "line_idx": 8226,
+    "original_text": "[NAME] is a madman and I love it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME] é um maluco e eu adoro isso."
+  },
+  {
+    "id": "ee6tbjw",
+    "split": "train",
+    "line_idx": 8227,
+    "original_text": "The worst thing about this is, there is a good joke hiding deep down somewhere. Someone just used a jackhammer to retrieve it",
+    "emotion_ids": "11,22",
+    "emotions": [
+      "disgust",
+      "realization"
+    ],
+    "translated_text": "O pior disso é que tem uma piada boa escondida lá no fundo em algum lugar. Alguém só usou uma britadeira pra tentar tirar ela de lá"
+  },
+  {
+    "id": "eefiopr",
+    "split": "train",
+    "line_idx": 8228,
+    "original_text": "I thought that I was on the IASIP sub...",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "Pensei que eu tava no sub de IASIP..."
+  },
+  {
+    "id": "edb8fcr",
+    "split": "train",
+    "line_idx": 8229,
+    "original_text": "i envy you, I'm just stuffed with cringe",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "te invejo, eu só tô cheio de vergonha alheia"
+  },
+  {
+    "id": "edle3mu",
+    "split": "train",
+    "line_idx": 8230,
+    "original_text": "Is it allowed be recast in other languages (like spanish)?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "É permitido ser dublado em outros idiomas (tipo espanhol)?"
+  },
+  {
+    "id": "ee26swz",
+    "split": "train",
+    "line_idx": 8231,
+    "original_text": "I just picked it back up after getting a pro controller for Christmas.. holy crap it's great!!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Acabei de voltar a jogar depois de ganhar um controle pro de Natal.. caraca, é muito bom!!"
+  },
+  {
+    "id": "ef2wnzs",
+    "split": "train",
+    "line_idx": 8232,
+    "original_text": "I played in the WSHL last year and this really isn’t a surprise. It’s crazy how unbalanced the competition is in that league",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu joguei na WSHL ano passado e isso realmente não é surpresa. É louco como a competição é desequilibrada nessa liga"
+  },
+  {
+    "id": "edo5dsj",
+    "split": "train",
+    "line_idx": 8233,
+    "original_text": "I’m wondering the same; something seems weird about that interpretation of the law",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Tô me perguntando a mesma coisa; algo parece estranho nessa interpretação da lei"
+  },
+  {
+    "id": "efcx6lo",
+    "split": "train",
+    "line_idx": 8234,
+    "original_text": "This is amazing. Love these edits.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Isso é incrível. Adoro essas edições."
+  },
+  {
+    "id": "ef56bp2",
+    "split": "train",
+    "line_idx": 8235,
+    "original_text": "Withdrawal, psychic-shattering, and other activist groups, the principle is very sad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Abstinência, destruição psíquica e outros grupos ativistas, o princípio é muito triste."
+  },
+  {
+    "id": "ednx4v9",
+    "split": "train",
+    "line_idx": 8236,
+    "original_text": "The papers listed at might be of help.",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Os artigos listados em podem ajudar."
+  },
+  {
+    "id": "efbp3py",
+    "split": "train",
+    "line_idx": 8237,
+    "original_text": "Thank you so much!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado!"
+  },
+  {
+    "id": "eejenr0",
+    "split": "train",
+    "line_idx": 8238,
+    "original_text": "Ugh gross. Don't suggest a PUA book to a kid.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ugh, que nojo. Não sugira um livro de PUA pra um moleque."
+  },
+  {
+    "id": "ee551zn",
+    "split": "train",
+    "line_idx": 8239,
+    "original_text": "There is little attempt being made to protect native-born people from the negative effects of mass migration. If you think that is morally correct you are insane.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quase não há tentativa de proteger os nativos dos efeitos negativos da migração em massa. Se você acha que isso é moralmente correto, você é insano."
+  },
+  {
+    "id": "eetnoud",
+    "split": "train",
+    "line_idx": 8240,
+    "original_text": "You got shafted.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Você se deu mal."
+  },
+  {
+    "id": "eeiw3gq",
+    "split": "train",
+    "line_idx": 8241,
+    "original_text": "the only way to forever libertarian utopia is by crushing liberty [NAME]. Listen to yourself.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "o único caminho pra utopia libertária eterna é esmagando a liberdade [NAME]. Se escuta."
+  },
+  {
+    "id": "eee51hp",
+    "split": "train",
+    "line_idx": 8242,
+    "original_text": "I'm terrible sorry, /u/bookluvr83, but I'm afraid I must join up with the giving-you-crap-for-not-liking-brownies bandwagon. ^kidding ^^^kinda",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Sinto muitíssimo, /u/bookluvr83, mas temo que preciso entrar pro bonde de quem tá te zoando por não gostar de brownies. ^brincadeira ^^^mais ^ou ^menos"
+  },
+  {
+    "id": "ef2cfi8",
+    "split": "train",
+    "line_idx": 8243,
+    "original_text": "What does adderrall do that makes you lose weight? Appetite suppressant?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que a adderrall faz que te faz perder peso? Inibidor de apetite?"
+  },
+  {
+    "id": "edpgmsy",
+    "split": "train",
+    "line_idx": 8244,
+    "original_text": "Hang in there sister, your body will one day be your own again :) ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aguenta firme, irmã, seu corpo um dia vai ser seu de novo :)"
+  },
+  {
+    "id": "eehc02v",
+    "split": "train",
+    "line_idx": 8245,
+    "original_text": "Yeah, I'd definitely say you won this argument. Plenty of people love taking it up the bum and down the throat. Source. Am slut.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É, eu definitivamente diria que você ganhou essa discussão. Muita gente adora levar no rabo e na garganta. Fonte. Sou piranha."
+  },
+  {
+    "id": "ed1ongh",
+    "split": "train",
+    "line_idx": 8246,
+    "original_text": "I’m sorry this happened to you. I’m glad you got out of it.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Sinto muito que isso tenha acontecido com você. Fico feliz que você tenha saído dessa."
+  },
+  {
+    "id": "ef7a7vi",
+    "split": "train",
+    "line_idx": 8247,
+    "original_text": "Your mom did you a favor; now there is one less of “us kids” that will be buying mom a house and taking care of her.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sua mãe te fez um favor; agora tem um \"nós, filhos\" a menos que vai comprar uma casa pra mãe e cuidar dela."
+  },
+  {
+    "id": "ed3sfgj",
+    "split": "train",
+    "line_idx": 8248,
+    "original_text": "Also technically wrong, it would be last year but not a year ago.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Além disso, tecnicamente errado, seria ano passado, mas não faz um ano."
+  },
+  {
+    "id": "eex2p0l",
+    "split": "train",
+    "line_idx": 8249,
+    "original_text": "Why not though? Not enough buyers?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que não, né? Não tem comprador suficiente?"
+  }
+]

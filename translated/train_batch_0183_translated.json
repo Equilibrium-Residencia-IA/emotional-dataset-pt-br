@@ -1,0 +1,562 @@
+[
+  {
+    "id": "efcq9qk",
+    "split": "train",
+    "line_idx": 9150,
+    "original_text": "I'm seeing the error using Chrome both on MacOs Desktop and Android. I'm glad it seems to just be me though. Apologies for the snarkiness.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Tô vendo o erro tanto no Chrome do desktop quanto no Android. Ainda bem que parece ser só comigo. Malz pela grosseria."
+  },
+  {
+    "id": "ed9pmlt",
+    "split": "train",
+    "line_idx": 9151,
+    "original_text": "[NAME] !!!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME] !!!"
+  },
+  {
+    "id": "efbmlkf",
+    "split": "train",
+    "line_idx": 9152,
+    "original_text": "Good loss for the tank. [NAME] and [NAME] played really well.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Uma boa derrota pra garantir o tank. [NAME] e [NAME] jogaram muito bem."
+  },
+  {
+    "id": "efe7q93",
+    "split": "train",
+    "line_idx": 9153,
+    "original_text": "My childhood horse died due to twisted intestines. Very traumatizing, since he crawled over and put his head in my lap at the end.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "O cavalo da minha infância morreu com torção no intestino. Foi muito traumático, porque ele se arrastou e colocou a cabeça no meu colo no final."
+  },
+  {
+    "id": "ed4vbll",
+    "split": "train",
+    "line_idx": 9154,
+    "original_text": "[NAME]?!?!?!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]?!?!?!"
+  },
+  {
+    "id": "ed5vfdk",
+    "split": "train",
+    "line_idx": 9155,
+    "original_text": "*Just look at the opposing team's hooker and lick your lips as every scrum starts.*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "*Só olha pro hooker do time adversário e lambe os beiços toda vez que o scrum começa.*"
+  },
+  {
+    "id": "edp06dj",
+    "split": "train",
+    "line_idx": 9156,
+    "original_text": "I have the same question I had before- you didn't attempt to explain why US healthcare prices ought be higher than Canadian.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tenho a mesma pergunta de antes: você não tentou explicar por que os preços da saúde nos EUA deveriam ser mais altos que os do Canadá."
+  },
+  {
+    "id": "edo5pvp",
+    "split": "train",
+    "line_idx": 9157,
+    "original_text": "Brace yourself",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se prepara"
+  },
+  {
+    "id": "efclxjc",
+    "split": "train",
+    "line_idx": 9158,
+    "original_text": "Wasn’t there a video of the exact same dude kicking down a fucking tree????",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Não tinha um vídeo do mesmo cara chutando uma árvore pra caralho????"
+  },
+  {
+    "id": "edy1d2n",
+    "split": "train",
+    "line_idx": 9159,
+    "original_text": "I heard about that too",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Ouvi falar disso também"
+  },
+  {
+    "id": "edw8akg",
+    "split": "train",
+    "line_idx": 9160,
+    "original_text": "Dedicated agents will work without pay to see him hauled away in cuffs to visit his pal [NAME].",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Agentes dedicados vão trabalhar de graça pra ver ele sendo levado algemado pra visitar o parça [NAME]."
+  },
+  {
+    "id": "eeu8rva",
+    "split": "train",
+    "line_idx": 9161,
+    "original_text": "I looked this person up. She’s a real doctor",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Pesquisei sobre essa pessoa. Ela é médica de verdade"
+  },
+  {
+    "id": "efekuur",
+    "split": "train",
+    "line_idx": 9162,
+    "original_text": "Yeah im sure the chinaman who made this in his tiny noodle house for one millionth of a yuan is super stoked about this.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É, tô ligado que o chinês que fez isso na lojinha de macarrão dele por um milionésimo de yuan tá super empolgado com isso."
+  },
+  {
+    "id": "eea8ak5",
+    "split": "train",
+    "line_idx": 9163,
+    "original_text": "Alright, thanks again",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Beleza, valeu de novo"
+  },
+  {
+    "id": "eez6fau",
+    "split": "train",
+    "line_idx": 9164,
+    "original_text": "Mixed drinks are tastier. And I hate raw clear spirits in particular.",
+    "emotion_ids": "3,4",
+    "emotions": [
+      "annoyance",
+      "approval"
+    ],
+    "translated_text": "Drinks misturados são mais gostosos. E eu odeio destilado puro, principalmente."
+  },
+  {
+    "id": "ee2fl5b",
+    "split": "train",
+    "line_idx": 9165,
+    "original_text": "[NAME] you like picking and choosing. not how life works. not how fact works.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "[NAME] você gosta de escolher a dedo. não é assim que a vida funciona. não é assim que os fatos funcionam."
+  },
+  {
+    "id": "ee4ppqx",
+    "split": "train",
+    "line_idx": 9166,
+    "original_text": "[NAME]. [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]. [NAME]."
+  },
+  {
+    "id": "ed7i6gy",
+    "split": "train",
+    "line_idx": 9167,
+    "original_text": "Anything to do with Iceland and Scandinavia has to be rad!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Qualquer coisa que tenha a ver com Islândia e Escandinávia tem que ser irado!"
+  },
+  {
+    "id": "ed9a5p5",
+    "split": "train",
+    "line_idx": 9168,
+    "original_text": "Grøh. Fast great moves and becomes insane during soul charge",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Grøh. Movimentos rápidos e ótimos, e fica insano durante o soul charge"
+  },
+  {
+    "id": "ed1iwsh",
+    "split": "train",
+    "line_idx": 9169,
+    "original_text": "Don’t link the technical definition of terms if you don’t want people to apply it. Enjoy your New Year.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não linka a definição técnica dos termos se você não quer que as pessoas apliquem. Aproveita seu Ano Novo."
+  },
+  {
+    "id": "ef2zp4b",
+    "split": "train",
+    "line_idx": 9170,
+    "original_text": "This is amazing. You look like a video game character whose hair texture hasn't loaded in properly.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível. Você parece um personagem de videogame cuja textura do cabelo não carregou direito."
+  },
+  {
+    "id": "edfx5rt",
+    "split": "train",
+    "line_idx": 9171,
+    "original_text": "Wooow! [NAME] hitting [NAME] with that question! Can’t wait to see that!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Nossa! [NAME] mandando essa pergunta pro [NAME]! Mal posso esperar pra ver isso!"
+  },
+  {
+    "id": "eebcsga",
+    "split": "train",
+    "line_idx": 9172,
+    "original_text": "Just be sure to take some condoms with you.",
+    "emotion_ids": "5,27",
+    "emotions": [
+      "caring",
+      "neutral"
+    ],
+    "translated_text": "Só não esquece de levar umas camisinhas com você."
+  },
+  {
+    "id": "eeig4r8",
+    "split": "train",
+    "line_idx": 9173,
+    "original_text": "I think my retinas detached due to the Herculean force of my eye roll. Hail [NAME]!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que minhas retinas descolaram por causa da força hercúlea que eu fiz ao revirar os olhos. Salve [NAME]!"
+  },
+  {
+    "id": "eent1q1",
+    "split": "train",
+    "line_idx": 9174,
+    "original_text": "Sonofabitch that makes it so much better [NAME] Edit: you talking about this?",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "Puta que pariu, isso deixa tudo muito melhor [NAME] Edit: você tá falando disso?"
+  },
+  {
+    "id": "ef6huv2",
+    "split": "train",
+    "line_idx": 9175,
+    "original_text": "It's amazing that things like this still exist, considering how much English-language education there is. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É incrível que coisas assim ainda existam, considerando o quanto de ensino de língua inglesa tem por aí."
+  },
+  {
+    "id": "eda186y",
+    "split": "train",
+    "line_idx": 9176,
+    "original_text": "I'm glad you liked it :D",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Fico feliz que você tenha gostado :D"
+  },
+  {
+    "id": "ee4h56t",
+    "split": "train",
+    "line_idx": 9177,
+    "original_text": "Now the 'fun' really starts. :(",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Agora a 'diversão' começa de verdade. :("
+  },
+  {
+    "id": "edcfgoy",
+    "split": "train",
+    "line_idx": 9178,
+    "original_text": "Did you see on ig where HER MAN offered a fake [NAME] profile use of his pj 😂😂",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você viu no ig onde O HOMEM DELA ofereceu um perfil fake do [NAME] pra usar o jatinho dele 😂😂"
+  },
+  {
+    "id": "eene6x8",
+    "split": "train",
+    "line_idx": 9179,
+    "original_text": "Sadly, I don't have insurance so unless I'm bleeding out I won't be getting medical help.",
+    "emotion_ids": "14,25",
+    "emotions": [
+      "fear",
+      "sadness"
+    ],
+    "translated_text": "Infelizmente, não tenho plano de saúde, então a menos que eu esteja sangrando até morrer, não vou conseguir ajuda médica."
+  },
+  {
+    "id": "edf8wo0",
+    "split": "train",
+    "line_idx": 9180,
+    "original_text": "Lmao okay fatty",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Kkkkkk tá bom, gordo"
+  },
+  {
+    "id": "ed6tcuf",
+    "split": "train",
+    "line_idx": 9181,
+    "original_text": "Fiction isn't an opinion, it's a story",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ficção não é opinião, é uma história"
+  },
+  {
+    "id": "ef8fmqb",
+    "split": "train",
+    "line_idx": 9182,
+    "original_text": "I chuckled, sue me",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu dei uma risadinha, me processa"
+  },
+  {
+    "id": "edzrglx",
+    "split": "train",
+    "line_idx": 9183,
+    "original_text": "The Chargers defense looks impossibly bad",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "A defesa dos Chargers parece impossivelmente ruim"
+  },
+  {
+    "id": "edku823",
+    "split": "train",
+    "line_idx": 9184,
+    "original_text": "So why wouldn’t the white Sox just offer an extra $20 million",
+    "emotion_ids": "7,20",
+    "emotions": [
+      "curiosity",
+      "optimism"
+    ],
+    "translated_text": "Então por que o White Sox não ofereceria uns 20 milhões a mais"
+  },
+  {
+    "id": "ef26n7q",
+    "split": "train",
+    "line_idx": 9185,
+    "original_text": "Oy vey, [NAME] 🗑 is gonna be *pissed*!!!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Putz grila, o [NAME] 🗑 vai ficar *puto*!!!"
+  },
+  {
+    "id": "ed98zef",
+    "split": "train",
+    "line_idx": 9186,
+    "original_text": "So I'm not ugly I'm hideous",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Então eu não sou feio, eu sou horroroso"
+  },
+  {
+    "id": "eefgv63",
+    "split": "train",
+    "line_idx": 9187,
+    "original_text": "It's great, though kind of painful if you ever had dreams of writting/drawing/making a comic/game/novel it hurts a lot.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "É ótimo, embora seja meio doloroso se você já teve sonhos de escrever/desenhar/fazer uma HQ/jogo/romance, dói muito."
+  },
+  {
+    "id": "ee7w04m",
+    "split": "train",
+    "line_idx": 9188,
+    "original_text": "This is not surprising at all. She's a fake trendy \"feminist\" with no perspective whatsoever.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso não é nem um pouco surpreendente. Ela é uma \"feminista\" modinha de fachada, sem perspectiva nenhuma."
+  },
+  {
+    "id": "ee3c3ms",
+    "split": "train",
+    "line_idx": 9189,
+    "original_text": "I swear y’all will spin it anyway to make it seem like nylander is doing everything correctly lmao",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu juro que vocês vão dar um jeito de distorcer de qualquer jeito pra fazer parecer que o Nylander tá fazendo tudo certo kkkkk"
+  },
+  {
+    "id": "ef215z5",
+    "split": "train",
+    "line_idx": 9190,
+    "original_text": "shit cunt bot",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "bot filho da puta"
+  },
+  {
+    "id": "eewxdve",
+    "split": "train",
+    "line_idx": 9191,
+    "original_text": "Dear lord this woman is awful",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Meu Deus, essa mulher é horrível"
+  },
+  {
+    "id": "edkqgs4",
+    "split": "train",
+    "line_idx": 9192,
+    "original_text": "Sorry, might have been the wrong command. Just checked my uplay for it. It's /nodinputpad",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa, deve ter sido o comando errado. Acabei de checar meu uplay aqui. É /nodinputpad"
+  },
+  {
+    "id": "ed63gjd",
+    "split": "train",
+    "line_idx": 9193,
+    "original_text": "That sounds awesome actually",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Isso soa incrível, na verdade"
+  },
+  {
+    "id": "ee03yj0",
+    "split": "train",
+    "line_idx": 9194,
+    "original_text": "Wow that's so lit🔥🔥🔥😂😂💦💦💦 im so proud of your autistic son for making it LOL OUT LOUD 👏👏👏💦💦💦👏💦👏💦👏💦👏💦👏💦👏💦👏😘😘",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nossa, isso é muito foda🔥🔥🔥😂😂💦💦💦 tô tão orgulhoso do seu filho autista por ter conseguido KKKKKKK 👏👏👏💦💦💦👏💦👏💦👏💦👏💦👏💦👏💦👏😘😘"
+  },
+  {
+    "id": "ed49u6q",
+    "split": "train",
+    "line_idx": 9195,
+    "original_text": "Ok thank you!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ok, obrigado!"
+  },
+  {
+    "id": "eei73r6",
+    "split": "train",
+    "line_idx": 9196,
+    "original_text": "[NAME] damn fruit booters.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "[NAME] malditos patinadores."
+  },
+  {
+    "id": "efe41jq",
+    "split": "train",
+    "line_idx": 9197,
+    "original_text": "I think the popularity of Alliance confirms my point about radical centrism on here",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que a popularidade da Alliance confirma meu ponto sobre o centrismo radical aqui"
+  },
+  {
+    "id": "edyimvg",
+    "split": "train",
+    "line_idx": 9198,
+    "original_text": "I guess the top left forgot to read the part of history where their ideology failed many times, and killed many people",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "Acho que a galera da esquerda esqueceu de ler a parte da história onde a ideologia deles falhou várias vezes e matou muita gente"
+  },
+  {
+    "id": "ef7c6sk",
+    "split": "train",
+    "line_idx": 9199,
+    "original_text": "[NAME] is untouchable fam",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é intocável, parça"
+  }
+]

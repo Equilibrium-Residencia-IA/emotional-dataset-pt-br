@@ -1,0 +1,565 @@
+[
+  {
+    "id": "ed0tfww",
+    "split": "train",
+    "line_idx": 6300,
+    "original_text": "Hello! how’s it going?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Olá! Como vai?"
+  },
+  {
+    "id": "eejzqg2",
+    "split": "train",
+    "line_idx": 6301,
+    "original_text": "Probably end of February and all of March before release. I think that's what they did last year",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Provavelmente final de fevereiro e o mês de março todo antes do lançamento. Acho que foi isso que fizeram ano passado"
+  },
+  {
+    "id": "ee5nu6p",
+    "split": "train",
+    "line_idx": 6302,
+    "original_text": "I look forward to finally trying the game out and helping you guys pump up those kill counts",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Tô ansioso pra finalmente testar o jogo e ajudar vocês a aumentar essas contagens de kills"
+  },
+  {
+    "id": "ed3c0xk",
+    "split": "train",
+    "line_idx": 6303,
+    "original_text": "9 to 4. That's pretty sorry.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "9 pra 4. Isso é bem patético."
+  },
+  {
+    "id": "edl7yuh",
+    "split": "train",
+    "line_idx": 6304,
+    "original_text": "Maybe if he was still on his rookie contract.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Talvez se ele ainda estivesse no contrato de calouro."
+  },
+  {
+    "id": "eextepw",
+    "split": "train",
+    "line_idx": 6305,
+    "original_text": "That's how I used to feel but contracting oneitis added a heaping shitpile of loneliness and agony on top",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu me sentia assim também, mas pegar uma obsessão amorosa só adicionou uma montanha de solidão e agonia por cima"
+  },
+  {
+    "id": "ed6kk1f",
+    "split": "train",
+    "line_idx": 6306,
+    "original_text": "Amazing shitpost.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Shitpost incrível."
+  },
+  {
+    "id": "ee20z2p",
+    "split": "train",
+    "line_idx": 6307,
+    "original_text": "I never watched any [NAME] films, so. That. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu nunca vi nenhum filme do [NAME], então. Isso."
+  },
+  {
+    "id": "ef18sy0",
+    "split": "train",
+    "line_idx": 6308,
+    "original_text": "Usually they treat what they know. They cannot write down that they are treating you for BPD until you are officially diagnosed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Geralmente eles tratam o que eles sabem. Eles não podem escrever que estão te tratando para TPB até que você seja diagnosticado oficialmente."
+  },
+  {
+    "id": "edgpcmk",
+    "split": "train",
+    "line_idx": 6309,
+    "original_text": "Well tell me what happened then",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Bom, me conta o que aconteceu então"
+  },
+  {
+    "id": "efeaux3",
+    "split": "train",
+    "line_idx": 6310,
+    "original_text": "Females living on Recruit difficulty. Smh",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Mulheres vivendo na dificuldade Recruta. Pelo amor de Deus"
+  },
+  {
+    "id": "edwyul2",
+    "split": "train",
+    "line_idx": 6311,
+    "original_text": "To be honest, I have complete sympathy for this woman and she needs help, not prison. ",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Pra ser sincero, tenho total empatia por essa mulher e ela precisa de ajuda, não de cadeia."
+  },
+  {
+    "id": "eczz8ys",
+    "split": "train",
+    "line_idx": 6312,
+    "original_text": "He's stealing J . Huges spotlight... [NAME] proud of himself again.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele tá roubando o brilho do J. Hughes... [NAME] orgulhoso de si mesmo de novo."
+  },
+  {
+    "id": "ed84wzz",
+    "split": "train",
+    "line_idx": 6313,
+    "original_text": "Quit serving money and [NAME] will feed you.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Para de servir dinheiro e o [NAME] vai te alimentar."
+  },
+  {
+    "id": "ednn0zw",
+    "split": "train",
+    "line_idx": 6314,
+    "original_text": "Which is bizarre because [NAME] actually dubbed those scenes back in the day, but they apparently never used them ever.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "O que é bizarro porque o [NAME] realmente dublou essas cenas antigamente, mas aparentemente nunca usaram elas."
+  },
+  {
+    "id": "efamvys",
+    "split": "train",
+    "line_idx": 6315,
+    "original_text": "It's the right sub but why did we even set-up so defensively in the first place? Utterly bizarre.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "É o sub certo, mas por que a gente se armou de forma tão defensiva logo de cara? Completamente bizarro."
+  },
+  {
+    "id": "edxf3fl",
+    "split": "train",
+    "line_idx": 6316,
+    "original_text": "Played in a dangerous cross which [NAME] should have scored from. Just before [NAME] goal",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cruzou uma bola perigosa que o [NAME] deveria ter feito o gol. Logo antes do gol do [NAME]"
+  },
+  {
+    "id": "ef2zjcv",
+    "split": "train",
+    "line_idx": 6317,
+    "original_text": "Well that’s just like, your opinion, man",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, isso é só a sua opinião, cara"
+  },
+  {
+    "id": "ee4wmaj",
+    "split": "train",
+    "line_idx": 6318,
+    "original_text": "I’m on it. Will be recruiting family and friends as well. Thank you 🙏🏻",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Tô dentro. Vou recrutar família e amigos também. Obrigado 🙏🏻"
+  },
+  {
+    "id": "edsu71o",
+    "split": "train",
+    "line_idx": 6319,
+    "original_text": "The only one to really be sad about losing is [NAME] tbh",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "O único que dá pra ficar triste de verdade por perder é o [NAME], pra falar a verdade"
+  },
+  {
+    "id": "edj2vvu",
+    "split": "train",
+    "line_idx": 6320,
+    "original_text": "I understand why... But it's so sad we have to lie... It breaks my heart...",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Eu entendo o porquê... Mas é tão triste ter que mentir... Isso parte meu coração..."
+  },
+  {
+    "id": "efg59zj",
+    "split": "train",
+    "line_idx": 6321,
+    "original_text": "Well shit, time to talk to the wife. It appears she has two husbands.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Putz, hora de conversar com a esposa. Parece que ela tem dois maridos."
+  },
+  {
+    "id": "eesr0cb",
+    "split": "train",
+    "line_idx": 6322,
+    "original_text": "Screaming into a pillow afterwards",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gritando num travesseiro depois"
+  },
+  {
+    "id": "ef913ay",
+    "split": "train",
+    "line_idx": 6323,
+    "original_text": "Well, I say good luck to you !",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Bom, eu digo boa sorte pra você!"
+  },
+  {
+    "id": "edg7mbr",
+    "split": "train",
+    "line_idx": 6324,
+    "original_text": "Thanks. I'm in the same boat about being against therapy. Good luck to you too.",
+    "emotion_ids": "15,20",
+    "emotions": [
+      "gratitude",
+      "optimism"
+    ],
+    "translated_text": "Valeu. Tô no mesmo barco de ser contra terapia. Boa sorte pra você também."
+  },
+  {
+    "id": "eevmbik",
+    "split": "train",
+    "line_idx": 6325,
+    "original_text": "You said that the illegals who come over the border should be allowed to enter legally.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você disse que os ilegais que atravessam a fronteira deveriam ter permissão para entrar legalmente."
+  },
+  {
+    "id": "ee169pr",
+    "split": "train",
+    "line_idx": 6326,
+    "original_text": "OH MY GOD OH MY GOD CONGRATS!!!!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "MEU DEUS MEU DEUS PARABÉNS!!!!"
+  },
+  {
+    "id": "edpruc8",
+    "split": "train",
+    "line_idx": 6327,
+    "original_text": "We're entitled to express our opinion that OP's opinion is shit.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Temos o direito de expressar nossa opinião de que a opinião do OP é uma merda."
+  },
+  {
+    "id": "edcnjr2",
+    "split": "train",
+    "line_idx": 6328,
+    "original_text": "That was awesome. Momentum is really something isn't it?",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Isso foi incrível. O momento é algo real, não é?"
+  },
+  {
+    "id": "efepemi",
+    "split": "train",
+    "line_idx": 6329,
+    "original_text": "When you're too stupid to realize they showed off character customization in the trailer...",
+    "emotion_ids": "3,22",
+    "emotions": [
+      "annoyance",
+      "realization"
+    ],
+    "translated_text": "Quando você é burro demais pra perceber que eles mostraram a customização de personagem no trailer..."
+  },
+  {
+    "id": "edfeftq",
+    "split": "train",
+    "line_idx": 6330,
+    "original_text": "Oh my [NAME] stop",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Ai meu [NAME] para"
+  },
+  {
+    "id": "eczt3ye",
+    "split": "train",
+    "line_idx": 6331,
+    "original_text": "put on some real filthy porn before running errands, that'll leave the parents with having to answer really awkward questions ",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "coloca um pornô bem sujo pra rodar antes de sair pra resolver umas coisas, isso vai deixar os pais tendo que responder umas perguntas bem constrangedoras"
+  },
+  {
+    "id": "edk8xll",
+    "split": "train",
+    "line_idx": 6332,
+    "original_text": "Too bad =(",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Que pena =("
+  },
+  {
+    "id": "eegg1lk",
+    "split": "train",
+    "line_idx": 6333,
+    "original_text": "*tomorrow Thank you for this.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "*amanhã Obrigado por isso."
+  },
+  {
+    "id": "edurytq",
+    "split": "train",
+    "line_idx": 6334,
+    "original_text": "Google image him. Hes NEVER had a good haircut.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Joga no Google Imagens. Ele NUNCA teve um corte de cabelo bom."
+  },
+  {
+    "id": "ee6t4p2",
+    "split": "train",
+    "line_idx": 6335,
+    "original_text": "Yeah, hah. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É, hah."
+  },
+  {
+    "id": "efbo9co",
+    "split": "train",
+    "line_idx": 6336,
+    "original_text": "CAN IT JUST BE OPENING DAY? I’m so sick of speculation. Let’s quit the foreplay and just fuck already.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "DÁ PRA SER LOGO O DIA DE ABERTURA? Tô tão cansado de especulação. Vamos parar com as preliminares e transar logo de uma vez."
+  },
+  {
+    "id": "eeewn4q",
+    "split": "train",
+    "line_idx": 6337,
+    "original_text": "Yeah because what we should do is continue to be an absolute embarrassment.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "É, porque o que a gente deveria fazer é continuar sendo um vexame absoluto."
+  },
+  {
+    "id": "ee0ygh6",
+    "split": "train",
+    "line_idx": 6338,
+    "original_text": "They both crazy",
+    "emotion_ids": "17,27",
+    "emotions": [
+      "joy",
+      "neutral"
+    ],
+    "translated_text": "Os dois são malucos"
+  },
+  {
+    "id": "ed615w6",
+    "split": "train",
+    "line_idx": 6339,
+    "original_text": "read that as 'Belly Racing' and tbh i'm a little underwhelmed",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "li como 'Belly Racing' (Corrida de Barriga) e pra falar a verdade tô um pouco decepcionado"
+  },
+  {
+    "id": "eeeakz9",
+    "split": "train",
+    "line_idx": 6340,
+    "original_text": "Right on. Hi from saskatoon canada. Take care buddy",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Isso aí. Oi de Saskatoon, Canadá. Se cuida, parceiro"
+  },
+  {
+    "id": "ee0tzzx",
+    "split": "train",
+    "line_idx": 6341,
+    "original_text": "Except for [NAME] whose remains are either still on the way to Winterfell or lost altogether",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Exceto pelo [NAME], cujos restos mortais ou ainda estão a caminho de Winterfell ou se perderam de vez"
+  },
+  {
+    "id": "edfrd5z",
+    "split": "train",
+    "line_idx": 6342,
+    "original_text": "[NAME] about to dip out real quick",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] prestes a vazar rapidão"
+  },
+  {
+    "id": "eddfspw",
+    "split": "train",
+    "line_idx": 6343,
+    "original_text": "I actually really like this, and unironically find it funny. Forgive me.",
+    "emotion_ids": "1,18,24",
+    "emotions": [
+      "amusement",
+      "love",
+      "remorse"
+    ],
+    "translated_text": "Eu realmente gostei disso, e sem ironia achei engraçado. Me perdoe."
+  },
+  {
+    "id": "ef65y8l",
+    "split": "train",
+    "line_idx": 6344,
+    "original_text": "It's because men feel entitled to date young and slim women but when a woman dates tall, dark haired guys they get ballistic.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É porque os homens se sentem no direito de namorar mulheres jovens e magras, mas quando uma mulher namora caras altos e de cabelo escuro, eles ficam malucos."
+  },
+  {
+    "id": "ee3f3n7",
+    "split": "train",
+    "line_idx": 6345,
+    "original_text": "Um that laundry pump situation was pretty nifty. And dude that ghetto tool box/marker holder was pretty legit. [NAME] not [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Hum, aquela situação da bomba de máquina de lavar foi bem engenhosa. E cara, aquele porta-ferramentas/marcador de gueto ficou bem legítimo. [NAME] não [NAME]"
+  },
+  {
+    "id": "efeqraj",
+    "split": "train",
+    "line_idx": 6346,
+    "original_text": "That's a very smart move. Anyway, congrats gamer girl, this is epic!",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Essa é uma jogada muito inteligente. Enfim, parabéns gamer girl, isso é épico!"
+  },
+  {
+    "id": "eeyoowk",
+    "split": "train",
+    "line_idx": 6347,
+    "original_text": "It's funny to imagine that they're calling [NAME], a married man, an incel.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É engraçado imaginar que eles estão chamando o [NAME], um homem casado, de incel."
+  },
+  {
+    "id": "eema2z5",
+    "split": "train",
+    "line_idx": 6348,
+    "original_text": "I hated [NAME], but only because I thought he was good and played for the Cowboys. I feel the same way about [NAME] and [NAME]. ",
+    "emotion_ids": "0,3",
+    "emotions": [
+      "admiration",
+      "annoyance"
+    ],
+    "translated_text": "Eu odiava o [NAME], mas só porque eu achava que ele era bom e jogava pelos Cowboys. Sinto o mesmo pelo [NAME] e pelo [NAME]."
+  },
+  {
+    "id": "ed79l6x",
+    "split": "train",
+    "line_idx": 6349,
+    "original_text": "[NAME]. I love that this is the top comment.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME]. Adoro que esse seja o comentário principal."
+  }
+]

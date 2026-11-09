@@ -1,0 +1,512 @@
+[
+  {
+    "id": "ed3rsd3",
+    "split": "train",
+    "line_idx": 2200,
+    "original_text": "I wonder how that works if the seatbelt wouldn’t fit even if they were sitting in a regular seat? They only go so far, right?",
+    "emotion_ids": "26,27",
+    "emotions": [
+      "surprise",
+      "neutral"
+    ]
+  },
+  {
+    "id": "edzmlsl",
+    "split": "train",
+    "line_idx": 2201,
+    "original_text": "I still don't know what I want to be when I grow up.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ]
+  },
+  {
+    "id": "ef82kp3",
+    "split": "train",
+    "line_idx": 2202,
+    "original_text": "I feel like I've seen a comment like this on another post",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "ef7wwn9",
+    "split": "train",
+    "line_idx": 2203,
+    "original_text": "Are socdems welcome here?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "ed8tsea",
+    "split": "train",
+    "line_idx": 2204,
+    "original_text": "Don't worry, when you turn 20 you'll look back and cringe, too.",
+    "emotion_ids": "4,14",
+    "emotions": [
+      "approval",
+      "fear"
+    ]
+  },
+  {
+    "id": "eemyj5w",
+    "split": "train",
+    "line_idx": 2205,
+    "original_text": "Beak makes no sense. Well beaks make no sense anyway but this one especially",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ]
+  },
+  {
+    "id": "ed1quj7",
+    "split": "train",
+    "line_idx": 2206,
+    "original_text": "We do have Uber. I use it the odd time. The main difference is that here it's taxis only due to regulations.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edyiran",
+    "split": "train",
+    "line_idx": 2207,
+    "original_text": "Poor kid. He just wanted to rescue his mum from a nefarious organisation. I hope he gets decent representation.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ]
+  },
+  {
+    "id": "ee3coph",
+    "split": "train",
+    "line_idx": 2208,
+    "original_text": "I have faith that you do it *correctly*",
+    "emotion_ids": "4,20",
+    "emotions": [
+      "approval",
+      "optimism"
+    ]
+  },
+  {
+    "id": "ed9ffyc",
+    "split": "train",
+    "line_idx": 2209,
+    "original_text": "I came here to laugh at memes. Not feel feels",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ]
+  },
+  {
+    "id": "ef3qxk3",
+    "split": "train",
+    "line_idx": 2210,
+    "original_text": "Exactly. You make anything happen for the sake of your kids. Nothing should stand in your way.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ee7iifb",
+    "split": "train",
+    "line_idx": 2211,
+    "original_text": "Not practicing with the team, seems like a bad sign for playing today. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "ee67en8",
+    "split": "train",
+    "line_idx": 2212,
+    "original_text": "I like [NAME]. He's the most experienced, and he seems like an all-around nice guy.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ]
+  },
+  {
+    "id": "edg45sg",
+    "split": "train",
+    "line_idx": 2213,
+    "original_text": "German accents are sexy!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edjcm1d",
+    "split": "train",
+    "line_idx": 2214,
+    "original_text": "Ahhhh BURN 🔥",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edkvolg",
+    "split": "train",
+    "line_idx": 2215,
+    "original_text": "Haha exactly right!!",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ]
+  },
+  {
+    "id": "ed3oxm7",
+    "split": "train",
+    "line_idx": 2216,
+    "original_text": "It feels to me like your Dean has some baggage and you shouldn't let it weigh you down.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ]
+  },
+  {
+    "id": "ed9ewck",
+    "split": "train",
+    "line_idx": 2217,
+    "original_text": "your cat has the cutest face!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "ed68988",
+    "split": "train",
+    "line_idx": 2218,
+    "original_text": "Think conductors got it bad, just think about how [NAME] feels.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "efh4awk",
+    "split": "train",
+    "line_idx": 2219,
+    "original_text": "At last, someone I can share this accomplishment with! ",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ]
+  },
+  {
+    "id": "edpjd0y",
+    "split": "train",
+    "line_idx": 2220,
+    "original_text": "R/T DIDN'T WANT IT!!!!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "eex5as5",
+    "split": "train",
+    "line_idx": 2221,
+    "original_text": "Well said. And I love your username. 👑",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "edywx6i",
+    "split": "train",
+    "line_idx": 2222,
+    "original_text": "The problem is your husband. If he prioritized you, he would have figured something out. I’m so sorry.",
+    "emotion_ids": "3,25",
+    "emotions": [
+      "annoyance",
+      "sadness"
+    ]
+  },
+  {
+    "id": "edjo3xa",
+    "split": "train",
+    "line_idx": 2223,
+    "original_text": "As Kings fans both my brother and I laughed out loud that it wasn't called. Looked sick though.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ]
+  },
+  {
+    "id": "edidjmg",
+    "split": "train",
+    "line_idx": 2224,
+    "original_text": "Yeah but it is what it is. Apparently I wasnt as clear as I could have been either.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ]
+  },
+  {
+    "id": "edfdd7l",
+    "split": "train",
+    "line_idx": 2225,
+    "original_text": "The women-are-wonderful effect.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "ef4aalq",
+    "split": "train",
+    "line_idx": 2226,
+    "original_text": "For what...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "efgbkf4",
+    "split": "train",
+    "line_idx": 2227,
+    "original_text": "Guilty of doing this tbph",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ]
+  },
+  {
+    "id": "ed5355m",
+    "split": "train",
+    "line_idx": 2228,
+    "original_text": "Thanks for the link! I've been looking too and there are like 200 in the area I called one and waiting to hear back.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ]
+  },
+  {
+    "id": "eeus7g6",
+    "split": "train",
+    "line_idx": 2229,
+    "original_text": "You're right but ”just be confident” (I know that you didn't say it ) is really hard when you're unattractive",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "ee0jw71",
+    "split": "train",
+    "line_idx": 2230,
+    "original_text": "He’s not under contract.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edaj2gw",
+    "split": "train",
+    "line_idx": 2231,
+    "original_text": "Sorry for bringing up so many problems without any solutions, and sorry for just being whiny overall. Thanks for the time you've spent talking with me",
+    "emotion_ids": "15,25",
+    "emotions": [
+      "gratitude",
+      "sadness"
+    ]
+  },
+  {
+    "id": "edawb9h",
+    "split": "train",
+    "line_idx": 2232,
+    "original_text": "Curb your enthusiasm theme.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ]
+  },
+  {
+    "id": "ef3jn41",
+    "split": "train",
+    "line_idx": 2233,
+    "original_text": "He’s Russian you forgot that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edmcbxx",
+    "split": "train",
+    "line_idx": 2234,
+    "original_text": "My soul twin must be [NAME] because I’m terrified of water!",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ]
+  },
+  {
+    "id": "edlylg2",
+    "split": "train",
+    "line_idx": 2235,
+    "original_text": "NL West had 3 teams in the playoffs in 2017 and 2 in 2018......wtf you on about",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ]
+  },
+  {
+    "id": "edqmk93",
+    "split": "train",
+    "line_idx": 2236,
+    "original_text": "You are on bud!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "eeb5c5j",
+    "split": "train",
+    "line_idx": 2237,
+    "original_text": "I do. but some people love it",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ]
+  },
+  {
+    "id": "eddzvy0",
+    "split": "train",
+    "line_idx": 2238,
+    "original_text": "Of course he can't",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ef14e0u",
+    "split": "train",
+    "line_idx": 2239,
+    "original_text": "The EPA allowed DuPont to use a chemical that literally kills people in their nonstick pans. They can be bought too unfortunately.",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ]
+  },
+  {
+    "id": "ed4zor6",
+    "split": "train",
+    "line_idx": 2240,
+    "original_text": "Exactly. And they parade around with their protruding stomachs as if they're [NAME] gift to the world. *barf*",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ]
+  },
+  {
+    "id": "edjsvk7",
+    "split": "train",
+    "line_idx": 2241,
+    "original_text": "I wish I could make a garden",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ]
+  },
+  {
+    "id": "ef86cyu",
+    "split": "train",
+    "line_idx": 2242,
+    "original_text": "[NAME] looks like [NAME] gorgeous",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ]
+  },
+  {
+    "id": "eex6fck",
+    "split": "train",
+    "line_idx": 2243,
+    "original_text": "I'm confused. Is this post finished or is u done?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ]
+  },
+  {
+    "id": "edj3z4d",
+    "split": "train",
+    "line_idx": 2244,
+    "original_text": "That might’ve been the worst pass he’s ever thrown. Yikes",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ]
+  },
+  {
+    "id": "eff0cqh",
+    "split": "train",
+    "line_idx": 2245,
+    "original_text": "I think not including a question about favorability of [NAME] was a missed opportunity, given the questions are clearly written by someone involved in the rationalist community.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "ef3a1zc",
+    "split": "train",
+    "line_idx": 2246,
+    "original_text": "Yawn. They’re toxic together and their only trait seemed to be getting naked together.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ]
+  },
+  {
+    "id": "ed3mqvz",
+    "split": "train",
+    "line_idx": 2247,
+    "original_text": "I wonder what the laws are if you bartered for a gun. I wash your car, you give me a glock.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ]
+  },
+  {
+    "id": "eer3gro",
+    "split": "train",
+    "line_idx": 2248,
+    "original_text": "Looks more like this was taken in the winter. If that was yesterday the sun would set more north over the sea??",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ]
+  },
+  {
+    "id": "edmbo6x",
+    "split": "train",
+    "line_idx": 2249,
+    "original_text": "The internet never disappoints.",
+    "emotion_ids": "9,17",
+    "emotions": [
+      "disappointment",
+      "joy"
+    ]
+  }
+]
