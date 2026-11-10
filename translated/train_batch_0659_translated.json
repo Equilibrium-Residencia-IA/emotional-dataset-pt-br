@@ -1,0 +1,611 @@
+[
+  {
+    "id": "eervorp",
+    "split": "train",
+    "line_idx": 32950,
+    "original_text": "Agree, I love her so much",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Concordo, eu amo tanto ela",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edwkbj8",
+    "split": "train",
+    "line_idx": 32951,
+    "original_text": "And there’s no reason to drop the f bomb when giving an argument",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E não tem motivo nenhum pra ficar soltando palavrão no meio de uma discussão",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ediwffd",
+    "split": "train",
+    "line_idx": 32952,
+    "original_text": "[NAME]. i love it",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME]. eu adoro",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed98xx2",
+    "split": "train",
+    "line_idx": 32953,
+    "original_text": "It has to include a scene where Polio ruins his childhood. And he learns about raid low-irritant spray. Because that’s a thing I remember.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem que incluir uma cena onde a Pólio arruína a infância dele. E ele descobre o spray anti-irritação da raid. Porque isso é uma parada que eu lembro.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed2tlm0",
+    "split": "train",
+    "line_idx": 32954,
+    "original_text": "I subbed to 2meirl4meirl back in 2016. It failed to pique my interest. Now every post feels like my life.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu entrei pro r/2meirl4meirl lá em 2016. Não chamou muito minha atenção. Agora cada post parece a minha vida.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eej8v15",
+    "split": "train",
+    "line_idx": 32955,
+    "original_text": "lol getting totes fucked up at work is super cool i am one ZANY individual look out Shut the fuck up do it in your own time",
+    "emotion_ids": "1,2",
+    "emotions": [
+      "amusement",
+      "anger"
+    ],
+    "translated_text": "mano, ficar COMPLETAMENTE LOUCO no trampo é super maneiro, sou uma pessoa muito ZUADA, cuidado aí. Vai tomar no cu, faz isso no seu horário livre",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edohxk4",
+    "split": "train",
+    "line_idx": 32956,
+    "original_text": "I was talking about you when I said if Idk if your talking about yourself",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tava falando de você quando eu disse que não sabia se você tava falando de si mesmo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3z0rr",
+    "split": "train",
+    "line_idx": 32957,
+    "original_text": "GH is slow compared to DD. Worked 4 hour block on GH and got 0 orders. Turn on DD and get an order instantly.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O GH é mó lento comparado ao DD. Trabalhei num bloco de 4 horas no GH e recebi 0 pedidos. Liguei o DD e recebi um pedido na hora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed64wmd",
+    "split": "train",
+    "line_idx": 32958,
+    "original_text": "Is it just me or does [NAME] drop his stick a lot more often than any other goalie?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É impressão minha ou o [NAME] deixa o taco cair muito mais do que qualquer outro goleiro?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqy66m",
+    "split": "train",
+    "line_idx": 32959,
+    "original_text": "Id gladly exchange firsts with the Suns",
+    "emotion_ids": "17,27",
+    "emotions": [
+      "joy",
+      "neutral"
+    ],
+    "translated_text": "Eu trocaria de boa as escolhas de primeira rodada com os Suns",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9k037",
+    "split": "train",
+    "line_idx": 32960,
+    "original_text": "Just imagine Disney characters without gloves. Yes it's that horrifying",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Imagina os personagens da Disney sem luvas. Sim, é bizarrou assim",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eegxjob",
+    "split": "train",
+    "line_idx": 32961,
+    "original_text": "I don't think a player can have no value and also be worth rioting over if he's traded.",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Eu acho que um jogador não pode ser totalmente sem valor e ao mesmo tempo valer uma revolta se for trocado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edvjdsh",
+    "split": "train",
+    "line_idx": 32962,
+    "original_text": "Aaaaand now I'm concerned. Clearly there's a story behind this.",
+    "emotion_ids": "5,22",
+    "emotions": [
+      "caring",
+      "realization"
+    ],
+    "translated_text": "Aaaaaand agora eu tô preocupado. Claramente tem história por trás disso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed0b8xo",
+    "split": "train",
+    "line_idx": 32963,
+    "original_text": "You need to lable your factors or else this is indecipherable.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você precisa rotular os seus fatores senão isso fica ininteligível.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edprg06",
+    "split": "train",
+    "line_idx": 32964,
+    "original_text": "50% completion percentage and was losing 31-10 at the half. Congrats, he got garbage time yards/points when [NAME] was just icing the game. ",
+    "emotion_ids": "13,22",
+    "emotions": [
+      "excitement",
+      "realization"
+    ],
+    "translated_text": "50% de aproveitamento nos passes e perdendo de 31 a 10 no intervalo. Parabéns, ele conseguiu jardas/pontos no “garbage time” quando o [NAME] só tava cozinhando o jogo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9ubme",
+    "split": "train",
+    "line_idx": 32965,
+    "original_text": "She had it saved on her phone because she was too lazy to delete it. Thank goodness.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ela tinha salvo no celular porque tava com preguiça de apagar. Ainda bem.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edxlzxx",
+    "split": "train",
+    "line_idx": 32966,
+    "original_text": "They visit. But they don't stay",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles visitam. Mas não ficam",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed97dtw",
+    "split": "train",
+    "line_idx": 32967,
+    "original_text": "And then everyone clapped",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E aí todo mundo bateu palma",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjejwv",
+    "split": "train",
+    "line_idx": 32968,
+    "original_text": "but he got a chainsaw hand. that's pretty cool",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "mas ele ganhou uma mão de serra elétrica. isso é bem irado",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef6us7h",
+    "split": "train",
+    "line_idx": 32969,
+    "original_text": "True only it's much harder to hide real property than it is to hide cash.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Verdade, só que é muito mais difícil esconder bem imóvel do que esconder dinheiro vivo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edr3hu4",
+    "split": "train",
+    "line_idx": 32970,
+    "original_text": "Yous offered the guy a contract and he rejected you. Probably couldn’t afford him lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Vocês ofereceram um contrato pro cara e ele deu um fora. Provavelmente não tinham grana pra pagar ele kkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1oo87",
+    "split": "train",
+    "line_idx": 32971,
+    "original_text": "Just sit her down and say \"are you okay? You seem to be having a hard time lately.\" See what she says. Communicate. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só senta com ela e fala \"tá tudo bem? Você parece estar passando por um momento difícil ultimamente.\" Vê o que ela diz. Se comunique.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlckdc",
+    "split": "train",
+    "line_idx": 32972,
+    "original_text": "Tfw when not only is it tiny, but it’s damn ugly too. :( ",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Aquela sensação quando não só é pequenininho, mas também é feio pra caralho. :(",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed84prk",
+    "split": "train",
+    "line_idx": 32973,
+    "original_text": "I will happily convert to [RELIGION] if I can quit my job and have unlimited food. Please tell me how to accomplish this",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu viro [RELIGION] com o maior prazer se eu puder largar o emprego e ter comida infinita. Por favor, me digam como conseguir isso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8pvma",
+    "split": "train",
+    "line_idx": 32974,
+    "original_text": "Anyone else feel like this should have ended, \"Enjoy the ride and there's a Pimento Taco--a Pimentaco--in the glove box?\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mais alguém acha que isso devia ter terminado com \"Curte a viagem e tem um Taco de Pimento -- um Pimentaco -- no porta-luvas?\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebacuk",
+    "split": "train",
+    "line_idx": 32975,
+    "original_text": "Right there with you! Unladylike was so depressing, I couldn't keep listening to it.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Tô contigo! Unladylike era tão deprê que eu não consegui continuar ouvindo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edl5ti8",
+    "split": "train",
+    "line_idx": 32976,
+    "original_text": "OMG, im on hype.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "MEU DEUS, tô no hype.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edsx8jz",
+    "split": "train",
+    "line_idx": 32977,
+    "original_text": "Thanks, I hate reposts",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado, eu odeio reposts",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef92rvf",
+    "split": "train",
+    "line_idx": 32978,
+    "original_text": "They're passionate about different things.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eles são apaixonados por coisas diferentes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3iqzx",
+    "split": "train",
+    "line_idx": 32979,
+    "original_text": "Investments like that are a paper trail. Ordering takeout food and riding Go-Karts with cash, are not.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Investimentos assim deixam rastro de papel. Pedir comida e andar de Kart pagando em dinheiro vivo, não.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9ngkp",
+    "split": "train",
+    "line_idx": 32980,
+    "original_text": "Can't wait to the part where she ties him to her chariot and drags him around the Capitol.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Mal posso esperar pela parte em que ela amarra ele na carruagem dela e arrasta ele pelo Capitólio.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efh85gf",
+    "split": "train",
+    "line_idx": 32981,
+    "original_text": "Such a nasty woman",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Que mulherzinha insuportável",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eec5w33",
+    "split": "train",
+    "line_idx": 32982,
+    "original_text": "What if the million dollar idea was to make free websites? That'd be bug!",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "E se a ideia de um milhão de dólares fosse fazer sites de graça? Isso seria do caralho!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef2zpuf",
+    "split": "train",
+    "line_idx": 32983,
+    "original_text": "Planning to make a comeback soon™",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Planejando voltar em breve™",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeycf6k",
+    "split": "train",
+    "line_idx": 32984,
+    "original_text": "Yes. \"You better settle down over there or I'm gonna come talk to ya.\"",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Sim. \"É melhor você sossegar o facho aí ou eu vou aí falar com você.\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0v2wx",
+    "split": "train",
+    "line_idx": 32985,
+    "original_text": "You have mental problems dude. Get off the internet and get a life.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Você tem problemas mentais, mano. Sai da internet e vai viver.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edu2hgk",
+    "split": "train",
+    "line_idx": 32986,
+    "original_text": "You are all a bunch of losers. Nuclear weapons will accomplish this faster and more efficiently than any other means.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vocês são um bando de perdedores. Armas nucleares vão resolver isso mais rápido e com mais eficiência do que qualquer outro jeito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef60240",
+    "split": "train",
+    "line_idx": 32987,
+    "original_text": "Bring them into your home, feed them, love them and have a sign made that says \"cat sanctuary\" and hang it above your front door. ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Traga eles pra sua casa, dê comida, amor e mande fazer uma placa escrito \"santuário de gatos\" pra pendurar em cima da sua porta da frente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "effvfx6",
+    "split": "train",
+    "line_idx": 32988,
+    "original_text": "Will do. Have a good night man.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Pode deixar. Boa noite, cara.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edk7qw6",
+    "split": "train",
+    "line_idx": 32989,
+    "original_text": "What was the fastest you were ever going over the speed limit when you got it dismissed? I’m most likely going to go with Sullo also",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Qual foi a velocidade mais alta que você tava quando conseguiu recorrer da multa? Provavelmente vou com o Sullo também",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eem8rqj",
+    "split": "train",
+    "line_idx": 32990,
+    "original_text": "Ive gone through very similar things...i completely understand. Praying wont do much, seek a therapist to talk about things",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Eu passei por coisas bem parecidas... eu entendo totalmente. Rezar não vai adiantar muita coisa, procure um terapeuta pra conversar sobre as coisas",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeuv7ao",
+    "split": "train",
+    "line_idx": 32991,
+    "original_text": "I want a [NAME] podcast. Doesn't have to be weekly, just once in a while let him ramble about something",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu quero um podcast do [NAME]. Não precisa ser semanal, só de vez em quando deixar ele divagar sobre alguma coisa",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebxzqa",
+    "split": "train",
+    "line_idx": 32992,
+    "original_text": "HOW DARE ANYBODY CRITICIZE YOUR POST IN THE CONTEXT OF YOUR POST HISTORY! RECOGNIZE HIS PRIVILEGE PEOPLE!!",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "COMO OUSA QUALQUER UM CRITICAR SEU POST NO CONTEXTO DO SEU HISTÓRICO DE POSTS! RECONHEÇAM O PRIVILÉGIO DELE, GALERA!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3kvbe",
+    "split": "train",
+    "line_idx": 32993,
+    "original_text": "I wake up with a smile knowing that there are almost 5 billion WHAMEN to RESPECC in the world",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu acordo sorrindo sabendo que existem quase 5 bilhões de MULHERES para se RESPEITAR no mundo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eesjhro",
+    "split": "train",
+    "line_idx": 32994,
+    "original_text": "Because only the hardiest folk stick around in a country where the air can kill you for 6 months of the year",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque só a galera mais resistente aguenta ficar num país onde o ar pode te matar por 6 meses no ano",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ede0sl6",
+    "split": "train",
+    "line_idx": 32995,
+    "original_text": "Not all cases, but usually there an underlying issue with obesity at this level (such as me tal health, self esteem, depression, etc)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não em todos os casos, mas geralmente tem um problema por trás da obesidade nesse nível (como saúde mental, autoestima, depressão, etc)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eees9u5",
+    "split": "train",
+    "line_idx": 32996,
+    "original_text": "I would say that [NAME] is also acting a bit stubborn as he has pretty much shut down the government to get funding for the border wall.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu diria que o [NAME] também tá sendo meio teimoso já que ele basicamente paralisou o governo pra conseguir verba pro muro da fronteira.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edcsp2t",
+    "split": "train",
+    "line_idx": 32997,
+    "original_text": "This gave me ultimate anxiety",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Isso me deu a pior crise de ansiedade",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed499ib",
+    "split": "train",
+    "line_idx": 32998,
+    "original_text": "That IS a fun fact",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Isso É um fato curioso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3fk1d",
+    "split": "train",
+    "line_idx": 32999,
+    "original_text": "Sameee, if I got a dollar for every time I’ve gotten that comment I’d be able to end world hunger",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Igualziinho, se eu ganhasse um dólar pra cada vez que recebi esse comentário, eu conseguiria acabar com a fome no mundo",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

@@ -1,0 +1,559 @@
+[
+  {
+    "id": "eemulxy",
+    "split": "train",
+    "line_idx": 19350,
+    "original_text": "how was your day?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "como foi seu dia?"
+  },
+  {
+    "id": "ee98x55",
+    "split": "train",
+    "line_idx": 19351,
+    "original_text": "That's really awesome!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é muito foda!"
+  },
+  {
+    "id": "edt1c6u",
+    "split": "train",
+    "line_idx": 19352,
+    "original_text": "Life must be difficult for her then, I'm surprised she can leave her home. Hopefully she finds help if she wants it. ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "A vida deve ser difícil pra ela então, me surpreende que ela consiga sair de casa. Espero que ela encontre ajuda se quiser."
+  },
+  {
+    "id": "ef42c14",
+    "split": "train",
+    "line_idx": 19353,
+    "original_text": "These are some of the most talented marbles I've ever had the honor and privilege of watching.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Essas são algumas das bolinhas de gude mais talentosas que já tive a honra e o privilégio de assistir."
+  },
+  {
+    "id": "eevv5ca",
+    "split": "train",
+    "line_idx": 19354,
+    "original_text": "Easy, killer. I don't think Solo itself is a goofy name as OP implies. I think it was just a dumb point in the movie. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Calma, fera. Não acho que Solo seja um nome tão bobo quanto o OP sugere. Acho que foi só um ponto idiota no filme."
+  },
+  {
+    "id": "efaj94g",
+    "split": "train",
+    "line_idx": 19355,
+    "original_text": "Maybe concerned about you being underweight? She is probably concerned you don’t eat enough and is trying to help you",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Talvez preocupada que você esteja abaixo do peso? Ela provavelmente está preocupada que você não coma o suficiente e está tentando te ajudar"
+  },
+  {
+    "id": "edx2e69",
+    "split": "train",
+    "line_idx": 19356,
+    "original_text": "I can't believe that you trusted Napolean and Kip to feed Tina.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não acredito que você confiou no Napolean e no Kip pra alimentar a Tina."
+  },
+  {
+    "id": "ee8xi3n",
+    "split": "train",
+    "line_idx": 19357,
+    "original_text": "Feels like hitreg in general is pretty poor lately.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que o registro de acertos no geral tá bem ruim ultimamente."
+  },
+  {
+    "id": "edmbbtn",
+    "split": "train",
+    "line_idx": 19358,
+    "original_text": "A new mattress if you can swing it. Company provided mattresses are typically pretty garbage.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Um colchão novo, se você puder bancar. Os colchões fornecidos pela empresa geralmente são um lixo."
+  },
+  {
+    "id": "edo88pu",
+    "split": "train",
+    "line_idx": 19359,
+    "original_text": "I guess we should ban birds too.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que a gente deveria banir os pássaros também."
+  },
+  {
+    "id": "ee2hua7",
+    "split": "train",
+    "line_idx": 19360,
+    "original_text": "Oh good! Yeah hard to pick up on sarcasm sometimes",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ah, bom! É, às vezes é difícil sacar o sarcasmo"
+  },
+  {
+    "id": "ee4nc8k",
+    "split": "train",
+    "line_idx": 19361,
+    "original_text": "I do this when rolling haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu faço isso quando tô rolando haha"
+  },
+  {
+    "id": "eew5m3c",
+    "split": "train",
+    "line_idx": 19362,
+    "original_text": "Yes, protecting women from sexual assault is offensive.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Sim, proteger mulheres de agressão sexual é ofensivo."
+  },
+  {
+    "id": "eezdxbs",
+    "split": "train",
+    "line_idx": 19363,
+    "original_text": "Thank you. I’ve been doing more research about today, there’s definitely a lot to consider.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. Tenho pesquisado mais sobre o dia de hoje, definitivamente tem muita coisa pra considerar."
+  },
+  {
+    "id": "eebf27r",
+    "split": "train",
+    "line_idx": 19364,
+    "original_text": "I don’t know that they’re like that until the get in my feels and then BAM. Dbags",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu não sei que eles são assim até que eles mexem com meus sentimentos e aí BAM. Babacas"
+  },
+  {
+    "id": "ef24rjj",
+    "split": "train",
+    "line_idx": 19365,
+    "original_text": "What about Dallas and Austin?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E quanto a Dallas e Austin?"
+  },
+  {
+    "id": "efcf3xy",
+    "split": "train",
+    "line_idx": 19366,
+    "original_text": "Her parents are raising her to be a terrible person. Fantastic.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Os pais dela estão criando ela pra ser uma pessoa horrível. Fantástico."
+  },
+  {
+    "id": "ed57i6l",
+    "split": "train",
+    "line_idx": 19367,
+    "original_text": "It is crazy and another reason I treat going to the states with caution lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É uma loucura e outro motivo pelo qual eu trato ir pros Estados Unidos com cautela lol"
+  },
+  {
+    "id": "edm6gdi",
+    "split": "train",
+    "line_idx": 19368,
+    "original_text": "Im at the game,somebody please put me out of my misery ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Tô no jogo, alguém por favor acaba com o meu sofrimento"
+  },
+  {
+    "id": "ediuvf9",
+    "split": "train",
+    "line_idx": 19369,
+    "original_text": "just a single point",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "só um ponto"
+  },
+  {
+    "id": "ee7dlc2",
+    "split": "train",
+    "line_idx": 19370,
+    "original_text": "im sure it's a real slap in the face",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "tenho certeza que é um verdadeiro tapa na cara"
+  },
+  {
+    "id": "ed87r4d",
+    "split": "train",
+    "line_idx": 19371,
+    "original_text": "Well who knows what valve thinks. I don’t like Lyrical and Maut either.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Bom, quem sabe o que a Valve pensa. Eu também não gosto do Lyrical e do Maut."
+  },
+  {
+    "id": "eebsy0r",
+    "split": "train",
+    "line_idx": 19372,
+    "original_text": "He also could have warged into several different people and told [NAME] that [NAME] didn't kidnap and rape [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele também poderia ter entrado na mente de várias pessoas diferentes e dito pro [NAME] que o [NAME] não sequestrou nem estuprou o [NAME]."
+  },
+  {
+    "id": "efa065f",
+    "split": "train",
+    "line_idx": 19373,
+    "original_text": "Oh i already watched the whole thing when it aired. That match was awesome! I just wanna rewatch the last 20 mins of the womens rumble",
+    "emotion_ids": "0,8",
+    "emotions": [
+      "admiration",
+      "desire"
+    ],
+    "translated_text": "Ah, eu já assisti tudo quando passou. Aquela luta foi incrível! Só quero reassistir os últimos 20 minutos do rumble feminino"
+  },
+  {
+    "id": "ed34skx",
+    "split": "train",
+    "line_idx": 19374,
+    "original_text": "We only seem to hate them when they espouse murderous political philosophies responsible for more than 100 million deaths. Weird, huh?",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "A gente só parece odiar eles quando eles defendem filosofias políticas assassinas responsáveis por mais de 100 milhões de mortes. Estranho, né?"
+  },
+  {
+    "id": "edajyd4",
+    "split": "train",
+    "line_idx": 19375,
+    "original_text": "this is my new favorite phrasing. I've been calling it bingemas since about mid-December.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "essa é minha nova forma favorita de falar. Tenho chamado de maratonagem desde meados de dezembro."
+  },
+  {
+    "id": "eernocq",
+    "split": "train",
+    "line_idx": 19376,
+    "original_text": "How about making an effort to lose weight?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que tal se esforçar pra perder peso?"
+  },
+  {
+    "id": "eebwvqb",
+    "split": "train",
+    "line_idx": 19377,
+    "original_text": "That book would be the biggest flop, the characters and plot are really too outrageous to be believable.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Esse livro seria o maior fracasso, os personagens e o enredo são ultrajantes demais pra serem críveis."
+  },
+  {
+    "id": "edk9yfo",
+    "split": "train",
+    "line_idx": 19378,
+    "original_text": "Is [NAME] more of a [NAME] or a [NAME]?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] é mais um [NAME] ou um [NAME]?"
+  },
+  {
+    "id": "edousot",
+    "split": "train",
+    "line_idx": 19379,
+    "original_text": "no not really i knew he was joking i was just clarifying what the bloke said",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "não, na verdade não, eu sabia que ele tava brincando, eu só tava esclarecendo o que o cara disse"
+  },
+  {
+    "id": "edq8fcy",
+    "split": "train",
+    "line_idx": 19380,
+    "original_text": "Hot damn it takes some real self-confidence to say you can't do things in MS paint",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Caramba, precisa de muita autoconfiança pra dizer que você não consegue fazer as coisas no MS Paint"
+  },
+  {
+    "id": "eda94ey",
+    "split": "train",
+    "line_idx": 19381,
+    "original_text": "Legend! Cheers bro",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Lenda! Valeu, mano"
+  },
+  {
+    "id": "ed9ban0",
+    "split": "train",
+    "line_idx": 19382,
+    "original_text": "Sweet home alabama No but for real, is that even legal? You should stop having sex with her.",
+    "emotion_ids": "7,10",
+    "emotions": [
+      "curiosity",
+      "disapproval"
+    ],
+    "translated_text": "Sweet home alabama. Não, mas falando sério, isso é sequer legal? Você deveria parar de transar com ela."
+  },
+  {
+    "id": "ef6iuic",
+    "split": "train",
+    "line_idx": 19383,
+    "original_text": "The amount of hate that [RELIGION] people get in the world is absolutely staggering.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "A quantidade de ódio que as pessoas de [RELIGION] recebem no mundo é absolutamente chocante."
+  },
+  {
+    "id": "ef394py",
+    "split": "train",
+    "line_idx": 19384,
+    "original_text": "Nah them mom wanted to see a lady strip for her and her daughter",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, a mãe delas queria ver uma mulher fazendo strip pra ela e pra filha"
+  },
+  {
+    "id": "ee4voyf",
+    "split": "train",
+    "line_idx": 19385,
+    "original_text": "Yayy we agree on something. I mean everything's on fire but we agree haha",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "Yayy a gente concorda em algo. Digo, tá tudo pegando fogo, mas a gente concorda haha"
+  },
+  {
+    "id": "eduwr6k",
+    "split": "train",
+    "line_idx": 19386,
+    "original_text": "Silver is deadly to were wolves, witches and certain other beings. Steel burns the shit out of [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Prata é mortal pra lobisomens, bruxas e outros seres. Aço queima pra caramba o [NAME]."
+  },
+  {
+    "id": "eeyqwfl",
+    "split": "train",
+    "line_idx": 19387,
+    "original_text": "I'd be ok if they didn't have a HoF. But they do so I want the deserving players from the team I root for represented",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu ficaria de boa se eles não tivessem um Hall da Fama. Mas eles têm, então eu quero que os jogadores merecedores do time que eu torço sejam representados"
+  },
+  {
+    "id": "eeto4pk",
+    "split": "train",
+    "line_idx": 19388,
+    "original_text": "He looks like [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele parece o [NAME]"
+  },
+  {
+    "id": "edfm4j7",
+    "split": "train",
+    "line_idx": 19389,
+    "original_text": "Dude I don’t even know what that guys deal is, but honestly, I feel bad for him",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Cara, eu nem sei qual é a desse cara, mas honestamente, eu sinto pena dele"
+  },
+  {
+    "id": "ee9xmgw",
+    "split": "train",
+    "line_idx": 19390,
+    "original_text": "What if... >Valve removes date to stop the impression they were giving an ETA",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E se... >A Valve remover a data pra parar de dar a impressão de que eles estavam dando uma previsão"
+  },
+  {
+    "id": "eewept3",
+    "split": "train",
+    "line_idx": 19391,
+    "original_text": "[ALL]: Guys werewolves aren't real. [TEAM]: They are real.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[ALL]: Gente, lobisomens não existem. [TEAM]: Eles existem."
+  },
+  {
+    "id": "eegtbwp",
+    "split": "train",
+    "line_idx": 19392,
+    "original_text": "[NAME], [NAME], bible, all of it is combined in my mind.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], [NAME], bíblia, tudo isso se mistura na minha cabeça."
+  },
+  {
+    "id": "eed8x4m",
+    "split": "train",
+    "line_idx": 19393,
+    "original_text": "Ya I sent one not too long ago.. I'll wait till my next try. Also I learned Sens a very crap selection for shot glasses.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "É, eu mandei um não faz muito tempo.. vou esperar até a próxima tentativa. E aprendi que Sens é uma escolha muito ruim pra copos de shot."
+  },
+  {
+    "id": "ee3vb4o",
+    "split": "train",
+    "line_idx": 19394,
+    "original_text": "Yeah i don't want them to know to early it ruins the fun.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "É, eu não quero que eles saibam cedo demais, estraga a diversão."
+  },
+  {
+    "id": "eewmh67",
+    "split": "train",
+    "line_idx": 19395,
+    "original_text": "Let's just see what [NAME] has to say about what really went down...",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Vamos só ver o que o [NAME] tem a dizer sobre o que realmente aconteceu..."
+  },
+  {
+    "id": "eetc4gz",
+    "split": "train",
+    "line_idx": 19396,
+    "original_text": "Ay, last time i popped my blisters yall got mad",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ei, da última vez que eu estourei minhas bolhas vocês ficaram bravos"
+  },
+  {
+    "id": "eeb0yzp",
+    "split": "train",
+    "line_idx": 19397,
+    "original_text": "Wait project players magically become great without showing any improvement who would have thought!!!",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "Espera, jogadores de projeto magicamente se tornam ótimos sem mostrar nenhuma melhora, quem diria!!!"
+  },
+  {
+    "id": "efcx17l",
+    "split": "train",
+    "line_idx": 19398,
+    "original_text": "Without fail saying \"moist panties\" makes every woman cringe.",
+    "emotion_ids": "14,27",
+    "emotions": [
+      "fear",
+      "neutral"
+    ],
+    "translated_text": "Sem falha, dizer \"calcinha molhada\" faz qualquer mulher sentir vergonha alheia."
+  },
+  {
+    "id": "eethth9",
+    "split": "train",
+    "line_idx": 19399,
+    "original_text": "i think there is empirical data for evolution...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "eu acho que existem dados empíricos pra evolução..."
+  }
+]

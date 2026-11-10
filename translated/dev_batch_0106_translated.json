@@ -1,0 +1,608 @@
+[
+  {
+    "id": "edc0amo",
+    "split": "dev",
+    "line_idx": 5000,
+    "original_text": "[NAME] is vastly overrated. Much bette4 [RELIGION] delis in the outer Burroughs",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "[NAME] é muito superestimado. Tem delis [RELIGION] bem melhores nos outros distritos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edd06wm",
+    "split": "dev",
+    "line_idx": 5001,
+    "original_text": "I would pay money to see the security cam footage of that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu pagaria pra ver as imagens da câmera de segurança disso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7yj4s",
+    "split": "dev",
+    "line_idx": 5002,
+    "original_text": "It must be really sad and lonely under your bridge troll.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Deve ser bem triste e solitário aí embaixo da sua ponte, troll.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeo9mco",
+    "split": "dev",
+    "line_idx": 5003,
+    "original_text": "What a funny story.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Que história engraçada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eercs51",
+    "split": "dev",
+    "line_idx": 5004,
+    "original_text": "[NAME] and [NAME]. There really is NO point of them staying and they are unbearable to watch.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "[NAME] e [NAME]. Não tem motivo NENHUM pra eles ficarem, é insuportável de assistir.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef0q153",
+    "split": "dev",
+    "line_idx": 5005,
+    "original_text": "That’s an insult to special needs people everywhere.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é um insulto a todas as pessoas com necessidades especiais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9etdt",
+    "split": "dev",
+    "line_idx": 5006,
+    "original_text": "I’d prefer happy little trees",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu preferia arvorezinhas felizes",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edvjm4u",
+    "split": "dev",
+    "line_idx": 5007,
+    "original_text": "And the healthy snacks are on their way!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "E os lanchinhos saudáveis tão a caminho!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm21o5",
+    "split": "dev",
+    "line_idx": 5008,
+    "original_text": "The man the myth the legend [NAME] has me seriously thinking about buying a new jersey with his name on the back",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O homem, o mito, a lenda [NAME] tá me fazendo pensar seriamente em comprar uma camisa com o nome dele nas costas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edod3e6",
+    "split": "dev",
+    "line_idx": 5009,
+    "original_text": "Work on your anxiety and self-esteem. Do things for YOU. Love yourself.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Trabalhe na sua ansiedade e autoestima. Faça coisas por VOCÊ. Se ame.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebuhth",
+    "split": "dev",
+    "line_idx": 5010,
+    "original_text": "Uhhhh I did lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Aaaaah eu fiz isso kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9zjee",
+    "split": "dev",
+    "line_idx": 5011,
+    "original_text": "Everyone knows he's not a spy. He's a pawn. Russia want him to swap for their actual spy, currently talking to [NAME]. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Todo mundo sabe que ele não é espião. É um peão. A Rússia quer trocar ele pelo espião de verdade deles, que tá conversando com [NAME] agora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8ulqi",
+    "split": "dev",
+    "line_idx": 5012,
+    "original_text": "It is not the ring. (I hope that you will be more relaxed now, but I’ve to be honestly, it is a fucking lie)",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Não é o anel. (Espero que você fique mais tranquilo agora, mas pra ser sincero, isso é uma mentira desgraçada)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eff7n4w",
+    "split": "dev",
+    "line_idx": 5013,
+    "original_text": "I don’t-ee see any bums!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não tô ven-do nenhum mendigo!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4nhjm",
+    "split": "dev",
+    "line_idx": 5014,
+    "original_text": "Fuck this gif",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Puta que pariu esse gif",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqc367",
+    "split": "dev",
+    "line_idx": 5015,
+    "original_text": "It's like [NAME] said, man. You look for the guy that benefits, and uh... You know, uh...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É como o [NAME] disse, cara. Você procura quem se beneficia, e ah... Sabe como é, né...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpa2fu",
+    "split": "dev",
+    "line_idx": 5016,
+    "original_text": "Those are hoteps. They're delusional idiots; no one takes them seriously.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Esses são os hoteps. São um bando de idiotas iludidos; ninguém leva a sério.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepkmk5",
+    "split": "dev",
+    "line_idx": 5017,
+    "original_text": "Please, you deserve life, you know it deep down inside ",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Por favor, você merece viver, você sabe disso lá no fundo ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ees6f0n",
+    "split": "dev",
+    "line_idx": 5018,
+    "original_text": "\"Ummmmm *Eeyore*? Duh?\" *sighs violently, rubs temples* (This is when I leave before I do/say something stupid)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Aaaaaan *Ió*? Dããã?\" *suspira pesadamente, esfrega as têmporas* (É aqui que eu saio antes que eu faça/fale alguma besteira)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbfxwf",
+    "split": "dev",
+    "line_idx": 5019,
+    "original_text": "I hope you get the job, friend. :) Best of luck!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que você consiga o emprego, amigo. :) Boa sorte!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlkqn9",
+    "split": "dev",
+    "line_idx": 5020,
+    "original_text": "Seeing this kind of vulnerability makes me appreciate her music.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ver esse tipo de vulnerabilidade me faz valorizar a música dela.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edl62in",
+    "split": "dev",
+    "line_idx": 5021,
+    "original_text": "Your baby is adorable. I can’t even deal with the cuteness 😂😂😂",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Seu bebê é uma fofura. Eu não aguento tanta fofura 😂😂😂",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efepf3i",
+    "split": "dev",
+    "line_idx": 5022,
+    "original_text": "YOU DONT SAY",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "NÃO ME DIGA",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5p1g2",
+    "split": "dev",
+    "line_idx": 5023,
+    "original_text": "This is literally the *only* thing I know about warhammer orks and I feel kind of bad about that. It's the coolest concept: faith-based technology.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Essa é literalmente a *única* coisa que eu sei sobre os orks de warhammer e me sinto meio mal por isso. É o conceito mais foda que tem: tecnologia baseada em fé.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew97fo",
+    "split": "dev",
+    "line_idx": 5024,
+    "original_text": "He’s our puppy. He likes to show us stuff he finds around the house. This time he found money bag. We forgave him",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele é o nosso cachorrinho. Ele adora mostrar pra gente as coisas que acha pela casa. Dessa vez ele achou um saco de dinheiro. A gente perdoou ele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0pe64",
+    "split": "dev",
+    "line_idx": 5025,
+    "original_text": "we need his euro step comp with this in the background [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "a gente precisa de um compilado do euro step dele com isso de fundo [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edazw5f",
+    "split": "dev",
+    "line_idx": 5026,
+    "original_text": "We have no other winger bro....",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente não tem nenhum outro ponta, mano....",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efh5nbl",
+    "split": "dev",
+    "line_idx": 5027,
+    "original_text": "I would absolutely hate it if they used it in the games tbh",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu ia odiar com todas as forças se eles usassem isso nos jogos pra falar a verdade",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4agaf",
+    "split": "dev",
+    "line_idx": 5028,
+    "original_text": "I would enjoy Kreate a Kharacter. But it'll need a lot of help. They shouldn't let you put cubes and stuff everywhere like in SC6.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu curtiria um Crie um Personagem. Mas vai precisar de muita melhoria. Eles não deviam deixar você enfiar cubos e outras paradas em todo canto que nem no SC6.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmqqoo",
+    "split": "dev",
+    "line_idx": 5029,
+    "original_text": "Change of top, pump, inner tubes, puncture repair kit & tyre levers, balaclava, lube. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Muda de roupa, bomba, câmaras de ar, kit de reparo de furo e espátulas de pneu, balaclava, lubrificante. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef6lmn7",
+    "split": "dev",
+    "line_idx": 5030,
+    "original_text": "There isn't. It only exists in the heads of those who subscribe to these tinfoil theories.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não existe. Isso só existe na cabeça de quem compra essas teorias de gente biruta.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9q8uu",
+    "split": "dev",
+    "line_idx": 5031,
+    "original_text": "Ok. First I've heard pregnancy helping with tips. Thanks for sharing.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Beleza. Primeira vez que ouço falar de gravidez ajudando com as gorjetas. Obrigado por compartilhar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed43jxp",
+    "split": "dev",
+    "line_idx": 5032,
+    "original_text": "Is a valid, unsound argument logical?",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "Um argumento válido, mas não sólido, é lógico?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edq3mbq",
+    "split": "dev",
+    "line_idx": 5033,
+    "original_text": "He should be banned from the nfl. I can’t get behind this.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Ele devia ser banido da nfl. Não consigo apoiar isso de jeito nenhum.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8i5hf",
+    "split": "dev",
+    "line_idx": 5034,
+    "original_text": "Confusingly, they also want less rights for [NAME].",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Pra complicar mais, eles também querem menos direitos pro [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1yw7u",
+    "split": "dev",
+    "line_idx": 5035,
+    "original_text": "The sun in his eyes makes him look pissed, like he and the ducks had some personal history.",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "O sol na cara dele faz ele parecer puto, como se ele e os patos tivessem um acerto de contas pendente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexnviy",
+    "split": "dev",
+    "line_idx": 5036,
+    "original_text": "Disgusting, I bet you he will never even be inside that apartment condo ever.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Nojento, aposto que ele nunca nem vai pisar dentro daquele apê.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edulbzz",
+    "split": "dev",
+    "line_idx": 5037,
+    "original_text": "If we leave the turtle alone with too many barnacles it can suffocate and die.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Se a gente deixar a tartaruga em paz com cracas demais, ela pode sufocar e morrer.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedtwpf",
+    "split": "dev",
+    "line_idx": 5038,
+    "original_text": "Don’t shove your “self control” in my face",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não vem esfregar o seu “autocontrole” na minha cara não",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6tkvs",
+    "split": "dev",
+    "line_idx": 5039,
+    "original_text": "Ah thanks. I was posting on mobile so sub rules aren’t as obvious.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ah, valeu. Eu tava postando pelo celular, então as regras do sub não ficam tão na cara.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed71emb",
+    "split": "dev",
+    "line_idx": 5040,
+    "original_text": "No. It IS her condo and she CAN smoke inside her own home.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Não. O apê É dela e ela PODE SIM fumar dentro da própria casa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efaymto",
+    "split": "dev",
+    "line_idx": 5041,
+    "original_text": "Maybe ask some neighbours if there have been any strange or noteworthy comings and goings during the day.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Talvez perguntar pra alguns vizinhos se teve algum vai e vem estranho ou suspeito durante o dia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcgl63",
+    "split": "dev",
+    "line_idx": 5042,
+    "original_text": "A hockey themed one with the Looney Toons meeting the Mighty Ducks would’ve been the greatest thing ever",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Um com tema de hóquei com o Looney Tunes encontrando os Mighty Ducks teria sido a melhor coisa do mundo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eda83rh",
+    "split": "dev",
+    "line_idx": 5043,
+    "original_text": "You’ve never been to Oakland, Hayward, or Richmond?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você nunca foi pra Oakland, Hayward ou Richmond?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeojt1q",
+    "split": "dev",
+    "line_idx": 5044,
+    "original_text": "Look at the quality of that animation on the spider legs. This goes to show that the Simpsons really used to go way beyond the call of duty",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Olha o nível da animação nas pernas da aranha. Isso mostra como antigamente os Simpsons realmente iam muito além do esperado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehpq6s",
+    "split": "dev",
+    "line_idx": 5045,
+    "original_text": "It's shit, it's over, put the damn format to bed and send the cunts who make it over to Fox",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "É uma merda, já deu, aposenta logo essa porra de formato e manda os cuzões que fazem isso lá pra Fox",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesgye3",
+    "split": "dev",
+    "line_idx": 5046,
+    "original_text": "If we always have to use reconciliation anyway, why not just kill it imo, doesn't really matter either way.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se a gente sempre tem que usar a reconciliação de qualquer jeito, por que não acabar logo com isso na minha opinião, tanto faz no fim das contas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed216ic",
+    "split": "dev",
+    "line_idx": 5047,
+    "original_text": "lol too real",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "kkk real demais",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetpzfm",
+    "split": "dev",
+    "line_idx": 5048,
+    "original_text": "Don't forget [NAME] being nerfed because she was unfun to play against in QM, then being reworked, then being nerfed again for the same reason.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não esquece da [NAME] sendo nerfada porque era chata de jogar contra no QM, depois sendo retrabalhada, e depois sendo nerfada de novo pelo mesmo motivo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5w6jd",
+    "split": "dev",
+    "line_idx": 5049,
+    "original_text": "That's not an explanation of why it would be undemocratic.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso não é uma explicação do porquê seria antidemocrático.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

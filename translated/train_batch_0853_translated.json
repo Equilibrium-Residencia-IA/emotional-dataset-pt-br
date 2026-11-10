@@ -1,0 +1,610 @@
+[
+  {
+    "id": "edaoj4u",
+    "split": "train",
+    "line_idx": 42650,
+    "original_text": "Fuck that doll. Energizer bunny from hell.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que se foda essa boneca. Coelhinho da Duracell do inferno.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7t3mt",
+    "split": "train",
+    "line_idx": 42651,
+    "original_text": "That's what you get when you stretch a series for too long.... \"Ohhh gee....welp.... another one.....\"",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É isso que acontece quando você estica uma série por tempo demais... \"Ahhh nossa... putz... mais um.....\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edeju5w",
+    "split": "train",
+    "line_idx": 42652,
+    "original_text": "I laugh, but I genuinely believed this until I was 8 or so.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu dou risada, mas acreditei real nisso até ter uns 8 anos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edty7cn",
+    "split": "train",
+    "line_idx": 42653,
+    "original_text": "I won't even reply anymore. That radio silence mid convo really gets on my nerves.",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "Nem vou responder mais. Esse vácuo no meio da conversa me tira do sério.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edip7f3",
+    "split": "train",
+    "line_idx": 42654,
+    "original_text": "Shh that breaks the narrative though.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Shiu, isso quebra a narrativa deles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczo13g",
+    "split": "train",
+    "line_idx": 42655,
+    "original_text": "All game types are easy ekia. You sound jealous.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Todos os modos de jogo são ekia fácil. Você parece com inveja.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edu8v0c",
+    "split": "train",
+    "line_idx": 42656,
+    "original_text": "So do you think the court ruling to release the money to them is fake or something?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Então você acha que a decisão judicial pra liberar o dinheiro pra eles é falsa ou coisa do tipo?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbbppy",
+    "split": "train",
+    "line_idx": 42657,
+    "original_text": "[NAME] face looks like some actress/model who I can picture in my head but I cant remember her name",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O rosto do [NAME] parece com o de alguma atriz/modelo que eu até visualizo na cabeça, mas não lembro o nome",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edb87pt",
+    "split": "train",
+    "line_idx": 42658,
+    "original_text": "That’s a bold move, [NAME]. Let’s see if it pays off. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa é uma jogada ousada, [NAME]. Vamos ver se vai dar bom.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3rmql",
+    "split": "train",
+    "line_idx": 42659,
+    "original_text": "Oh same! But with [NAME]!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, eu também! Mas com o [NAME]!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj86o3",
+    "split": "train",
+    "line_idx": 42660,
+    "original_text": "I actually feel assaulted by this video.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu me sinto agredido de verdade por esse vídeo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexcpmf",
+    "split": "train",
+    "line_idx": 42661,
+    "original_text": "A real man ain't be ashamed of crying. I cry with you my bro. Let's all cry together!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Homem de verdade não tem vergonha de chorar. Choro com você, meu irmão. Vamos chorar todo mundo junto!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2u72x",
+    "split": "train",
+    "line_idx": 42662,
+    "original_text": "Thank you for the good chuckle.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pela boa risada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepni1g",
+    "split": "train",
+    "line_idx": 42663,
+    "original_text": "If you’re in public, I suggest you hide your concern as much as you can.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Se você estiver em público, sugiro que disfarce sua preocupação o máximo que puder.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edull4a",
+    "split": "train",
+    "line_idx": 42664,
+    "original_text": "As much as I'd love to say it's mine, sadly I can't",
+    "emotion_ids": "18,25",
+    "emotions": [
+      "love",
+      "sadness"
+    ],
+    "translated_text": "Por mais que eu adorasse dizer que é meu, infelizmente não posso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm3fe6",
+    "split": "train",
+    "line_idx": 42665,
+    "original_text": "I’m not signing that 😂 dude can hopefully stay banned",
+    "emotion_ids": "10,20",
+    "emotions": [
+      "disapproval",
+      "optimism"
+    ],
+    "translated_text": "Não vou assinar isso nem a pau 😂 o cara pode continuar banido que vai ser é bom",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmypep",
+    "split": "train",
+    "line_idx": 42666,
+    "original_text": "I feel like Tankathon was made for or by magic fans. Such an amazing website lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Sinto que o Tankathon foi feito pra ou por torcedores do Magic. Que site sensacional kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8ifsr",
+    "split": "train",
+    "line_idx": 42667,
+    "original_text": "That’s why it’s petty revenge. It may have been petty to take a bit of enjoyment in it, but she made her own bed",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É por isso que é vingança boba. Pode ter sido mesquinho tirar um pouco de prazer disso, mas quem pariu [NAME] que balance",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmub15",
+    "split": "train",
+    "line_idx": 42668,
+    "original_text": "Ive been asked this in a similar situation as well. Interviewer was female and i would bet it was female in OP's case too",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Já me perguntaram isso numa situação parecida também. A entrevistadora era mulher e aposto que no caso do OP também era",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edutjoh",
+    "split": "train",
+    "line_idx": 42669,
+    "original_text": "Wat u been ordering u naughty boy😂",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "O que você andou pedindo, hein seu safado? 😂",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef661mb",
+    "split": "train",
+    "line_idx": 42670,
+    "original_text": "I will keep that in mind for next time",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vou ter isso em mente pra próxima",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edaycz5",
+    "split": "train",
+    "line_idx": 42671,
+    "original_text": "This very thing got me diagnosed as ADD. I'm of the drugs now and feeling way much better.",
+    "emotion_ids": "4,23",
+    "emotions": [
+      "approval",
+      "relief"
+    ],
+    "translated_text": "Essa mesma parada fez eu ser diagnosticado com TDA. Tô livre dos remédios agora e me sentindo bem melhor.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef0z5qz",
+    "split": "train",
+    "line_idx": 42672,
+    "original_text": "I hate y'all too",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Também odeio vocês todos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efdof51",
+    "split": "train",
+    "line_idx": 42673,
+    "original_text": "You can do it!!!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Você consegue!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebwehz",
+    "split": "train",
+    "line_idx": 42674,
+    "original_text": "Catch him in the act. SPIDER-MAN WITH HIS HANDS IN A COOKIE JAR.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pega no flagra. O HOMEM-ARANHA COM A BOCA NA BOTIJA.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eec3gwk",
+    "split": "train",
+    "line_idx": 42675,
+    "original_text": "Way too fancy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Chique demais da conta",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe88il",
+    "split": "train",
+    "line_idx": 42676,
+    "original_text": "[NAME], you are hilarious! Congratulations ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], você é hilário! Parabéns",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9nvvg",
+    "split": "train",
+    "line_idx": 42677,
+    "original_text": "Yes. And I wish people weren't so afraid to say it as many times as necessary.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Sim. E eu queria que as pessoas não tivessem tanto medo de falar isso quantas vezes for preciso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edljjo8",
+    "split": "train",
+    "line_idx": 42678,
+    "original_text": "Drive around Belle Meade Highlands; you might be able to get lucky on an older rental home.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dá uma volta por Belle Meade Highlands; de repente você dá sorte num imóvel mais antigo pra alugar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy9kgc",
+    "split": "train",
+    "line_idx": 42679,
+    "original_text": "Breath little dude, breath.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Respira, carinha, respira.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmzsh6",
+    "split": "train",
+    "line_idx": 42680,
+    "original_text": "Whew. I'm safe then.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Ufa. Então tô a salvo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfnm82",
+    "split": "train",
+    "line_idx": 42681,
+    "original_text": "be careful of the island guy, he is sweet but he can be a lion too\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "cuidado com o cara da ilha, ele é fofo mas também vira uma fera\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5nwi0",
+    "split": "train",
+    "line_idx": 42682,
+    "original_text": "Is it only possible for men to be crossdressers? I’ve never heard a woman called that, even if she’s dressed like a man.",
+    "emotion_ids": "26,27",
+    "emotions": [
+      "surprise",
+      "neutral"
+    ],
+    "translated_text": "Só homem pode ser crossdresser? Nunca vi chamarem mulher disso, mesmo quando se veste de homem.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeeky7q",
+    "split": "train",
+    "line_idx": 42683,
+    "original_text": "I apologize for doubting you.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Peço desculpas por duvidar de você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3egg2",
+    "split": "train",
+    "line_idx": 42684,
+    "original_text": "Neat sub idea! I like it.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ideia da hora pro sub! Curti.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed50tbz",
+    "split": "train",
+    "line_idx": 42685,
+    "original_text": "We sacrifice them both to [NAME] and throw them in the Baler!",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "A gente sacrifica os dois pro [NAME] e joga eles na enfardadeira!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkxs5c",
+    "split": "train",
+    "line_idx": 42686,
+    "original_text": "Seriously? I couldn't even remember the dude's name until about halfway through the season honestly.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Sério? Eu nem lembrava o nome do cara até mais ou menos a metade da temporada, na moral.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrpned",
+    "split": "train",
+    "line_idx": 42687,
+    "original_text": "Yep. Cool story troll.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É. Conta outra, troll.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee56j0b",
+    "split": "train",
+    "line_idx": 42688,
+    "original_text": "Cut this out .. ALLEN or bust",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pára com isso .. ALLEN ou nada feito",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edou9ti",
+    "split": "train",
+    "line_idx": 42689,
+    "original_text": "Sad and very true though. Case in point.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Triste e muito real, infelizmente. Tá aí a prova.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4ca1q",
+    "split": "train",
+    "line_idx": 42690,
+    "original_text": "I don’t think spurs gonna sell one of them main player to a rival like that. Not for this little.",
+    "emotion_ids": "20,27",
+    "emotions": [
+      "optimism",
+      "neutral"
+    ],
+    "translated_text": "Não acho que o spurs vai vender um dos seus principais jogadores pra um rival assim. Não por essa mixaria.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed636aq",
+    "split": "train",
+    "line_idx": 42691,
+    "original_text": "That’s not very cash money of you",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso não é nada humildade da sua parte",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexrouu",
+    "split": "train",
+    "line_idx": 42692,
+    "original_text": "That sound you are hearing is me, a middle aged woman, applauding you wildly. How fun this is to read on my morning break.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Esse som que você tá ouvindo sou eu, uma mulher de meia-idade, te aplaudindo de pé. Que delícia ler isso na minha pausa matinal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eear6bl",
+    "split": "train",
+    "line_idx": 42693,
+    "original_text": "You haven't responded as to how its not just a parallel analogy, all said was he did",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não respondeu por que não é só uma analogia paralela, só disse que foi ele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4abw1",
+    "split": "train",
+    "line_idx": 42694,
+    "original_text": "It's both. Keep your eyes open and you'll see more..",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "São as duas coisas. Fica de olho aberto que você vai ver mais..",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9ax77",
+    "split": "train",
+    "line_idx": 42695,
+    "original_text": "That's amazing",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Sensacional",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edodox5",
+    "split": "train",
+    "line_idx": 42696,
+    "original_text": "Am I confusing you with someone? I thought you had posted that you liked older women.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Tô te confundindo com alguém? Achei que você tinha postado que curtia mulheres mais velhas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edolz10",
+    "split": "train",
+    "line_idx": 42697,
+    "original_text": "This is all soooo nice. What nice people.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Tudo isso é tããão legal. Que gente boa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8pk8u",
+    "split": "train",
+    "line_idx": 42698,
+    "original_text": "I need to hear more stories like this. I've only heard horror stories of the pain with the surgery as an adult.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Preciso ouvir mais histórias assim. Só ouvi relatos de terror sobre a dor dessa cirurgia quando adulto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee826u2",
+    "split": "train",
+    "line_idx": 42699,
+    "original_text": "This is just a stupid question. The answer is who cares? [NAME] is on an entirely different level from [NAME].",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Que pergunta mais idiota. A resposta é: quem se importa? O [NAME] tá num nível completamente diferente do [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

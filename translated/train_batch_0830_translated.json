@@ -1,0 +1,617 @@
+[
+  {
+    "id": "efghxik",
+    "split": "train",
+    "line_idx": 41500,
+    "original_text": "Yeah, no",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "É, não",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemnbsn",
+    "split": "train",
+    "line_idx": 41501,
+    "original_text": "What a very \"centrist\" thing to say. ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Um comentário muito \"centrista\" de se dizer.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eets175",
+    "split": "train",
+    "line_idx": 41502,
+    "original_text": "When it comes to kids people get irrational. One good snake oil salesmen peddling this garbage can convince people with enough fear.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando se trata de crianças, as pessoas ficamirracionais. Um bom vendedor de óleo de cobra empurrando essa porcaria consegue convencer as pessoas com medo suficiente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedn6o7",
+    "split": "train",
+    "line_idx": 41503,
+    "original_text": "I dont get it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não entendi.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edh5bsh",
+    "split": "train",
+    "line_idx": 41504,
+    "original_text": "for me it was def the egg yolk. i’m pouting as i reluctantly eat it.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "pra mim foi com certeza a gema do ovo. eu tô fazendo birra enquanto como contrariado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef57qbo",
+    "split": "train",
+    "line_idx": 41505,
+    "original_text": "I second this",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Concordo em gênero, número e grau",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed4b2l1",
+    "split": "train",
+    "line_idx": 41506,
+    "original_text": "How are they assholes?",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Como assim eles são babacas?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelflb2",
+    "split": "train",
+    "line_idx": 41507,
+    "original_text": "Equally, or better - local example: greedy [NAME]. You just know that if his company was adept at tax avoidance, he does the same.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Igualmente, ou melhor - exemplo local: o [NAME] ganancioso. Você simplesmente sabe que se a empresa dele é boa em sonegar imposto, ele faz o mesmo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpf9ol",
+    "split": "train",
+    "line_idx": 41508,
+    "original_text": "I mean, none of us think it’s an insult. You don’t need to explain that.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Tipo, nenhum de nós acha que isso é um insulto. Você não precisa explicar isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efd079m",
+    "split": "train",
+    "line_idx": 41509,
+    "original_text": "Why not $1 million per hour muhahahah",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por que não 1 milhão de dólares por hora muhahahah",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed60uu5",
+    "split": "train",
+    "line_idx": 41510,
+    "original_text": "I too rationalize how bad my my ex-girlfriend is now that she's gone. 8(",
+    "emotion_ids": "22,25",
+    "emotions": [
+      "realization",
+      "sadness"
+    ],
+    "translated_text": "Eu também racionalizo o quanto minha ex-namorada é ruim agora que ela se foi. 8(",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1ubnc",
+    "split": "train",
+    "line_idx": 41511,
+    "original_text": "after another rape joke, though I think both times he was quoting It's Always Sunny in Philadelphia. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "depois de outra piada de estupro, embora eu ache que nas duas vezes ele estava citando It's Always Sunny in Philadelphia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef4omdu",
+    "split": "train",
+    "line_idx": 41512,
+    "original_text": "I THINK ITS TIME TIME TIME YEAAAAA ITS TIME TO BUY A FUTON !!!!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "EU ACHO QUE CHEGOU A HORA HORA HORA SIIIMMM CHEGOU A HORA DE COMPRAR UM FUTON !!!!!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edj8r3j",
+    "split": "train",
+    "line_idx": 41513,
+    "original_text": "I love this guy.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo esse cara.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeudc6t",
+    "split": "train",
+    "line_idx": 41514,
+    "original_text": "The housemate is a genius!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O colega de quarto é um gênio!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eefwaj6",
+    "split": "train",
+    "line_idx": 41515,
+    "original_text": "I keep telling you, I just grow sorghum here. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu vivo te dizendo, eu só cultivo sorgo aqui.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgdvsw",
+    "split": "train",
+    "line_idx": 41516,
+    "original_text": "I work 12 hour shifts, and agree. Tea is life-saving.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu trabalho em turnos de 12 horas e concordo. Chá é salvador.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6nw2x",
+    "split": "train",
+    "line_idx": 41517,
+    "original_text": "Canaryproject.org is great. They hold people accountable for saying horrible racist things.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "O Canaryproject.org é ótimo. Eles responsabilizam as pessoas por dizerem coisas racistas horríveis.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efaq6bw",
+    "split": "train",
+    "line_idx": 41518,
+    "original_text": "Yeah I'll probably do some baking with it! I might also like it better after a while, I was just very surprised today 😂",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "É, eu provavelmente vou fazer alguma receita com ele! Também posso acabar gostando mais depois de um tempo, eu só levei um susto hoje 😂",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edl2rw7",
+    "split": "train",
+    "line_idx": 41519,
+    "original_text": "You don’t know what would happen if you lost weight, so why don’t you focus solely on that step first.",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Você não sabe o que aconteceria se você perdesse peso, então por que não foca só nessa etapa primeiro.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee2xc5x",
+    "split": "train",
+    "line_idx": 41520,
+    "original_text": "She may want you and your boyfriend out, so her daughter can take the bedroom. A family meeting might force her to be honest.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela pode querer você e seu namorado fora, para a filha dela poder ficar com o quarto. Uma reunião de família pode forçá-la a ser sincera.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed1bory",
+    "split": "train",
+    "line_idx": 41521,
+    "original_text": "How can someone be so stupid, hope it hurt maybe learn not to do that again.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Como alguém pode ser tão estúpido, tomara que tenha doído para quem sabe aprender a não fazer isso de novo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeyb4hw",
+    "split": "train",
+    "line_idx": 41522,
+    "original_text": "Hey, she's pretty hot",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Caraca, ela é bem gata",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edzmcqr",
+    "split": "train",
+    "line_idx": 41523,
+    "original_text": "“Love” under threat of execution. Wow.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "“Amor” sob ameaça de execução. Nossa.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edcsadm",
+    "split": "train",
+    "line_idx": 41524,
+    "original_text": "How the hell is that comment \"holding the GM accountable\"",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Como diabos esse comentário está \"responsabilizando o GM\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebba2y",
+    "split": "train",
+    "line_idx": 41525,
+    "original_text": "The Get Shorty show when he subs in for the guy at the table reading and destroys everybody with his skills is so good.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O programa Get Shorty quando ele substitui o cara na leitura de mesa e detona todo mundo com as habilidades dele é bom demais.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edf3pvg",
+    "split": "train",
+    "line_idx": 41526,
+    "original_text": "That's wild. I was just at the DIA last week.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que loucura. Eu estava no DIA semana passada.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqi3xx",
+    "split": "train",
+    "line_idx": 41527,
+    "original_text": "Oh lol, source? Just interested to see what changed his mind",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ],
+    "translated_text": "Ah kkk, fonte? Só queria ver o que fez ele mudar de ideia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edrfkrr",
+    "split": "train",
+    "line_idx": 41528,
+    "original_text": "Yeh thanks man , been into meditation and mindfulness for a longtime , tho maybe not the most dedicated it def helps",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "É, valeu cara, curto meditação e mindfulness há muito tempo, embora talvez não seja o mais dedicado, com certeza ajuda.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "effyver",
+    "split": "train",
+    "line_idx": 41529,
+    "original_text": "She is still a billionaire. I guess stupid Tweets are going to bankrupt her?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ela ainda é bilionária. Acho que tweets estúpidos vão falir ela?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eecyds0",
+    "split": "train",
+    "line_idx": 41530,
+    "original_text": "Every time I see MCC news I get briefly excited for PC news. I really need to stop :(",
+    "emotion_ids": "13,22",
+    "emotions": [
+      "excitement",
+      "realization"
+    ],
+    "translated_text": "Todo santo dia que eu vejo notícia de MCC eu fico empolgado achando que é notícia de PC. Eu realmente preciso parar :(",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eddh27s",
+    "split": "train",
+    "line_idx": 41531,
+    "original_text": "Yeah, I might have used the wrong word.",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "É, eu devo ter usado a palavra errada.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef9bhif",
+    "split": "train",
+    "line_idx": 41532,
+    "original_text": "Ohh it gets even more interesting:",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Nossa, fica mais interessante ainda:",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ediunkm",
+    "split": "train",
+    "line_idx": 41533,
+    "original_text": "I like this rule because in life there are always exceptions. The problem is when you start feeling entitled to *being* that exception.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu gosto dessa regra porque na vida sempre existem exceções. O problema é quando você começa a se achar no direito de *ser* essa exceção.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef4krlx",
+    "split": "train",
+    "line_idx": 41534,
+    "original_text": "That’s unfortunate",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "Que chato",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ednk9gt",
+    "split": "train",
+    "line_idx": 41535,
+    "original_text": "Just drink the bear. Life is too painful and short to worry",
+    "emotion_ids": "5,25",
+    "emotions": [
+      "caring",
+      "sadness"
+    ],
+    "translated_text": "Só bebe a cerveja. A vida é curta e dolorosa demais para ficar se preocupando",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7newa",
+    "split": "train",
+    "line_idx": 41536,
+    "original_text": "Nothing wrong with that! Sounds awesome :)",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nada de errado com isso! Parece irado :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeu4nnq",
+    "split": "train",
+    "line_idx": 41537,
+    "original_text": "I agree. The funny part *is* the funny part.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu concordo. A parte engraçada *é* a parte engraçada.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeuife5",
+    "split": "train",
+    "line_idx": 41538,
+    "original_text": "lol ok good. You had me worried that there was something I should have known about.",
+    "emotion_ids": "1,19",
+    "emotions": [
+      "amusement",
+      "nervousness"
+    ],
+    "translated_text": "kkk ok, beleza. Você me deixou preocupado achando que tinha alguma coisa que eu deveria saber.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehhl9t",
+    "split": "train",
+    "line_idx": 41539,
+    "original_text": "Wonder how that brother or cousin excuse works when Lus have no brothers or male cousins",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quero ver como essa desculpa de irmão ou primo funciona quando os Lus não têm irmãos ou primos homens",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef95cd7",
+    "split": "train",
+    "line_idx": 41540,
+    "original_text": "Your attempts to belittle me show only more insecurities on your part.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Suas tentativas de me diminuir só mostram ainda mais insegurança da sua parte.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemay2p",
+    "split": "train",
+    "line_idx": 41541,
+    "original_text": "Who's the top three craft brewers in the area??",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Quais são as três melhores cervejarias artesanais da região??",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eewzdsu",
+    "split": "train",
+    "line_idx": 41542,
+    "original_text": "I have clinical depression so my mind pretty much has this outlook on any slight thing that doesn't go my way in life. Thanks for your comment.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Eu tenho depressão clínica, então minha mente praticamente enxerga qualquer coisinha que dá errado na vida desse jeito. Valeu pelo comentário.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8lkss",
+    "split": "train",
+    "line_idx": 41543,
+    "original_text": "looks like got damn shoe leather.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "parece sola de sapato da porra.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeklhzg",
+    "split": "train",
+    "line_idx": 41544,
+    "original_text": "i was leaving areal comments not pormotions but acctually i was leaving many",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "eu estava deixando comentários reais e não promoções, mas na verdade eu estava deixando vários",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlfnks",
+    "split": "train",
+    "line_idx": 41545,
+    "original_text": "4-3 isn’t actual wins? Tell me more then about these “actual wins”",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "4-3 não são vitórias de verdade? Me conta mais então sobre essas “vitórias de verdade”",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemfkfp",
+    "split": "train",
+    "line_idx": 41546,
+    "original_text": "*I hate laughing!*",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "*Eu odeio rir!*",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbtr00",
+    "split": "train",
+    "line_idx": 41547,
+    "original_text": "I reported you :-) Expect to find your comment deleted within a few hours :-)",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Te denunciei :-) Espere ver seu comentário apagado daqui a algumas horas :-)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edr4d5j",
+    "split": "train",
+    "line_idx": 41548,
+    "original_text": "Confound your toll Troll!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Confunda o seu pedágio, Troll!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczic0y",
+    "split": "train",
+    "line_idx": 41549,
+    "original_text": "It’s always easier for TIMs to walk around with their “tiddies” out. They’ve never been shamed for them.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É sempre mais fácil para as TIMs andarem com os “peitos” de fora. Elas nunca sofreram vergonha por causa deles.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

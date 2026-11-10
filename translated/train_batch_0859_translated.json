@@ -1,0 +1,613 @@
+[
+  {
+    "id": "efdt42q",
+    "split": "train",
+    "line_idx": 42950,
+    "original_text": "Did you shoot your husband?? I love my husband! Yeah but did you shoot him??",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Você atirou no seu marido?? Eu amo o meu marido! Sim, mas você atirou nele??",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj99hg",
+    "split": "train",
+    "line_idx": 42951,
+    "original_text": "So sorry for taking forever. Do you have an Apple device? I have given up on converting to google sheets.",
+    "emotion_ids": "7,24",
+    "emotions": [
+      "curiosity",
+      "remorse"
+    ],
+    "translated_text": "Desculpa mesmo pela demora absurda. Você tem algum aparelho da Apple? Eu desisti de converter pro Google Sheets.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxojwp",
+    "split": "train",
+    "line_idx": 42952,
+    "original_text": "He's transcended fuck-you-money to fuck-me-money territory",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Ele transcendeu o nível de \"dinheiro pra mandar se foder\" e foi direto pro território de \"dinheiro pra me foder\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeia63x",
+    "split": "train",
+    "line_idx": 42953,
+    "original_text": "I don't think [NAME] has landed any key punches as of yet",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu acho que o [NAME] ainda não acertou nenhum golpe decisivo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7m91r",
+    "split": "train",
+    "line_idx": 42954,
+    "original_text": "It's a pretty old and actually funny joke, just converted into a ragecomic. ",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É uma piada bem antiga e que até tem graça, só adaptaram num ragecomic.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpzlr8",
+    "split": "train",
+    "line_idx": 42955,
+    "original_text": "Same. OP go hug your mom and tell her she matters to you and your brother. Support and love would be your best bet.",
+    "emotion_ids": "5,18",
+    "emotions": [
+      "caring",
+      "love"
+    ],
+    "translated_text": "Idem. OP, vai lá abraçar a sua mãe e dizer que ela é importante pra você e pro seu irmão. Dar apoio e carinho é o melhor que você faz.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczyli4",
+    "split": "train",
+    "line_idx": 42956,
+    "original_text": "Dude I spit after this comment. I haven’t laughed like that in awhile.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Cara, eu cuspi tudo depois desse comentário. Havia tempos que eu não ria tanto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexg8a4",
+    "split": "train",
+    "line_idx": 42957,
+    "original_text": "I stand corrected. I totally forgot the knee and shoulder injuries earlier in the season.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Admito o meu erro. Tinha esquecido totalmente das lesões no joelho e no ombro mais cedo na temporada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8slkl",
+    "split": "train",
+    "line_idx": 42958,
+    "original_text": "Tinder kinda allows videos. It's a 2 sec loop. And if those apps fail you, you can always adopt cats and dogs. :)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O Tinder meio que aceita vídeos. É um loop de 2 segundos. E se esses apps falharem com você, sempre dá pra adotar cães e gatos. :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edn3k9q",
+    "split": "train",
+    "line_idx": 42959,
+    "original_text": "I wanna learn how to sharpen a knife where I can basically shave vegetables like that",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Quero aprender a afiar uma faca a ponto de conseguir fatiar legumes fininho assim",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebdmn2",
+    "split": "train",
+    "line_idx": 42960,
+    "original_text": "I'm hoping it will pass but I do know you may be correct. I'm just not sure what to do.",
+    "emotion_ids": "6,20",
+    "emotions": [
+      "confusion",
+      "optimism"
+    ],
+    "translated_text": "Espero que passe, mas sei que você pode estar certo. Eu só não sei direito o que fazer.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7chi0",
+    "split": "train",
+    "line_idx": 42961,
+    "original_text": "So what you've never been in a relationship your whole life? At least you didn't get abused! Yah,ok.",
+    "emotion_ids": "4,7",
+    "emotions": [
+      "approval",
+      "curiosity"
+    ],
+    "translated_text": "E daí que você nunca esteve em um relacionamento na vida toda? Pelo menos você não sofreu abusos! É, tá bom.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8y5tr",
+    "split": "train",
+    "line_idx": 42962,
+    "original_text": "[NAME], that's pretty damn good for a state like Virginia, which, although not a swing state anymore, was red not so long ago. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME], isso é bom pra caramba prum estado como a Virgínia, que, apesar de não ser mais um swing state, era republicano até pouco tempo atrás.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3srsc",
+    "split": "train",
+    "line_idx": 42963,
+    "original_text": "1 is spot on. Anxiety completely disappears. I like when that happens. One less issue",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "A 1 foi na mosca. A ansiedade some completamente. Adoro quando isso acontece. Um problema a menos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1a336",
+    "split": "train",
+    "line_idx": 42964,
+    "original_text": "If it's anything like my experience at radford, they were obviously drunk",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se for algo parecido com a minha experiência em Radford, eles obviamente estavam bêbados",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcltjm",
+    "split": "train",
+    "line_idx": 42965,
+    "original_text": "I agree. You’ll need to ask the school when you interview.",
+    "emotion_ids": "4,8",
+    "emotions": [
+      "approval",
+      "desire"
+    ],
+    "translated_text": "Concordo. Você vai precisar perguntar à escola quando fizer a entrevista.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqmahz",
+    "split": "train",
+    "line_idx": 42966,
+    "original_text": "Why was nobody driving the damn thing? They were all in the backseat. :/",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Por que não tinha ninguém dirigindo essa porcaria? Estavam todos no banco de trás. :/",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2fcfw",
+    "split": "train",
+    "line_idx": 42967,
+    "original_text": "Stop opening the pictures. Stop giving her the attention. Go no contact and watch her come running back to you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Para de abrir as fotos. Para de dar atenção pra ela. Corta todo contato e veja ela voltar correndo atrás de você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe268j",
+    "split": "train",
+    "line_idx": 42968,
+    "original_text": "Manipulation. I love my mother btw, but this thing is insidious.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Manipulação. Eu amo minha mãe, diga-se de passagem, mas esse tipo de coisa é insidioso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een4hhc",
+    "split": "train",
+    "line_idx": 42969,
+    "original_text": "American conservatism has been stolen by the neo Nazi, bigoted crowd. [NAME], [NAME], et al would vilify these hacks.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O conservadorismo americano foi roubado pela corja neonazista e intolerante. [NAME], [NAME], e cia. detonariam esses picaretas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8ur55",
+    "split": "train",
+    "line_idx": 42970,
+    "original_text": "Oh man, when HQGs gets on a roll it’s so good.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nossa cara, quando o HQGs engata uma sequência boa, fica incrível.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7jm7c",
+    "split": "train",
+    "line_idx": 42971,
+    "original_text": "Your reading skills are unparalleled",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Sua capacidade de interpretação de texto é sem igual",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efam6hr",
+    "split": "train",
+    "line_idx": 42972,
+    "original_text": "This is just where the usps facility is, i live in a completely different state lmao",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aqui é só onde fica a agência do USPS, eu moro num estado completamente diferente kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeuv3cd",
+    "split": "train",
+    "line_idx": 42973,
+    "original_text": "It's not collapsing",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não está desmoronando",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4ctqd",
+    "split": "train",
+    "line_idx": 42974,
+    "original_text": "What the fuck did I just read?",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Que porra é essa que acabei de ler?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeg195g",
+    "split": "train",
+    "line_idx": 42975,
+    "original_text": "This is very deceptive. If you haven't read it, this article is great! The Deceptive Income of Physicians",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é muito enganoso. Se você ainda não leu, esse artigo é ótimo! A Renda Enganosa dos Médicos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeze19d",
+    "split": "train",
+    "line_idx": 42976,
+    "original_text": "[NAME], she said the same laughably ignorant thing about unemployment as you... so you have as much expertise on the topic as a 29 year-old bartender. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], ela falou a mesma besteira comicamente ignorante sobre desemprego que você... então você entende tanto do assunto quanto uma bartender de 29 anos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddtnpk",
+    "split": "train",
+    "line_idx": 42977,
+    "original_text": "The attempt was successful. He's crying and not talking to them because they're actually dead.",
+    "emotion_ids": "16",
+    "emotions": [
+      "grief"
+    ],
+    "translated_text": "A tentativa deu certo. Ele tá chorando e sem falar com eles porque eles estão mortos de verdade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eecrwid",
+    "split": "train",
+    "line_idx": 42978,
+    "original_text": "Lol, wut",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkk, q",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcdeut",
+    "split": "train",
+    "line_idx": 42979,
+    "original_text": "Though I encourage! For an opportunity to play a game of such grand anticipation as this, is a sweet fortune.",
+    "emotion_ids": "17,27",
+    "emotions": [
+      "joy",
+      "neutral"
+    ],
+    "translated_text": "Mas eu incentivo! Pois uma oportunidade de jogar um jogo com uma expectativa tão grandiosa quanto este é uma feliz sorte.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefwg1j",
+    "split": "train",
+    "line_idx": 42980,
+    "original_text": "Ouh shittt my dad is also going to be surprised",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Aii merdaaa meu pai também vai ficar surpreso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efefxqa",
+    "split": "train",
+    "line_idx": 42981,
+    "original_text": "You're trying to send your 15yo sister and her Bf to jail because she annoys you? Tell your parents you need therapy.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você tá querendo mandar sua irmã de 15 anos e o namorado dela pra cadeia só porque ela te irrita? Fala pros seus pais que você precisa de terapia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddk34n",
+    "split": "train",
+    "line_idx": 42982,
+    "original_text": "To be clear meaty means use later active frames of any move Oki: what posibilities are favorable to me frame wise after an attack",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Pra esclarecer, meaty significa acertar nos frames ativos finais de qualquer golpe. Oki: quais possibilidades me favorecem em termos de frame após um ataque",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee44n4c",
+    "split": "train",
+    "line_idx": 42983,
+    "original_text": "From my experience is the difference that ketchup is smooth. And that tomato sauce contains spices and such.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pela minha experiência, a diferença é que o ketchup é lisinho. E o molho de tomate tem temperos e outras coisas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efh9rw4",
+    "split": "train",
+    "line_idx": 42984,
+    "original_text": "The [NAME] directed Swiss Army Man. Check out their music video for Turn Down for What. It’s lovely.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O [NAME] dirigiu Um Cadáver Para Sobreviver. Dá uma olhada no clipe deles de Turn Down for What. É maravilhoso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effjx48",
+    "split": "train",
+    "line_idx": 42985,
+    "original_text": "I sure as hell hope your username is a joke",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Espero do fundo do coração que o seu nome de usuário seja zoeira",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkjayz",
+    "split": "train",
+    "line_idx": 42986,
+    "original_text": "Thanks... Some days are harder than others",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu... Tem dias que são mais difíceis que outros",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexwzir",
+    "split": "train",
+    "line_idx": 42987,
+    "original_text": "Never noticed how unsettling palpatine looked",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Nunca tinha reparado no quanto o Palpatine parecia perturbador",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eek7jkp",
+    "split": "train",
+    "line_idx": 42988,
+    "original_text": "It doesn't look like it.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não parece não.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7yvka",
+    "split": "train",
+    "line_idx": 42989,
+    "original_text": "Same thing with Urgot mid. It looks absolutely trash even in LCK.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Mesma coisa com Urgot mid. Fica uma bosta completa até na LCK.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef68lg4",
+    "split": "train",
+    "line_idx": 42990,
+    "original_text": "Clean the house, declutter, have some candles and if you know his favorite beer or spirit that would be nice 😉 Have a clean and organized kitchen 😍",
+    "emotion_ids": "0,18,20",
+    "emotions": [
+      "admiration",
+      "love",
+      "optimism"
+    ],
+    "translated_text": "Limpe a casa, organize a bagunça, acenda umas velas e se você souber a cerveja ou bebida destilada favorita dele, seria ótimo 😉 Deixe a cozinha limpa e organizada 😍",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edozrp6",
+    "split": "train",
+    "line_idx": 42991,
+    "original_text": "Show them your hymen",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mostra o hímen pra eles",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eff5yjr",
+    "split": "train",
+    "line_idx": 42992,
+    "original_text": "What?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O quê?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4c85c",
+    "split": "train",
+    "line_idx": 42993,
+    "original_text": "Father [NAME] does a good or a bad job of it is that most of this country with Nazism.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "O Padre [NAME] faça um trabalho bom ou ruim nisso, o problema é que a maior parte deste país com o nazismo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5ho4b",
+    "split": "train",
+    "line_idx": 42994,
+    "original_text": "i dont give a flaming fart about averages. most people have no taste in comedy.",
+    "emotion_ids": "3,11",
+    "emotions": [
+      "annoyance",
+      "disgust"
+    ],
+    "translated_text": "Tô pouco me lixando pra médias. A maioria das pessoas não tem gosto pra comédia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effgkav",
+    "split": "train",
+    "line_idx": 42995,
+    "original_text": "Wow, amazing job, Mr. [NAME]! Another liberal absolutely DESTROYED with facts and logic! So eloquent and wise...",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nossa, parabéns, Sr. [NAME]! Mais um esquerdista totalmente DESTRUÍDO com fatos e lógica! Que eloquente e sábio...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7aisz",
+    "split": "train",
+    "line_idx": 42996,
+    "original_text": "Good advice, thank you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Bom conselho, obrigado.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4jhcl",
+    "split": "train",
+    "line_idx": 42997,
+    "original_text": "They didn’t you lying sack of shit. This sub has no moderators.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não falaram coisa nenhuma, seu pedaço de merda mentiroso. Esse sub não tem moderadores.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeklh8u",
+    "split": "train",
+    "line_idx": 42998,
+    "original_text": "#Screw you, [NAME].",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "#Vai se foder, [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4z0ix",
+    "split": "train",
+    "line_idx": 42999,
+    "original_text": "Nobody will ever dethrone nurses and teachers, but hotel employees are quietly becoming some of the weirdest people in my Tinder matches.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Ninguém jamais vai desbancar enfermeiras e professoras, mas funcionários de hotel estão virando, de mansinho, algumas das pessoas mais bizarras dos meus matches no Tinder.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

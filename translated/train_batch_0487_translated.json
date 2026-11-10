@@ -1,0 +1,605 @@
+[
+  {
+    "id": "ef6qvc1",
+    "split": "train",
+    "line_idx": 24350,
+    "original_text": "What about protecting the innocent child who was raped and who you would force to go through with a pregnancy and childbirth which would risk her life?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E o que dizer da criança inocente que foi estuprada e que você forçaria a levar a gravidez e o parto, arriscando a vida dela?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeyhgiw",
+    "split": "train",
+    "line_idx": 24351,
+    "original_text": "Interesting trend. Just wait till they learn about the church's racism and history claims....",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tendência interessante. Espera só até eles descobrirem o racismo e as alegações históricas da igreja...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed7vvvh",
+    "split": "train",
+    "line_idx": 24352,
+    "original_text": "That's what I can't understand either, what were they expecting by knocking on the door?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "É isso que eu também não consigo entender, o que eles esperavam ao bater na porta?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef5gnjk",
+    "split": "train",
+    "line_idx": 24353,
+    "original_text": "Finally! Somebody who legitimately hates planet Jupiter!",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Finalmente! Alguém que realmente odeia o planeta Júpiter!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edivtze",
+    "split": "train",
+    "line_idx": 24354,
+    "original_text": "Extremely painful to watch",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Dolorosíssimo de assistir",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edkogez",
+    "split": "train",
+    "line_idx": 24355,
+    "original_text": "I really need to get more sleep.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Preciso mesmo dormir mais.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee2ng4o",
+    "split": "train",
+    "line_idx": 24356,
+    "original_text": "It defiantly shapes up the picture.",
+    "emotion_ids": "4,10",
+    "emotions": [
+      "approval",
+      "disapproval"
+    ],
+    "translated_text": "Definitivamente molda a imagem.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4bvt7",
+    "split": "train",
+    "line_idx": 24357,
+    "original_text": "We're trying to be 3-16 on the road with a positive point differential lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Tamo tentando ser 3-16 na estrada com diferencial positivo, lol",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee5yzds",
+    "split": "train",
+    "line_idx": 24358,
+    "original_text": "I love daddy long neck and crew. You won’t be disappointed when you look it up.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amo o daddy long neck e a galera. Você não vai se decepcionar quando procurar.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeyyrdu",
+    "split": "train",
+    "line_idx": 24359,
+    "original_text": "Dude, it’s turn of phrase. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cara, é uma expressão idiomática.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee0waa7",
+    "split": "train",
+    "line_idx": 24360,
+    "original_text": "You’re a genius.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você é um gênio.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edoldl7",
+    "split": "train",
+    "line_idx": 24361,
+    "original_text": "You're making me look bad [NAME], while she yells and screams.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Você tá me fazendo ficar mal [NAME], enquanto ela grita e berra.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee38zur",
+    "split": "train",
+    "line_idx": 24362,
+    "original_text": "It's like a before and after of a stock market crash with a dodgy investment manager.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É tipo um antes e depois de um crash na bolsa com um gestor de investimentos duvidoso.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edj52zj",
+    "split": "train",
+    "line_idx": 24363,
+    "original_text": "Being interested in a developing game or mod has nothing to do with pre ordering or purchasing something in early access.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se interessar por um jogo ou mod em desenvolvimento não tem nada a ver com pré-encomendar ou comprar algo em acesso antecipado.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee5dvlb",
+    "split": "train",
+    "line_idx": 24364,
+    "original_text": "As of right now, [NAME] is the better overall player.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "No momento, [NAME] é o jogador geral melhor.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeoa7o4",
+    "split": "train",
+    "line_idx": 24365,
+    "original_text": "I don’t think she beat [NAME] but I def believe she hits this dude and [NAME].. none of this is news tho",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não acho que ela tenha vencido [NAME], mas definitivamente acredito que ela dá um soco nesse cara e no [NAME]... nada disso é novidade, porém.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef117ox",
+    "split": "train",
+    "line_idx": 24366,
+    "original_text": "What a game... completely down and out at half time and then... [NAME] and total annhilation of the scousers",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Que jogo... totalmente perdido no intervalo e depois... [NAME] e aniquilação total dos scousers",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eerak2o",
+    "split": "train",
+    "line_idx": 24367,
+    "original_text": "are you printing labels through ebay/paypal/other online service? You get a discount there. If you're paying retail, stop it. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Você tá imprimindo etiquetas pelo eBay/PayPal/outro serviço online? Lá dá desconto. Se tá pagando preço cheio, pare.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed1g2wx",
+    "split": "train",
+    "line_idx": 24368,
+    "original_text": "he's a fantastic director, i've actually never heard of memories of murder! definitely will add that to my to-watch list :)",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "Ele é um diretor fantástico, nunca tinha ouvido falar de Memórias de um Assassinato! Vou colocar na minha lista de assistir :)",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed5vqej",
+    "split": "train",
+    "line_idx": 24369,
+    "original_text": "**You are breaking the car!**",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "**Você está quebrando o carro!**",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed5u38w",
+    "split": "train",
+    "line_idx": 24370,
+    "original_text": "Start a relaxing bedtime routine. Goggle sleep hygiene and make sure yours is good. Get over your weird thing about reading and try it!",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Comece uma rotina relaxante antes de dormir. Pesquise sobre higiene do sono e garanta que a sua esteja boa. Supere essa mania de não ler e experimente!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee2i9l4",
+    "split": "train",
+    "line_idx": 24371,
+    "original_text": "I'm clueless as to what I could be clueless about too, [NAME]. What is the difference? Aren't all video games ultimately 'no lifeing' it?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não faço ideia do que eu poderia estar sem noção também, [NAME]. Qual a diferença? Não são todos os videogames, no fim das contas, um \"no life\"?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeg911m",
+    "split": "train",
+    "line_idx": 24372,
+    "original_text": "This kinda looks like something shot in the style of Reno 911. Especially the bit where the cops look back and simultaneously say “Jaywalking!”",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Isso parece algo filmado no estilo Reno 911. Especialmente a parte em que os policiais olham pra trás e dizem simultaneamente “Transitando na faixa errada!”",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ede0hwl",
+    "split": "train",
+    "line_idx": 24373,
+    "original_text": "What's really sad is that [NAME] wants to outlaw gay dads. I'm literally shaking.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "O mais triste é que [NAME] quer proibir pais gays. Tô literalmente tremendo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edurqag",
+    "split": "train",
+    "line_idx": 24374,
+    "original_text": "That's what I heard. 🤣 I'm just curious if calling the cops on [NAME] would hurt him or not.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É isso que ouvi. 🤣 Só tô curioso se chamar a polícia contra [NAME] iria machucá-lo ou não.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed60zs9",
+    "split": "train",
+    "line_idx": 24375,
+    "original_text": "Lies, damn lies and statistics. ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Mentiras, malditas mentiras e estatísticas.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edzkwqe",
+    "split": "train",
+    "line_idx": 24376,
+    "original_text": "I love it in spades",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu adoro isso pra caramba",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efb8p3q",
+    "split": "train",
+    "line_idx": 24377,
+    "original_text": "The ridiculous hypocrisy of the far left has nothing to do with your link.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A ridícula hipocrisia da ultra-esquerda não tem nada a ver com seu link.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eezv0eq",
+    "split": "train",
+    "line_idx": 24378,
+    "original_text": "You didnt even ask the parents if they agreed to let him in the back?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você nem perguntou aos pais se eles concordavam em deixá-lo no banco de trás?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed9dgtg",
+    "split": "train",
+    "line_idx": 24379,
+    "original_text": "sacked surely. no one would expect to be kept on after making such corrupt mistakes in their own job.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Demitido, com certeza. Ninguém esperaria ser mantido no cargo depois de cometer erros tão corruptos no próprio trabalho.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeskucu",
+    "split": "train",
+    "line_idx": 24380,
+    "original_text": "Xbox 360. I’ve never gamed before so I’m excited.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Xbox 360. Nunca joguei nada antes, então tô animado.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efc0gow",
+    "split": "train",
+    "line_idx": 24381,
+    "original_text": "As a [NAME], I would like to extend an apology to anyone freezing in the polar vortex. ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Como um [NAME], gostaria de pedir desculpas a quem está congelando no vórtice polar.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee4l7ke",
+    "split": "train",
+    "line_idx": 24382,
+    "original_text": "Very good (and depressing) point haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ponto muito bom (e deprê) haha",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edc4zh4",
+    "split": "train",
+    "line_idx": 24383,
+    "original_text": "Reclining seats typically reduces the legroom of the person who reclines. That's the way those seats are designed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Assentos reclináveis geralmente diminuem o espaço para as pernas da pessoa que reclina. É assim que esses assentos são projetados.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eedpj0n",
+    "split": "train",
+    "line_idx": 24384,
+    "original_text": "I'm not offended. Just curious.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Não me ofendi. Só curiosidade.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eem7r6s",
+    "split": "train",
+    "line_idx": 24385,
+    "original_text": "You’re an animal, and you deserve all the shame/repercussions you get.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Você é um animal, e merece toda a vergonha/repercussão que está recebendo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef8mk11",
+    "split": "train",
+    "line_idx": 24386,
+    "original_text": "If you all keep nagging me with this question I will turn this car around and then *no one’s* getting to watch the trailer.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Se vocês continuarem me enchendo com essa pergunta eu viro o carro e ninguém vai poder assistir ao trailer.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef1aj2l",
+    "split": "train",
+    "line_idx": 24387,
+    "original_text": "Shhhh, don’t say that, your going to trigger a millennial ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Shhhh, não diga isso, você vai provocar um millennial",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edkn42w",
+    "split": "train",
+    "line_idx": 24388,
+    "original_text": "CIA and MIC are now controlled by women. And nothing will change. Progress!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "CIA e MIC agora são controladas por mulheres. E nada vai mudar. Progresso!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eede0qb",
+    "split": "train",
+    "line_idx": 24389,
+    "original_text": "I bought milk and honey for its cover. ended up loving it anyway.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Comprei leite e mel pela capa. No fim, acabei amando mesmo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edm0yvt",
+    "split": "train",
+    "line_idx": 24390,
+    "original_text": "As a [NAME], I resent the twilight comment.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como um [NAME], detesto o comentário sobre o crepúsculo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efa039u",
+    "split": "train",
+    "line_idx": 24391,
+    "original_text": "Murder is $3 million, but genocide is only $25 million. Everyone after 8 is free! What a deal!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Assassinato custa $3 milhões, mas genocídio só $25 milhões. Todo mundo depois do 8 é livre! Que negócio!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edrui96",
+    "split": "train",
+    "line_idx": 24392,
+    "original_text": "If we find a solid rental centre again maybe.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se encontrarmos um centro de aluguel sólido de novo, talvez.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee8r1pm",
+    "split": "train",
+    "line_idx": 24393,
+    "original_text": "If it were [NAME] being negative about Korea, would you be equally happy to see it banished?",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Se fosse [NAME] sendo negativo sobre a Coreia, você ficaria igualmente feliz em vê-lo banido?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed42tzb",
+    "split": "train",
+    "line_idx": 24394,
+    "original_text": "i managed to craft that super early in the game and i was so disappointed that i basically could not get drunk",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Consegui criar isso super cedo no jogo e fiquei tão decepcionado que praticamente não consegui ficar bêbado",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eesjsfv",
+    "split": "train",
+    "line_idx": 24395,
+    "original_text": "This literally broke my heart",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Isso literalmente partiu meu coração",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eexwjzo",
+    "split": "train",
+    "line_idx": 24396,
+    "original_text": "Yeah, the gauntlet ruins everything",
+    "emotion_ids": "4,9",
+    "emotions": [
+      "approval",
+      "disappointment"
+    ],
+    "translated_text": "Sim, a armadilha estraga tudo",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed41vj5",
+    "split": "train",
+    "line_idx": 24397,
+    "original_text": "Oh, did they innovate anything I would recognize with their obscenely large financial investments? :):):):)",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ah, eles inovaram alguma coisa que eu reconheceria com esses investimentos financeiros absurdamente grandes? :):):):)",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee2xhpz",
+    "split": "train",
+    "line_idx": 24398,
+    "original_text": "[NAME] why did they have to remove the OP? Her story is heartbreaking and she appears to only want some sort of comfort from the sub.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "[NAME] por que tiveram que remover o OP? A história dela é de partir o coração e parece que ela só quer algum tipo de conforto do sub.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eczu1gw",
+    "split": "train",
+    "line_idx": 24399,
+    "original_text": "“I thought I was suppose to love 2018 wtf”",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "“Eu pensei que era pra amar 2018, que porra”",
+    "translator": "openai/gpt-oss-120b"
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "id": "ed79tsw",
+    "split": "test",
+    "line_idx": 4550,
+    "original_text": "Well if we just started in the second quarter in both games...we would have come out ahead!",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Bom, se a gente só começasse a jogar no segundo quarto nos dois jogos... teríamos saído na frente!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesioex",
+    "split": "test",
+    "line_idx": 4551,
+    "original_text": "I'm sorry it happened like that for you. I really can't imagine.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Sinto muito que tenha acontecido assim com você. Não consigo nem imaginar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg2323",
+    "split": "test",
+    "line_idx": 4552,
+    "original_text": "C'mon Mr [NAME], you're not going to eat all that watermelon.",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Qual é, Sr. [NAME], você não vai comer essa melancia inteira.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ediagf8",
+    "split": "test",
+    "line_idx": 4553,
+    "original_text": "Op you're fine, anyone who's actually been in your situation would have reacted the same. This commentor is just trying to make you feel bad. ",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Op, você tá de boa, qualquer um que estivesse de verdade na sua situação teria reagido do mesmo jeito. Essa pessoa que comentou só tá tentando fazer você se sentir mal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqql86",
+    "split": "test",
+    "line_idx": 4554,
+    "original_text": "It's simple, I asked, and she lied.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É simples: eu perguntei, e ela mentiu.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8gc3a",
+    "split": "test",
+    "line_idx": 4555,
+    "original_text": "I am really excited for you! We texted a few weeks before we met too! The first hugs and kisses were the best!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Tô muito animado por você! Nós também conversamos por mensagem algumas semanas antes de nos conhecermos! Os primeiros abraços e beijos foram os melhores!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrdd0n",
+    "split": "test",
+    "line_idx": 4556,
+    "original_text": "Your harshest critic will always be yourself",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O seu pior crítico sempre vai ser você mesmo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehvsaq",
+    "split": "test",
+    "line_idx": 4557,
+    "original_text": "That's a lot of words to say \"I'm upset that women don't want to date me.\"",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Tudo isso de palavra só pra dizer \"Tô chateado que mulher não quer ficar comigo.\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edvq520",
+    "split": "test",
+    "line_idx": 4558,
+    "original_text": "these are quite normal thoughts for depressed people",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "esses pensamentos são bem comuns em pessoas com depressão",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efet0j4",
+    "split": "test",
+    "line_idx": 4559,
+    "original_text": "Yeah cause no man has ever been falsely imprisoned due to allegations proven later to be false",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "É, até parece que nenhum homem nunca foi preso injustamente por acusações que mais tarde provaram ser falsas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg6oq8",
+    "split": "test",
+    "line_idx": 4560,
+    "original_text": "We give them too much money.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente dá dinheiro demais pra eles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edglwtq",
+    "split": "test",
+    "line_idx": 4561,
+    "original_text": "There's so many! Auntie [NAME] and Dame [NAME] are two of the best. But personally, the bass player from Spiderbait, [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem tantas! A tia [NAME] e a Dame [NAME] são duas das melhores. Mas pessoalmente, a baixista do Spiderbait, a [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1k7h4",
+    "split": "test",
+    "line_idx": 4562,
+    "original_text": "OMG, my two favorite franchises and the two best girls!!",
+    "emotion_ids": "0,13",
+    "emotions": [
+      "admiration",
+      "excitement"
+    ],
+    "translated_text": "MDD, minhas duas franquias favoritas e as duas melhores garotas!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1wud5",
+    "split": "test",
+    "line_idx": 4563,
+    "original_text": "Damn video made me think there was audio!!",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Porra de vídeo que me fez achar que tinha áudio!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeskm07",
+    "split": "test",
+    "line_idx": 4564,
+    "original_text": "You've described my parents who have been happily married for 36 years. You are good dude.",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Você descreveu meus pais, que estão casados e felizes há 36 anos. Você é um cara bacana.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddebe3",
+    "split": "test",
+    "line_idx": 4565,
+    "original_text": "Upvoted for visibility. Disapprove of the poll results.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Dei upvote pra dar visibilidade. Não concordo com o resultado da enquete.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4mur4",
+    "split": "test",
+    "line_idx": 4566,
+    "original_text": "Don't wear out our [NAME]. We need him if this season is going to amount to anything.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Não esgotem o nosso [NAME]. A gente precisa dele se quiser que essa temporada dê em alguma coisa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegst1x",
+    "split": "test",
+    "line_idx": 4567,
+    "original_text": "Where can I get some? These are awesome!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Onde posso comprar? Esses são muito feras!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq8839",
+    "split": "test",
+    "line_idx": 4568,
+    "original_text": "If you’ll check my medical records you’ll see I have a crippling arthritis in me index fingers",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se você for checar meu histórico médico vai ver que tenho uma artrite lascada nos dedos indicadores",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlhe3h",
+    "split": "test",
+    "line_idx": 4569,
+    "original_text": "[NAME]: [NAME] is your nephew [NAME]: is this about your dad and bro?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]: [NAME] é seu sobrinho [NAME]: isso é sobre o seu pai e o seu irmão?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5cjog",
+    "split": "test",
+    "line_idx": 4570,
+    "original_text": "I can't understand why Pepsi and Coke are the two most popular sodas. Or why fans think they're so different.",
+    "emotion_ids": "6,22",
+    "emotions": [
+      "confusion",
+      "realization"
+    ],
+    "translated_text": "Não consigo entender por que Pepsi e Coca-Cola são os dois refrigerantes mais populares. Ou por que os fãs acham eles tão diferentes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef808x4",
+    "split": "test",
+    "line_idx": 4571,
+    "original_text": "I think we should conduct a study and find out, otherwise I don’t know and you don’t either",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Acho que devíamos fazer um estudo pra descobrir, senão eu não sei e você também não sabe",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeii5r5",
+    "split": "test",
+    "line_idx": 4572,
+    "original_text": "Yeah, I'll admit I like Kuzma. [NAME] does kind of remind me of a less talented [NAME].",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É, admito que curto o Kuzma. O [NAME] meio que me lembra um [NAME] menos talentoso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9iwjs",
+    "split": "test",
+    "line_idx": 4573,
+    "original_text": "There's a correlation between how corrupt a country is and how corrupt it is perceived. edit: DOI:10.1023/A:1013882225402, If you can't acces, scihub still exist.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Existe uma correlação entre o quão corrupto um país é e o quão corrupto ele é visto como sendo. edit: DOI:10.1023/A:1013882225402, se não conseguir acessar, o scihub ainda existe.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee21vqz",
+    "split": "test",
+    "line_idx": 4574,
+    "original_text": "What a loser, sad. ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Que perdedor, que pena.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepzk7r",
+    "split": "test",
+    "line_idx": 4575,
+    "original_text": "I saw a slightly longer clip where a woman came and shooed them off.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu vi um vídeo um pouco mais longo onde uma mulher apareceu e enxotou eles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eda3opb",
+    "split": "test",
+    "line_idx": 4576,
+    "original_text": "He couldn't block a shot if it was from my dead grandma",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele não acertava um toco nem se o arremesso fosse da minha avó falecida",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5nlo9",
+    "split": "test",
+    "line_idx": 4577,
+    "original_text": "I'm afraid of having a sit down with them amd not being heard. But I might have to for my safety.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Tô com medo de sentar pra conversar com eles e não ser ouvida. Mas talvez eu tenha que fazer isso pela minha segurança.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edndst3",
+    "split": "test",
+    "line_idx": 4578,
+    "original_text": "Why can’t we do both, approve wall funding and more border agents now and stop holding 800k federal workers hostage. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que não podemos fazer os dois: aprovar o financiamento do muro e mais agentes de fronteira agora e parar de fazer 800 mil servidores federais de reféns.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7sl19",
+    "split": "test",
+    "line_idx": 4579,
+    "original_text": "ASK AND YOU SHALL RECEIVE",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "PEÇA E RECEBERÁS",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef6ocrw",
+    "split": "test",
+    "line_idx": 4580,
+    "original_text": "I crave physical contact. I get irritable if I go too long without it, which conflicts with the fact that I also enjoy being alone.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Eu tenho fissura por contato físico. Fico irritável se passo muito tempo sem, o que entra em conflito com o fato de que também adoro ficar sozinho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee6t7tp",
+    "split": "test",
+    "line_idx": 4581,
+    "original_text": "From that angle his face looks like the big built guy from jersey shore.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Desse ângulo, a cara dele parece com a daquele marombado do Jersey Shore.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3mzz1",
+    "split": "test",
+    "line_idx": 4582,
+    "original_text": "Welcome to switzerland 😂 I see it everyday, when I'm on my way to work. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Bem-vindo à Suíça 😂 Vejo isso todo dia a caminho do trabalho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edc6je2",
+    "split": "test",
+    "line_idx": 4583,
+    "original_text": "I love bein' inside u, baby",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu adoro estar dentro de você, amor",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efclliu",
+    "split": "test",
+    "line_idx": 4584,
+    "original_text": "Wow, who can afford this one? ",
+    "emotion_ids": "7,26",
+    "emotions": [
+      "curiosity",
+      "surprise"
+    ],
+    "translated_text": "Nossa, quem é que tem grana pra bancar esse aqui?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy8356",
+    "split": "test",
+    "line_idx": 4585,
+    "original_text": "Oh hell no. Shes blind!!! No way in HELL is she ever being left alone with it.",
+    "emotion_ids": "9,26",
+    "emotions": [
+      "disappointment",
+      "surprise"
+    ],
+    "translated_text": "Ah, nem fodendo. Ela é cega!!! De jeito NENHUM que vão deixar ela sozinha com isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3w5vf",
+    "split": "test",
+    "line_idx": 4586,
+    "original_text": "More admired than [NAME] [NAME] is admired by starbucks baristas. Unemployed kids. And cat ladies",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Mais admirada que [NAME]? [NAME] é admirada por barista do Starbucks. Jovem desempregado. E velhas dos gatos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edujmcx",
+    "split": "test",
+    "line_idx": 4587,
+    "original_text": "Too bad he went back home to Nepal, it's always great seeing these young spinners getting a go in the BBL.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Uma pena que ele voltou pra casa no Nepal, é sempre muito massa ver esses spinners novinhos terem uma chance na BBL.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjd969",
+    "split": "test",
+    "line_idx": 4588,
+    "original_text": "I do feel sorry for the squirrel, but I wouldn't say the dog is a jerk for acting on natural instinct.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Eu tenho pena do esquilo, mas não diria que o cachorro é babaca por agir pelo instinto natural.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee66c9z",
+    "split": "test",
+    "line_idx": 4589,
+    "original_text": "If we can’t even score on the power play pulling the goalie made no sense",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Se a gente não consegue nem marcar gol no power play, tirar o goleiro não fez o menor sentido",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduuwq7",
+    "split": "test",
+    "line_idx": 4590,
+    "original_text": "You are goddam funny sir",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Você é engraçado pra caralho, meu senhor",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ede4o2v",
+    "split": "test",
+    "line_idx": 4591,
+    "original_text": "would you kiss a girl if you're drunk tho? Edit : why the downvotes? It's just a question, geez",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "mas você beijaria uma garota se estivesse bêbado? Edit: por que os downvotes? É só uma pergunta, caramba",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edscfnz",
+    "split": "test",
+    "line_idx": 4592,
+    "original_text": "Just mild burns and witty comebacks...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só umas patadas de leve e respostas espertinhas...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een1zzu",
+    "split": "test",
+    "line_idx": 4593,
+    "original_text": "The 10 game rule for expansion also includes AHL games, so regardless of his stint up here he was going to be made available in the Seattle draft",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A regra de 10 jogos pro draft de expansão também inclui jogos da AHL, então independente da passagem dele aqui em cima ele já ia ficar disponível no draft de Seattle",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq34je",
+    "split": "test",
+    "line_idx": 4594,
+    "original_text": "I think some of them expect there to be a cashier standing like a statue at every register at all times no matter how slow business is!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que alguns deles esperam que tenha um caixa parado que nem uma estátua em cada caixa o tempo todo, não importa o quão vazio esteja o movimento!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edofshk",
+    "split": "test",
+    "line_idx": 4595,
+    "original_text": "And those offences are not Criminal Code offences. Criminal Code offences require it be established \"beyond a reasonable doubt\" that an accused actually committed the offence.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E essas infrações não são infrações do Código Penal. Infrações do Código Penal exigem que seja estabelecido \"além de qualquer dúvida razoável\" que o acusado realmente cometeu o delito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0r0l7",
+    "split": "test",
+    "line_idx": 4596,
+    "original_text": "Wow, I don't know how [NAME] handled that",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Caramba, não sei como o [NAME] aguentou essa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew1fwh",
+    "split": "test",
+    "line_idx": 4597,
+    "original_text": "She said she was ok moving out ... now she isn’t. I have no idea.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ela disse que tava de boa em se mudar... agora não tá mais. Não faço a menor ideia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmgmgz",
+    "split": "test",
+    "line_idx": 4598,
+    "original_text": "LPT: Make sure your chickens aren't pink anywhere by just chucking them in a 1000° oven",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Dica profissional: Garanta que o seu frango não fique cru por dentro jogando ele direto num forno a mil graus",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4vau2",
+    "split": "test",
+    "line_idx": 4599,
+    "original_text": "There was definitely 90s-drama-film-esque piano music playing when this unfolded.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Com certeza tava tocando uma música de piano estilo drama dos anos 90 quando isso rolou.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

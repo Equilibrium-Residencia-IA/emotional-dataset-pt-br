@@ -1,0 +1,608 @@
+[
+  {
+    "id": "ed8lxv9",
+    "split": "train",
+    "line_idx": 26550,
+    "original_text": "Can someone put it in slow mo",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém pode colocar em câmera lenta",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efg1snw",
+    "split": "train",
+    "line_idx": 26551,
+    "original_text": "Not everyone agrees that he was actually an amazing strategist or a great general, actually.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Na verdade, nem todo mundo concorda que ele era um estrategista incrível ou um grande general.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edn1wa4",
+    "split": "train",
+    "line_idx": 26552,
+    "original_text": "It would need immediate medical attention and hospitalisation. Might be fatal due to liver failure.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso precisaria de atendimento médico imediato e internação. Pode ser fatal por causa de falência hepática.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eecw2v0",
+    "split": "train",
+    "line_idx": 26553,
+    "original_text": "Generally, but Chicago has easily gotten 12 inches of lake effect snow in the past.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Geralmente sim, mas Chicago já chegou a pegar uns 30 centímetros de neve de efeito lago antigamente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eee8ttt",
+    "split": "train",
+    "line_idx": 26554,
+    "original_text": "Why is the hotdog so long lmao",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por que esse cachorro-quente é tão comprido mano kkkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeog8mq",
+    "split": "train",
+    "line_idx": 26555,
+    "original_text": "Congrats on coming out",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Parabéns por se assumir",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedsshb",
+    "split": "train",
+    "line_idx": 26556,
+    "original_text": "Yes honey, now go get the mop.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso mesmo, gata, agora vai pegar o rodo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edhaa07",
+    "split": "train",
+    "line_idx": 26557,
+    "original_text": "Welcome to post-truth politics.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Bem-vindo à política pós-verdade.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1bvtq",
+    "split": "train",
+    "line_idx": 26558,
+    "original_text": "Woo hoo!!! Free at last!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Uhuul!!! Livres enfim!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemmdaq",
+    "split": "train",
+    "line_idx": 26559,
+    "original_text": "The Patriots dethroned the Rams and the greatest show on turf, it'd be cool for the Rams to do the same now.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Os Patriots destronaram os Rams e o maior espetáculo em campo, seria legal os Rams fazerem o mesmo agora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eevi7lt",
+    "split": "train",
+    "line_idx": 26560,
+    "original_text": "Actually a good idea. Starbucks, breakfast sandwiches, donuts... all fine excuses unless you work at one of those places.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Na real, é uma boa ideia. Starbucks, sanduíches de café da manhã, rosquinhas... desculpas perfeitas, a não ser que você trabalhe em um desses lugares.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0zkla",
+    "split": "train",
+    "line_idx": 26561,
+    "original_text": "Wow the garbage one and the bank one are really terrible. I’ve had the coupon ones too, people are touchy about coupons haha.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Nossa, o do lixo e o do banco são muito ruins. Eu também já peguei os de cupom, o povo é mó sensível com essa pira de cupom haha.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eew3skn",
+    "split": "train",
+    "line_idx": 26562,
+    "original_text": "Thank you! I'm so glad you liked it! I did finally get a new belt lol",
+    "emotion_ids": "1,15,17",
+    "emotions": [
+      "amusement",
+      "gratitude",
+      "joy"
+    ],
+    "translated_text": "Obrigado! Fico muito feliz que você tenha gostado! Eu finalmente comprei um cinto novo kkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee18wsb",
+    "split": "train",
+    "line_idx": 26563,
+    "original_text": "The only thing I remember about that guy was the super racist remarks he made about [NAME].",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "A única coisa que eu lembro desse cara foram os comentários super racistas que ele fez sobre o [NAME].",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edib4bo",
+    "split": "train",
+    "line_idx": 26564,
+    "original_text": "Imagine being this petty.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Imagina ser tão mesquinho assim.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef7p0ql",
+    "split": "train",
+    "line_idx": 26565,
+    "original_text": "I was absolutely gobsmacked when I found out an ICU/CCU nurse can be paid the same as a short stay obs nurse in my hospital.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu fiquei absolutamente pasmo quando descubri que uma enfermeira de UTI/CCU pode ganhar o mesmo que uma enfermeira de observação de curta permanência no meu hospital.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efbsmfj",
+    "split": "train",
+    "line_idx": 26566,
+    "original_text": "I carry 2 small stuffable throw blankets and a sweatshirt. Sweatshirt to ensure warmness. Blankets to ensure cuddles. I’ll let you know if it ever works.",
+    "emotion_ids": "20,22",
+    "emotions": [
+      "optimism",
+      "realization"
+    ],
+    "translated_text": "Eu levo 2 cobertorzinhos dobráveis e um moletom. O moletom pra garantir o calor. Os cobertores pra garantir o chamego. Depois te conto se isso já deu certo alguma vez.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeeltk7",
+    "split": "train",
+    "line_idx": 26567,
+    "original_text": "Then she tries to just blow it out. Yup, that should work.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aí ela tenta só assoprar pra apagar. É, vai dar super certo sim.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9qaux",
+    "split": "train",
+    "line_idx": 26568,
+    "original_text": "Stay At Home Mum",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mãe do Lar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6nlqa",
+    "split": "train",
+    "line_idx": 26569,
+    "original_text": "You’re buying a hipster truck then demanding INVOICE PORT PDICE. If they don’t broom you won’t get a survey for sure lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Você tá comprando uma caminhonete de hipster e exigindo PREÇO DA NOTA FISCAL. Se eles não te mandarem à merda, com certeza você não vai receber pesquisa de satisfação kkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eery2ux",
+    "split": "train",
+    "line_idx": 26570,
+    "original_text": "All that matters is how you use those four inches, really ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que importa mesmo é como você usa esses dez centímetros, na moral",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edu46uo",
+    "split": "train",
+    "line_idx": 26571,
+    "original_text": "> If you have a point - make it. I did, I'm sorry you missed it.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "> Se você tem um argumento - exponha. Eu expus, desculpa se você não entendeu.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9shnp",
+    "split": "train",
+    "line_idx": 26572,
+    "original_text": "I know! Or close the door of the room where the baby is sleeping? It's too sad for the poor thing to be locked inside.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Nossa, sim! Ou fechar a porta do quarto onde o bebê tá dormindo? É muito triste pro coitadinho ficar trancado lá dentro.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8wwqc",
+    "split": "train",
+    "line_idx": 26573,
+    "original_text": "....it’s just raining on my face",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "....só tá chovendo no meu rosto",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efcvaf3",
+    "split": "train",
+    "line_idx": 26574,
+    "original_text": "i swear on ford that the crack squad thats about to break into your house and gas you with [NAME] will make you think correctly",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "eu juro por Ford que o esquadrão de elite que tá prestes a arrombar sua casa e te encher de gás com [NAME] vai fazer você pensar direito",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edka4rc",
+    "split": "train",
+    "line_idx": 26575,
+    "original_text": "Eating isn't a 'Healty coping mechanism', stop lying to yourself.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Comer não é um 'mecanismo de defesa saudável', para de mentir pra você mesmo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepvi2n",
+    "split": "train",
+    "line_idx": 26576,
+    "original_text": "Wow that is the exact armor combo i used to use",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, essa é exatamente a combinação de armadura que eu usava",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelt1r5",
+    "split": "train",
+    "line_idx": 26577,
+    "original_text": "*laughs in Trickle Down*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "*ri em Teoria do gotejamento*",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemuima",
+    "split": "train",
+    "line_idx": 26578,
+    "original_text": "Pulling for you so much ❤️. You got this!",
+    "emotion_ids": "5,18",
+    "emotions": [
+      "caring",
+      "love"
+    ],
+    "translated_text": "Torcendo tanto por você ❤️. Você consegue!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee84vjl",
+    "split": "train",
+    "line_idx": 26579,
+    "original_text": "The Watchmen just moved from Amazon to Netflix. Every time I watch that movie I like it way more. Hope I contributed here.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Watchmen acabou de mudar da Amazon pra Netflix. Toda vez que eu assisto a esse filme eu gosto muito mais dele. Tomara que eu tenha contribuído aqui.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8qvel",
+    "split": "train",
+    "line_idx": 26580,
+    "original_text": "I was afraid of that .",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Eu estava com medo disso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1lyx1",
+    "split": "train",
+    "line_idx": 26581,
+    "original_text": "Well come on out here, lil buddy. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ora, sai daí, amiguinho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1qvhk",
+    "split": "train",
+    "line_idx": 26582,
+    "original_text": "Can you expand a bit? That would be interesting for us that are not in the know.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Pode explicar melhor? Isso seria interessante pra nós que estamos por fora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efbq69f",
+    "split": "train",
+    "line_idx": 26583,
+    "original_text": "Yep. Learned my lesson this time.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Pois é. Aprendi minha lição dessa vez.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edo32o1",
+    "split": "train",
+    "line_idx": 26584,
+    "original_text": "Yep, whole different story if mom finds her favorite vibrator buzzing on the floor still.",
+    "emotion_ids": "19,20",
+    "emotions": [
+      "nervousness",
+      "optimism"
+    ],
+    "translated_text": "Pois é, a história é bem diferente se a mãe acha o vibrador favorito dela vibrando no chão ainda.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0sw4e",
+    "split": "train",
+    "line_idx": 26585,
+    "original_text": "I always have the subtitles on. So I don’t miss a single 💎!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu sempre assisto com legenda. Pra não perder nenhuma 💎!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "een1sel",
+    "split": "train",
+    "line_idx": 26586,
+    "original_text": "Yeah bad timing, but thanks for answering tho have a good rest of your day, cheers!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "É, timing ruim, mas valeu por responder mesmo assim, tenha um bom resto de dia, abraço!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edk6m23",
+    "split": "train",
+    "line_idx": 26587,
+    "original_text": "I'm having the same problem. Hoping that there is some good advice in response to this! Hugs though hon, I feel your pain.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Tô com o mesmo problema. Tomara que tenha algum conselho bom em resposta a isso! Mas abraços, amiga, eu te entendo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebvpzo",
+    "split": "train",
+    "line_idx": 26588,
+    "original_text": "STOP GETTING FACTS FROM [NAME] AND THE CORRUPT STATE ..lol",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "PARA DE PEGAR FATOS COM O [NAME] E O ESTADO CORRUPTO ..kkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edwvc3v",
+    "split": "train",
+    "line_idx": 26589,
+    "original_text": "op says \"a couple busses is also fine\" hop on the 15l, 2 stops and a 1 block walk gets you to the snug.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "o op diz \"um par de ônibus também serve\", pega o 15l, 2 paradas e uma caminhada de 1 quarteirão te deixam no pub.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eesxrv9",
+    "split": "train",
+    "line_idx": 26590,
+    "original_text": "Doesnt help [NAME] was right. That would further push [NAME] into his arms",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Não ajuda o fato de que o [NAME] estava certo. Isso empurraria ainda mais o [NAME] para os braços dele",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edzy9yw",
+    "split": "train",
+    "line_idx": 26591,
+    "original_text": "I support the idea of punishing [NAME] without trying to injure [NAME].",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu apoio a ideia de punir o [NAME] sem tentar machucar o [NAME].",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetl3hu",
+    "split": "train",
+    "line_idx": 26592,
+    "original_text": "I don’t know",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não sei",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7ygtz",
+    "split": "train",
+    "line_idx": 26593,
+    "original_text": "I compleatly get it. It makes me not trust people over the littlest things.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu entendo perfeitamente. Isso faz eu perder a confiança nas pessoas por causa das menores coisas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeoe04f",
+    "split": "train",
+    "line_idx": 26594,
+    "original_text": "Fat dont fail me now!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gordura, não me abandone agora!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeh40q9",
+    "split": "train",
+    "line_idx": 26595,
+    "original_text": "Did you guys personally pay someone for the banner? Because that's incredible.",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Vocês pagaram do próprio bolso pra alguém fazer essa faixa? Porque isso é incrível.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelncp0",
+    "split": "train",
+    "line_idx": 26596,
+    "original_text": "Wait, what. Are you okay son? I'm here to talk. ",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Calma, o quê. Tá tudo bem, filho? Tô aqui pra conversar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeya5zb",
+    "split": "train",
+    "line_idx": 26597,
+    "original_text": "Tbf it does look like it clears the net",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra ser justo, parece que passa da rede sim",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef9vxli",
+    "split": "train",
+    "line_idx": 26598,
+    "original_text": "One more pos to add to the heap.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mais um fdp pra jogar na pilha.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9msep",
+    "split": "train",
+    "line_idx": 26599,
+    "original_text": "Ayyy best game ever! Thanks for the love",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Aeee melhor jogo de todos! Valeu pelo carinho",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

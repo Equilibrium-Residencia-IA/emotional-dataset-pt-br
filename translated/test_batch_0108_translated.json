@@ -1,0 +1,332 @@
+[
+  {
+    "id": "eej6pw8",
+    "split": "test",
+    "line_idx": 5400,
+    "original_text": "Now we just need to kill [NAME] if [NAME] wasn't saved to really even the odds with her, similarly to [NAME] with [NAME]. ",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Agora a gente só precisa matar o [NAME] se a [NAME] não tiver sido salva pra realmente equilibrar as coisas com ela, igual ao [NAME] com o [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7f4rm",
+    "split": "test",
+    "line_idx": 5401,
+    "original_text": "I was forced into college and I wasted my gpa :(",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Fui obrigado a fazer faculdade e acabei com o meu histórico :(",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edabm5a",
+    "split": "test",
+    "line_idx": 5402,
+    "original_text": "4 5 everybody in the car, so come on let's ride!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "4 5 todo mundo no carro, então bora dar um rolê!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepwhro",
+    "split": "test",
+    "line_idx": 5403,
+    "original_text": "Ok. Good idea!",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Beleza. Boa ideia!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevy72t",
+    "split": "test",
+    "line_idx": 5404,
+    "original_text": "Hahaha so I’m no longer going to worry about it then lol",
+    "emotion_ids": "1,20",
+    "emotions": [
+      "amusement",
+      "optimism"
+    ],
+    "translated_text": "Hahaha então nem vou mais me preocupar com isso kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczm86v",
+    "split": "test",
+    "line_idx": 5405,
+    "original_text": "Sorry I forgot you guys beat Pitt. Congrats on your 2 win season.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Desculpa, esqueci que vocês venceram Pitt. Parabéns pela temporada de 2 vitórias.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed79alu",
+    "split": "test",
+    "line_idx": 5406,
+    "original_text": "Sheet cake did *nothing* to you, man",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O bolo não te fez *nada*, cara",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer7q6k",
+    "split": "test",
+    "line_idx": 5407,
+    "original_text": "If this happens in my dream then I will get up and do this.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Se isso acontecer no meu sonho, aí eu levanto e faço isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8y73y",
+    "split": "test",
+    "line_idx": 5408,
+    "original_text": "And now I'm hungry. Thanks.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "E agora tô com fome. Valeu.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpq6cw",
+    "split": "test",
+    "line_idx": 5409,
+    "original_text": "I don't think playing with her hair would work. Thats just creepy.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não acho que mexer no cabelo dela vá funcionar. Isso é muito bizarro.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy1rlg",
+    "split": "test",
+    "line_idx": 5410,
+    "original_text": "as a kpop stan and a army, i am very disappointed",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "como stan de kpop e army, tô muito decepcionado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepu3bf",
+    "split": "test",
+    "line_idx": 5411,
+    "original_text": "Yeah, and I don’t know why, it was totally out of character for me...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pois é, e nem sei por quê, não teve nada a ver comigo...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekk826",
+    "split": "test",
+    "line_idx": 5412,
+    "original_text": "what a psycho",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "que psicopata",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebo774",
+    "split": "test",
+    "line_idx": 5413,
+    "original_text": "This will be me a year from now. Not fair at all.",
+    "emotion_ids": "10,12",
+    "emotions": [
+      "disapproval",
+      "embarrassment"
+    ],
+    "translated_text": "Esse vai ser eu daqui a um ano. Nada justo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepx8q5",
+    "split": "test",
+    "line_idx": 5414,
+    "original_text": "I know, right?! I was literally in tears Saturday night 😪 It's only 3 years old!!",
+    "emotion_ids": "7,25",
+    "emotions": [
+      "curiosity",
+      "sadness"
+    ],
+    "translated_text": "Né, cara?! Eu literalmente chorei no sábado à noite 😪 Só tem 3 anos de uso!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqrhdo",
+    "split": "test",
+    "line_idx": 5415,
+    "original_text": "They are children, they have no souls. ",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Eles são crianças, não têm alma.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2fq86",
+    "split": "test",
+    "line_idx": 5416,
+    "original_text": "I would love a game with either of these two!!! 2nd choice being Caracalla!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu ia amar um jogo com qualquer um desses dois!!! Minha 2ª opção seria Caracala!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhhkje",
+    "split": "test",
+    "line_idx": 5417,
+    "original_text": "That’s what I’m thinking too, so I may just go with the referral after all. Thanks again for the help!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Tô pensando nisso também, então talvez eu acabe indo por indicação afinal. Obrigado de novo pela ajuda!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezc65u",
+    "split": "test",
+    "line_idx": 5418,
+    "original_text": "The essay is optional.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A redação é opcional.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edklt4j",
+    "split": "test",
+    "line_idx": 5419,
+    "original_text": "My mom works for Nasa and apparently no. They gave them pamphlets with numbers for credit agencies and tips on getting loans lol. Its kinda awful.",
+    "emotion_ids": "1,11",
+    "emotions": [
+      "amusement",
+      "disgust"
+    ],
+    "translated_text": "Minha mãe trabalha na Nasa e pelo visto não. Deram folhetos pra eles com telefones de agências de crédito e dicas de como conseguir empréstimos kkk. É meio tenso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edduyro",
+    "split": "test",
+    "line_idx": 5420,
+    "original_text": "Waiting for both of these things is torture",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esperar por essas duas coisas é uma tortura",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy4kl7",
+    "split": "test",
+    "line_idx": 5421,
+    "original_text": "Easy just include [NAME] to continue to torment [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fácil, só incluir o [NAME] pra continuar atormentando o [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efeeasc",
+    "split": "test",
+    "line_idx": 5422,
+    "original_text": "Thanks. I was diagnosed with BP 1 after the hospitalization as well.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. Fui diagnosticado com transtorno bipolar tipo 1 depois da internação também.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9c7s3",
+    "split": "test",
+    "line_idx": 5423,
+    "original_text": "Well that makes sense.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Bom, isso faz sentido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbiugo",
+    "split": "test",
+    "line_idx": 5424,
+    "original_text": "Daddy issues [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Problemas com o pai, [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbvgp9",
+    "split": "test",
+    "line_idx": 5425,
+    "original_text": "So glad I discovered that subreddit a couple months ago. So good...",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tão bom ter descoberto esse subreddit uns meses atrás. Muito bom...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtjpv6",
+    "split": "test",
+    "line_idx": 5426,
+    "original_text": "Had to watch \"Elmo in Grouchland\" one time too many when my kids were little...musical Elmo / Oscar overdose...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tive que assistir \"As Aventuras de Elmo na Terra dos Monstros\" vezes demais quando meus filhos eram pequenos... overdose musical de Elmo / Oscar...",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

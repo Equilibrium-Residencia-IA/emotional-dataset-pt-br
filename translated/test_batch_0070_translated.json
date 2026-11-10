@@ -1,0 +1,613 @@
+[
+  {
+    "id": "eejjr65",
+    "split": "test",
+    "line_idx": 3500,
+    "original_text": "Guice was a fuckin monster.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "O Guice era um monstro do caralho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexcq19",
+    "split": "test",
+    "line_idx": 3501,
+    "original_text": "Just take them and get them vaccinated without his knowledge. Only one parent is needed. Dont even tell him after it's done.",
+    "emotion_ids": "5,27",
+    "emotions": [
+      "caring",
+      "neutral"
+    ],
+    "translated_text": "Só leva eles pra vacinar sem ele saber. Só precisa de um dos pais. Nem conta pra ele depois que fizer.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenbh7x",
+    "split": "test",
+    "line_idx": 3502,
+    "original_text": "Yeah, be sure to choose an option that won't be painful and has no chance of survival. And make it quick.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "É, vê se escolhe uma opção que não seja dolorosa e sem chance de sobreviver. E faz rápido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqc1yz",
+    "split": "test",
+    "line_idx": 3503,
+    "original_text": "This is really helpful to point out!!",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Muito útil pontuar isso!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef02evj",
+    "split": "test",
+    "line_idx": 3504,
+    "original_text": "nah it takes it a lot more than one time, I reckon you'll be fine considering your aware of the risk",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "nah, precisa de bem mais que uma vez, acho que você vai ficar de boa considerando que tá ciente do risco",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eewu1km",
+    "split": "test",
+    "line_idx": 3505,
+    "original_text": "I'm in the UK dude. It's happening everywhere and most people are either busy hating or living in a bubble so are oblivious.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tô no Reino Unido, mano. Isso tá rolando em todo canto e a maioria das pessoas ou tá ocupada destilando ódio ou vivendo numa bolha, aí nem se toca.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edo362k",
+    "split": "test",
+    "line_idx": 3506,
+    "original_text": "I see you with Zangetsu, and I like it",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Tô te vendo aí com a Zangetsu, e tô curtindo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpgrl4",
+    "split": "test",
+    "line_idx": 3507,
+    "original_text": "Because physical contact promotes bonding. Healthy relationships increase both partner's wellbeing. Routine can be frustrating. Especially when you want to try something new.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque contato físico fortalece o vínculo. Relacionamentos saudáveis aumentam o bem-estar de ambos os parceiros. Rotina pode ser frustrante. Principalmente quando você quer tentar algo novo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1zrig",
+    "split": "test",
+    "line_idx": 3508,
+    "original_text": "I think it's normal. Don't analyse how you look like and worry about it btw, those idiots sure don't when they say their bullshit",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Acho normal. Não fica bitolado na sua aparência e nem esquenta com isso, aliás, esses idiotas com certeza não pensam nisso quando falam essas merdas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4beb7",
+    "split": "test",
+    "line_idx": 3509,
+    "original_text": "welcome to a whole new world, my friend ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "bem-vindo a um mundo totalmente novo, meu amigo ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlxact",
+    "split": "test",
+    "line_idx": 3510,
+    "original_text": "If by probe you mean “ask questions” then it’s To fully understand what you’re trying to say — why else?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se por sondar você quer dizer “fazer perguntas”, então é pra entender direito o que você tá querendo dizer — por que mais seria?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edv77ab",
+    "split": "test",
+    "line_idx": 3511,
+    "original_text": "Looks like backyard [NAME] and the gang have a new member... [NAME]!",
+    "emotion_ids": "20,27",
+    "emotions": [
+      "optimism",
+      "neutral"
+    ],
+    "translated_text": "Parece que o quintal do [NAME] e a turma têm um novo integrante... [NAME]!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgm98k",
+    "split": "test",
+    "line_idx": 3512,
+    "original_text": "There is literally NO reason as to why the Japan ratings are necessary in this post. Zero.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não tem literalmente NENHUM motivo pras notas do Japão serem necessárias nesse post. Zero.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed521dw",
+    "split": "test",
+    "line_idx": 3513,
+    "original_text": "Also N.e.r.d and [NAME] reference lmao",
+    "emotion_ids": "1,27",
+    "emotions": [
+      "amusement",
+      "neutral"
+    ],
+    "translated_text": "E a referência a N.e.r.d e [NAME] kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeg1sc5",
+    "split": "test",
+    "line_idx": 3514,
+    "original_text": "She has a good voice for a yoga teacher",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ela tem uma voz boa pra instrutora de yoga",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtfkk2",
+    "split": "test",
+    "line_idx": 3515,
+    "original_text": "Lmao, this guy is a tool.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkkk, esse cara é um babaca.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5zta4",
+    "split": "test",
+    "line_idx": 3516,
+    "original_text": "Sounds like a great chap",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Parece um cara gente boa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduivne",
+    "split": "test",
+    "line_idx": 3517,
+    "original_text": "[NAME] is 110% 24/7/365 all the time Swag, I just can't fathom.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é 110% estilo 24/7/365 o tempo todo, mano, não consigo nem conceber.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edz9zrb",
+    "split": "test",
+    "line_idx": 3518,
+    "original_text": "Unfortunately, successful and rich people blame foreigners too :(",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Infelizmente, gente rica e bem-sucedida também põe a culpa nos gringos :(",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrxgoq",
+    "split": "test",
+    "line_idx": 3519,
+    "original_text": "Kid thinks he’s [NAME]! Mmm... Pound cake...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O moleque acha que é o [NAME]! Hmmm... Bolo inglês...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8y338",
+    "split": "test",
+    "line_idx": 3520,
+    "original_text": "What happened in his personal life? I know he had a bunch of head injuries; is there more than that?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que aconteceu na vida pessoal dele? Eu sei que ele teve vários traumatismos cranianos; rolou algo além disso?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efftjy3",
+    "split": "test",
+    "line_idx": 3521,
+    "original_text": "When you insult someone you might want to start by insulting them to where they can understand what you're trying to say...who givES A fuck .",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Quando for xingar alguém, é bom começar xingando de um jeito que a pessoa consiga entender o que você tá querendo dizer... quem se IMPORTA com essa porra .",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eergwgw",
+    "split": "test",
+    "line_idx": 3522,
+    "original_text": "[NAME] will be livid if he does not get a burger but see [NAME] stuffing his face.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] vai ficar puto se não ganhar um hambúrguer e ver o [NAME] enchendo o bucho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8h1wq",
+    "split": "test",
+    "line_idx": 3523,
+    "original_text": "I'm surprised he survived the primary.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Tô surpreso que ele sobreviveu às prévias.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee75h2b",
+    "split": "test",
+    "line_idx": 3524,
+    "original_text": "The altcoin thread!? This is the first time I've seen it in 6 months.",
+    "emotion_ids": "26,27",
+    "emotions": [
+      "surprise",
+      "neutral"
+    ],
+    "translated_text": "A thread de altcoin!? É a primeira vez que vejo isso em 6 meses.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed8m6e",
+    "split": "test",
+    "line_idx": 3525,
+    "original_text": "Can we not say \"Team [NAME]\" or \"Team [NAME]\" etc. That's too close to us style politics for my likes...",
+    "emotion_ids": "7,10",
+    "emotions": [
+      "curiosity",
+      "disapproval"
+    ],
+    "translated_text": "Dá pra gente não falar \"Time [NAME]\" ou \"Time [NAME]\" etc.? Isso lembra demais a política no estilo dos EUA pro meu gosto...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0uib8",
+    "split": "test",
+    "line_idx": 3526,
+    "original_text": "The cognitive dissonance is strong with you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A dissonância cognitiva é forte em você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebmhdn",
+    "split": "test",
+    "line_idx": 3527,
+    "original_text": "I find it unfortunate that you use gender-non-conformance as an insult.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Acho lamentável você usar não conformidade de gênero como ofensa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee07ldq",
+    "split": "test",
+    "line_idx": 3528,
+    "original_text": "The only ignorant person here is you, and the Pope who makes the same baseless claims as you.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "A única pessoa ignorante aqui é você, e o Papa que faz as mesmas afirmações sem base que você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8dcup",
+    "split": "test",
+    "line_idx": 3529,
+    "original_text": "It's the issue with a lot of 'activists' who think all's they have to do is exist.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse é o problema de um monte de \"ativista\" que acha que a única coisa que tem que fazer é existir.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edq1nvk",
+    "split": "test",
+    "line_idx": 3530,
+    "original_text": "Oh, I realized that moments after rolling down my window, when his hand came through the space. ",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ah, eu percebi isso logo depois de abaixar o vidro, quando a mão dele passou pelo vão. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een4s88",
+    "split": "test",
+    "line_idx": 3531,
+    "original_text": "[NAME] is a MOTHERFUCKER",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "[NAME] é um FILHO DA PUTA",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edh3gi7",
+    "split": "test",
+    "line_idx": 3532,
+    "original_text": "Oh sweet I get [NAME] powers",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah que massa, eu ganho os poderes de [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7odkl",
+    "split": "test",
+    "line_idx": 3533,
+    "original_text": "This response is highly unexpected yet logical. I’m fixin to chew on it for a spell.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Essa resposta é bem inesperada, mas muito lógica. Vou ficar ruminando isso por um tempo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edu9dc7",
+    "split": "test",
+    "line_idx": 3534,
+    "original_text": "hahah if only he had reddit",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "hahaha se ele ao menos tivesse reddit",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu0j16",
+    "split": "test",
+    "line_idx": 3535,
+    "original_text": "Not a fan of Hot Space. I like one song on there and that's Under Pressure.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Não curto muito o Hot Space. Só gosto de uma música dali que é Under Pressure.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeepbx5",
+    "split": "test",
+    "line_idx": 3536,
+    "original_text": "I love it! It’s strangely charming lol!!! Especially when she comes back to camera speaking normally.",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "Adorei! É estranhamente charmoso kkkk!!! Especialmente quando ela volta pra câmera falando normalmente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee61cjd",
+    "split": "test",
+    "line_idx": 3537,
+    "original_text": "Having a good list of alternatives would be something great we could produce",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ter uma boa lista de alternativas seria algo excelente pra gente criar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqdu2p",
+    "split": "test",
+    "line_idx": 3538,
+    "original_text": "The must be on the prowl because I've been getting these calls a lot lately.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles devem estar à caça, porque tenho recebido essas ligações direto ultimamente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efh0u98",
+    "split": "test",
+    "line_idx": 3539,
+    "original_text": "People are disgusting and insane.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "As pessoas são nojentas e insanas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevcnj0",
+    "split": "test",
+    "line_idx": 3540,
+    "original_text": "Quite enjoying this tbh",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Tô curtindo bastante isso, pra falar a verdade",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcm8gf",
+    "split": "test",
+    "line_idx": 3541,
+    "original_text": "UNLESS THEY ARE ABUSIVE OR IT'S AN LDR!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A MENOS QUE SEJAM ABUSIVOS OU SEJA UM RELACIONAMENTO À DISTÂNCIA!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5ne6r",
+    "split": "test",
+    "line_idx": 3542,
+    "original_text": "0.1% is a 1 in a thousand chance there, dumbass.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "0,1% é 1 chance em mil, seu imbecil.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edq7vl7",
+    "split": "test",
+    "line_idx": 3543,
+    "original_text": "Just a simple man trying to make his way in the galaxy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Apenas um homem simples tentando achar seu caminho na galáxia",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelv98w",
+    "split": "test",
+    "line_idx": 3544,
+    "original_text": "Damned asshole trouble maker!! Someone has mummy issues. 👀",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Maldito babaca encrenqueiro!! Alguém aí tem problema com a mãe. 👀",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer85ad",
+    "split": "test",
+    "line_idx": 3545,
+    "original_text": "What reason do you have for not already having been prepared?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Que motivo você tem pra ainda não estar preparado?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesno19",
+    "split": "test",
+    "line_idx": 3546,
+    "original_text": "I am shocked they don’t have a vanity plate that reads “Beer Cheez”",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Fico de cara que eles não têm uma placa personalizada escrito \"Beer Cheez\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezxeyk",
+    "split": "test",
+    "line_idx": 3547,
+    "original_text": "Gotta love how \"QUESTIONING\" is front and center in the list of things these warriors for [NAME] consider brainwashing.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Bom demais como \"QUESTIONAR\" tá bem no centro da lista de coisas que esses defensores de [NAME] acham que é lavagem cerebral.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eec8lim",
+    "split": "test",
+    "line_idx": 3548,
+    "original_text": "Imma say this didn’t happen",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vou mandar a real: isso não aconteceu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezsr2a",
+    "split": "test",
+    "line_idx": 3549,
+    "original_text": "Soooo [NAME] is f**ked",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Entããão o [NAME] tá f**dido",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "id": "ee066hi",
+    "split": "test",
+    "line_idx": 1950,
+    "original_text": "This is his speculation or a leak?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Isso é especulação dele ou um vazamento?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ees2ln3",
+    "split": "test",
+    "line_idx": 1951,
+    "original_text": "I live downtown and walk around at odd hours of the night all the time. Love the empty and abandoned feel of the city.",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Eu moro no centro e fico andando por aí de madrugada o tempo todo. Amo essa vibe vazia e abandonada da cidade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4d93d",
+    "split": "test",
+    "line_idx": 1952,
+    "original_text": "Got a good laugh out of that. Plenty of wall of shame material.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Dei uma boa risada disso. Prato cheio pro mural da vergonha.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu1xl8",
+    "split": "test",
+    "line_idx": 1953,
+    "original_text": "FYI… the [NAME] has these in their kitchen in “ That 70s Show.”",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só pra avisar… os [NAME] têm dessas na cozinha deles em “That 70s Show”.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddu6n4",
+    "split": "test",
+    "line_idx": 1954,
+    "original_text": "Some of them will have to get new vehicles to meet the requirements. That means we get cleaner air. Where's the problem exactly?",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Alguns deles vão ter que comprar veículos novos pra cumprir os requisitos. Isso significa que teremos um ar mais limpo. Onde tá o problema exatamente?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee96koq",
+    "split": "test",
+    "line_idx": 1955,
+    "original_text": "Awesome! Thank you!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sensacional! Valeu!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3f888",
+    "split": "test",
+    "line_idx": 1956,
+    "original_text": "They cannot bypass racial discrimination without facing a serious backlash.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles não podem ignorar a discriminação racial sem enfrentar uma baita reação negativa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1nb7s",
+    "split": "test",
+    "line_idx": 1957,
+    "original_text": "Humanity is doomed",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "A humanidade tá condenada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzlk7h",
+    "split": "test",
+    "line_idx": 1958,
+    "original_text": "Probably vallied out man haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Provavelmente chapadão de valium, mano haha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eda0zli",
+    "split": "test",
+    "line_idx": 1959,
+    "original_text": "Maybe you'll get lucky and it will fall apart before they go through with it.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Quem sabe você dá sorte e isso desanda antes que eles levem a ideia adiante.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqsuhz",
+    "split": "test",
+    "line_idx": 1960,
+    "original_text": "He's 38 he should retire I hope he at least gets traded to a contender",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Ele tá com 38 anos, devia se aposentar. Espero que pelo menos seja trocado pra um time que brigue pelo título",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eef7siy",
+    "split": "test",
+    "line_idx": 1961,
+    "original_text": "Thank [NAME] she did the math for us",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Graças a [NAME] que ela fez as contas pra gente",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzk8qa",
+    "split": "test",
+    "line_idx": 1962,
+    "original_text": "Y’all out here really believing this and I think that’s the funniest part",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Vocês aí caindo nessa de verdade, e acho que essa é a parte mais engraçada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8dyhp",
+    "split": "test",
+    "line_idx": 1963,
+    "original_text": "They were barely given a chance",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles mal tiveram uma chance",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9fqtg",
+    "split": "test",
+    "line_idx": 1964,
+    "original_text": "Oh absolutely. No way he should run in 2020. I don't know what alternatives there are though.",
+    "emotion_ids": "6,10",
+    "emotions": [
+      "confusion",
+      "disapproval"
+    ],
+    "translated_text": "Ah, com certeza. Nem pensar que ele deveria concorrer em 2020. Mas não sei quais seriam as alternativas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5qexv",
+    "split": "test",
+    "line_idx": 1965,
+    "original_text": "how blurry this photo is r/mildlyinfuriating",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "o quanto essa foto tá borrada é de foder r/mildlyinfuriating",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edua0xk",
+    "split": "test",
+    "line_idx": 1966,
+    "original_text": "We also one because [NAME] straight took that game over late.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "A gente também ganhou porque o [NAME] simplesmente chamou a responsabilidade e dominou o jogo no finalzinho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefl3t6",
+    "split": "test",
+    "line_idx": 1967,
+    "original_text": "Always thought [NAME] spear look lethal...especially compared to someone like [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sempre achei o spear do [NAME] com cara de letal... ainda mais se comparado a alguém como o [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezadz8",
+    "split": "test",
+    "line_idx": 1968,
+    "original_text": "Lol I can’t wait to end up on this sub one day.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkk mal posso esperar pra parar nesse sub um dia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7ogvy",
+    "split": "test",
+    "line_idx": 1969,
+    "original_text": "And why would I do that? Edit: Thanks for setting up that Walder Frey line for me",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "E por que eu faria isso? Edit: Valeu por me dar a deixa pra falar a fala do Walder Frey",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevkb8g",
+    "split": "test",
+    "line_idx": 1970,
+    "original_text": "Plot twist: they don‘t Want to Go To school",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Plot twist: eles não Querem ir Pra escola",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesj4xr",
+    "split": "test",
+    "line_idx": 1971,
+    "original_text": "Firemen make roughly 30000£ in UK today.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bombeiros ganham mais ou menos 30.000 libras no Reino Unido hoje.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een4eu0",
+    "split": "test",
+    "line_idx": 1972,
+    "original_text": "2-4 minutes is not enough time to wash long hair. 10-15 minutes minimum. Stay strong!",
+    "emotion_ids": "5,22",
+    "emotions": [
+      "caring",
+      "realization"
+    ],
+    "translated_text": "2 a 4 minutos não é tempo suficiente pra lavar cabelo comprido. 10 a 15 minutos no mínimo. Força aí!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edp6mce",
+    "split": "test",
+    "line_idx": 1973,
+    "original_text": "Total non-reaction by the trio of guys. ‘There goes [NAME] again. Every time we come out here.’",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nenhuma reação da parte do trio de caras. ‘Lá vai o [NAME] de novo. Toda vez que a gente vem pra cá.’",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efcsywh",
+    "split": "test",
+    "line_idx": 1974,
+    "original_text": "[NAME] and [NAME] Funny thing is they both had a feud too and were in the ring at same time a lot",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] e [NAME] O engraçado é que os dois tinham uma rivalidade também e tavam sempre no ringue juntos ao mesmo tempo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edsmp9z",
+    "split": "test",
+    "line_idx": 1975,
+    "original_text": "That's not a healthy way of thinking. Obviously that dude was troubled and, without proper help, he would have done these things regardless.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Essa forma de pensar não é nada saudável. É óbvio que aquele cara tinha problemas e, sem a ajuda adequada, ele teria feito essas coisas de qualquer jeito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed80l3h",
+    "split": "test",
+    "line_idx": 1976,
+    "original_text": "Unless you're the type of person who rolls through relationships every 3-6 months like clockwork",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "A menos que você seja o tipo de pessoa que engata um relacionamento atrás do outro a cada 3-6 meses que nem um reloginho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebz30i",
+    "split": "test",
+    "line_idx": 1977,
+    "original_text": "I’m glad I’m not the only one who was pedantic enough to notice.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ainda bem que não fui o único que foi detalhista a ponto de reparar nisso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczkjma",
+    "split": "test",
+    "line_idx": 1978,
+    "original_text": "Are you daft ... ? That is and always has been the proposal. [NAME] don't listen and don't care though. Fucking dumbass.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Você é burro... ? Essa é e sempre foi a proposta. Só que o [NAME] não escuta e não tá nem aí. Puta que pariu, seu animal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkpjxg",
+    "split": "test",
+    "line_idx": 1979,
+    "original_text": "Fun fact. If you combined North Dakota, South Dakota, Wyoming and Montana into one state it would have roughly the same population as Puerto Rico!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Curiosidade. Se juntasse Dakota do Norte, Dakota do Sul, Wyoming e Montana em um só estado, teria mais ou menos a mesma população de Porto Rico!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeoenuz",
+    "split": "test",
+    "line_idx": 1980,
+    "original_text": "[NAME]. Think there’s some controversy over how common that was though",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]. Acho que tem uma certa controvérsia sobre o quão comum isso era, no entanto",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeubbji",
+    "split": "test",
+    "line_idx": 1981,
+    "original_text": "This is the reason why I don't have friends. Not even skinny ones, you never know how they will be in the furure",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É por isso que eu não tenho amigos. Nem magros, nunca se sabe como vão ficar no fururo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed19gjz",
+    "split": "test",
+    "line_idx": 1982,
+    "original_text": "learn to say no more. After a few times you have something you like destroyed it gets easier.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "aprenda a não falar mais. Depois de ver coisas que você gosta serem destruídas algumas vezes, fica mais fácil.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebhcn9",
+    "split": "test",
+    "line_idx": 1983,
+    "original_text": "My favourite is peeing in restrooms and your feet can't touch the floor while sitting on the toilet.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que eu mais gosto é de fazer xixi em banheiro público e os seus pés não alcançarem o chão sentado no vaso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjpk2k",
+    "split": "test",
+    "line_idx": 1984,
+    "original_text": "I love how many penguins stopped and waited for him 😍",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amei como um monte de pinguins parou e esperou por ele 😍",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezkc62",
+    "split": "test",
+    "line_idx": 1985,
+    "original_text": "ok? dont really know what that has to do with it. [NAME] designs the offense, [NAME] just runs it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "beleza? não sei muito bem o que isso tem a ver. [NAME] desenha as jogadas de ataque, o [NAME] só executa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eda1qmv",
+    "split": "test",
+    "line_idx": 1986,
+    "original_text": "Sounds like he's lying to you both. You probably would have a lot of heart ache if you continue to be involved with this one.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que ele tá mentindo pras duas. É bem provável que você quebre muito a cara se continuar se envolvendo com esse cara.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesv6eg",
+    "split": "test",
+    "line_idx": 1987,
+    "original_text": "Thank you, next! ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Thank you, next!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eennia4",
+    "split": "test",
+    "line_idx": 1988,
+    "original_text": "Going to the doctor tomorrow for a checkup to make sure everything is normal and hopefully this shit is just in my head.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Vou ao médico amanhã pra fazer um check-up e ter certeza de que tá tudo normal, e tomara que essas merdas sejam só paranoia da minha cabeça.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edf6ni8",
+    "split": "test",
+    "line_idx": 1989,
+    "original_text": "you guys got hate in your heart",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "vocês têm ódio no coração",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkj6zy",
+    "split": "test",
+    "line_idx": 1990,
+    "original_text": "DAE hate unnecessarily salty people like OP?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mais alguém aí odeia gente amargurada à toa que nem o OP?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeylwuu",
+    "split": "test",
+    "line_idx": 1991,
+    "original_text": "That’s adorable! He probably wants them all in one spot so he can make sure they’re ok and not getting lost or hurt.",
+    "emotion_ids": "0,5",
+    "emotions": [
+      "admiration",
+      "caring"
+    ],
+    "translated_text": "Que fofura! Ele provavelmente quer todos eles no mesmo lugar pra garantir que tão bem e não vão se perder nem se machucar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5w5wr",
+    "split": "test",
+    "line_idx": 1992,
+    "original_text": "I think you'll find that dating is really difficult for poly men. It's the biggest reason why I'm monogamous.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Acho que você vai ver que namorar é muito difícil pra homens não-mono. Esse é o maior motivo de eu ser monogâmico.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj70fv",
+    "split": "test",
+    "line_idx": 1993,
+    "original_text": "It’s perfect. You’re perfect. Never change.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tá perfeito. Você é perfeita. Nunca mude.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efficjb",
+    "split": "test",
+    "line_idx": 1994,
+    "original_text": "\"are you related?\" \"No\" \"Are you <more specific type of related>?\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"vocês são parentes?\" \"Não\" \"Vocês são <tipo mais específico de parentesco>?\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edihf3r",
+    "split": "test",
+    "line_idx": 1995,
+    "original_text": "“Lol that’s Sammie coates replacement not minds take it how you want to I am back”- [NAME] - AB",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "“Kkk esse aí é o substituto do Sammie coates e não o meu entendam como quiserem eu voltei”- [NAME] - AB",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7bp2v",
+    "split": "test",
+    "line_idx": 1996,
+    "original_text": "Apparently, they couldn't believe a massive corporation (that they're loyal to) finally called them out.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo visto, eles não conseguiram acreditar que uma corporação gigante (com a qual eles são leais) finalmente deu um puxão de orelha neles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe1uuq",
+    "split": "test",
+    "line_idx": 1997,
+    "original_text": "THIS IS SO GOOD. Thank you!!!",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "ISSO FICOU BOM DEMAIS. Muito obrigado!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9h84t",
+    "split": "test",
+    "line_idx": 1998,
+    "original_text": "Nobody is mad about that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ninguém tá puto com isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3ggkk",
+    "split": "test",
+    "line_idx": 1999,
+    "original_text": "Mr. Met is a legend! Outrageous. Now... If you wanna talk about hateworthy mascots... The Phanatic fits the bill.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O Mr. Met é uma lenda! Um absurdo. Agora... Se você quiser falar de mascotes que merecem ser odiados... O Phanatic é um ótimo exemplo.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

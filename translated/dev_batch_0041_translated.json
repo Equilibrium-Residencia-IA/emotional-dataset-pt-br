@@ -1,0 +1,612 @@
+[
+  {
+    "id": "ed7y7i5",
+    "split": "dev",
+    "line_idx": 1750,
+    "original_text": "You should hit up [NAME], he can help.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você devia dar um toque no [NAME], ele pode ajudar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkvhia",
+    "split": "dev",
+    "line_idx": 1751,
+    "original_text": "What are you referencing?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Você tá se referindo a quê?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqvjpi",
+    "split": "dev",
+    "line_idx": 1752,
+    "original_text": "Opiates make me puke and so do babies. Where the science there? Babies are just nasty",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Opiáceos me dão vômito e bebês também. Cadê a ciência aí? Bebês são nojentos demais",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeuwcao",
+    "split": "dev",
+    "line_idx": 1753,
+    "original_text": "My office has very few personal offices. Its awful. Managers need closed spaces so they can talk without everybody hearing",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "No meu escritório quase não tem sala individual. É horrível. Gestor precisa de espaço fechado pra poder conversar sem todo mundo ouvir",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8i3pn",
+    "split": "dev",
+    "line_idx": 1754,
+    "original_text": "> Update they would've never been arrested or charged if they weren't black. Epitome of the disgusting systemic racism in this country #UBERPOOLtoPrisonPipeline",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> Atualização: eles nunca teriam sido presos ou acusados se não fossem negros. O ápice do racismo sistêmico nojento desse país #UBERPOOLtoPrisonPipeline",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eez65g0",
+    "split": "dev",
+    "line_idx": 1755,
+    "original_text": "No a white chubby boy with scene hair. He wasn’t wearing a shirt in the video.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, um garoto branco gordinho com cabelo de emo. Ele tava sem camisa no vídeo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1aht3",
+    "split": "dev",
+    "line_idx": 1756,
+    "original_text": "I'm sad, but I just want a new Metroid game, and if this is what it takes to make it great then I understand",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Tô triste, mas eu só quero um jogo novo de Metroid, e se é isso que precisa pra ficar foda, então eu entendo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efc2esx",
+    "split": "dev",
+    "line_idx": 1757,
+    "original_text": "So you could say that this is one of very few subreddits that manages to somewhat avoid political spins and that the original commentor is a worthless shill",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Então dá pra dizer que esse é um dos pouquíssimos subreddits que consegue fugir um pouco de manipulações políticas e que quem comentou originalmente é um vendido sem vergonha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7t6zk",
+    "split": "dev",
+    "line_idx": 1758,
+    "original_text": "I was expecting a fun game about dolphins once upon a time...mistakes were made.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Era uma vez alguém esperando um joguinho divertido sobre golfinhos... erros foram cometidos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4tlin",
+    "split": "dev",
+    "line_idx": 1759,
+    "original_text": "Pickles taste good.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Picles é uma delícia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeltk8w",
+    "split": "dev",
+    "line_idx": 1760,
+    "original_text": "Ah, tis the coder life. Be glad you didn't accidentally wipe a database or something, haha.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ah, vida de programador é isso aí. Dá graças a Deus que você não apagou um banco de dados sem querer nem nada do tipo, haha.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2kxas",
+    "split": "dev",
+    "line_idx": 1761,
+    "original_text": "Now I'm over thinking. Maybe I have justified it to be able to move on and get closure???",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Agora tô pensando demais sobre isso. Será que eu justifiquei isso só pra conseguir seguir em frente e virar essa página???",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edu9v1k",
+    "split": "dev",
+    "line_idx": 1762,
+    "original_text": "Only time I teabag, my friend was getting moried at the exit gate and I teabagged him before I left",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Única vez que dei teabag, meu amigo tava tomando mori no portão de saída e eu agachei na cara dele antes de vazar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeh8iw8",
+    "split": "dev",
+    "line_idx": 1763,
+    "original_text": "Finding a Poliwag is not hard you can usually find them in Pallet Town.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Achar um Poliwag não é difícil, geralmente você encontra eles em Pallet Town.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj9qqx",
+    "split": "dev",
+    "line_idx": 1764,
+    "original_text": "PIN IS TOO SMALL TO FIT 20 PEOPLE! #NEXT!",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "A VANS É PEQUENA DEMAIS PRA CABER 20 PESSOAS! #PRÓXIMO!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelvl0i",
+    "split": "dev",
+    "line_idx": 1765,
+    "original_text": "This will forever be my most fav April moment!",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Esse vai ser pra sempre o meu momento favorito da April!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed59o8s",
+    "split": "dev",
+    "line_idx": 1766,
+    "original_text": "After 8? I'm afraid after 5. It gets dark here early. :(",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Depois das 8? Eu já fico com medo depois das 5. Aqui escurece cedo. :(",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjoojz",
+    "split": "dev",
+    "line_idx": 1767,
+    "original_text": "You're welcome",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "De nada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezdzcp",
+    "split": "dev",
+    "line_idx": 1768,
+    "original_text": "Because shes fake and selfish, I get a really fake vibe off her like shes playing a role and has no feelings",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Porque ela é falsa e egoísta, ela me passa uma vibe muito falsa, como se tivesse atuando e não sentisse nada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7ar2a",
+    "split": "dev",
+    "line_idx": 1769,
+    "original_text": "Do you read any of the content on this sub? Lol. Because it contains very specific detailed critiques and concerns that you're conveniently ignoring...",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ],
+    "translated_text": "Você lê alguma coisa do conteúdo desse sub? Kkk. Porque tem críticas e preocupações super específicas e detalhadas que você tá convenientemente ignorando...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edoqlf8",
+    "split": "dev",
+    "line_idx": 1770,
+    "original_text": "You have so much to learn my sweet summer child",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você ainda tem tanto a aprender, doce criança do verão",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesbc6e",
+    "split": "dev",
+    "line_idx": 1771,
+    "original_text": "Limiting warming to 0.9 degrees from now [NAME] damn, they using a young baseline. Like 1951 or something. Were warmer than just 1 C",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Limitar o aquecimento a 0,9 graus a partir de agora [NAME] caramba, eles tão usando uma linha de base muito recente. Tipo 1951 ou algo assim. A gente já aqueceu mais do que apenas 1 C",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzvr1p",
+    "split": "dev",
+    "line_idx": 1772,
+    "original_text": "Thanks I will check that out.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, vou dar uma olhada nisso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerjl1v",
+    "split": "dev",
+    "line_idx": 1773,
+    "original_text": "[NAME] is an embarrassment to this state",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "[NAME] é uma vergonha pra esse estado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm887i",
+    "split": "dev",
+    "line_idx": 1774,
+    "original_text": "Thank you so much . I'm really really really nervous.. I just want to cry.",
+    "emotion_ids": "15,19",
+    "emotions": [
+      "gratitude",
+      "nervousness"
+    ],
+    "translated_text": "Muito obrigada . Eu tô muito muito muito nervosa.. Só quero chorar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edl501s",
+    "split": "dev",
+    "line_idx": 1775,
+    "original_text": "Man you sure are obsessed with race. Much like [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nossa, como você é obcecado por raça, hein. Bem no estilo [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg08q7",
+    "split": "dev",
+    "line_idx": 1776,
+    "original_text": "The vagoo has been stretched over the bike, it allows for a comfortable and pleasurable ride, pretty innovative and cleaver way to operate a locomotive.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A xereca foi esticada por cima da bike, permite uma pedalada confortável e prazerosa, um jeito bem inovador e engenhoso de pilotar uma locomotiva.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efdwgq8",
+    "split": "dev",
+    "line_idx": 1777,
+    "original_text": "Out of curiosity, why are you specifically interested in talking to aspies? ",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por curiosidade, por que você tem tanto interesse em conversar especificamente com aspies?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef2nzz5",
+    "split": "dev",
+    "line_idx": 1778,
+    "original_text": "hahahaha. Love it",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "hahahaha. Amei",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edp9cqn",
+    "split": "dev",
+    "line_idx": 1779,
+    "original_text": "Original:",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Original:",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpecyu",
+    "split": "dev",
+    "line_idx": 1780,
+    "original_text": "Wow can relationships be like this? That's amazing",
+    "emotion_ids": "0,26",
+    "emotions": [
+      "admiration",
+      "surprise"
+    ],
+    "translated_text": "Nossa, relacionamentos podem ser assim? Que incrível",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy6k9q",
+    "split": "dev",
+    "line_idx": 1781,
+    "original_text": "Sometimes I want these guys to make it. Sometimes I want these dumbasses to fail.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Às vezes eu quero que esses caras se deem bem. Às vezes eu quero que esses idiotas se ferrem.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqikij",
+    "split": "dev",
+    "line_idx": 1782,
+    "original_text": "Licking the grease from people’s fingers as they leave chicken cottage for sustenance.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Lambendo a gordura dos dedos das pessoas quando elas saem da lanchonete pra poder se sustentar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3b8ym",
+    "split": "dev",
+    "line_idx": 1783,
+    "original_text": "Agree on the last point. My INTP friend's ENFP is immature since she's still young. Gets jealous at every damn girl that approaches... Sigh",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Concordo com o último ponto. A ENFP do meu amigo INTP é imatura porque ainda é novinha. Fica com ciúme de qualquer garota que chega perto... Putz",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efa2ct9",
+    "split": "dev",
+    "line_idx": 1784,
+    "original_text": "We have a lovely new bridge in Edmonton that you can jump off if you don't like it :)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente tem uma ponte novinha linda em Edmonton de onde você pode pular se não gostar :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edym8uw",
+    "split": "dev",
+    "line_idx": 1785,
+    "original_text": "It's still going on not to forget all the shady stuff they're likely doing that no one knows about yet.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ainda tá rolando, sem falar em todas as maracutaias que eles provavelmente tão fazendo e que ninguém sabe ainda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eecr82d",
+    "split": "dev",
+    "line_idx": 1786,
+    "original_text": "Lol yeah. It’s cute that he said it but didn’t realise it could have a double meaning.",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "Kkkk sim. Que fofinho ele ter falado isso sem perceber que podia ter duplo sentido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednnig9",
+    "split": "dev",
+    "line_idx": 1787,
+    "original_text": "While I love the brutality of Odyssey, my personal favorites were from Black Flag. ",
+    "emotion_ids": "4,17",
+    "emotions": [
+      "approval",
+      "joy"
+    ],
+    "translated_text": "Embora eu adore a brutalidade do Odyssey, as minhas favoritas mesmo eram as do Black Flag.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefr2qg",
+    "split": "dev",
+    "line_idx": 1788,
+    "original_text": "I got over 900 responses, so it is taking more time that I expected, hopefully will be done by this Sunday.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Recebi mais de 900 respostas, então tá demorando mais do que eu esperava, tomara que fique pronto até este domingo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew23n6",
+    "split": "dev",
+    "line_idx": 1789,
+    "original_text": "lmao no. *assigned* female. Doctors can be wrong, especially wrt intersex children. The rest is just words to say things, not actually responding to anything.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "kkkkk não. *designada* mulher. Médicos podem errar, principalmente em relação a crianças intersexo. O resto é só enrolação pra falar algo, sem responder nada de verdade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efckq0z",
+    "split": "dev",
+    "line_idx": 1790,
+    "original_text": "But the last scene I saw was just [NAME] bringing the kid to her no talk of leaving was there a scene where [NAME] reconciles with [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas a última cena que eu vi foi só o [NAME] levando a criança pra ela sem falar nada de ir embora teve alguma cena em que o [NAME] se reconcilia com a [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edw6sso",
+    "split": "dev",
+    "line_idx": 1791,
+    "original_text": "Was just wondering about the mobile thing. I only use mobile and I've never noticed anything odd. It's not something people would care about anyhow.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Só tava na dúvida sobre essa história do celular. Eu só uso pelo celular e nunca reparei em nada estranho. De qualquer forma, não é algo com que as pessoas se importariam.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed11edx",
+    "split": "dev",
+    "line_idx": 1792,
+    "original_text": "Really? it's probably the funniest movie I've ever seen.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Sério? É provavelmente o filme mais engraçado que eu já vi.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edk79k6",
+    "split": "dev",
+    "line_idx": 1793,
+    "original_text": "I don't get it. Maybe i need to position myself better to get dibs on batches. I literally have only made $60 a week.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Não entendo. Talvez eu precise me posicionar melhor pra pegar os lotes primeiro. Eu literalmente só fiz 60 dólares em uma semana.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed164dh",
+    "split": "dev",
+    "line_idx": 1794,
+    "original_text": "When hes nailing threes though its a glorious thing.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Mas quando ele acerta de três é uma coisa linda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3rr4a",
+    "split": "dev",
+    "line_idx": 1795,
+    "original_text": "Pfft why pay money when you can get similar negativity on reddit for free",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Pfft pra que pagar se você pode ter uma negatividade parecida no reddit de graça",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2kw21",
+    "split": "dev",
+    "line_idx": 1796,
+    "original_text": "Please elaborate on that story! Ive always been afraid of exactly this happening to me.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Por favor conta mais dessa história! Eu sempre tive pavor de acontecer exatamente isso comigo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edidssz",
+    "split": "dev",
+    "line_idx": 1797,
+    "original_text": "This is one of the coolest things I’ve seen on Reddit",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Essa é uma das coisas mais legais que já vi no Reddit",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efg0c9a",
+    "split": "dev",
+    "line_idx": 1798,
+    "original_text": "Thanks [NAME].",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegnshm",
+    "split": "dev",
+    "line_idx": 1799,
+    "original_text": "[NAME] is the most useless phantom thief change my mind",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "[NAME] é o phantom thief mais inútil de todos, mude minha opinião",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

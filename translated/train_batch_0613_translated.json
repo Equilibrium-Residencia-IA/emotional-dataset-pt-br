@@ -1,0 +1,610 @@
+[
+  {
+    "id": "edmx0b5",
+    "split": "train",
+    "line_idx": 30650,
+    "original_text": "You might be right. Not everybody is going to find their way the same as I did.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você deve estar certo. Nem todo mundo vai achar seu caminho do mesmo jeito que eu achei.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee5pxrn",
+    "split": "train",
+    "line_idx": 30651,
+    "original_text": "Sounds like she wants dessert, but hates you eating any cake. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que ela quer sobremesa, mas odeia que você coma qualquer bolo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edxckdl",
+    "split": "train",
+    "line_idx": 30652,
+    "original_text": "The cost of centralized mandatory services is an example of socialism driving up prices. Get your facts straight.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O custo de serviços obrigatórios centralizados é um exemplo do socialismo elevando os preços. Se informe direito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edzawf7",
+    "split": "train",
+    "line_idx": 30653,
+    "original_text": "They do get an awful lot of upvotes, so they seem to have at least some support from others.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eles ganham muitos votos positivos mesmo, então parece que tão tendo pelo menos um pouco de apoio dos outros.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeca8q5",
+    "split": "train",
+    "line_idx": 30654,
+    "original_text": "A stunning place, you will need lots of cuddles to stay warm though!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Um lugar deslumbrante, mas você vai precisar de muitos abraços pra se manter aquecido!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edurhni",
+    "split": "train",
+    "line_idx": 30655,
+    "original_text": "Anybody think maybe we’re the mystery team in on [NAME]? At this point I wouldn’t be surprised.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Alguém acha que talvez a gente seja o time mistério de olho no [NAME]? A essa altura eu não ficaria surpreso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3p4g9",
+    "split": "train",
+    "line_idx": 30656,
+    "original_text": "Posting someone elses camp on reddit? Really? haha.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Postando o acampamento de outra pessoa no reddit? Sério? haha.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efepngv",
+    "split": "train",
+    "line_idx": 30657,
+    "original_text": "Unfortunately, the DM is [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Infelizmente, o DM é o [NAME].",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edc8dxx",
+    "split": "train",
+    "line_idx": 30658,
+    "original_text": "Not sure why you're trying to shove spoiler hints into the face of someone who explicitly said they just finished chapter 1 but more power to you I guess",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei por que você tá tentando enfiar dicas de spoiler na cara de alguém que disse claramente que acabou de terminar o capítulo 1, mas faz o que você quiser eu acho",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edmhe3l",
+    "split": "train",
+    "line_idx": 30659,
+    "original_text": "If they could get a psychologist/therapist maybe they would have a better life.",
+    "emotion_ids": "20,27",
+    "emotions": [
+      "optimism",
+      "neutral"
+    ],
+    "translated_text": "Se eles conseguissem um psicólogo/terapeuta talvez tivessem uma vida melhor.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eerxf69",
+    "split": "train",
+    "line_idx": 30660,
+    "original_text": "My meme coins are starting to hit the 70% growth range from the beginning of the month. I'm feeling bullish.",
+    "emotion_ids": "12,20,21",
+    "emotions": [
+      "embarrassment",
+      "optimism",
+      "pride"
+    ],
+    "translated_text": "Minhas meme coins estão começando a bater na faixa de 70% de crescimento desde o começo do mês. Tô sentindo que vai subir.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eer3euv",
+    "split": "train",
+    "line_idx": 30661,
+    "original_text": "Thank you! It sucks but not being a zombie is so worth it!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado! É uma merda, mas não ser um zumbi vale muito a pena!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5vq71",
+    "split": "train",
+    "line_idx": 30662,
+    "original_text": "This makes me unfathomably angry.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Isso me deixa puto de um jeito inexplicável.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef7rbgq",
+    "split": "train",
+    "line_idx": 30663,
+    "original_text": "That's because there are a lot of other attrocities that have happened since then. [NAME] aren't the only ones facing discrimination.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Isso é porque tem um monte de outras atrocidades que aconteceram desde então. [NAME] não são os únicos enfrentando discriminação.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlb487",
+    "split": "train",
+    "line_idx": 30664,
+    "original_text": "Yeah. Why throw a wrench into a handy conviction?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "É. Pra que complicar uma condenação que tá no papo?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedk0dd",
+    "split": "train",
+    "line_idx": 30665,
+    "original_text": "Great to hear that. Go beyond, plus ultra!",
+    "emotion_ids": "0,5",
+    "emotions": [
+      "admiration",
+      "caring"
+    ],
+    "translated_text": "Que ótimo saber disso. Vá além, plus ultra!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed15t1n",
+    "split": "train",
+    "line_idx": 30666,
+    "original_text": "It was 3 grams in total, my buddies and I rolled with our own stuff",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Foi 3 gramas no total, eu e meus manos bolamos com a nossa própria parada",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eel3jmy",
+    "split": "train",
+    "line_idx": 30667,
+    "original_text": "So, just a super verbose tone trolling?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Então, só um troll com um papo super rebuscado?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehkr51",
+    "split": "train",
+    "line_idx": 30668,
+    "original_text": "They claim religious persecution and no lawmaker would want to deal with that can of worms.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles alegam perseguição religiosa e nenhum legislador ia querer mexer nesse vespeiro.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbo0w4",
+    "split": "train",
+    "line_idx": 30669,
+    "original_text": "so [NAME] isn't necessarily as dumb as she literally appears... I've always liked her for some reason.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "então a [NAME] não é necessariamente tão burra quanto ela parece... Eu sempre gostei dela por algum motivo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee27z6r",
+    "split": "train",
+    "line_idx": 30670,
+    "original_text": "[NAME] aside",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Deixando [NAME] de lado",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8wy02",
+    "split": "train",
+    "line_idx": 30671,
+    "original_text": "Can we get a moment of silence for the passing of the video game boy?",
+    "emotion_ids": "16",
+    "emotions": [
+      "grief"
+    ],
+    "translated_text": "Será que a gente pode ter um minuto de silêncio pelo falecimento do garoto dos videogames?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edy1mfi",
+    "split": "train",
+    "line_idx": 30672,
+    "original_text": "sorry im deaf i can’t hear you",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "foi mal sou surdo não consigo te ouvir",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eets2m4",
+    "split": "train",
+    "line_idx": 30673,
+    "original_text": "I know, you see somehow the world is changing me and its so wonderful",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu sei, você vê de alguma forma o mundo está me mudando e é tão maravilhoso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjn83q",
+    "split": "train",
+    "line_idx": 30674,
+    "original_text": "Keep any hat you find.. Now for only 100 gold bars! -Rockstar",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Guarde qualquer chapéu que você encontrar.. Agora por apenas 100 barras de ouro! -Rockstar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0eu0n",
+    "split": "train",
+    "line_idx": 30675,
+    "original_text": "I really want to know what the coordinates he gave him are",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu realmente quero saber quais são as coordenadas que ele passou",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eejqnzn",
+    "split": "train",
+    "line_idx": 30676,
+    "original_text": "This is absolutely lerfect, fantastic lunchpine.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso tá absolutamente perfeito, almoço fantástico.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehhtlq",
+    "split": "train",
+    "line_idx": 30677,
+    "original_text": "do you promise?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "jura?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efem3o7",
+    "split": "train",
+    "line_idx": 30678,
+    "original_text": "She doesn't have to pay anything this is just an opinion of a lawyer. No court ordered that.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Ela não tem que pagar nada, isso é só a opinião de um advogado. Nenhum tribunal ordenou isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee292if",
+    "split": "train",
+    "line_idx": 30679,
+    "original_text": "I still think he should have been the first goalie in the 2014 World Cup. But alas that injury ruined everything.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu ainda acho que ele deveria ter sido o primeiro goleiro na Copa do Mundo de 2014. Mas infelizmente aquela lesão estragou tudo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efdlw7n",
+    "split": "train",
+    "line_idx": 30680,
+    "original_text": "> not broken I beg to differ.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "> não tá quebrado Digo o contrário.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef2oy0z",
+    "split": "train",
+    "line_idx": 30681,
+    "original_text": "It's like they are gatekeeping tiredness. So weird.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É como se eles estivessem controlando quem pode estar cansado. Muito esquisito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee6u6q8",
+    "split": "train",
+    "line_idx": 30682,
+    "original_text": "I like flirting so this is what I enjoy doing, plus ordinary flirting is outcome independent. Direct approach is outcome dependent. Either way it's all part of the fun!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu gosto de flertar, então é isso que eu curto fazer, além disso o flerte comum não depende do resultado. A abordagem direta depende do resultado. De qualquer forma, faz parte da diversão!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6424t",
+    "split": "train",
+    "line_idx": 30683,
+    "original_text": "What a biotch",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que vadiazinha",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edom021",
+    "split": "train",
+    "line_idx": 30684,
+    "original_text": "I love you so much. > **\"putas\"** Qué eres mi que? (don't how can i translate it)",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu te amo tanto. > **\"putas\"** Qué eres mi que? (don't how can i translate it)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedclue",
+    "split": "train",
+    "line_idx": 30685,
+    "original_text": "Bidets are disgusting. In america, we use toilet paper because our plumbing systems can take it",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Bidês são nojentos. Na América, nós usamos papel higiênico porque nossos sistemas de encanamento aguentam",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeo8l32",
+    "split": "train",
+    "line_idx": 30686,
+    "original_text": "[NAME]. Yeah, right. Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "[NAME]. Ata. Kkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpcjyf",
+    "split": "train",
+    "line_idx": 30687,
+    "original_text": "Cause emotions are difficult and people fear rejection",
+    "emotion_ids": "14,27",
+    "emotions": [
+      "fear",
+      "neutral"
+    ],
+    "translated_text": "Porque sentimentos são difíceis e as pessoas têm medo de rejeição",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edmc9wf",
+    "split": "train",
+    "line_idx": 30688,
+    "original_text": "Rule 2, 3, and 7. Impressive. Goodbye.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Regra 2, 3 e 7. Impressionante. Adeus.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed0ca9r",
+    "split": "train",
+    "line_idx": 30689,
+    "original_text": "Thank you for this video",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado por este vídeo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3a1ms",
+    "split": "train",
+    "line_idx": 30690,
+    "original_text": "I love humans",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo os humanos",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeb6403",
+    "split": "train",
+    "line_idx": 30691,
+    "original_text": "the ALTERNATE caption! good thinking!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "a legenda ALTERNATIVA! boa ideia!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7tplo",
+    "split": "train",
+    "line_idx": 30692,
+    "original_text": "Hey now. Kirkcaldy is a lovely place to see in my rear view mirror.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Ah, qualé. Kirkcaldy é um lugar lindo... de se ver pelo retrovisor.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjfp89",
+    "split": "train",
+    "line_idx": 30693,
+    "original_text": "His base is too large to knock him off. Unless he gets impeached/indicted/god knows what, he’ll probably be it (sadly). ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "A base dele é grande demais pra derrubar ele. A não ser que sofra impeachment/seja indiciado/Deus sabe o que mais, ele provavelmente vai ser o candidato (tristemente).",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9zazo",
+    "split": "train",
+    "line_idx": 30694,
+    "original_text": "Lip piercings would be painful bloody and easily pulled out... Nipple piercings hurt tremendously if ripped and are also easily ripped out",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Piercings no lábio seriam dolorosos, sangrentos e arrancados com facilidade... Piercings no mamilo doem pra caralho se rasgados e também rasgam fácil",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8gavx",
+    "split": "train",
+    "line_idx": 30695,
+    "original_text": "Ooh, political posturing! This accomplishes so much!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nossa, que postura política! Isso resolve tanta coisa!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehp16n",
+    "split": "train",
+    "line_idx": 30696,
+    "original_text": "Is he dead now from a tragic drowning accident? Asking for a friend.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele morreu agora num acidente trágico de afogamento? Perguntando para um amigo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef80qr5",
+    "split": "train",
+    "line_idx": 30697,
+    "original_text": "Thanks for sharing, it really sucks that people would do this. I barely slept last night because I was so frustrated with the situation.",
+    "emotion_ids": "2,15",
+    "emotions": [
+      "anger",
+      "gratitude"
+    ],
+    "translated_text": "Valeu por compartilhar, é uma merda total que as pessoas façam isso. Mal consegui dormir ontem à noite de tão frustrado que eu tava com a situação.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efh44aj",
+    "split": "train",
+    "line_idx": 30698,
+    "original_text": ">Oldest stepchild’s dad is a POS and has never seen him. She can file for support at any time.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">O pai do enteado mais velho é um bosta e nunca viu ele. Ela pode entrar com pedido de pensão a qualquer momento.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtyyc0",
+    "split": "train",
+    "line_idx": 30699,
+    "original_text": "Oh you know they’re BOTH going for it.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Ah, pode ter certeza que OS DOIS vão tentar.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "id": "edbya1k",
+    "split": "train",
+    "line_idx": 35750,
+    "original_text": "I did. Thank you for your opinion.",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Fiz. Obrigado pela sua opinião.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edl67vx",
+    "split": "train",
+    "line_idx": 35751,
+    "original_text": "thank you. I've blocked him on Facebook and text.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "obrigado. bloqueei ele no facebook e no celular.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edqcklu",
+    "split": "train",
+    "line_idx": 35752,
+    "original_text": "What is dutch crunch bread? It sounds delicious!",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "O que é pão dutch crunch? Parece delicioso!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7v6vm",
+    "split": "train",
+    "line_idx": 35753,
+    "original_text": "Please explain how I’m genuinely curious",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por favor, explica, porque eu tô genuinamente curioso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeyalt8",
+    "split": "train",
+    "line_idx": 35754,
+    "original_text": "The lease ends on September 9th. I can hold out until then, it’s just going to suck. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O contrato acaba em 9 de setembro. Eu aguento até lá, só vai ser foda.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqmtuk",
+    "split": "train",
+    "line_idx": 35755,
+    "original_text": "Fun fact: not everyone is a guy, although you may not have any contact with women personally",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fato curioso: nem todo mundo é homem, embora você talvez não tenha nenhum contato com mulheres pessoalmente",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee2uzc3",
+    "split": "train",
+    "line_idx": 35756,
+    "original_text": "This is so scary but I would love to go there. And it is actually in Brazil",
+    "emotion_ids": "14,18",
+    "emotions": [
+      "fear",
+      "love"
+    ],
+    "translated_text": "Isso é muito assustador, mas eu adoraria ir lá. E fica no Brasil mesmo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edhy5jc",
+    "split": "train",
+    "line_idx": 35757,
+    "original_text": "I enjoyed it somewhat, but haven't felt like rewatching (or owning) it.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Curti mais ou menos, mas não tive vontade de reassistir (nem de comprar).",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenu7pa",
+    "split": "train",
+    "line_idx": 35758,
+    "original_text": "Mine was the size of my pinky. And honestly get any size you want! Just be mindful of your pain tolerance",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "O meu era do tamanho do meu dedo mindinho. E sinceramente, coloca do tamanho que você quiser! Só fica de olho na sua tolerância à dor",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edy89eu",
+    "split": "train",
+    "line_idx": 35759,
+    "original_text": "I'm just now going through the replies on this thread. This is the first person I've looked up on Spotify. Thank u for the recommendation!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Tô vendo as respostas dessa thread só agora. Essa é a primeira pessoa que eu procuro no Spotify. Valeu pela indicação!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczdzjj",
+    "split": "train",
+    "line_idx": 35760,
+    "original_text": "I personally like [NAME] and think he could be on the team right now, but the Org doesn't agree.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu pessoalmente curto o [NAME] e acho que ele podia estar no time agora, mas a Org não concorda.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtuee2",
+    "split": "train",
+    "line_idx": 35761,
+    "original_text": "I just don't get how so many people on this sub know that about the Dems but still manage to get taken in by the [NAME].",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Eu só não entendo como tanta gente nesse sub sabe disso sobre os Dems mas ainda consegue cair na lábia do [NAME].",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjft6v",
+    "split": "train",
+    "line_idx": 35762,
+    "original_text": "Just curious, why do you think that? He has ~ 80% approval among registered [NAME] ",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Só por curiosidade, por que você acha isso? Ele tem uns 80% de aprovação entre os [NAME] cadastrados",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eewmerd",
+    "split": "train",
+    "line_idx": 35763,
+    "original_text": "ok",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "tá bom",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeaicp9",
+    "split": "train",
+    "line_idx": 35764,
+    "original_text": "I thought it was his nose sliced off, got confused when I didnt see any blood",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Achei que era o nariz dele cortado fora, fiquei confuso quando não vi sangue nenhum",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eerdafa",
+    "split": "train",
+    "line_idx": 35765,
+    "original_text": "This is awesome. Makes it feel like a community rather than just a forum.",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Isso é incrível. Faz parecer uma comunidade em vez de só um fórum.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9ooi4",
+    "split": "train",
+    "line_idx": 35766,
+    "original_text": "[NAME] missed a wide open [NAME] below the rim. Dude needs to pass the ball more.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] perdeu um [NAME] livre embaixo da cesta. O mano precisa passar mais a bola.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgzt2y",
+    "split": "train",
+    "line_idx": 35767,
+    "original_text": "Grew up together obviously. So if you want to have an alligator friendly family, raise your babies with baby alligators!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Cresceram juntos, óbvio. Então se você quer ter uma família amigável com jacarés, crie seus bebês com bebês de jacaré!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edmv5hg",
+    "split": "train",
+    "line_idx": 35768,
+    "original_text": "I love reading these posts and not realizing it's [NAME]",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu adoro ler esses posts e só cair a ficha de que é o [NAME] depois",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eey7b6u",
+    "split": "train",
+    "line_idx": 35769,
+    "original_text": "right. which is why he got suspended. because nothing happened. makes sense.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "verdade. por isso que ele foi suspenso. porque nada aconteceu. faz todo sentido.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed0d72m",
+    "split": "train",
+    "line_idx": 35770,
+    "original_text": "Seeing happy people isn't motivating because it shows how easy it is and how I'm failing at something literally everyone else on the planet can do",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Ver gente feliz não motiva porque mostra o quão fácil é e como eu tô falhando em algo que literalmente todo mundo no planeta consegue fazer",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee0mxkd",
+    "split": "train",
+    "line_idx": 35771,
+    "original_text": "You suck at trolling. It's way too obvious.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Você é horrível trollando. Tá muito na cara.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edkxl16",
+    "split": "train",
+    "line_idx": 35772,
+    "original_text": "(System auto-corrects Tyranus) - You interfered with our affairs for the last time.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "(O sistema corrige automaticamente para Tyranus) - Vocês interferiram nos nossos assuntos pela última vez.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edfi8eu",
+    "split": "train",
+    "line_idx": 35773,
+    "original_text": "I’m glad you had such a helpful person on the other end during a tough situation, those kinds of people are like angels❤️",
+    "emotion_ids": "0,5",
+    "emotions": [
+      "admiration",
+      "caring"
+    ],
+    "translated_text": "Que bom que você encontrou alguém tão prestativo do outro lado numa situação difícil, gente assim é tipo anjo ❤️",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edw9odf",
+    "split": "train",
+    "line_idx": 35774,
+    "original_text": "There aren't really any consequences of an alignment change.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Na real não tem nenhuma consequência de mudança de alinhamento.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edneqno",
+    "split": "train",
+    "line_idx": 35775,
+    "original_text": "Nothing. Fuck the environment so people can think they saved a few bucks. People are fucking stupid.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Nada. Foda-se o meio ambiente para as pessoas acharem que economizaram alguns trocados. O povo é muito burro pra caralho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eew2o3f",
+    "split": "train",
+    "line_idx": 35776,
+    "original_text": "Windbreakers, we’re supposed to wear them when it’s cold as apparently a joke to keep us warm 🙃 I hate doing drive ups now",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Corta-ventos, a gente tem que usar quando tá frio como se fosse uma piada pra nos manter aquecidos 🙃 Odeio fazer entregas no carro agora",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eewpp5h",
+    "split": "train",
+    "line_idx": 35777,
+    "original_text": "we love critical impactful discourse",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "a gente adora um discurso crítico e impactante",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edi3q1q",
+    "split": "train",
+    "line_idx": 35778,
+    "original_text": "More worried about the multi-trillion dollars in entitlement programs than 5$ on a wall.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Mais preocupado com os trilhões de dólares em programas sociais do que com 5 pilas num muro.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepg3ia",
+    "split": "train",
+    "line_idx": 35779,
+    "original_text": "You have to try really hard to get banned on this sub.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Tem que se esforçar muito pra ser banido desse sub.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edve7mk",
+    "split": "train",
+    "line_idx": 35780,
+    "original_text": "I secretly hoped we would lose by like 70.. 35 is not enough",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Em segredo eu torcia pra gente perder tipo por uns 70.. 35 não é o bastante",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edy2cqj",
+    "split": "train",
+    "line_idx": 35781,
+    "original_text": "I hope you have a wonderful cake day!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que você tenha um dia do bolo maravilhoso!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edkc431",
+    "split": "train",
+    "line_idx": 35782,
+    "original_text": "Just read the text of this amendment. I am literally sick to my stomach from reading this. THIS MUST NOT STAND!!",
+    "emotion_ids": "11,27",
+    "emotions": [
+      "disgust",
+      "neutral"
+    ],
+    "translated_text": "Acabei de ler o texto dessa emenda. Tô literalmente passando mal do estômago de ler isso. ISSO NÃO PODE FICAR ASSIM!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee949jt",
+    "split": "train",
+    "line_idx": 35783,
+    "original_text": "I love the Nets",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo os Nets",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeu6b3v",
+    "split": "train",
+    "line_idx": 35784,
+    "original_text": "You know, girls really like it when you make things about yourself. It shows you care about them.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sabe, as garotas adoram quando você torna as coisas sobre você. Mostra que você se importa com elas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edz2bc6",
+    "split": "train",
+    "line_idx": 35785,
+    "original_text": "Oh boy I was wide awake when I lost my under 51.5. [NAME] can go fuck his ugly self",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Rapaz, eu tava bem acordado quando perdi minha aposta de menos de 51,5. O [NAME] pode ir tomar no cu com essa cara feia dele",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eff2x2i",
+    "split": "train",
+    "line_idx": 35786,
+    "original_text": "\"...one last time for good measure\"",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "\"...mais uma vez só pra garantir\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3269z",
+    "split": "train",
+    "line_idx": 35787,
+    "original_text": "Fuck shit bitch",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Caralho merda porra",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemeq8n",
+    "split": "train",
+    "line_idx": 35788,
+    "original_text": "That wasn't very incredibilis of you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa não foi muito incredibilis da sua parte.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eew5025",
+    "split": "train",
+    "line_idx": 35789,
+    "original_text": "Don’t tell me what to do.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Não me diga o que fazer.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eegum9w",
+    "split": "train",
+    "line_idx": 35790,
+    "original_text": "Woooooooooo it took long enough but the UYU boys finally did it and made the league",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Woooooooooo demorou pra caralho, mas os manos da UYU finalmente conseguiram e entraram na liga",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efcxtzy",
+    "split": "train",
+    "line_idx": 35791,
+    "original_text": "Why tarnish The Office this way?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Pra que estragar The Office desse jeito?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edwvvem",
+    "split": "train",
+    "line_idx": 35792,
+    "original_text": "[NAME] should give him a little tough love",
+    "emotion_ids": "5,18",
+    "emotions": [
+      "caring",
+      "love"
+    ],
+    "translated_text": "[NAME] deveria dar um puxão de orelha nele",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eec1svn",
+    "split": "train",
+    "line_idx": 35793,
+    "original_text": "I did ..",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu fiz..",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed2adka",
+    "split": "train",
+    "line_idx": 35794,
+    "original_text": "Yesterday. All my troubles seemed so faaar away. Now it looks though that they're here to stay. Oh I believe, in yesterday. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ontem. Todos os meus problemas pareciam tão tão longe. Agora parece que eles vieram pra ficar. Oh, eu acredito, no ontem.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eduebue",
+    "split": "train",
+    "line_idx": 35795,
+    "original_text": "I can't tell you how happy I am that [NAME] and [NAME] are Polynesian Sauce guys.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Não sei nem dizer o quanto tô feliz que o [NAME] e o [NAME] curtem o molho Polinésio.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eerck3a",
+    "split": "train",
+    "line_idx": 35796,
+    "original_text": "Notice how there are no chapotraphouse trolls here because they know you're right and can't put up any argument against you.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Repara que não tem nenhum troll do chapotraphouse aqui porque eles sabem que você tá certo e não conseguem tankar nenhum argumento contra você.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpsmk4",
+    "split": "train",
+    "line_idx": 35797,
+    "original_text": "Luckily my wages are rising faster to compensate. Oh wait...",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Ainda BEM que meus salários estão subindo mais rápido pra compensar. Ah, pera...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eek7x6k",
+    "split": "train",
+    "line_idx": 35798,
+    "original_text": "[NAME], Big Bang Theory is terrible so glad it's going to be gone.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "[NAME], The Office... quer dizer, The Big Bang Theory é horrível, que bom que vai acabar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eekxi2q",
+    "split": "train",
+    "line_idx": 35799,
+    "original_text": "[NAME] receive the maximum sentence and her jail mates know that she kidnapped a child.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] pegou a pena máxima e as companheiras de cela dela sabem que ela sequestrou uma criança.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

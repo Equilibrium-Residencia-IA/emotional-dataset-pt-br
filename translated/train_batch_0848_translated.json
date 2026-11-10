@@ -1,0 +1,608 @@
+[
+  {
+    "id": "edkm2y5",
+    "split": "train",
+    "line_idx": 42400,
+    "original_text": "Nobody is really on about anything.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ninguém tá realmente falando de nada com nada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edszxmo",
+    "split": "train",
+    "line_idx": 42401,
+    "original_text": "I've never even been to these places much less actually done this but i feel personally attacked",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu nunca nem estive nesses lugares e muito menos fiz isso, mas me senti atacado pessoalmente",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbe3ir",
+    "split": "train",
+    "line_idx": 42402,
+    "original_text": "Haha. Thank you",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "Haha. Obrigado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efcz5s3",
+    "split": "train",
+    "line_idx": 42403,
+    "original_text": "Stay safe guys",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Se cuidem, galera",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmczko",
+    "split": "train",
+    "line_idx": 42404,
+    "original_text": "ohhhhh my gosh",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "aiiii meu Deus",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejx9hr",
+    "split": "train",
+    "line_idx": 42405,
+    "original_text": "Ah yes, the merge from 640 to 40 by papermill. Idiots do this all the time. It really messes up the traffic pattern. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ah sim, a entrada da 640 pra 40 perto da papermill. Os idiotas fazem isso o tempo todo. Fode totalmente com o fluxo do trânsito. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efetctk",
+    "split": "train",
+    "line_idx": 42406,
+    "original_text": "No, but it diverts resources from the art team, and prevents them from making content which would have been better recieved by the already low playerbase!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, mas isso tira recursos da equipe de arte e impede eles de criarem conteúdo que teria sido bem melhor recebido pela base de jogadores, que já é baixa!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgmgcp",
+    "split": "train",
+    "line_idx": 42407,
+    "original_text": "He probably enjoyed it so much with his frat brothers that he's willing to buck his own party for good weed.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Ele provavelmente curtiu tanto com os irmãos de fraternidade dele que tá disposto a contrariar o próprio partido por uma erva boa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eds5pre",
+    "split": "train",
+    "line_idx": 42408,
+    "original_text": "Back to Dota 2.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "De volta pro Dota 2.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed4hkb",
+    "split": "train",
+    "line_idx": 42409,
+    "original_text": "Perfect explanation!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Explicação perfeita!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eex514t",
+    "split": "train",
+    "line_idx": 42410,
+    "original_text": "calling her a sellout for having a job is hilarious.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "chamar ela de vendida só por ter um emprego é hilário.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfyehf",
+    "split": "train",
+    "line_idx": 42411,
+    "original_text": "I see that you also braved the farmers' market this morning!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tô vendo que você também enfrentou a feira dos produtores hoje de manhã!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edldkqf",
+    "split": "train",
+    "line_idx": 42412,
+    "original_text": "So why did [NAME] leave? They were predictable and mostly tolerable. Three wings is absolutely intolerable. I hate him.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Então por que o [NAME] foi embora? Eles eram previsíveis e quase sempre toleráveis. Três asas é totalmente intolerável. Odeio ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgl6zz",
+    "split": "train",
+    "line_idx": 42413,
+    "original_text": "If she's making inapropriate claims thats a problem too, Im not exactly sure what your point is?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Se ela tá fazendo alegações inadequadas isso também é um problema, só não entendi direito onde você quer chegar?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlxpg8",
+    "split": "train",
+    "line_idx": 42414,
+    "original_text": "Thanks, the date went really well! I feel for you, it will be a while for me too. ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, o encontro correu super bem! Eu te entendo perfeitamente, pra mim também vai demorar um tempinho. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8dwt8",
+    "split": "train",
+    "line_idx": 42415,
+    "original_text": "Another bad essay by me, sorry for butchering anarchism, anti-ableism and anti-psychiatry but I hope I got the point across :p",
+    "emotion_ids": "12,25",
+    "emotions": [
+      "embarrassment",
+      "sadness"
+    ],
+    "translated_text": "Mais uma redação ruim minha, desculpa por ter assassinado o anarquismo, o anticapacitismo e a antipsiquiatria, mas espero ter conseguido passar o recado :p",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeiv2s4",
+    "split": "train",
+    "line_idx": 42416,
+    "original_text": "AND YOU DON'T HAVE TO USE ALL CAPS TO GET YOUR POINT ACROSS!!!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "E NÃO PRECISA ESCREVER TUDO EM CAIXA ALTA PRA PASSAR SEU PONTO!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeysdlm",
+    "split": "train",
+    "line_idx": 42417,
+    "original_text": "Can a mediocre bot invent Facebook?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Um bot medíocre consegue inventar o Facebook?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1bkeu",
+    "split": "train",
+    "line_idx": 42418,
+    "original_text": "Three years ago I did! Ended up hospitalized for 5 days. I can say that I'm in a much better place now. :)",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Três anos atrás eu fiz isso! Acabei ficando hospitalizado por 5 dias. Posso dizer que tô num momento bem melhor agora. :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edn9woz",
+    "split": "train",
+    "line_idx": 42419,
+    "original_text": "omg, id cry if this was my store ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "mds, eu choraria se essa loja fosse minha ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eev9uy5",
+    "split": "train",
+    "line_idx": 42420,
+    "original_text": "BITCH HER PROMO EVEN DID SCREAMS LIKE A WINNER!!!!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "PUTA QUE PARIU A PROMO DELA GRITA VENCEDORA EM TUDO!!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeznscf",
+    "split": "train",
+    "line_idx": 42421,
+    "original_text": "I love this so much, glad [NAME] made it to San Jose after all",
+    "emotion_ids": "17,18",
+    "emotions": [
+      "joy",
+      "love"
+    ],
+    "translated_text": "Amo muito isso, que bom que o [NAME] conseguiu ir pra San Jose afinal de contas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9e24f",
+    "split": "train",
+    "line_idx": 42422,
+    "original_text": "Bedside Rounds (which that user puts out) is also a very interesting podcast on medical history.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Bedside Rounds (que esse usuário produz) também é um podcast bem interessante sobre história da medicina.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee162wi",
+    "split": "train",
+    "line_idx": 42423,
+    "original_text": "I actually feel bad for your roommate, poor guy.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Na real eu tenho dó do seu colega de quarto, coitado.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3tpw4",
+    "split": "train",
+    "line_idx": 42424,
+    "original_text": "Some graffiti can turn that really bad",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Algumas pichações podem deixar isso bem feio",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeh49xn",
+    "split": "train",
+    "line_idx": 42425,
+    "original_text": "He’s so cute! How do you get to hang out with him? I’ve never seen him the times I went to visit.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele é tão fofo! Como você faz pra ficar com ele? Nunca vi ele nas vezes em que fui visitar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2d7td",
+    "split": "train",
+    "line_idx": 42426,
+    "original_text": "I suspect that it's harder to combat sexism in academia because racialized theories have fallen out of favor but sexist ones are still all the rage.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu desconfio que é mais difícil combater o machismo na academia porque teorias racializadas caíram em desuso, mas as machistas ainda tão com tudo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eewha49",
+    "split": "train",
+    "line_idx": 42427,
+    "original_text": "someone forgot to switch accounts",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "alguém esqueceu de trocar de conta",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzbex7",
+    "split": "train",
+    "line_idx": 42428,
+    "original_text": "Cooinbase (controlled by mastercard) banned gab accounts too, nice",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A Coinbase (controlada pela Mastercard) baniu as contas da Gab também, legal",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee09ar7",
+    "split": "train",
+    "line_idx": 42429,
+    "original_text": "One of the best photos I’ve seen of the Arch. Breathtaking.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Uma das melhores fotos que já vi do Arco. De tirar o fôlego.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6w9p9",
+    "split": "train",
+    "line_idx": 42430,
+    "original_text": "I usually see retarded stuff posted on this sub but yours takes the cake",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Normalmente vejo coisas retardadas postadas nesse sub, mas a sua superou todas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee33bja",
+    "split": "train",
+    "line_idx": 42431,
+    "original_text": "Lullaby is excellent and so is Diary. His first 5 or 6 books are out of this world.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Cantiga de Ninar é excelente e Diário também. Os primeiros 5 ou 6 livros dele são de outro mundo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eda9ook",
+    "split": "train",
+    "line_idx": 42432,
+    "original_text": "The other guys 2: the guy who does his job.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os Outros Caras 2: o cara que faz o trabalho dele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4mcsu",
+    "split": "train",
+    "line_idx": 42433,
+    "original_text": "That’s horrible. I’m probably going to donate to them I can’t imagine not missing out on a season because someone stole.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Isso é horrível. Provavelmente vou doar pra eles, não consigo imaginar perder uma temporada inteira porque alguém roubou.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepy215",
+    "split": "train",
+    "line_idx": 42434,
+    "original_text": "Im curious, why do you think that?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tô curioso, por que você acha isso?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgroa8",
+    "split": "train",
+    "line_idx": 42435,
+    "original_text": "I love crows!!!!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo corvos!!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed74b9g",
+    "split": "train",
+    "line_idx": 42436,
+    "original_text": "I want to see the human equivalent to how happy this dog is",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Queria ver o equivalente humano pra felicidade desse cachorro",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejwrhv",
+    "split": "train",
+    "line_idx": 42437,
+    "original_text": "The most invisible colour OF ALL!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A cor mais invisível DE TODAS!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5jh8v",
+    "split": "train",
+    "line_idx": 42438,
+    "original_text": "He's both. An edgy neckbeard skinny fat, but he is undeniably funny. ",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "Ele é os dois. Um virjão barbudo falso magro, mas ele é inegavelmente engraçado. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5nbha",
+    "split": "train",
+    "line_idx": 42439,
+    "original_text": "I wish this was me.. To have lots of friends.. *Sad dragon noises*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Queria que fosse eu.. Ter um monte de amigos.. *Barulhos tristes de dragão*",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eellpd3",
+    "split": "train",
+    "line_idx": 42440,
+    "original_text": "Why is it shocking? All professional sports is all about bottom line first-period!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por que isso é chocante? Todo esporte profissional gira em torno do lucro e ponto final!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effxjq8",
+    "split": "train",
+    "line_idx": 42441,
+    "original_text": "sounds good, take care & stay safe loves💕",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "parece ótimo, se cuidem e fiquem bem, amores💕",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eey4ya9",
+    "split": "train",
+    "line_idx": 42442,
+    "original_text": "No if we tell and kick and scream and have a tantrum that always works.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, mas se a gente gritar, espernear e fizer birra, sempre funciona.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer41im",
+    "split": "train",
+    "line_idx": 42443,
+    "original_text": "Vegetarian, liked animals too. Lets just ignore that stuff about the [NAME], I sure he does not really mean it. ",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Vegetariano, gostava de animais também. Vamos só fingir que não vimos aquela parada sobre o [NAME], tenho certeza de que ele não estava falando sério. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeo1vlx",
+    "split": "train",
+    "line_idx": 42444,
+    "original_text": "What accent does the man talking in the video have? It sounds Scottish to me, but I'm just guessing.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Que sotaque é esse do cara falando no vídeo? Pra mim parece escocês, mas tô só chutando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed6q5w",
+    "split": "train",
+    "line_idx": 42445,
+    "original_text": "Story of my life",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "História da minha vida",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1scmb",
+    "split": "train",
+    "line_idx": 42446,
+    "original_text": "That's awesome. I never realized it was attributed to [NAME], though.",
+    "emotion_ids": "0,22",
+    "emotions": [
+      "admiration",
+      "realization"
+    ],
+    "translated_text": "Isso é incrível. Mas eu nunca soube que isso era atribuído ao [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eey6cm0",
+    "split": "train",
+    "line_idx": 42447,
+    "original_text": "u/pronouncedbooty Thank you for the advice, but IDK how I feel anout those foreign substances entering my body",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "u/pronouncedbooty Valeu pelo conselho, mas sei lá o que achar dessas substâncias estranhas entrando no meu corpo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrszyj",
+    "split": "train",
+    "line_idx": 42448,
+    "original_text": "After five years she realizes that's not for her? No offense but thats a long time to do so.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Depois de cinco anos ela se dá conta de que isso não é pra ela? Sem ofensa, mas é muito tempo pra perceber isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3hvx6",
+    "split": "train",
+    "line_idx": 42449,
+    "original_text": "Thanks for the insight. I'm not knowledgeable about it, I admit. I am sensitive to many types of plastics, though.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pelo esclarecimento. Admito que não manjo muito disso. Mas sou sensível a vários tipos de plástico.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

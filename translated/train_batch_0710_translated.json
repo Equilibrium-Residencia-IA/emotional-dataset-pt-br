@@ -1,0 +1,610 @@
+[
+  {
+    "id": "eczw5ul",
+    "split": "train",
+    "line_idx": 35500,
+    "original_text": "It happened and I'm very happy",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Aconteceu e eu tô muito feliz",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedwo16",
+    "split": "train",
+    "line_idx": 35501,
+    "original_text": "Good job. :)",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Bom trabalho. :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5ahfg",
+    "split": "train",
+    "line_idx": 35502,
+    "original_text": "No reason to follow pros casting setting because they pick what is best for themselves. You will find out what is best for you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não tem por que seguir as configurações de pro player porque eles escolhem o que é melhor pra eles mesmos. Você vai descobrir o que é melhor pra você.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edp8dxy",
+    "split": "train",
+    "line_idx": 35503,
+    "original_text": "As a man I would be quite pleased to hear this",
+    "emotion_ids": "15,27",
+    "emotions": [
+      "gratitude",
+      "neutral"
+    ],
+    "translated_text": "Como homem, eu ficaria bem contente de ouvir isso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4ogpb",
+    "split": "train",
+    "line_idx": 35504,
+    "original_text": "And then thigh high socks in addition?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E aí meia-calça 7/8 por cima?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed3kmdl",
+    "split": "train",
+    "line_idx": 35505,
+    "original_text": "I'm sure this is only because there's less people there",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tenho certeza que isso é só porque tem menos gente lá",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eejb1kw",
+    "split": "train",
+    "line_idx": 35506,
+    "original_text": "Screaming \"Build the Wall\" at a minority isn't racist? Yeah ok buddy. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gritar \"Construam o Muro\" pra uma minoria não é racista? Ah, tá bom, parceiro.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "effxoln",
+    "split": "train",
+    "line_idx": 35507,
+    "original_text": "Tried to take first one but says invalid. Thank you anyway.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Tentei pegar o primeiro mas diz que é inválido. Valeu mesmo assim.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef706ge",
+    "split": "train",
+    "line_idx": 35508,
+    "original_text": " Change is hard. Find comfort in victory, even the small ones. Let that propel you to become the person you were destined to be. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mudar é difícil. Acha conforto na vitória, mesmo nas pequenas. Deixa isso te impulsionar pra se tornar a pessoa que você tava destinado a ser.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eed5lv6",
+    "split": "train",
+    "line_idx": 35509,
+    "original_text": "This has to be made as a satire of terrible memes . Like r/okbuddyretard material",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Isso tem que ser uma sátira de memes horríveis. Tipo material do r/okbuddyretard",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef5jx00",
+    "split": "train",
+    "line_idx": 35510,
+    "original_text": "It can make me angry - that and hearing my neighbors have sex",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Isso pode me deixar com raiva - isso e ouvir meus vizinhos transando",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eefmzo2",
+    "split": "train",
+    "line_idx": 35511,
+    "original_text": "I love the post you just made! Well written and very relatable.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Eu adoro o post que você acabou de fazer! Bem escrito e super fácil de se identificar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed0z7eq",
+    "split": "train",
+    "line_idx": 35512,
+    "original_text": "Maybe we’re on a secret real life version of Dinner for Schmucks?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Será que a gente tá numa versão secreta da vida real de Jantar para Idiotas?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eddm3hj",
+    "split": "train",
+    "line_idx": 35513,
+    "original_text": "i know, [NAME] sucks balls",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "eu sei, [NAME] é uma merda",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef23px4",
+    "split": "train",
+    "line_idx": 35514,
+    "original_text": "i remember that feeling.",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "eu lembro dessa sensação.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee040rf",
+    "split": "train",
+    "line_idx": 35515,
+    "original_text": "Because the Wizards play much much better without [NAME], thats why, they have won their last 3 games, all against playoff teams",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque os Wizards jogam muito, mas muito melhor sem o [NAME], é por isso, eles ganharam os últimos 3 jogos, todos contra times de playoffs",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed05fwr",
+    "split": "train",
+    "line_idx": 35516,
+    "original_text": "Pet-sitting is over, didn't know I was lonely without a doggo until now. ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Acabou de cuidar do pet, não sabia que tava tão sozinho sem um doguinho até agora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed797tj",
+    "split": "train",
+    "line_idx": 35517,
+    "original_text": "I'm pretty sure she wants to be alone with you",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tenho quase certeza que ela quer ficar sozinha com você",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenmgju",
+    "split": "train",
+    "line_idx": 35518,
+    "original_text": "Was disappointed until I saw your username. What's up [NAME] :D",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tinha achado ruim até ver seu nome de usuário. E aí [NAME] :D",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edq1lsu",
+    "split": "train",
+    "line_idx": 35519,
+    "original_text": "Thanks for this. I appreciate everyone involved.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu por isso. Agradeço a todo mundo envolvido.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpfclp",
+    "split": "train",
+    "line_idx": 35520,
+    "original_text": "Will you ask her to pray to her god and ask him to stop giving kids cancer!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Você vai pedir pra ela rezar pro deus dela e pedir pra ele parar de dar câncer em crianças!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef2ssjo",
+    "split": "train",
+    "line_idx": 35521,
+    "original_text": "“No, you cannot get better” LOL",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "“Não, você não pode melhorar” KKKK",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edghj1x",
+    "split": "train",
+    "line_idx": 35522,
+    "original_text": "its here! nice",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "tá aí! massa",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edg2mpo",
+    "split": "train",
+    "line_idx": 35523,
+    "original_text": "Keep a steady hand, don’t erase too much, and draw an outline. Don’t start on details until after.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mantenha a mão firme, não apaga muito, e desenha um rascunho. Não começa nos detalhes até depois.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4mgcz",
+    "split": "train",
+    "line_idx": 35524,
+    "original_text": "They don't like when you point that out.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles não gostam quando você aponta isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0yip4",
+    "split": "train",
+    "line_idx": 35525,
+    "original_text": "How long do you think manga will go on? Its fairly long now at 216 chapters and I think it's in it's late stages.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Quanto tempo você acha que o mangá vai durar? Já tá bem comprido com 216 capítulos e acho que tá na reta final.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efg517o",
+    "split": "train",
+    "line_idx": 35526,
+    "original_text": "look at that gym! Id kill to have one with such a nice view",
+    "emotion_ids": "0,8",
+    "emotions": [
+      "admiration",
+      "desire"
+    ],
+    "translated_text": "olha essa academia! Eu mataria pra ter uma com uma vista tão bonita",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeip1io",
+    "split": "train",
+    "line_idx": 35527,
+    "original_text": "I can't even get close to beating that one though... same with the salmon fishing one.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu nem consigo chegar perto de zerar essa aí... o mesmo com a de pesca de salmão.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7wczu",
+    "split": "train",
+    "line_idx": 35528,
+    "original_text": "No thank you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Não, obrigado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ediexvt",
+    "split": "train",
+    "line_idx": 35529,
+    "original_text": "When I see a Lynx, even if far away, oh trust me I'll go to that cat and focus only him before anything else",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Quando eu vejo um lince, mesmo de longe, ah, pode confiar que eu vou até aquele gato e focar só nele antes de qualquer outra coisa",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1p2ma",
+    "split": "train",
+    "line_idx": 35530,
+    "original_text": "Beat my second wife cuz obviously she put the evil eye on my first wife",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Desceu a porrada na minha segunda esposa porque óbvio que ela jogou mau-olhado na minha primeira esposa",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczdt62",
+    "split": "train",
+    "line_idx": 35531,
+    "original_text": "Your welcome. Feel free to share it to those who also need it. 👍",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Por nada. Fique à vontade pra compartilhar com quem também precisar. 👍",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eesyeqk",
+    "split": "train",
+    "line_idx": 35532,
+    "original_text": "Ah I was confused which side you were on :P",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ah, eu tava confuso sobre qual lado você tava :P",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eew3rud",
+    "split": "train",
+    "line_idx": 35533,
+    "original_text": "I'm sorry to break the news to you. :(",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Sinto muito te dar essa notícia. :(",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edsc40y",
+    "split": "train",
+    "line_idx": 35534,
+    "original_text": ">arent as attractive as their peers Except for the women who date older RICH men, those tend to be more attractive.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": ">não são tão atraentes quanto os pares Exceto pelas mulheres que saem com homens mais velhos e RICOS, essas tendem a ser mais atraentes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8kbe5",
+    "split": "train",
+    "line_idx": 35535,
+    "original_text": "Wow [NAME] is back I hope to see better pain defense when the second unit is out there.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Nossa, o [NAME] tá de volta, espero ver uma defesa de garrafão melhor quando o segundo time estiver em quadra.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlwzwh",
+    "split": "train",
+    "line_idx": 35536,
+    "original_text": "Seeing Capital Cities live so learning to sing Chartreuse out of excitement.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Vou ver Capital Cities ao vivo então aprendendo a cantar Chartreuse de empolgação.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efg110d",
+    "split": "train",
+    "line_idx": 35537,
+    "original_text": "What makes them [NAME]? Tf",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que faz eles serem [NAME]? Pqp",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eduvpl4",
+    "split": "train",
+    "line_idx": 35538,
+    "original_text": "Why thank you",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ora, muito obrigado",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqy55d",
+    "split": "train",
+    "line_idx": 35539,
+    "original_text": "Not to mention [NAME] screening two defenders haha",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sem falar no [NAME] dando o corta-luz em dois defensores haha",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeok6k4",
+    "split": "train",
+    "line_idx": 35540,
+    "original_text": "Thank you! :O",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado! :O",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9r8zm",
+    "split": "train",
+    "line_idx": 35541,
+    "original_text": "Yeah. She kills herself, but by accident. ",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "É. Ela se mata, mas sem querer.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlv2nh",
+    "split": "train",
+    "line_idx": 35542,
+    "original_text": "You can get into big, fuck up your life forever trouble.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você pode se meter em uma merda gigante que estraga sua vida pra sempre.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef4b1oc",
+    "split": "train",
+    "line_idx": 35543,
+    "original_text": "Not cheating and not using exploits is honorable. Other opinions are not relevant imo.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Não trapacear e não usar exploits é honroso. Outras opiniões não são relevantes na minha opinião.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eev3ax4",
+    "split": "train",
+    "line_idx": 35544,
+    "original_text": "Hi, [NAME]! I hope you have the best day ever! -HappyFriendlyBot",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Oi, [NAME]! Espero que você tenha o melhor dia do mundo! -HappyFriendlyBot",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1vg59",
+    "split": "train",
+    "line_idx": 35545,
+    "original_text": "Great post, glad you had a good time here. Xpost it to r/travel. ",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Ótimo post, que bom que você se divertiu por aqui. Reposta lá no r/travel.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6u741",
+    "split": "train",
+    "line_idx": 35546,
+    "original_text": "So we ARE paying him, but his 8.7M cap hit won't apply right? We should have pretty good amount of fun money for FA. ",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "Então A GENTE tá pagando ele, mas o impacto dele de 8.7M no teto salarial não vai contar, né? A gente deve ter uma graninha boa pra gastar com agentes livres.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edln6l5",
+    "split": "train",
+    "line_idx": 35547,
+    "original_text": "Obviously excluding shotguns..",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Obviamente tirando escopetas...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpqn11",
+    "split": "train",
+    "line_idx": 35548,
+    "original_text": "Make sure the kids layer up. And make sure you layer up, too.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Certifique-se de agasalhar bem as crianças. E garanta que você também esteja bem agasalhado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edo5jvw",
+    "split": "train",
+    "line_idx": 35549,
+    "original_text": "True, so just basically everyone. It needs to be easier to get a gun than it is now anyways",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Verdade, então basicamente todo mundo. Precisa ser mais fácil conseguir uma arma do que é agora de qualquer forma",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

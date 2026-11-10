@@ -1,0 +1,610 @@
+[
+  {
+    "id": "eff6flv",
+    "split": "test",
+    "line_idx": 2400,
+    "original_text": "I'm more worried about it randomly saying daddy across the top ... Like that's normal",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Tô mais preocupado com o fato de do nada estar escrito papai no topo... Como se isso fosse normal",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgh0et",
+    "split": "test",
+    "line_idx": 2401,
+    "original_text": ">!I always assume that Motoyasu's team changes once every week or something.!<",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": ">!Eu sempre presumo que a equipe do Motoyasu muda uma vez por semana ou algo do tipo.!<",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efge8wu",
+    "split": "test",
+    "line_idx": 2402,
+    "original_text": "Not watched it yet pal. You?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ainda não assisti, mano. E você?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeyps8u",
+    "split": "test",
+    "line_idx": 2403,
+    "original_text": "air supply? the irony of life",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "air supply? a ironia da vida",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqlnwy",
+    "split": "test",
+    "line_idx": 2404,
+    "original_text": "yeah this doesn’t represent our fan base well. gg guys!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "é, isso não representa bem a nossa torcida. gg galera!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduuwuw",
+    "split": "test",
+    "line_idx": 2405,
+    "original_text": "> It’s generally viewed upon as being one of the worst [NAME] games ever made. No it isn't. Source that claim.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "> Geralmente é visto como um dos piores jogos de [NAME] já feitos. Não, não é. Manda a fonte dessa afirmação.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ede32z9",
+    "split": "test",
+    "line_idx": 2406,
+    "original_text": "My house. Excluding that since it was bank money, we plan to pay cash for a kitchen renovation this year that will be about 7k",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Minha casa. Excluindo isso porque foi dinheiro do banco, a gente planeja pagar à vista uma reforma na cozinha este ano que vai ficar nuns 7 mil",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1evdb",
+    "split": "test",
+    "line_idx": 2407,
+    "original_text": "Its hard to explain i feel everything is distant.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "É difícil de explicar, sinto que tudo tá distante.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edsnc60",
+    "split": "test",
+    "line_idx": 2408,
+    "original_text": "Standing ovation. Nicely done.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Aplausos de pé. Mandou bem demais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eds43nm",
+    "split": "test",
+    "line_idx": 2409,
+    "original_text": "Noooo no more NEXTs anymore! They are obviously just a kid who is excited to discover music. Give them a break! :/",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Nããão, chega de PRÓXIMOS! É claramente só uma criança empolgada descobrindo música. Dá um tempo pro coitado! :/",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7bwyl",
+    "split": "test",
+    "line_idx": 2410,
+    "original_text": "Subway is the smartest option unless you have tones of stuffs to carry !",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Metrô é a opção mais inteligente a menos que você tenha uma tonelada de coisas pra carregar !",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1wg24",
+    "split": "test",
+    "line_idx": 2411,
+    "original_text": "He’s really good.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele é muito bom.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxs7qr",
+    "split": "test",
+    "line_idx": 2412,
+    "original_text": "It was this one apparently it was for forever ago. I’ll delete this post If somebody says so.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Era esse, pelo visto era de muito tempo atrás. Vou apagar este post se alguém pedir.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbc1f1",
+    "split": "test",
+    "line_idx": 2413,
+    "original_text": "* yes * yes * yes * yes",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "* sim * sim * sim * sim",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0dqec",
+    "split": "test",
+    "line_idx": 2414,
+    "original_text": "I thought we were unlucky for having to put up with [NAME]. Man, you guys got the short straw with Ninja.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu achava que a gente era azarado por ter que aguentar o [NAME]. Cara, vocês tiraram a palhinha mais curta com o Ninja.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepy5sf",
+    "split": "test",
+    "line_idx": 2415,
+    "original_text": "This is awesome! do you have any more artwork on a website or social site? Is this for sale!?",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Isso tá incrível! você tem mais ilustrações num site ou rede social? Tá à venda!?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ede5awv",
+    "split": "test",
+    "line_idx": 2416,
+    "original_text": "Did you see that ludicrous display last night?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você viu aquela palhaçada ontem à noite?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef21ym0",
+    "split": "test",
+    "line_idx": 2417,
+    "original_text": "Free weed lol don't get what you're complaining about.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Maconha de graça kkk não entendi do que você tá reclamando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgb6r3",
+    "split": "test",
+    "line_idx": 2418,
+    "original_text": "Can't wait for it.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Mal posso esperar por isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efb2h20",
+    "split": "test",
+    "line_idx": 2419,
+    "original_text": "I can't wait to see what us skilled workers get. Thanks government for telling businesses how to run and wrangle unskilled workers with no ambition.",
+    "emotion_ids": "13,15",
+    "emotions": [
+      "excitement",
+      "gratitude"
+    ],
+    "translated_text": "Mal posso esperar pra ver o que nós, trabalhadores qualificados, vamos ganhar. Valeu, governo, por dizer às empresas como gerenciar e lidar com peão sem ambição.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerdlqe",
+    "split": "test",
+    "line_idx": 2420,
+    "original_text": "Nice rifle. I have a T3 in 7mm rem mag. N Mine would suck as a SHTF rifle, but it's great for hunting.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Belo rifle. Eu tenho um T3 em 7mm rem mag. O meu seria uma bosta de rifle pro apocalipse, mas é ótimo pra caça.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9x6ys",
+    "split": "test",
+    "line_idx": 2421,
+    "original_text": "See you all tomorrow for FIN - USA! End of the evening iguana",
+    "emotion_ids": "20,27",
+    "emotions": [
+      "optimism",
+      "neutral"
+    ],
+    "translated_text": "Vejo vocês amanhã para FIN - USA! Iguana do fim de noite",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeppbtl",
+    "split": "test",
+    "line_idx": 2422,
+    "original_text": "I used the call screening on my sister for a laugh.. she was not as amused as I was :)",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Usei a triagem de chamadas na minha irmã de zoeira.. ela não achou tanta graça quanto eu :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edx0j58",
+    "split": "test",
+    "line_idx": 2423,
+    "original_text": "I realised after I typed it, but I left it up. I feel sometimes in life, you just gotta take the L. ",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Percebi depois que digitei, mas deixei no ar. Acho que às vezes na vida você só tem que aceitar a derrota.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebrbi2",
+    "split": "test",
+    "line_idx": 2424,
+    "original_text": "yeah you're right. i just glanced over and thought it was a swish haha",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "é, você tem razão. eu só bati o olho e achei que tinha caído direto na cesta haha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2sbvl",
+    "split": "test",
+    "line_idx": 2425,
+    "original_text": "I love that you made sure not to let the last 4 or 5 fall over. That’s important.",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Adorei que você fez questão de não deixar os últimos 4 ou 5 caírem. Isso é importante.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eek5sfq",
+    "split": "test",
+    "line_idx": 2426,
+    "original_text": "want* a source on that, sorry.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "queria* uma fonte disso, perdão.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed70q4m",
+    "split": "test",
+    "line_idx": 2427,
+    "original_text": "Mom used to do it all time when I was a kid.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Minha mãe fazia isso direto quando eu era criança.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee43rl8",
+    "split": "test",
+    "line_idx": 2428,
+    "original_text": "We had so much pvp before, during, and after this alliance was formed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente teve tanto pvp antes, durante e depois dessa aliança ser formada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy5dg0",
+    "split": "test",
+    "line_idx": 2429,
+    "original_text": "Seriously, it really made me happy! I hope when OP scrolled through she felt a little tingle of happiness too.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Sério, isso me deixou muito feliz! Espero que quando a OP viu tudo ela tenha sentido um quentinho de felicidade no coração também.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9jmht",
+    "split": "test",
+    "line_idx": 2430,
+    "original_text": "Her lying, narcotics addicted, pedophilic grandmother with physical ailments that cause her to be a serious lethal danger on multiple levels.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "A avó mentirosa dela, viciada em narcóticos, pedófila e com problemas físicos de saúde que a tornam um perigo letal gravíssimo em múltiplos níveis.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeleu41",
+    "split": "test",
+    "line_idx": 2431,
+    "original_text": "Same. I was not rooting for the Pats. I WAS rooting against the chiefs. The AFC West is ours and ours alone :)",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Idem. Eu não tava torcendo pros Pats. Eu TAVA torcendo contra os chiefs. A AFC West é nossa e só nossa :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeyqhw3",
+    "split": "test",
+    "line_idx": 2432,
+    "original_text": "Oh, [NAME], don't bring THAT story up!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ah, [NAME], nem vem com ESSA história de novo!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcck2m",
+    "split": "test",
+    "line_idx": 2433,
+    "original_text": "[NAME]. The third generation [RELIGION] stripper!! Hell yes I watcg 90DF!!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]. A stripper [RELIGION] de terceira geração!! Mas é claro que eu assisto 90DF!!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkqm5g",
+    "split": "test",
+    "line_idx": 2434,
+    "original_text": "Didn't know they were doing matches on smaller pitch in the combine to see how they do with less reaction time. Thought that was interesting.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Não sabia que eles tavam fazendo partidas num campo menor no combine pra ver como eles se saem com menos tempo de reação. Achei isso interessante.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef343vp",
+    "split": "test",
+    "line_idx": 2435,
+    "original_text": "Fat is always unhealthy, and never a sign of beauty.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Gordura é sempre prejudicial à saúde, e nunca um sinal de beleza.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edenn1h",
+    "split": "test",
+    "line_idx": 2436,
+    "original_text": "That looks like an expensive hobby.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso parece ser um hobby bem caro.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9qhgn",
+    "split": "test",
+    "line_idx": 2437,
+    "original_text": "This is not r/lostredditors material if we just try to find something stupid on it.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso não é material pro r/lostredditors só porque a gente tentou achar algo idiota ali.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6cg27",
+    "split": "test",
+    "line_idx": 2438,
+    "original_text": "I always move back and always regret it.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Eu sempre volto atrás e sempre me arrependo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9s6ta",
+    "split": "test",
+    "line_idx": 2439,
+    "original_text": "Digital Wellbeing",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bem-estar Digital",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexgj3g",
+    "split": "test",
+    "line_idx": 2440,
+    "original_text": "I knew you had kids, i didnt know they were old enough join the military lol. Well happy bday to your son, dad. ",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "Eu sabia que você tinha filhos, não sabia que já tinham idade pra entrar no exército kkk. Bom, parabéns pro seu filho, papai.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefc2hd",
+    "split": "test",
+    "line_idx": 2441,
+    "original_text": "Ah, that's why they say don't run in the corridor",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, é por isso que dizem pra não correr no corredor",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edr8xat",
+    "split": "test",
+    "line_idx": 2442,
+    "original_text": "apparently since you won't do it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "aparentemente já que você não vai fazer",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eds9pjo",
+    "split": "test",
+    "line_idx": 2443,
+    "original_text": "he's being immature",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ele tá sendo imaturo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeon207",
+    "split": "test",
+    "line_idx": 2444,
+    "original_text": "Old timbermill. Was that the long payload defense and attack?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Serraria velha. Aquela era a defesa e ataque de carga longa?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4mb0s",
+    "split": "test",
+    "line_idx": 2445,
+    "original_text": "Okubo thanks JP/EU for their work over the weekend on the patch notes, and then EU doesn't post their patch notes :-/",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Okubo agradece o JP/EU pelo trabalho no fim de semana nas notas de atualização, e aí a EU não posta as notas de atualização deles :-/",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6vcfh",
+    "split": "test",
+    "line_idx": 2446,
+    "original_text": "That all-star who won the calder",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Aquele all-star que ganhou o calder",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgx5mh",
+    "split": "test",
+    "line_idx": 2447,
+    "original_text": "> if i no longer lived in a nuclear armed/~~major power~~ a *somewhat important but nowhere near as important as they think* power FTFY",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> se eu não morasse mais numa potência com armas nucleares/~~grande potência~~ uma potência *meio importante mas nem de longe tão importante quanto acham* pronto, corrigi pra você",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjl9qg",
+    "split": "test",
+    "line_idx": 2448,
+    "original_text": "not the traps",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "as armadilhas não",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegoq46",
+    "split": "test",
+    "line_idx": 2449,
+    "original_text": "We don't have any options. Having said that I think [NAME] should have started.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente não tem nenhuma opção. Dito isso, acho que o [NAME] devia ter sido titular.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ed0ybo6",
+    "split": "train",
+    "line_idx": 34750,
+    "original_text": "That was the first thing we tried and we could not get it to work.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Essa foi a primeira coisa que a gente tentou e não teve jeito, não funcionou.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efdhvh8",
+    "split": "train",
+    "line_idx": 34751,
+    "original_text": "Aw thanks for the hug, and yeah he did sound like a jerk. ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ah, valeu pelo abraço, e sim, ele pareceu ser um babaca.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edff8hv",
+    "split": "train",
+    "line_idx": 34752,
+    "original_text": "I definitely expected unwatchable pro-life drama and was quite delighted",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu com certeza esperava um drama prá-vida imprestável e adorei",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eermek9",
+    "split": "train",
+    "line_idx": 34753,
+    "original_text": "Thanks! Life often ends up being the most beautiful when you least expect it :)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu! A vida muitas vezes acaba sendo mais bonita quando você menos espera :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eese1w8",
+    "split": "train",
+    "line_idx": 34754,
+    "original_text": "> they look like such fucking OCs. [NAME] designed them I don't know what you expected. He phones in video games all the time.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> parecem muito com uns OC [insira o palavrão] de fanfic. O [NAME] que desenhou, não sei o que você esperava. Ele faz os jogos de qualquer jeito mesmo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edl263o",
+    "split": "train",
+    "line_idx": 34755,
+    "original_text": "That's honestly what I thought too!!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Pior que foi exatamente isso que eu pensei!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3d2r9",
+    "split": "train",
+    "line_idx": 34756,
+    "original_text": "What an obnoxious, drunk girl. ",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Que garota chata e bêbada.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3l36m",
+    "split": "train",
+    "line_idx": 34757,
+    "original_text": "It wasn't an intelligent comment to begin with why would I take it seriously? Though I guess those 28 people did.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Para começo de conversa, não era um comentário inteligente, por que eu ia levar a sério? Mas acho que aquelas 28 pessoas levaram.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4h1nx",
+    "split": "train",
+    "line_idx": 34758,
+    "original_text": "If your friend jumps off a cliff, will you let him die by himself, awkwardly? No, you take that jump.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se o seu amigo pular de um penhasco, você vai deixar ele morrer sozinho, de um jeito mó tosco? Não, você vai junto nessa queda.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edhzi71",
+    "split": "train",
+    "line_idx": 34759,
+    "original_text": "Pm me the discord info",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Me manda as informações do discord no PV",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efc7qh6",
+    "split": "train",
+    "line_idx": 34760,
+    "original_text": "Think its time you let your butterfly self out, dear....",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Acho que tá na hora de você deixar sua versão borboleta sair, querida....",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7zfm7",
+    "split": "train",
+    "line_idx": 34761,
+    "original_text": "Haha, I wish, but not happening",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Haha, quem dera, mas não vai rolar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeflhrr",
+    "split": "train",
+    "line_idx": 34762,
+    "original_text": "Yup put the losion in the basket",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aham, bota a loção na cesta",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee6ypwf",
+    "split": "train",
+    "line_idx": 34763,
+    "original_text": "Yeah that seems better if you know you are facing ToT",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, parece melhor se você sabe que vai pegar ToT",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edo8yph",
+    "split": "train",
+    "line_idx": 34764,
+    "original_text": "The prequels garbage? It’s treason, then.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os prelúdios são uma merda? Então é traição.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eexhglz",
+    "split": "train",
+    "line_idx": 34765,
+    "original_text": "Well, glad I could help. Have a fantastic day and don’t let the straights scare you away!",
+    "emotion_ids": "0,5,15",
+    "emotions": [
+      "admiration",
+      "caring",
+      "gratitude"
+    ],
+    "translated_text": "Bom, que bom que pude ajudar. Tenha um dia fantástico e não deixe os heteros te assustarem!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef5edqy",
+    "split": "train",
+    "line_idx": 34766,
+    "original_text": "he had the shits",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ele tava com diarreia",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelm6nh",
+    "split": "train",
+    "line_idx": 34767,
+    "original_text": "Who da fuck wears swim trunks to a competition",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Quem caralhos usa bermuda de banho pra uma competição",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef817z2",
+    "split": "train",
+    "line_idx": 34768,
+    "original_text": "These are some of the lamest threatening letters I’ve ever seen. She’s a metahuman who can you murder people with her voice.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Essas são algumas das cartas de ameaça mais fracas que eu já vi. Ela é uma metahumana que consegue assassinar pessoas com a voz.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeprh4z",
+    "split": "train",
+    "line_idx": 34769,
+    "original_text": "Oh, I felt that despondency at the end there. Poor guy. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Nossa, eu senti essa desolação no finalzinho. Coitado do cara.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eddhgrm",
+    "split": "train",
+    "line_idx": 34770,
+    "original_text": "Glad you're rid of me? Pretty obviously breaking the sub rules there.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Que bom que você se livrou de mim? Violando as regras do sub bem na cara dura.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlp1tx",
+    "split": "train",
+    "line_idx": 34771,
+    "original_text": "Due to work, gotta stay legal. Edibles aren’t legal yet sadly. Fortunately not taking it for cancer though, just pain.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Por causa do trampo, tenho que andar na linha. Comestíveis [de maconha] ainda não são legais, infelizmente. Felizmente não tô tomando por causa de câncer, só pra dor mesmo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed1y00g",
+    "split": "train",
+    "line_idx": 34772,
+    "original_text": "What shouldn’t be lifetime? :)",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que não deveria ser pra vida toda? :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeyhd6u",
+    "split": "train",
+    "line_idx": 34773,
+    "original_text": "Hot dog!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Caramba!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eew67s7",
+    "split": "train",
+    "line_idx": 34774,
+    "original_text": "I feel like they could just be renamed by the stream + commentators. If the player refused to play then I think they just wouldn't play.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu acho que eles poderiam simplesmente ser renomeados pela transmissão + comentaristas. Se o jogador se recusasse a jogar, aí acho que ele simplesmente não jogaria.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eewtdt8",
+    "split": "train",
+    "line_idx": 34775,
+    "original_text": "Elections have consequences.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eleições têm consequências.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehd217",
+    "split": "train",
+    "line_idx": 34776,
+    "original_text": "No that's your interpretation of the truth. A whore is an old and demeaning term for a professional sex worker. You just get off on being degrading to women.",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "Não, essa é a sua interpretação da verdade. Puta é um termo antigo e pejorativo para uma profissional do sexo. Você só tem tesão em diminuir as mulheres.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef4kpdi",
+    "split": "train",
+    "line_idx": 34777,
+    "original_text": "As someone who live less than a hour where she’s from, it’s definitely fabricated/exaggerated.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Como alguém que mora a menos de uma hora de onde ela é, isso com certeza é inventado/exagerado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edrkxro",
+    "split": "train",
+    "line_idx": 34778,
+    "original_text": "This is such a cool idea. Basically an abathur that hats minions instead of heroes.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Essa ideia é muito foda. Basicamente um Abathur que bota capuz em lacaio em vez de herói.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edb1wjt",
+    "split": "train",
+    "line_idx": 34779,
+    "original_text": "I always described it as, “the trashiest bar in Detroit”",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu sempre descrevi como: \"o bar mais podrão de Detroit\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1serq",
+    "split": "train",
+    "line_idx": 34780,
+    "original_text": "Sold out. Sorry my dude!",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Esgotado. Foi mal, mano!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edkoqqo",
+    "split": "train",
+    "line_idx": 34781,
+    "original_text": "Yes of course and I catch a lot of it. I just didn’t realize this was about that!",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Sim, claro, e eu entendi boa parte. Só não tinha se ligado que era sobre isso!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eevipdy",
+    "split": "train",
+    "line_idx": 34782,
+    "original_text": "Idk I felt like that until I got diagnosed with a chronic autoimmune disease.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Sei lá, eu achava isso até ser diagnosticado com uma doença autoimune crônica.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eej7urr",
+    "split": "train",
+    "line_idx": 34783,
+    "original_text": "But the right to not have your property taken away from you is a right.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Mas o direito de não terem sua propriedade tirada de vocês é um direito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eduezj9",
+    "split": "train",
+    "line_idx": 34784,
+    "original_text": "I will never forgive and never forget for this one",
+    "emotion_ids": "2,10",
+    "emotions": [
+      "anger",
+      "disapproval"
+    ],
+    "translated_text": "Eu nunca vou perdoar e nunca vou esquecer essa",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eee7y95",
+    "split": "train",
+    "line_idx": 34785,
+    "original_text": "You’re dehydrated and exausted, drink lots of water and maybe get some sleep. You’ll feel better eventually.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Você tá desidratado e esgotado, bebe muita água e tenta dormir um pouco. Daqui a pouco você fica melhor.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9b88y",
+    "split": "train",
+    "line_idx": 34786,
+    "original_text": "For extra measure tape it right by your crotch so she can't take it for sexual assault reasons",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Por precaução, cola a fita bem na altura da braguilha para ela não alegar assédio sexual",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbk0qv",
+    "split": "train",
+    "line_idx": 34787,
+    "original_text": "That’s bull crap call.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Que papinho furado do caralho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edosq71",
+    "split": "train",
+    "line_idx": 34788,
+    "original_text": "It makes me feel better about overeating sometimes because I tell myself that at least I’m not as bad as those people",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Às vezes isso me faz sentir melhor sobre comer demais, porque eu penso que pelo menos eu não tô tão gordo/mal quanto essa galera",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgai6l",
+    "split": "train",
+    "line_idx": 34789,
+    "original_text": "Haha oops **amiodarone. This is why we need safety checks for drug orders. ;)",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha opa **amiodarona. É por isso que precisamos de checagens de segurança para pedidos de remédio. ;)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edv1vda",
+    "split": "train",
+    "line_idx": 34790,
+    "original_text": "So, [NAME] was also paying to allow her to eat healthier. Let’s look at the bright side! ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Então, o [NAME] também tava pagando para ela poder comer mais saudável. Vamos ver o copo meio cheio!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4gl6e",
+    "split": "train",
+    "line_idx": 34791,
+    "original_text": "Why do I seem to hit 6/7, and can't go any deeper without throwing up. I wanna see and feel more shit FML lol.",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ],
+    "translated_text": "Por que eu pareço chegar nos 6/7 [cm] e não consigo ir mais fundo sem vomitar. Quero ver e sentir mais merda, vai se fuder minha vida lol.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepxim7",
+    "split": "train",
+    "line_idx": 34792,
+    "original_text": "What will you do if you don't go?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que você vai fazer se você não for?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eet70b6",
+    "split": "train",
+    "line_idx": 34793,
+    "original_text": "Not a [NAME] fan myself, but there's no reason to comment on his weight or appearance. It only makes your side look bad.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não sou fã do [NAME], mas não tem motivo pra comentar sobre o peso ou a aparência dele. Isso só faz o seu lado parecer tosco.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efh2zyi",
+    "split": "train",
+    "line_idx": 34794,
+    "original_text": "Jokes on [NAME]. I only use Facebook to follow the defectives.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se deu mal, [NAME]. Só uso o Facebook pra acompanhar os tontos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eesfjhh",
+    "split": "train",
+    "line_idx": 34795,
+    "original_text": "He appeals to the conversation. Basically doesn’t have a firm stance on anything of much importance and will flip flop based on his guest.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Ele fica em cima do muro na conversa. Basicamente não tem uma opinião firme sobre nada muito importante e vai mudar de ideia dependendo do convidado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelpoik",
+    "split": "train",
+    "line_idx": 34796,
+    "original_text": "What an immature response. With a little passive agressive racism to boot. Classy.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Que resposta imatura. Com um tiquinho de racismo passivo-agressivo de brinde. Chique.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8l17a",
+    "split": "train",
+    "line_idx": 34797,
+    "original_text": "Levels mate. Absolutely obsessed with our dominance.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Níveis, meu chapa. Absolutamente obcecados com o nosso domínio.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1nrh0",
+    "split": "train",
+    "line_idx": 34798,
+    "original_text": "As a fellow artists and raised by an N I just want to say congrats.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Como colega artista e criado por um narcisista, só quero dizer parabéns.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef6hf7v",
+    "split": "train",
+    "line_idx": 34799,
+    "original_text": "Literally awesome that someone else is doing the same thing! Funny thing is I go for two a year also. Heck yeah fellow dodger friend",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "Literalmente foda demais que outra pessoa tá fazendo a mesma coisa! O engraçado é que eu também faço dois por ano. Isso aí, meu truta fã de dodger",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

@@ -1,0 +1,564 @@
+[
+  {
+    "id": "ee5plk4",
+    "split": "train",
+    "line_idx": 2500,
+    "original_text": "You really don't allow children to come forward with bullying until they have video evidence? Lmfao",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Você realmente não deixa as crianças denunciarem bullying até terem prova em vídeo? Lmfao"
+  },
+  {
+    "id": "efgxis5",
+    "split": "train",
+    "line_idx": 2501,
+    "original_text": "You’re a vile vile person and a rapist. I hope the police are onto you.",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "Você é uma pessoa vil e um estuprador. Espero que a polícia esteja de olho em você."
+  },
+  {
+    "id": "edttf7b",
+    "split": "train",
+    "line_idx": 2502,
+    "original_text": "The double fist bump made me smile, her happiness was contagious",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "O duplo soco de punho me fez sorrir, a felicidade dela era contagiante"
+  },
+  {
+    "id": "edy5jwp",
+    "split": "train",
+    "line_idx": 2503,
+    "original_text": "Glad we can take a win into Philly.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Fico feliz que a gente possa levar uma vitória pra Filadélfia."
+  },
+  {
+    "id": "eeba4tg",
+    "split": "train",
+    "line_idx": 2504,
+    "original_text": "BNW is scarily accurate if you ask me.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "BNW é assustadoramente preciso, se você me perguntar."
+  },
+  {
+    "id": "eewb9dr",
+    "split": "train",
+    "line_idx": 2505,
+    "original_text": "Not the snowbank, though. That will end badly in spring.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não a pilha de neve, porém. Isso vai acabar mal na primavera."
+  },
+  {
+    "id": "ee1cat9",
+    "split": "train",
+    "line_idx": 2506,
+    "original_text": "I mean I dont think your wrong at all, but I would still be happy to fight you for funsies.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Não que eu ache que você esteja errado, mas ainda assim eu toparia brigar contigo só por diversão."
+  },
+  {
+    "id": "eeq8e1r",
+    "split": "train",
+    "line_idx": 2507,
+    "original_text": "She refuses them by inhaling them [I'm sorry if that sounded bad plz no downvite]",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Ela recusa eles inalando-os [Desculpa se soou estranho, por favor não me derrube]"
+  },
+  {
+    "id": "ee1lukj",
+    "split": "train",
+    "line_idx": 2508,
+    "original_text": "This too shall pass In 10 years this could turn out to be the best thing that has ever happened to you.",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Isso também vai passar. Em 10 anos isso pode ser a melhor coisa que já aconteceu com você."
+  },
+  {
+    "id": "efcl49i",
+    "split": "train",
+    "line_idx": 2509,
+    "original_text": "damn it I was holding out for [NAME] to carry the game",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "Droga, eu tava esperando o [NAME] carregar o jogo"
+  },
+  {
+    "id": "eebnybu",
+    "split": "train",
+    "line_idx": 2510,
+    "original_text": "Nah I think that’s a salarian from mass effect 😂😂",
+    "emotion_ids": "10,20",
+    "emotions": [
+      "disapproval",
+      "optimism"
+    ],
+    "translated_text": "Nah, acho que isso é um salarian de Mass Effect 😂😂"
+  },
+  {
+    "id": "eeksbwl",
+    "split": "train",
+    "line_idx": 2511,
+    "original_text": "Spider Man is pretty awesome.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "O Homem-Aranha é bem da hora."
+  },
+  {
+    "id": "eczfq8h",
+    "split": "train",
+    "line_idx": 2512,
+    "original_text": "I had someone do that to me on a delivery only order I was really upset it's another deceiving thing that we have to deal with on here",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Alguém fez isso comigo num pedido só de entrega, fiquei bem chateado, é mais uma daquelas armadilhas que a gente tem que lidar aqui."
+  },
+  {
+    "id": "edbfrmc",
+    "split": "train",
+    "line_idx": 2513,
+    "original_text": "Scuba diving. I realized how truly precious and fragile nature is. I stopped eating seafood as well.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Mergulho. Percebi o quão preciosa e frágil a natureza é. Também parei de comer frutos do mar."
+  },
+  {
+    "id": "eetjkm4",
+    "split": "train",
+    "line_idx": 2514,
+    "original_text": "I don’t want my tax dollars going to some psycho who thinks he’s a girl trapped in a mans body",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não quero meus impostos indo pra um psicopata que acha que é uma garota presa num corpo de homem"
+  },
+  {
+    "id": "eeehoon",
+    "split": "train",
+    "line_idx": 2515,
+    "original_text": "As far as I know, it's still bugged, so just reroll it",
+    "emotion_ids": "3,22",
+    "emotions": [
+      "annoyance",
+      "realization"
+    ],
+    "translated_text": "Até onde eu sei, ainda tá bugado, então só refaz isso"
+  },
+  {
+    "id": "edr5bra",
+    "split": "train",
+    "line_idx": 2516,
+    "original_text": "Fuuuuck that's rough",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Fuuuuck, isso é duro"
+  },
+  {
+    "id": "edn6t90",
+    "split": "train",
+    "line_idx": 2517,
+    "original_text": "I have the same issue. Except I'm a dude. Talking about my face. One likes me scruffy, the other baby smoothe",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Tenho o mesmo problema. Só que eu sou um cara. Falando da minha cara. Um gosta de mim meio desgrenhado, o outro de bebê lisinho"
+  },
+  {
+    "id": "edki240",
+    "split": "train",
+    "line_idx": 2518,
+    "original_text": "yeqpnsaved one from every event in the history of hots, think I may have accidentally opened one of my summer boxes tho :s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "yeqpnsalvei um de cada evento na história de hots, acho que acabei abrindo uma das minhas caixas de verão sem querer :s"
+  },
+  {
+    "id": "ee18oid",
+    "split": "train",
+    "line_idx": 2519,
+    "original_text": "I regret that I understand that reference :(",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Me arrependo de entender essa referência :("
+  },
+  {
+    "id": "effnzcw",
+    "split": "train",
+    "line_idx": 2520,
+    "original_text": "Literally any type of pepper, Bell, chilli etc. Pain in the arse but I’d rather limit my choices than have that allergic reaction again. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Literalmente qualquer tipo de pimenta, tipo pimentão, chilli etc. Dor no cu, mas prefiro limitar minhas escolhas a não ter outra reação alérgica."
+  },
+  {
+    "id": "ed6b7er",
+    "split": "train",
+    "line_idx": 2521,
+    "original_text": "yeah, a little bit.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "sim, um pouquinho."
+  },
+  {
+    "id": "ed9d04e",
+    "split": "train",
+    "line_idx": 2522,
+    "original_text": "They don't care, even if that involves bringing any idiot in regardless what they tag along and other tenants have to suffer until or if they move.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles não ligam, mesmo que isso signifique trazer qualquer idiota, não importa quem eles tragam, e os outros inquilinos têm que sofrer até ou se mudarem."
+  },
+  {
+    "id": "edy1i1s",
+    "split": "train",
+    "line_idx": 2523,
+    "original_text": "All armed robbers, serial killers, rapists, swindlers all downplay the severity of their actions... ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Todos os assaltantes armados, serial killers, estupradores, golpistas minimizam a gravidade dos atos deles..."
+  },
+  {
+    "id": "eestruw",
+    "split": "train",
+    "line_idx": 2524,
+    "original_text": "you still didn't answer the point....lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "você ainda não respondeu ao ponto....lol"
+  },
+  {
+    "id": "edeqhua",
+    "split": "train",
+    "line_idx": 2525,
+    "original_text": "[NAME] eyebrows look terrible. That’s really my only takeaway from this picture.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] sobrancelhas parecem terríveis. Essa é basicamente a única coisa que eu tiro dessa foto."
+  },
+  {
+    "id": "eczttpz",
+    "split": "train",
+    "line_idx": 2526,
+    "original_text": "No, but even if you did, you'll find nothing special.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Não, mas mesmo que você fizesse, não encontraria nada especial."
+  },
+  {
+    "id": "eeb3nzr",
+    "split": "train",
+    "line_idx": 2527,
+    "original_text": "Poor poor poor bastard",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Pobre, pobre, pobre bastardo"
+  },
+  {
+    "id": "edx03wi",
+    "split": "train",
+    "line_idx": 2528,
+    "original_text": "I just read this the other day for the first time since I was a kid. What an influential book.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Acabei de ler isso outro dia pela primeira vez desde que era criança. Que livro influente."
+  },
+  {
+    "id": "ee2gdxw",
+    "split": "train",
+    "line_idx": 2529,
+    "original_text": "damn this comment history is something else did Willy kill your dog or something",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "caramba, esse histórico de comentários é outra coisa, o Willy matou seu cachorro ou algo assim?"
+  },
+  {
+    "id": "eeej25d",
+    "split": "train",
+    "line_idx": 2530,
+    "original_text": "You know, that never occurred to me! So keep cool in summer, warm in winter?",
+    "emotion_ids": "4,6",
+    "emotions": [
+      "approval",
+      "confusion"
+    ],
+    "translated_text": "Você sabe, nunca me ocorreu! Então fica fresco no verão, quente no inverno?"
+  },
+  {
+    "id": "efbueck",
+    "split": "train",
+    "line_idx": 2531,
+    "original_text": "I groped one of my friend's ass last year. I've had a gf. I have mostly A's.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu apalpei a bunda de um amigo no ano passado. Já tive namorada. Tenho quase só notas A."
+  },
+  {
+    "id": "eekzt1b",
+    "split": "train",
+    "line_idx": 2532,
+    "original_text": "[NAME] first event was IW, not last year. So you're comparing his second year playing professionals on LAN vs Cells first time. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] primeiro evento foi IW, não no ano passado. Então você tá comparando o segundo ano dele jogando pros profissionais em LAN vs a primeira vez do Cells."
+  },
+  {
+    "id": "eea8t5v",
+    "split": "train",
+    "line_idx": 2533,
+    "original_text": "You said that it is a fact that [NAME] is a rapist based on the testimony of 1 person. I merely stated the same argument based on your logic.",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "Você disse que é fato que [NAME] é estuprador baseado no depoimento de 1 pessoa. Eu apenas repeti o mesmo argumento usando sua lógica."
+  },
+  {
+    "id": "eeaiqas",
+    "split": "train",
+    "line_idx": 2534,
+    "original_text": "It's very r/thathappened",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É muito r/thathappened"
+  },
+  {
+    "id": "ee9ho16",
+    "split": "train",
+    "line_idx": 2535,
+    "original_text": "BUT [RELIGION] MONKS DONT speak???",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "MAS MONKS DE [RELIGION] NÃO FALAM???"
+  },
+  {
+    "id": "edene33",
+    "split": "train",
+    "line_idx": 2536,
+    "original_text": "Which is weird because I can still get hours every week the day before if I wanted to.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "O que é estranho porque ainda consigo horas toda semana no dia anterior se eu quiser."
+  },
+  {
+    "id": "ef4q82a",
+    "split": "train",
+    "line_idx": 2537,
+    "original_text": "Welcome to my world. fml",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Bem-vindo ao meu mundo. fml"
+  },
+  {
+    "id": "ed59tfg",
+    "split": "train",
+    "line_idx": 2538,
+    "original_text": "Yeah but i have hard time finding keyboards under 60€ that are blue switches with nkro, if u have some suguesstions please leave a link.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, mas tenho dificuldade de achar teclados abaixo de 60€ que sejam blue switches com nkro, se tiver sugestões deixa um link."
+  },
+  {
+    "id": "edfgs9s",
+    "split": "train",
+    "line_idx": 2539,
+    "original_text": "This one has been around longer than you, buddy.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse aqui existe há mais tempo que você, camarada."
+  },
+  {
+    "id": "ee3jrhv",
+    "split": "train",
+    "line_idx": 2540,
+    "original_text": "And sitting on the side of the road for 8 hours to catch you doing 65 in a 55",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E sentado na beira da estrada por 8 horas pra te pegar fazendo 65 numa 55"
+  },
+  {
+    "id": "eei4ife",
+    "split": "train",
+    "line_idx": 2541,
+    "original_text": "[NAME] was high sticked 3 times, cut twice before a call",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] foi high sticked 3 vezes, cortado duas vezes antes de uma chamada"
+  },
+  {
+    "id": "edv4coz",
+    "split": "train",
+    "line_idx": 2542,
+    "original_text": "[NAME] forced [NAME] to give it up, leading to a steal, and then gets a steal himself on the next play. Love his tenacity.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME] forçou [NAME] a largar, levando a um roubo, e depois ele mesmo rouba na jogada seguinte. Amo a tenacidade dele."
+  },
+  {
+    "id": "eenxi3d",
+    "split": "train",
+    "line_idx": 2543,
+    "original_text": "And the GOP will only care if they're boys.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E o GOP só vai se importar se forem garotos."
+  },
+  {
+    "id": "edgv4zl",
+    "split": "train",
+    "line_idx": 2544,
+    "original_text": "In that case you're very welcome to call your representative and tell them to agree to a bill which would reopen the government. Or tweet the president.",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Nesse caso, sinta-se à vontade pra ligar pro seu representante e dizer pra aprovar um projeto que reabra o governo. Ou tweetar pro presidente."
+  },
+  {
+    "id": "ed4b8o8",
+    "split": "train",
+    "line_idx": 2545,
+    "original_text": "It's also ridiculously removed from reality. Dying to a disease or injury from an accident is orders of magnitude more likely than getting shot.",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Também é ridiculamente distante da realidade. Morrer de doença ou acidente é muito mais provável que ser alvejado."
+  },
+  {
+    "id": "edy8hly",
+    "split": "train",
+    "line_idx": 2546,
+    "original_text": "This person is the smartest person to play town of salem literally 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999991000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001234567898765432345676543345678987654345678909876543234567898765432345678909876543234567898765432345678987654323456787654345676543456543456434543434343434323456765434567654323454323456543345678987654323456789876565656565656565656565656565454545654565454323456765432345678765456 IQ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Essa pessoa é a pessoa mais inteligente a jogar Town of Salem literalmente 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999991000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001234567898765432345676543345678987654345678909876543234567898765432345678909876543234567898765432345678987654323456787654345676543456543456434543434343434323456765434567654323454323456543345678987654323456789876565656565656565656565656565454545654565454323456765432345678765456 IQ"
+  },
+  {
+    "id": "eew6baw",
+    "split": "train",
+    "line_idx": 2547,
+    "original_text": "Ha ha. You can't define something into existence.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ha ha. Você não pode definir algo pra existir."
+  },
+  {
+    "id": "edneit3",
+    "split": "train",
+    "line_idx": 2548,
+    "original_text": "My fav frank songs are white Ferrari, super rich kids and bad religion, I know those are popular songs I just wanna get deeper into his music ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Minhas músicas favoritas do Frank são White Ferrari, Super Rich Kids e Bad Religion, sei que são populares, só quero me aprofundar mais no som dele"
+  },
+  {
+    "id": "efddnzs",
+    "split": "train",
+    "line_idx": 2549,
+    "original_text": "Was waiting for them to do it again with him out of the truck",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Estava esperando eles fazerem de novo com ele fora do caminhão"
+  }
+]

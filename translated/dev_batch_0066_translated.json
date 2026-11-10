@@ -1,0 +1,612 @@
+[
+  {
+    "id": "eemdxbm",
+    "split": "dev",
+    "line_idx": 3000,
+    "original_text": "OK, is there a crossover between herb and spice in your language (Norwegian?) I was confused by 'North American Provence spice'.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Beleza, existe uma mistura de erva e especiaria na sua língua (norueguês?) Fiquei confuso com \"North American Provence spice\".",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3u83p",
+    "split": "dev",
+    "line_idx": 3001,
+    "original_text": "Yo mamma so flat, Earth gets jealous.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sua mãe é tão reta que a Terra fica com inveja.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1zhop",
+    "split": "dev",
+    "line_idx": 3002,
+    "original_text": "Never heard of this before, but I think it's awesome. Thanks for sharing! Can I buy this track on Bandcamp?",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Nunca ouvi falar disso antes, mas achei foda. Valeu por compartilhar! Dá pra comprar essa faixa no Bandcamp?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1qmrz",
+    "split": "dev",
+    "line_idx": 3003,
+    "original_text": "I agree. I've been passively thinking that the left and right axis is irrelevant. Its north and south that divides",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Concordo. Estive pensando cá comigo que o eixo esquerda e direita é irrelevante. É o norte e o sul que dividem",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed45zia",
+    "split": "dev",
+    "line_idx": 3004,
+    "original_text": "I’m gonna do lsd again in 2 weeks",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vou tomar lsd de novo daqui a 2 semanas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edicdzu",
+    "split": "dev",
+    "line_idx": 3005,
+    "original_text": "Or pay someone to take photos. It's very easy to have a cheap wedding if you are a choosing beggar.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ou pagar alguém pra tirar fotos. É bem fácil ter um casamento barato se você for um pidão mão-de-vaca.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednsn1r",
+    "split": "dev",
+    "line_idx": 3006,
+    "original_text": "I absolutely love him. He is one of the two people that I enjoy playing. He has one of the most unique move sets and I like that",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu adoro ele demais. É uma das duas pessoas com quem gosto de jogar. Ele tem um dos conjuntos de movimentos mais únicos e eu curto isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjp2ud",
+    "split": "dev",
+    "line_idx": 3007,
+    "original_text": "Wishing that sweet boy a super quick procedure and an even faster recovery. I’ll keep you guys in my thoughts.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Desejando a esse garotinho lindo um procedimento super rápido e uma recuperação ainda mais rápida. Vou manter vocês em meus pensamentos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8617j",
+    "split": "dev",
+    "line_idx": 3008,
+    "original_text": "People are just so used to these laws never being enforced in any meaningful way in other countries.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "As pessoas simplesmente estão tão acostumadas a essas leis nunca serem aplicadas pra valer em outros países.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edby258",
+    "split": "dev",
+    "line_idx": 3009,
+    "original_text": "Does anyone remember the way home? I do! *blam* Anyone else? *raises hand* *blam* Anyone else?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Alguém lembra o caminho de volta pra casa? Eu lembro! *pá* Mais alguém? *levanta a mão* *pá* Mais alguém?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelqjpo",
+    "split": "dev",
+    "line_idx": 3010,
+    "original_text": "Fuck you bro",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Vai se foder mano",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbcaw5",
+    "split": "dev",
+    "line_idx": 3011,
+    "original_text": "Horrific. Shameful.",
+    "emotion_ids": "3,14",
+    "emotions": [
+      "annoyance",
+      "fear"
+    ],
+    "translated_text": "Horrível. Vergonhoso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7gcwd",
+    "split": "dev",
+    "line_idx": 3012,
+    "original_text": "Never take advice from someone named \"poor judgement\" ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Nunca aceite conselho de alguém chamado \"falta de juízo\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef44go8",
+    "split": "dev",
+    "line_idx": 3013,
+    "original_text": "That's probably the price a [NAME] pays to rent the Trump Hotel D.C. Ballroom for a cocktail party. Whoop de fucking doo.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Esse é provavelmente o preço que um [NAME] paga pra alugar o salão de festas do Trump Hotel D.C. prum coquetel. Grande bosta.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef16rr9",
+    "split": "dev",
+    "line_idx": 3014,
+    "original_text": "Dennis day. I wanna see what the [NAME] would put the Gang through.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "O dia do Dennis. Quero ver pelo que o [NAME] faria a Gangue passar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm0eak",
+    "split": "dev",
+    "line_idx": 3015,
+    "original_text": "I don’t know about shatting myself but I would have been _shocked_ for sure.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Não sei se teria me cagado todo, mas com certeza teria ficado _chocado_.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2ahl4",
+    "split": "dev",
+    "line_idx": 3016,
+    "original_text": "What is the reason you 2 have only been on 1 date in a whole year? Why cant you just 'see' each other in person?",
+    "emotion_ids": "6,7,27",
+    "emotions": [
+      "confusion",
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Qual é o motivo de vocês dois só terem saído 1 vez em um ano inteiro? Por que não podem simplesmente se \"ver\" pessoalmente?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednjf2q",
+    "split": "dev",
+    "line_idx": 3017,
+    "original_text": "Dawg, turn on the volume and smash that screen record button. too easy.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mano, liga o volume e mete o dedo no botão de gravar a tela. Fácil demais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi1jj5",
+    "split": "dev",
+    "line_idx": 3018,
+    "original_text": "And that is exactly why I never got that shit done, even though it interests me greatly. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "E é exatamente por isso que eu nunca fiz essa porra, mesmo que isso me interesse pra caramba.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0s4f7",
+    "split": "dev",
+    "line_idx": 3019,
+    "original_text": "I'm excited!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Tô animado!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee97oab",
+    "split": "dev",
+    "line_idx": 3020,
+    "original_text": "Omg, I'm so sorry. I'm sending you love. That's horrible. :/ Are you doing okay?",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Mds, sinto muito. Tô te mandando muito carinho. Que horrível. :/ Você tá bem?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2rihd",
+    "split": "dev",
+    "line_idx": 3021,
+    "original_text": "American children raised by English parents can easily end up with accents resembling their parents’.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Crianças americanas criadas por pais ingleses podem facilmente acabar com sotaques parecidos com os dos pais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efejybf",
+    "split": "dev",
+    "line_idx": 3022,
+    "original_text": "Typical verbal diarrhea from a cucked sheep. Good try though. B+ for effort.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Típica diarreia verbal de um gado manso. Boa tentativa, mesmo assim. Nota 7 pelo esforço.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbofdr",
+    "split": "dev",
+    "line_idx": 3023,
+    "original_text": "why does this feel like rightwing propaganda made because they are pant shittingly terrified of her...",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "por que parece que isso é propaganda de direita feita porque eles tão se borrando de medo dela...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed885w",
+    "split": "dev",
+    "line_idx": 3024,
+    "original_text": "Didn't [NAME] say that [NAME] was going to be on?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "O [NAME] não tinha dito que o [NAME] ia participar?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq92jw",
+    "split": "dev",
+    "line_idx": 3025,
+    "original_text": "Lets not meet with a panther. I seriously love this subreddit.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Melhor a gente não dar de cara com uma pantera. Eu amo demais esse subreddit.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed426c9",
+    "split": "dev",
+    "line_idx": 3026,
+    "original_text": "Even if no sickness is spread, no one else wants to see or smell that while they are eating. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mesmo se nenhuma doença for transmitida, ninguém quer ver ou cheirar isso enquanto tá comendo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetakwe",
+    "split": "dev",
+    "line_idx": 3027,
+    "original_text": "Can't wait till the home game in March... And a portland okc playoff series would be \"lit af\" ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mal posso esperar pro jogo em casa em março... E uma série de playoffs entre portland e okc ia ser \"foda pra caralho\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee36m0p",
+    "split": "dev",
+    "line_idx": 3028,
+    "original_text": "Walkerton for anyone who is curious about the actual real deaths under \"chainsaw\" [NAME] ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Walkerton para quem tiver curiosidade sobre as mortes reais de fato sob o \"motosserra\" [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed9eux",
+    "split": "dev",
+    "line_idx": 3029,
+    "original_text": "Haha, imagine someone always looking amazingly fashionable, taking hours to dress 'down', trying to look casual.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha, imagina alguém sempre parecer incrivelmente na moda, levando horas pra se vestir de um jeito \"despojado\", tentando parecer casual.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczg2g7",
+    "split": "dev",
+    "line_idx": 3030,
+    "original_text": "I'm in the Central Time Zone in the US so I have some time to go. But Happy New Year to you man!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tô no fuso horário Central nos EUA, então ainda falta um tempinho pra mim. Mas Feliz Ano Novo pra você, cara!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjn8ln",
+    "split": "dev",
+    "line_idx": 3031,
+    "original_text": "is that an enby egg?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "isso é um ovo enby?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeryfcw",
+    "split": "dev",
+    "line_idx": 3032,
+    "original_text": "Also r/justnomil holy doodles man they are nutso.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Além disso, o r/justnomil caraca mano eles são pancada das ideias.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9j45k",
+    "split": "dev",
+    "line_idx": 3033,
+    "original_text": "What a masterful bit of propaganda. Get the left to want war and criticize peace.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Que pedaço magistral de propaganda. Fazer a esquerda querer guerra e criticar a paz.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhc4tm",
+    "split": "dev",
+    "line_idx": 3034,
+    "original_text": "Same for me, feels like i've been made alone just so my brother can get all the attention",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "A mesma coisa comigo, parece que me deixaram de lado só pro meu irmão receber toda a atenção",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed70lwg",
+    "split": "dev",
+    "line_idx": 3035,
+    "original_text": "Expert peep fan here! I’m not gonna attack or defend I just wanna say that kids a little Bitch",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Fã raiz de Peep aqui! Não vou atacar nem defender, só quero dizer que esse moleque é um Cuzinho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtql8s",
+    "split": "dev",
+    "line_idx": 3036,
+    "original_text": "yeah, I agree. it’s just annoying hahaha but thank you so much!!! (: ",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "sim, concordo. é só irritante hahaha mas muito obrigado mesmo!!! (: ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerm1dc",
+    "split": "dev",
+    "line_idx": 3037,
+    "original_text": "I'm not a gamer but I always feel bad if I kill an ant or some other bug like that for no reason :( instant regret",
+    "emotion_ids": "24,25",
+    "emotions": [
+      "remorse",
+      "sadness"
+    ],
+    "translated_text": "Não sou gamer, mas sempre me sinto mal se mato uma formiga ou algum outro inseto do tipo sem motivo :( arrependimento instantâneo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevx8m2",
+    "split": "dev",
+    "line_idx": 3038,
+    "original_text": "the ancap ideology has spread to birds now. Our numbers grow stronger every day😂",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "a ideologia ancap se espalhou pros pássaros agora. Nossos números crescem mais a cada dia😂",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8ncv9",
+    "split": "dev",
+    "line_idx": 3039,
+    "original_text": "When your 16 and do adderall and get a panic attack",
+    "emotion_ids": "14,27",
+    "emotions": [
+      "fear",
+      "neutral"
+    ],
+    "translated_text": "Quando você tem 16 anos e toma adderall e tem um ataque de pânico",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed36bhy",
+    "split": "dev",
+    "line_idx": 3040,
+    "original_text": "To add, from what I hear he is actually a stand up guy and not at all the douche that the tweet/comments are about.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra complementar, pelo que ouço dizer ele na verdade é um cara firmeza e nem de longe o babaca de quem o tweet/comentários tão falando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5go9y",
+    "split": "dev",
+    "line_idx": 3041,
+    "original_text": "Oh no here come the fanboys and girls, dude... RUUUNNN",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ah não, lá vêm os fanboys e fangirls, mano... COORRREE",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgg6vc",
+    "split": "dev",
+    "line_idx": 3042,
+    "original_text": "To prep or not to prep, that is thy question.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Preparar ou não preparar, eis a questão.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0kfmm",
+    "split": "dev",
+    "line_idx": 3043,
+    "original_text": "Not exactly starving though is it, so my point still stands.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas não tá exatamente passando fome, tá, então meu argumento continua de pé.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeplame",
+    "split": "dev",
+    "line_idx": 3044,
+    "original_text": "even though its alot of work, i got 100% this weekend, and that scene re-opened the wound, lemme tell ya. what a masterpiece",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "mesmo dando um trampo danado, fiz 100% esse fim de semana, e aquela cena reabriu a ferida, vou te contar. que obra-prima",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejn19n",
+    "split": "dev",
+    "line_idx": 3045,
+    "original_text": "great! Whats on your mind? Be open about it,",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "ótimo! O que você tá pensando? Pode falar abertamente,",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edl6615",
+    "split": "dev",
+    "line_idx": 3046,
+    "original_text": "Queen coming for that 2nd week!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A diva vindo pra 2ª semana!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee54033",
+    "split": "dev",
+    "line_idx": 3047,
+    "original_text": "The problem with C4 wasn't that it was short, but that nothing really happened. ",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "O problema com o C4 não foi ser curto, mas sim que nada realmente aconteceu.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4fqyy",
+    "split": "dev",
+    "line_idx": 3048,
+    "original_text": "This is so wholesome I love it",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Isso é tão fofo, adorei",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedrdk3",
+    "split": "dev",
+    "line_idx": 3049,
+    "original_text": "The average person here could go their whole life without ever seeing a gun. The gangs and such yeah they manage to get guns one way or another",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A pessoa comum aqui poderia passar a vida inteira sem nunca ver uma arma. As gangues e coisas do tipo, sim, eles dão um jeito de conseguir armas de uma forma ou de outra",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

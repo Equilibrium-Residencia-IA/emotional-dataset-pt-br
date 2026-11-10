@@ -1,0 +1,561 @@
+[
+  {
+    "id": "efebvyu",
+    "split": "train",
+    "line_idx": 23150,
+    "original_text": "[NAME] hears bible verses and is like \"fuck this shit\"",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "[NAME] ouve versículos da bíblia e fica tipo \"foda-se essa porra\""
+  },
+  {
+    "id": "edrs6k5",
+    "split": "train",
+    "line_idx": 23151,
+    "original_text": "Nothing and I mean nothing will sway a trump supporter at this point",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nada, e eu digo nada mesmo, vai fazer um apoiador do Trump mudar de ideia a essa altura"
+  },
+  {
+    "id": "edyxvva",
+    "split": "train",
+    "line_idx": 23152,
+    "original_text": "What's with the click? I don't get it... It ruins the joke *hangs up*",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Qual é a desse clique? Não entendi... Estraga a piada *desliga*"
+  },
+  {
+    "id": "eei1vfj",
+    "split": "train",
+    "line_idx": 23153,
+    "original_text": "Seeing [NAME] on Sunday and I'm so fucking stoked",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Vou ver o [NAME] no domingo e tô muito empolgado, porra"
+  },
+  {
+    "id": "edljk97",
+    "split": "train",
+    "line_idx": 23154,
+    "original_text": "His work schedule is pretty consistent so I should be able to move out when he's at work. Thanks for your advice.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "O horário de trabalho dele é bem consistente, então deve dar pra eu me mudar quando ele estiver no trampo. Valeu pelo conselho."
+  },
+  {
+    "id": "ed4vdlt",
+    "split": "train",
+    "line_idx": 23155,
+    "original_text": "Every time [NAME] is in one of these things, I keep remembering that Trinity Soul exists. It was not a very memorable show. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Toda vez que o [NAME] tá num desses, eu lembro que Trinity Soul existe. Não foi um desenho muito memorável."
+  },
+  {
+    "id": "eep8dd0",
+    "split": "train",
+    "line_idx": 23156,
+    "original_text": "And then peeing on them. I came, I saw, I peed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E depois fazer xixi neles. Vim, vi, fiz xixi."
+  },
+  {
+    "id": "eeew3h1",
+    "split": "train",
+    "line_idx": 23157,
+    "original_text": "Oh god dammit I've been bamboozled, I fell for the b8",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Ah, puta que pariu, fui tapeado, caí na isca"
+  },
+  {
+    "id": "effg0lh",
+    "split": "train",
+    "line_idx": 23158,
+    "original_text": "Happy Birthday!! It was great seeing her at the Royal Rumble and SmackDown.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Feliz aniversário!! Foi ótimo vê-la no Royal Rumble e no SmackDown."
+  },
+  {
+    "id": "eemmubm",
+    "split": "train",
+    "line_idx": 23159,
+    "original_text": "Sksksksk omg, I think I must’ve got confused then, yeh top for ep8 right? And that’s the makeover or the ball?",
+    "emotion_ids": "6,26",
+    "emotions": [
+      "confusion",
+      "surprise"
+    ],
+    "translated_text": "Sksksksk mds, acho que me confundi então, é o top do ep8 né? E isso é a transformação ou o baile?"
+  },
+  {
+    "id": "ef9f2fx",
+    "split": "train",
+    "line_idx": 23160,
+    "original_text": "Ok, I gots to know, was the child taken away? Please tell me the child was taken away. ",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ok, eu preciso saber, a criança foi tirada de lá? Por favor, me diz que tiraram a criança de lá."
+  },
+  {
+    "id": "eegb3gy",
+    "split": "train",
+    "line_idx": 23161,
+    "original_text": "We really need to sign a new CB now with [NAME] out injured. [NAME] isn't good enough yet.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "A gente realmente precisa contratar um novo zagueiro agora com o [NAME] lesionado. O [NAME] ainda não é bom o suficiente."
+  },
+  {
+    "id": "edtfs41",
+    "split": "train",
+    "line_idx": 23162,
+    "original_text": "The FBI has an age cut-off, so act fast!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O FBI tem limite de idade, então corre!"
+  },
+  {
+    "id": "edx3lvq",
+    "split": "train",
+    "line_idx": 23163,
+    "original_text": "Look at the reflection of the ceiling in the mirror...and the exit sign. I totally thought this was a jerk.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Olha o reflexo do teto no espelho... e a placa de saída. Achei total que isso era um idiota."
+  },
+  {
+    "id": "edi7oys",
+    "split": "train",
+    "line_idx": 23164,
+    "original_text": "Let's say some gangsta is messing with your fly girl. You just givem one of these....",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Digamos que algum bandido esteja mexendo com a sua gata. Você só dá um desses nele..."
+  },
+  {
+    "id": "ed9nt37",
+    "split": "train",
+    "line_idx": 23165,
+    "original_text": "[NAME] TAKE MY HEART",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME] LEVE MEU CORAÇÃO"
+  },
+  {
+    "id": "ee8nowj",
+    "split": "train",
+    "line_idx": 23166,
+    "original_text": "Also do something special no matter how corny it might be to reward yourself. You deserve it friend!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "E faça algo especial, não importa o quão brega seja, pra se recompensar. Você merece, amigo!"
+  },
+  {
+    "id": "ef89a0g",
+    "split": "train",
+    "line_idx": 23167,
+    "original_text": "Lightborn, [NAME] Demise, Look at a wall, Bait out the flashlight person, Slug. Wow, so hard.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lightborn, [NAME] Demise, olhar pra parede, baitar o cara da lanterna, slug. Nossa, que difícil."
+  },
+  {
+    "id": "eezgwst",
+    "split": "train",
+    "line_idx": 23168,
+    "original_text": "Oh I went to make soup and must’ve missed that",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ah, eu fui fazer sopa e devo ter perdido isso"
+  },
+  {
+    "id": "eehl2jr",
+    "split": "train",
+    "line_idx": 23169,
+    "original_text": "Prove he harassed them. If there was actual evidence, I would imagine at least one of the kids would’ve put up a video. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Prova que ele assediou elas. Se tivesse prova de verdade, imagino que pelo menos uma das crianças teria postado um vídeo."
+  },
+  {
+    "id": "edrz015",
+    "split": "train",
+    "line_idx": 23170,
+    "original_text": "The sad part is that we are not trying to tank",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "O triste é que a gente nem tá tentando perder de propósito"
+  },
+  {
+    "id": "efb2qv1",
+    "split": "train",
+    "line_idx": 23171,
+    "original_text": "Rule #6 - Always ensure there's a random stranger near-by that can wave you to continue on once your task has been completed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Regra nº 6 - Sempre garanta que tenha um estranho aleatório por perto que possa te dar sinal pra continuar assim que sua tarefa terminar."
+  },
+  {
+    "id": "eeubeoq",
+    "split": "train",
+    "line_idx": 23172,
+    "original_text": "Yes. Combined.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sim. Combinado."
+  },
+  {
+    "id": "ee90yrm",
+    "split": "train",
+    "line_idx": 23173,
+    "original_text": "I wonder what number he'll wear since he can't wear 20.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tô curioso pra saber qual número ele vai usar já que não pode usar o 20."
+  },
+  {
+    "id": "edp5ism",
+    "split": "train",
+    "line_idx": 23174,
+    "original_text": "OOOOOFFF, now that'd be a kick to the head",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "VISH, isso seria um chute na cabeça"
+  },
+  {
+    "id": "eczmlkj",
+    "split": "train",
+    "line_idx": 23175,
+    "original_text": "I just hurked a little in my mouth.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acabei de vomitar um pouquinho na boca."
+  },
+  {
+    "id": "efe4nhl",
+    "split": "train",
+    "line_idx": 23176,
+    "original_text": "Huh, never heard of that term before. Something new every day!",
+    "emotion_ids": "22,26",
+    "emotions": [
+      "realization",
+      "surprise"
+    ],
+    "translated_text": "Ué, nunca tinha ouvido esse termo antes. Todo dia aprendendo algo novo!"
+  },
+  {
+    "id": "eelbhdq",
+    "split": "train",
+    "line_idx": 23177,
+    "original_text": "Do you feel better now?",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Você se sente melhor agora?"
+  },
+  {
+    "id": "eebvfaq",
+    "split": "train",
+    "line_idx": 23178,
+    "original_text": "Lol ahh man this made me laugh so hard. That filled my laugh gauge for the day.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lol ahh cara, isso me fez rir tanto. Encheu minha cota de risada do dia."
+  },
+  {
+    "id": "edtlie0",
+    "split": "train",
+    "line_idx": 23179,
+    "original_text": "I answered, and then asked if you can think of any legitimate uses. Apparently you can't.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu respondi, e depois perguntei se você consegue pensar em algum uso legítimo. Pelo visto não consegue."
+  },
+  {
+    "id": "eehvx0u",
+    "split": "train",
+    "line_idx": 23180,
+    "original_text": "I've had good luck reselling on StubHub. They take a cut but it is secure and easy to do.",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "Tive sorte revendendo no StubHub. Eles pegam uma comissão, mas é seguro e fácil de fazer."
+  },
+  {
+    "id": "ee3230e",
+    "split": "train",
+    "line_idx": 23181,
+    "original_text": "...yellow?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "...amarelo?"
+  },
+  {
+    "id": "eeqcpig",
+    "split": "train",
+    "line_idx": 23182,
+    "original_text": "Rename yours to Fuck and let alphabetical order take care of the rest.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Renomeia o seu pra Foda-se e deixa a ordem alfabética cuidar do resto."
+  },
+  {
+    "id": "ees1e42",
+    "split": "train",
+    "line_idx": 23183,
+    "original_text": "Lmao how many of these posts will we get before people realize its satire.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Lmao quantos posts desses a gente vai ter antes que o pessoal perceba que é sátira."
+  },
+  {
+    "id": "ee0r31u",
+    "split": "train",
+    "line_idx": 23184,
+    "original_text": "Only good commie is a dead one.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Comunista bom é comunista morto."
+  },
+  {
+    "id": "edv6ihi",
+    "split": "train",
+    "line_idx": 23185,
+    "original_text": "Hurt his ankle but he’s okay apparently",
+    "emotion_ids": "5,27",
+    "emotions": [
+      "caring",
+      "neutral"
+    ],
+    "translated_text": "Machucou o tornozelo, mas aparentemente ele tá bem"
+  },
+  {
+    "id": "ef1qvou",
+    "split": "train",
+    "line_idx": 23186,
+    "original_text": "I have the Paraguard. It’s the Non-hormonal copper IUD and it’s good for 10 years once inserted",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu uso o Paraguard. É o DIU de cobre não hormonal e dura 10 anos depois de colocado"
+  },
+  {
+    "id": "edpsbhp",
+    "split": "train",
+    "line_idx": 23187,
+    "original_text": "Thanks for the [NAME] quote.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela citação do [NAME]."
+  },
+  {
+    "id": "eeurru0",
+    "split": "train",
+    "line_idx": 23188,
+    "original_text": "Savannahs? Like 30 lb dogs in a cat skin and they look amazing to boot.",
+    "emotion_ids": "4,26",
+    "emotions": [
+      "approval",
+      "surprise"
+    ],
+    "translated_text": "Savannahs? Tipo cachorros de 15kg na pele de um gato e ainda por cima são lindos."
+  },
+  {
+    "id": "edfiam5",
+    "split": "train",
+    "line_idx": 23189,
+    "original_text": "Thank you so much I'm going to start it right after the Golden Globes!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado, vou começar logo depois do Globo de Ouro!"
+  },
+  {
+    "id": "effn4h3",
+    "split": "train",
+    "line_idx": 23190,
+    "original_text": "I just bought myself a Bears pullover starter jacket. 8th grade me would be jealous!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acabei de comprar uma jaqueta starter dos Bears pra mim. O meu eu da oitava série ia ficar com inveja!!"
+  },
+  {
+    "id": "edbb55a",
+    "split": "train",
+    "line_idx": 23191,
+    "original_text": "Liberal circlejerk “ o ya those conservatives suck” 10,000 upvotes",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Punheta coletiva liberal “ah é, esses conservadores são um lixo” 10.000 upvotes"
+  },
+  {
+    "id": "eewb9da",
+    "split": "train",
+    "line_idx": 23192,
+    "original_text": "Stop texting him until you meet him. What if he is weird, creepy, not your type etc. ",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Para de mandar mensagem pra ele até encontrar pessoalmente. E se ele for estranho, bizarro, não fizer seu tipo, etc."
+  },
+  {
+    "id": "ee5hse3",
+    "split": "train",
+    "line_idx": 23193,
+    "original_text": "Well, actually it is a joke on how mansplainers often start their mansplaining with: \"well, actually\".",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Bom, na verdade é uma piada sobre como os 'mansplainers' costumam começar a explicação deles com: 'bom, na verdade'."
+  },
+  {
+    "id": "ed94pne",
+    "split": "train",
+    "line_idx": 23194,
+    "original_text": "That’s something I hadn’t considered. I’ll do just that. Thank you!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Isso é algo que eu não tinha considerado. Vou fazer exatamente isso. Obrigado!"
+  },
+  {
+    "id": "een1ghy",
+    "split": "train",
+    "line_idx": 23195,
+    "original_text": "It is so refreshing to have [NAME] gone.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "É tão revigorante o [NAME] ter ido embora."
+  },
+  {
+    "id": "ed49uhs",
+    "split": "train",
+    "line_idx": 23196,
+    "original_text": "It WAS a naïve grandma!! 😅",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "FOI uma vovó ingênua!! 😅"
+  },
+  {
+    "id": "ed8x7f0",
+    "split": "train",
+    "line_idx": 23197,
+    "original_text": "I got second hand embarrassment so hard my face is still red after few minutes of glancing at one of those google docs.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Fiquei com tanta vergonha alheia que meu rosto ainda tá vermelho depois de alguns minutos olhando um daqueles google docs."
+  },
+  {
+    "id": "efeoo5j",
+    "split": "train",
+    "line_idx": 23198,
+    "original_text": "This is simply beautiful <3 thank you for sharing this, it touched my heart to hear such a wonderful success story <3",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Isso é simplesmente lindo <3 obrigado por compartilhar, tocou meu coração ouvir uma história de sucesso tão maravilhosa <3"
+  },
+  {
+    "id": "ef6womt",
+    "split": "train",
+    "line_idx": 23199,
+    "original_text": "Why come here to spread hate?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que vir aqui pra espalhar ódio?"
+  }
+]

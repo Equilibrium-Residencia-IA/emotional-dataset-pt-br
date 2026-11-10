@@ -1,0 +1,610 @@
+[
+  {
+    "id": "edo2loq",
+    "split": "test",
+    "line_idx": 3400,
+    "original_text": "This is my ex and I rib about this all the time",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa é minha ex e a gente se zoa por causa disso o tempo todo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4txch",
+    "split": "test",
+    "line_idx": 3401,
+    "original_text": "Great pick! Especially when I realized she was meant to lose yesterday...good luck!",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "Ótima escolha! Ainda mais quando percebi que ela devia ter perdido ontem... boa sorte!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeywp88",
+    "split": "test",
+    "line_idx": 3402,
+    "original_text": "As long as you don't kiss her whole face you will be fine. If you both want it, it shouldn't be awkward.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Contanto que você não beije a cara toda dela, vai dar tudo certo. Se os dois querem, não tem por que ficar um clima chato.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9aauo",
+    "split": "test",
+    "line_idx": 3403,
+    "original_text": "Hahahah this is awesome.",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Hahahah isso é bom demais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4o2mk",
+    "split": "test",
+    "line_idx": 3404,
+    "original_text": "Fake news! but really, that's awesome to have a parent that actually understands how to teach their child accountability. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Fake news! Mas falando sério, é muito foda ter pais que realmente entendem como ensinar responsabilidade aos filhos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejz2sc",
+    "split": "test",
+    "line_idx": 3405,
+    "original_text": "The music caught me off guard",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "A música me pegou desprevenido",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ees6odw",
+    "split": "test",
+    "line_idx": 3406,
+    "original_text": "i passed thanks everyone",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "passei valeu galera",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eez5rv9",
+    "split": "test",
+    "line_idx": 3407,
+    "original_text": "I gotchu bro, house By Gucci Mane I’m a huge Gucci mane fan. ",
+    "emotion_ids": "4,13,17",
+    "emotions": [
+      "approval",
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Pode deixar mano, house do Gucci Mane, sou fãzão do Gucci mane.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesyu4o",
+    "split": "test",
+    "line_idx": 3408,
+    "original_text": "The description of the cut marks that KZ gave in MaM sounds as if a sawz-all was used.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A descrição das marcas de corte que a KZ deu em MaM parece até que usaram uma serra sabre.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetyh82",
+    "split": "test",
+    "line_idx": 3409,
+    "original_text": "Absolutely glorious morning. There is no better weather.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Manhã absolutamente gloriosa. Não tem clima melhor que esse.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9goic",
+    "split": "test",
+    "line_idx": 3410,
+    "original_text": "I'm not seeing eye patch guy",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não tô vendo o cara de tapa-olho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4pkry",
+    "split": "test",
+    "line_idx": 3411,
+    "original_text": "I recently came upon the term \"that slaps\" in reference to delicious food, or simply an enjoyable experience. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Recentemente me deparei com a gíria \"that slaps\" se referindo a comida gostosa ou simplesmente a uma experiência muito boa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7g7q2",
+    "split": "test",
+    "line_idx": 3412,
+    "original_text": "Help me [NAME] I'm bully in high school for no reason.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Me ajuda [NAME] tão fazendo bullying comigo no ensino médio sem motivo nenhum.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1vgtp",
+    "split": "test",
+    "line_idx": 3413,
+    "original_text": "Rose coloured glasses get rosier as time goes by :) You'll move on eventually. Treasure the memory but be present in your current and future relationships.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Memórias afetivas ficam ainda mais cor-de-rosa com o passar do tempo :) Uma hora você supera. Guarde com carinho a lembrança, mas esteja presente nos seus relacionamentos atuais e futuros.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcqf5m",
+    "split": "test",
+    "line_idx": 3414,
+    "original_text": "that was so sad :(",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "isso foi tão triste :(",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2q9ox",
+    "split": "test",
+    "line_idx": 3415,
+    "original_text": "Reminds me of [NAME] in IASIP",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Me lembra o [NAME] em IASIP",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehm1c1",
+    "split": "test",
+    "line_idx": 3416,
+    "original_text": "Fair enough. I considered it malicious compliance because I followed the letter if the rules while purposely not following the spirit.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Justo. Eu considerei como conformidade maliciosa porque segui as regras ao pé da letra, enquanto de propósito ignorava o espírito da regra.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee103qd",
+    "split": "test",
+    "line_idx": 3417,
+    "original_text": "people have built such a stigma around it that it's what comes to mind first instead of positive thoughts.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "as pessoas criaram tanto preconceito em cima disso que é a primeira coisa que vem à cabeça, em vez de pensamentos positivos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevkkqw",
+    "split": "test",
+    "line_idx": 3418,
+    "original_text": "I thought that type of camouflage failed horribly because the high contrast and defined shapes made the ships really stand out.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Eu achava que esse tipo de camuflagem dava super errado porque o contraste alto e as formas definidas faziam os navios se destacarem muito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effdp1n",
+    "split": "test",
+    "line_idx": 3419,
+    "original_text": "I'd say Rick and Morty fans. I'm a fan of both but I feel that Rick and Morty fans take everything way more seriously.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu diria os fãs de Rick and Morty. Sou fã dos dois, mas sinto que os fãs de Rick and Morty levam tudo muito mais a sério.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3muot",
+    "split": "test",
+    "line_idx": 3420,
+    "original_text": "Honestly the rarity is fine, I find it once every 25 games but the health needs work. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sinceramente, a raridade tá de boa, acho uma a cada 25 partidas, mas a vida precisa de ajustes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4s68i",
+    "split": "test",
+    "line_idx": 3421,
+    "original_text": "Seems like cutting out the middleman. They already know they are fat so no need to go to the doctor",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que tão cortando o intermediário. Já sabem que tão gordos, então não precisam ir ao médico",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eff52fk",
+    "split": "test",
+    "line_idx": 3422,
+    "original_text": "Oh my. Bless this dog. He is a big boy. I love him so much. Tell him I love him.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Ai meu Deus. Abençoa esse doguinho. Ele é um meninão grandão. Eu amo tanto ele. Fala pra ele que eu amo ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eev7uaa",
+    "split": "test",
+    "line_idx": 3423,
+    "original_text": "I thought there's a top 5 and they filmed each elimination? What makes you say [NAME] isn't there (though I'd love [NAME] to be)",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Achei que tinha um top 5 e que filmaram cada eliminação? O que faz você dizer que [NAME] não tá lá (embora eu adorasse que [NAME] estivesse)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2kpvc",
+    "split": "test",
+    "line_idx": 3424,
+    "original_text": "Best thing about making moonshine is the ether vapors you get to collect :)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A melhor parte de fazer cachaça caseira são os vapores de éter que dá pra coletar :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eds3peb",
+    "split": "test",
+    "line_idx": 3425,
+    "original_text": "I came.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gozei.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedb2er",
+    "split": "test",
+    "line_idx": 3426,
+    "original_text": "Look like when i wake up in the same bed with my uncle",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece quando acordo na mesma cama com meu tio",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edted0j",
+    "split": "test",
+    "line_idx": 3427,
+    "original_text": "And AI will somehow be magically more disruptive than the industrial revolution. Because... reasons.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E a IA vai ser magicamente mais disruptiva que a revolução industrial por algum motivo. Porque sim... com certeza.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efaegvh",
+    "split": "test",
+    "line_idx": 3428,
+    "original_text": "Something is eating this poor redditor and I don’t think it’s the injustice of society at large to accept face tattoos.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Tem alguma coisa consumindo esse pobre redditor e não acho que seja a injustiça da sociedade em geral em aceitar tatuagens no rosto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeiupun",
+    "split": "test",
+    "line_idx": 3429,
+    "original_text": "Have you ever consider knocking three times and that hide and seek/stalker vibe is terrifying. It's the most disturbing thing I can link you my AR 15.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Você já pensou em bater três vezes e essa vibe de esconde-esconde/perseguidor é aterrorizante. É a coisa mais perturbadora, posso te mandar o link do meu AR 15.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eef3jau",
+    "split": "test",
+    "line_idx": 3430,
+    "original_text": "> we can't john beard that big",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "> a gente não consegue john beard daquele tamanho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef32sdd",
+    "split": "test",
+    "line_idx": 3431,
+    "original_text": "I'm literally screaming.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Tô literalmente gritando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed86t6r",
+    "split": "test",
+    "line_idx": 3432,
+    "original_text": "Weird as I do know I've seen CoC waste/recycling services trucks picking up bins as early as 6:30AM.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Bizarro, porque eu sei que já vi caminhões de coleta de lixo/reciclagem da CoC pegando as lixeiras às 6h30 da manhã.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwoue2",
+    "split": "test",
+    "line_idx": 3433,
+    "original_text": "[NAME] scratched again lmao. Lines are good though. Pretty optimal considering what we have imo. I like [NAME] playing with [NAME]",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "[NAME] foi cortado de novo kkkk. Mas as linhas tão boas. Quase perfeitas considerando o que temos na minha opinião. Curto ver [NAME] jogando com [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4aylr",
+    "split": "test",
+    "line_idx": 3434,
+    "original_text": "Super [NAME] with a hat, or providing a buffed hat sounds really funny, if incredibly useless.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Super [NAME] com um chapéu, ou dar um chapéu com buff parece bem engraçado, embora incrivelmente inútil.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1coxx",
+    "split": "test",
+    "line_idx": 3435,
+    "original_text": "Yeah you better hope. I just switched to combat pro from standard and I gotta say my builds are 🗿",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "É bom ter esperança mesmo. Acabei de trocar de padrão pra combat pro e tenho que dizer que minhas construções tão 🗿",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbhgih",
+    "split": "test",
+    "line_idx": 3436,
+    "original_text": "What exactly is insane about this",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que exatamente tem de bizarro nisso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4oqyd",
+    "split": "test",
+    "line_idx": 3437,
+    "original_text": "Analytics and instagram... are you joking?",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "Analytics e instagram... cê tá zoando?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edyn827",
+    "split": "test",
+    "line_idx": 3438,
+    "original_text": "Ah to be a young teen again",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ah, quem me dera ser novinho de novo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenpbwr",
+    "split": "test",
+    "line_idx": 3439,
+    "original_text": "This is the first time in the last two years I've seen somebody compare current politics to a series other than Harry Potter",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa é a primeira vez nos últimos dois anos que vejo alguém comparar a política atual com uma série que não seja Harry Potter",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2rrgs",
+    "split": "test",
+    "line_idx": 3440,
+    "original_text": "No you are providing more than enough evidence. Post histories do exist. Now fuck off.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Não, você tá dando provas mais do que suficientes. Histórico de posts existe pra isso. Agora vai se foder.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenp1pd",
+    "split": "test",
+    "line_idx": 3441,
+    "original_text": "> he might not have seen the truth by the time he had posted the video That's kinda the *whole fucking problem.* Fake Motherfucking News",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "> talvez ele não tivesse visto a verdade quando postou o vídeo Esse é praticamente o *grande problema da porra toda.* Fake News do Caralho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgp3eg",
+    "split": "test",
+    "line_idx": 3442,
+    "original_text": "What the hell kind of university schedules a class at 6am?",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Que porra de faculdade marca aula às 6h da manhã?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9a0fj",
+    "split": "test",
+    "line_idx": 3443,
+    "original_text": "OMG... Dad!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "MDS... Pai!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4urxy",
+    "split": "test",
+    "line_idx": 3444,
+    "original_text": "That's exactly what I thought too!!!!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Foi exatamente o que eu pensei também!!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkjmgs",
+    "split": "test",
+    "line_idx": 3445,
+    "original_text": "Wise choice. You had kebab.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Escolha sábia. Você comeu kebab.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee92p4n",
+    "split": "test",
+    "line_idx": 3446,
+    "original_text": "[NAME] and [NAME]? High five on the cheers tho",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "[NAME] e [NAME]? Toca aqui pelo brinde pelo menos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edf3ixd",
+    "split": "test",
+    "line_idx": 3447,
+    "original_text": "Listen to only [RELIGION] music.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Escute apenas música [RELIGION].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee10n7g",
+    "split": "test",
+    "line_idx": 3448,
+    "original_text": "Saw this on r/teenagers first haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Vi isso no r/teenagers primeiro haha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1pn0a",
+    "split": "test",
+    "line_idx": 3449,
+    "original_text": "I guess some people just hate fun, lol",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Acho que tem gente que simplesmente odeia se divertir, kkk",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

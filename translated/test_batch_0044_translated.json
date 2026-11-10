@@ -1,0 +1,606 @@
+[
+  {
+    "id": "ee6hpsf",
+    "split": "test",
+    "line_idx": 2200,
+    "original_text": "I love it when kids shut down these tired lines we adults feed them. She probably needed that. Well done.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adoro quando as crianças cortam essas frases batidas que nós adultos empurramos pra elas. Ela provavelmente tava precisando ouvir isso. Mandou bem.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxcfwb",
+    "split": "test",
+    "line_idx": 2201,
+    "original_text": "Pam Beesly and Jim... What a waste.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Pam Beesly e Jim... Que desperdício.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efacndm",
+    "split": "test",
+    "line_idx": 2202,
+    "original_text": "They lived a good life! I honor them by using all their parts",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eles tiveram uma vida boa! Eu honro a memória deles aproveitando cada pedaço",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef6q4f1",
+    "split": "test",
+    "line_idx": 2203,
+    "original_text": "I think that had to do more with not wanting to hurt the old man lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Acho que teve mais a ver com não querer magoar o senhorzinho kkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtrxas",
+    "split": "test",
+    "line_idx": 2204,
+    "original_text": "The banana speaks! Do you just type one to three words in your comments or do you get an integer overflow if you go for four?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "A banana fala! Você só digita de uma a três palavras nos seus comentários ou dá estouro de memória se tentar quatro?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0l2l1",
+    "split": "test",
+    "line_idx": 2205,
+    "original_text": "I don’t cry, either. It’s weird. I think it’s a personality/mentality thing. Just depends on how your brain is wired I think",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu também não choro. É bizarro. Acho que é coisa de personalidade/mentalidade. Só depende de como seu cérebro funciona, eu acho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpvd21",
+    "split": "test",
+    "line_idx": 2206,
+    "original_text": "Oh no that's so awkward, I don't understand how people don't understand how weird things like that are! ",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Ai não, que vergonha alheia, não entendo como as pessoas não percebem como coisas assim são estranhas! ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3vofx",
+    "split": "test",
+    "line_idx": 2207,
+    "original_text": "She had really bad chronic back pain from what I can remember, so was self treating with alcohol",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo que eu lembro, ela tinha uma dor crônica terrível nas costas, então se automedicava com álcool",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9l1gm",
+    "split": "test",
+    "line_idx": 2208,
+    "original_text": "Oh [NAME]...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ai [NAME]...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcriqi",
+    "split": "test",
+    "line_idx": 2209,
+    "original_text": "You freakin wizard, I love this. ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Você é um bruxo, na moral, adorei isso. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbtxiv",
+    "split": "test",
+    "line_idx": 2210,
+    "original_text": "a weird way to spell Boys Don’t Turbo Grafx 16",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "um jeito esquisito de escrever Boys Don’t Turbo Grafx 16",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1f6qp",
+    "split": "test",
+    "line_idx": 2211,
+    "original_text": "Cheers, mate! I know you can do it! :)",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Valeu, parceiro! Sei que você consegue! :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq4atl",
+    "split": "test",
+    "line_idx": 2212,
+    "original_text": "K... I guess I'll just take your work for it.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tá... Acho que vou ter que acreditar na sua palavra.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelyasx",
+    "split": "test",
+    "line_idx": 2213,
+    "original_text": "This was not only true, but pleasing to watch.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Isso não foi só verdade, mas também foi gostoso de assistir.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edl25v3",
+    "split": "test",
+    "line_idx": 2214,
+    "original_text": "I know he comes with a lot of baggage but i’d probably go with [NAME]. Just look what he did for [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu sei que ele vem cheio de bagagem, mas eu provavelmente ficaria com o [NAME]. Só ver o que ele fez pelo [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7x0ql",
+    "split": "test",
+    "line_idx": 2215,
+    "original_text": "I doesn't have nudity so i didnt NSFW it, but i get why you'd say that. thanks for the compliment tho",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Não tem nudez, por isso não marquei como NSFW, mas entendo por que você diria isso. valeu pelo elogio mesmo assim",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4v6d9",
+    "split": "test",
+    "line_idx": 2216,
+    "original_text": "Seriously. The only thing that gave it away was no spelling errors.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Sério mesmo. A única coisa que entregou foi não ter nenhum erro de ortografia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efay99k",
+    "split": "test",
+    "line_idx": 2217,
+    "original_text": "That’s always my worst fear when the idea of leaving during January comes up. I wish you the best of luck in unthawing them!",
+    "emotion_ids": "11,14",
+    "emotions": [
+      "disgust",
+      "fear"
+    ],
+    "translated_text": "Esse é sempre meu maior medo quando surge a ideia de viajar em janeiro. Te desejo toda a sorte do mundo pra descongelar elas!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrxkj3",
+    "split": "test",
+    "line_idx": 2218,
+    "original_text": "He looks so dapper.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele tá tão elegante.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eespbm5",
+    "split": "test",
+    "line_idx": 2219,
+    "original_text": "Ohhh lol, gross and funny",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Aaa kkkkk, nojento e engraçado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg1lqs",
+    "split": "test",
+    "line_idx": 2220,
+    "original_text": "> Clothing predates religions though Can you cite that? It seems like a somewhat interesting question.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "> Mas as roupas surgiram antes das religiões Você tem a fonte disso? Parece uma pergunta bem interessante.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efh6hdh",
+    "split": "test",
+    "line_idx": 2221,
+    "original_text": "Yeah I can understand there their confusion more but yeah. Reminds me of [NAME] haha.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É, dá pra entender melhor a confusão deles lá, mas sim. Me lembra o [NAME] haha.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeleh99",
+    "split": "test",
+    "line_idx": 2222,
+    "original_text": "The more unattractive the leader looks now the more attractive the new one will look come 2020",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quanto menos atraente o líder parecer agora, mais atraente o novo vai parecer quando chegar 2020",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqvigr",
+    "split": "test",
+    "line_idx": 2223,
+    "original_text": "I’d go [NAME]. [NAME] gets raked on any mistake I throw personally",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu iria de [NAME]. O [NAME] é criticado por qualquer erro meu pessoalmente",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef0hwog",
+    "split": "test",
+    "line_idx": 2224,
+    "original_text": "I have always found them grating",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Sempre achei eles insuportáveis",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2gc6b",
+    "split": "test",
+    "line_idx": 2225,
+    "original_text": "sadly it would take wayyyyyy more than this to ever change custody agreements. documenting it for her own sanity is a good idea, though.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "infelizmente ia precisar de muuuuuito mais do que isso pra algum dia mudar acordos de custódia. mas documentar isso pela própria sanidade dela é uma boa ideia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqogg9",
+    "split": "test",
+    "line_idx": 2226,
+    "original_text": "It was SO hard to click the upvote button on this one. It's one of those \"I hate it. Well done\" moments.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Foi TÃO difícil clicar no botão de upvote nesse aqui. É um daqueles momentos de \"Eu odeio isso. Mandou bem\".",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexl0ks",
+    "split": "test",
+    "line_idx": 2227,
+    "original_text": "hahahaha!! the seedy underbelly of the competitve choir world - exposed!!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "hahahaha!! o submundo obscuro dos corais de competição - exposto!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edostdm",
+    "split": "test",
+    "line_idx": 2228,
+    "original_text": "Lol maybe he is not but I think my point still stands 😄",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkk talvez ele não seja, mas acho que meu argumento ainda é válido 😄",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerdtoj",
+    "split": "test",
+    "line_idx": 2229,
+    "original_text": "They needed to insert the phrase “over maintenance” in there.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles precisavam meter a frase “excesso de manutenção” ali no meio.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevbs1h",
+    "split": "test",
+    "line_idx": 2230,
+    "original_text": "Yeah it isn't the same singer. 'Don't hug me I'm scared' is voiced by [NAME], the lead singer of KKB is [NAME]",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "É, não é o mesmo vocalista. 'Don't hug me I'm scared' é dublado pelo [NAME], o vocalista do KKB é o [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmyiph",
+    "split": "test",
+    "line_idx": 2231,
+    "original_text": "My best friend missed the play using the restroom too. He thought there was a halftime-like break between the 4th and OT.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu melhor amigo também perdeu a jogada porque tava no banheiro. Ele achou que tinha um intervalo tipo o do intervalo principal entre o 4º quarto e a prorrogação.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edojzsn",
+    "split": "test",
+    "line_idx": 2232,
+    "original_text": "Holy shit nice block [NAME]",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Caralho que toco foda [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeozjib",
+    "split": "test",
+    "line_idx": 2233,
+    "original_text": "This is amazing. WTF.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Isso é incrível. WTF.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee94zml",
+    "split": "test",
+    "line_idx": 2234,
+    "original_text": "That’s the chelsea board will all know and hate.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Essa é a diretoria do chelsea que todos conhecemos e odiamos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejwopn",
+    "split": "test",
+    "line_idx": 2235,
+    "original_text": "This whole episode is one of my favorites; it has this AND \"Requiem for a Tuesday\" AND \"the Low-Cal Calzone Zone\" ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Esse episódio inteiro é um dos meus favoritos; tem isso E \"Requiem for a Tuesday\" E \"the Low-Cal Calzone Zone\" ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eev5azd",
+    "split": "test",
+    "line_idx": 2236,
+    "original_text": "Clearly not Cubs fans.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Claramente não são torcedores dos Cubs.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrm2lc",
+    "split": "test",
+    "line_idx": 2237,
+    "original_text": "Then feel free to link to that data rather than politico.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então sinta-se à vontade pra mandar o link desses dados em vez do politico.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqafg8",
+    "split": "test",
+    "line_idx": 2238,
+    "original_text": "Hell yeah, i agree ☺",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Com certeza, concordo ☺",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed022d4",
+    "split": "test",
+    "line_idx": 2239,
+    "original_text": "He wants to be free to hit on other women. He may not take it any farther but that’s what it looks like to me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele quer estar livre pra dar em cima de outras mulheres. Ele pode até não levar adiante, mas é o que parece pra mim.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edc8vp2",
+    "split": "test",
+    "line_idx": 2240,
+    "original_text": "I doubt people are *happy*, but they probably aren’t sad about someone who was potentially endangering others through their anti-science views.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Duvido que as pessoas estejam *felizes*, mas provavelmente não estão tristes por alguém que estava potencialmente colocando os outros em risco por causa de suas visões anticiência.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqe1qg",
+    "split": "test",
+    "line_idx": 2241,
+    "original_text": "What a quote. Very perceptive.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Que frase. Muito perspicaz.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1s50b",
+    "split": "test",
+    "line_idx": 2242,
+    "original_text": "I'm glad I could contribute some positivity! All the best to you and your kids!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Fico feliz em poder espalhar um pouco de positividade! Tudo de melhor pra você e pros seus filhos!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eds2a10",
+    "split": "test",
+    "line_idx": 2243,
+    "original_text": "I love this; now when commies say they had the word \"libertarian\" first, we can say we had class analysis first!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amei isso; agora quando os comunas disserem que criaram a palavra \"libertário\" primeiro, podemos dizer que criamos a análise de classes primeiro!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg6gha",
+    "split": "test",
+    "line_idx": 2244,
+    "original_text": "This has to be a joke...",
+    "emotion_ids": "1,26",
+    "emotions": [
+      "amusement",
+      "surprise"
+    ],
+    "translated_text": "Isso tem que ser piada...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edifeiq",
+    "split": "test",
+    "line_idx": 2245,
+    "original_text": "When they hire him",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando eles contratarem ele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efa9so9",
+    "split": "test",
+    "line_idx": 2246,
+    "original_text": "Sexy teeth.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Dentes sensuais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4wp95",
+    "split": "test",
+    "line_idx": 2247,
+    "original_text": "If the cops arrested him, he must be guilty! (Good luck!! You got this!)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se a polícia prendeu ele, ele deve ser culpado! (Boa sorte!! Você consegue!)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepf3hk",
+    "split": "test",
+    "line_idx": 2248,
+    "original_text": "he left the company 2 years ago. he is not listed as a shareholder in the parent company.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ele saiu da empresa há 2 anos. ele não consta como acionista da empresa controladora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew2773",
+    "split": "test",
+    "line_idx": 2249,
+    "original_text": "What a grim statistic for Canada.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Que estatística tenebrosa pro Canadá.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

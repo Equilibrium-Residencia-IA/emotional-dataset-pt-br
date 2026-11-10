@@ -1,0 +1,610 @@
+[
+  {
+    "id": "eetll9u",
+    "split": "test",
+    "line_idx": 150,
+    "original_text": "What? A [NAME] supporter purposefully misrepresenting the facts? You don't say.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O quê? Um apoiador do [NAME] distorcendo os fatos de propósito? Não me diga.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwigye",
+    "split": "test",
+    "line_idx": 151,
+    "original_text": "My dog is less uglier than this.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu cachorro é menos feio que isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeb38o6",
+    "split": "test",
+    "line_idx": 152,
+    "original_text": "Must be why I'm alive. That sucks.",
+    "emotion_ids": "3,25",
+    "emotions": [
+      "annoyance",
+      "sadness"
+    ],
+    "translated_text": "Deve ser por isso que tô vivo. Que bosta.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0wflq",
+    "split": "test",
+    "line_idx": 153,
+    "original_text": "I was teased for being a virgin when I was a 6th grader- in 2005",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Eu sofria zoeira por ser virgem quando tava na 6ª série — em 2005",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednydkc",
+    "split": "test",
+    "line_idx": 154,
+    "original_text": "I love that quote, thank you ",
+    "emotion_ids": "15,18",
+    "emotions": [
+      "gratitude",
+      "love"
+    ],
+    "translated_text": "Amo essa frase, obrigado ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeo4tmk",
+    "split": "test",
+    "line_idx": 155,
+    "original_text": "[NAME] $120 million grift allegations in bombshell Forbes report - Business Insider",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] alegações de golpe de US$ 120 milhões em reportagem bombástica da Forbes - Business Insider",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3f3rb",
+    "split": "test",
+    "line_idx": 156,
+    "original_text": "Works for me. The video is called : The great porn experiment | [NAME] | TEDxGlasgow",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra mim serve. O vídeo se chama: The great porn experiment | [NAME] | TEDxGlasgow",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8bvwo",
+    "split": "test",
+    "line_idx": 157,
+    "original_text": "Oh boy 🤣🤣",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eita nós 🤣🤣",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8dzji",
+    "split": "test",
+    "line_idx": 158,
+    "original_text": "Unfortunately for us it’s not too early. But if you want way too early 2020 draft discussion I’m really high on [NAME] from Wisconsin",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Infelizmente pra nós não tá cedo demais. Mas se você quiser uma discussão bem adiantada do draft de 2020, eu boto muita fé no [NAME] de Wisconsin",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edms25d",
+    "split": "test",
+    "line_idx": 159,
+    "original_text": "helpful quad helped him to his feet!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "o quadriciclo prestativo ajudou ele a ficar de pé!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efg4yc0",
+    "split": "test",
+    "line_idx": 160,
+    "original_text": "Me too buddy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu também, meu parceiro",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9e6q1",
+    "split": "test",
+    "line_idx": 161,
+    "original_text": "You also can’t prove it happened so logically this doesn’t exist and is a paradox that never happened therefore pi = 3.14159",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você também não consegue provar que aconteceu, então logicamente isso não existe e é um paradoxo que nunca aconteceu, portanto pi = 3.14159",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef140vi",
+    "split": "test",
+    "line_idx": 162,
+    "original_text": "So she spat in the face of [NAME], nature and you by violating your health.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então ela cuspiu na cara de [NAME], da natureza e na sua ao violar a sua saúde.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eel6gvc",
+    "split": "test",
+    "line_idx": 163,
+    "original_text": "I have a bad feeling I’m gonna regret not tuning into this",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Tô com um pressentimento ruim de que vou me arrepender de não acompanhar isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevyxqa",
+    "split": "test",
+    "line_idx": 164,
+    "original_text": "How was the problem resolved??? Having the same issue????",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como resolveram o problema??? Tô com o mesmo problema????",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6qwkd",
+    "split": "test",
+    "line_idx": 165,
+    "original_text": "Damnit Morty! D'you see wha-rrrgh-t you've done!? We're fucked Morty, the squirrels - they're recruiting dolphins now Morty. ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Porra, Morty! Você viu o que vo-aaargh-cê fez!? Fudeu, Morty, os esquilos... agora eles tão recrutando golfinhos, Morty.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee6pk8e",
+    "split": "test",
+    "line_idx": 166,
+    "original_text": "Does that work for the WSJ? I haven’t read an article from there in a year.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Isso funciona pro WSJ? Não leio uma matéria de lá tem um ano.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6baxy",
+    "split": "test",
+    "line_idx": 167,
+    "original_text": "I can't watch Isco rotting on the bench and LV playing instead.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não aguento ver o Isco mofando no banco e o LV jogando no lugar dele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4byo4",
+    "split": "test",
+    "line_idx": 168,
+    "original_text": "Fuck you.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Vai se foder.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efhc56l",
+    "split": "test",
+    "line_idx": 169,
+    "original_text": "$15 a month for a music service is more than Netflix. Thank u, next!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "15 dólares por mês num serviço de música é mais caro que a Netflix. Thank u, next!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eennz0q",
+    "split": "test",
+    "line_idx": 170,
+    "original_text": "The goodnight sir cracks me up every time",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O boa noite senhor me racha o bico toda vez",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edokp85",
+    "split": "test",
+    "line_idx": 171,
+    "original_text": "Well what would make us special? He's vouching for his friend.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ué, e o que faria da gente especiais? Ele tá botando a mão no fogo pelo amigo dele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeveo5j",
+    "split": "test",
+    "line_idx": 172,
+    "original_text": "The original is funnier... or at least it's funny, to begin with.",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "O original é mais engraçado... ou pelo menos é engraçado, pra começo de conversa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5t62n",
+    "split": "test",
+    "line_idx": 173,
+    "original_text": "Wow what a disappointing game. Wish we would have showed up",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Nossa, que jogo decepcionante. Queria que o time tivesse entrado em campo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlcpd2",
+    "split": "test",
+    "line_idx": 174,
+    "original_text": "Point proven. Thanks",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Ponto provado. Valeu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efh1if9",
+    "split": "test",
+    "line_idx": 175,
+    "original_text": "That’s normal for girls, lol.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Isso é normal pras minas, kkkk.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edvbkon",
+    "split": "test",
+    "line_idx": 176,
+    "original_text": "Wife just had our baby, and this story freaked me out. I can't imagine going through something like that.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Minha esposa acabou de ter nosso bebê, e essa história me deixou apavorado. Não consigo imaginar passar por algo assim.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwn8se",
+    "split": "test",
+    "line_idx": 177,
+    "original_text": "Just be honest with this person. Sorry I didn’t read the whole thing I don’t have time rn :(",
+    "emotion_ids": "5,24",
+    "emotions": [
+      "caring",
+      "remorse"
+    ],
+    "translated_text": "Só seja sincero com essa pessoa. Desculpa não ter lido tudo, tô sem tempo agora :(",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2728j",
+    "split": "test",
+    "line_idx": 178,
+    "original_text": "Proud of you.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Orgulho de você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlrjtg",
+    "split": "test",
+    "line_idx": 179,
+    "original_text": "I pulled over at a Walmart on my way home from work to chat with all you beautiful faggots while I listen to the speech.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pare num Walmart no caminho de volta do trabalho pra bater papo com todos vocês, suas bichas lindas, enquanto escuto o discurso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejn8qt",
+    "split": "test",
+    "line_idx": 180,
+    "original_text": "No, what’s sad is saying the same message like it’s news. He’s a copy paste machine. No original thought.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Não, o que é triste é falar a mesma mensagem como se fosse novidade. O cara é uma máquina de copiar e colar. Zero pensamento original.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemdkb8",
+    "split": "test",
+    "line_idx": 181,
+    "original_text": "Yeah, even though I give it to him that it was confusing that they designed Crysis 1 for PCs that wouldn't come out for like 5 years.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "É, mesmo que eu dê essa moral pra ele de que era confuso terem projetado Crysis 1 pra PCs que só seriam lançados tipo uns 5 anos depois.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5jr6d",
+    "split": "test",
+    "line_idx": 182,
+    "original_text": "And [NAME], would again like to apologize for any misunderstanding.",
+    "emotion_ids": "24,25",
+    "emotions": [
+      "remorse",
+      "sadness"
+    ],
+    "translated_text": "E [NAME], gostaria de pedir desculpas novamente por qualquer mal-entendido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed81xss",
+    "split": "test",
+    "line_idx": 183,
+    "original_text": "He has a girlfriend. Unfortunately she is not thick. He needs to take a page out of [NAME] book.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele tem namorada. Infelizmente ela não é gostosa. Ele precisa aprender umas coisas com o [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6sg09",
+    "split": "test",
+    "line_idx": 184,
+    "original_text": "My dad also told me the car went underwater the first time we went to the Eastern Shore and I completely forgot about it until I read this comment.",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Meu pai também me disse que o carro entrou debaixo d'água na primeira vez que fomos para a Costa Leste e eu esqueci completamente disso até ler esse comentário.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8goyk",
+    "split": "test",
+    "line_idx": 185,
+    "original_text": "I hid there just about everytime. Was often the person complaining about, \"stop dying\", and, \"hide BEFORE he hits 4 meat\".",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu me escondia lá quase toda vez. Muitas vezes era a pessoa reclamando: \"para de morrer\" e \"se esconde ANTES dele acertar 4 carnes\".",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7zetw",
+    "split": "test",
+    "line_idx": 186,
+    "original_text": "I didn't know that, thanks for the clarification.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Não sabia disso, valeu pelo esclarecimento.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef86g11",
+    "split": "test",
+    "line_idx": 187,
+    "original_text": "That's a weird way of spelling Disenchanted",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Jeito esquisito de escrever Desencanto",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedb4yi",
+    "split": "test",
+    "line_idx": 188,
+    "original_text": "He was so close to me x",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele tava tão perto de mim x",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer3ivh",
+    "split": "test",
+    "line_idx": 189,
+    "original_text": "Hey! Your mom sucks.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ei! A sua mãe é uma merda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpufd4",
+    "split": "test",
+    "line_idx": 190,
+    "original_text": "Didn't know that sub, thanks!",
+    "emotion_ids": "15,22",
+    "emotions": [
+      "gratitude",
+      "realization"
+    ],
+    "translated_text": "Não conhecia esse sub, valeu!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5gb4z",
+    "split": "test",
+    "line_idx": 191,
+    "original_text": "Yea, very rude. Avoid anything with a strong smell like fish and popcorn, curry is just as strong. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É, muita falta de educação. Evite qualquer coisa com cheiro forte tipo peixe e pipoca, curry é forte igual.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef14jkh",
+    "split": "test",
+    "line_idx": 192,
+    "original_text": "I got a lot of withholding to throw me into anxiety.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Eu recebi tanta frieza e desprezo que isso me jogou na ansiedade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6kkav",
+    "split": "test",
+    "line_idx": 193,
+    "original_text": "Nah, he's much smarter than I am about soccer.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Que nada, ele entende muito mais de futebol do que eu.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edh8fue",
+    "split": "test",
+    "line_idx": 194,
+    "original_text": "My friend and I have been having good fun queuing Mei/Winston, trololo, and 2 bottles of whisky.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Eu e meu amigo temos nos divertido bastante puxando fila de Mei/Winston, trololo e 2 garrafas de uísque.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed47cy9",
+    "split": "test",
+    "line_idx": 195,
+    "original_text": "Praying for me family.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Rezando pela minha família.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7mlrx",
+    "split": "test",
+    "line_idx": 196,
+    "original_text": "[NAME]. Gave up in October and haven’t looked back. I can’t believe how easy I’ve found it.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "[NAME]. Larguei em outubro e nunca mais olhei pra trás. Nem acredito no quão fácil achei.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efa7iej",
+    "split": "test",
+    "line_idx": 197,
+    "original_text": "Call it whatever you want. I’m just clearing a meaning that many atheists aren’t aware of or don’t consider.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Chame do que quiser. Só tô esclarecendo um significado que muitos ateus desconhecem ou não consideram.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetgtfg",
+    "split": "test",
+    "line_idx": 198,
+    "original_text": "Hhhhhaaarrryyy [NAME]!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Hhhhhaarrryyy [NAME]!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef86fm9",
+    "split": "test",
+    "line_idx": 199,
+    "original_text": "Gotta keep losing to make sure 5th is our worst case scenario",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Tem que continuar perdendo pra garantir que o 5º lugar seja o nosso pior cenário",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

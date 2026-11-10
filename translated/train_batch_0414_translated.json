@@ -1,0 +1,562 @@
+[
+  {
+    "id": "eeqrh52",
+    "split": "train",
+    "line_idx": 20700,
+    "original_text": "THANK YOU! You should be able to set a preference before your cut that says, \"no small talk please\".",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "OBRIGADO! Você deveria poder definir uma preferência antes do corte dizendo: \"sem conversa fiada, por favor\"."
+  },
+  {
+    "id": "efblfko",
+    "split": "train",
+    "line_idx": 20701,
+    "original_text": "You can be a good writer or arguer and be absolutely retarded",
+    "emotion_ids": "3,20",
+    "emotions": [
+      "annoyance",
+      "optimism"
+    ],
+    "translated_text": "Você pode ser um bom escritor ou debatedor e ser um completo retardado"
+  },
+  {
+    "id": "efccs50",
+    "split": "train",
+    "line_idx": 20702,
+    "original_text": "*Pauses clip to make sure that's not me* We're good. What a disappointing [NAME]!",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "*Pausa o clipe pra ter certeza que não sou eu* Estamos bem. Que [NAME] decepcionante!"
+  },
+  {
+    "id": "ee4owox",
+    "split": "train",
+    "line_idx": 20703,
+    "original_text": "I have a 1080ti and an i7 8700k and on very fast at 40k bitrate I'm already hitting 50% cpu usage on obs alone, any suggestions?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu tenho uma 1080ti e um i7 8700k e no preset very fast com bitrate de 40k eu já tô batendo 50% de uso de CPU só com o OBS, alguma sugestão?"
+  },
+  {
+    "id": "eey7ols",
+    "split": "train",
+    "line_idx": 20704,
+    "original_text": "I’m finishing that right now. Very fascinating.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Tô terminando isso agora. Muito fascinante."
+  },
+  {
+    "id": "efdpgu5",
+    "split": "train",
+    "line_idx": 20705,
+    "original_text": "How dare you say that. He's a toad of the people! Not some rich frog!",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Como você ousa dizer isso. Ele é um sapo do povo! Não um sapo rico qualquer!"
+  },
+  {
+    "id": "eeb645e",
+    "split": "train",
+    "line_idx": 20706,
+    "original_text": "If you have to ask you're too uncool to be allowed in.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Se você tem que perguntar, é porque você não é descolado o suficiente pra entrar."
+  },
+  {
+    "id": "edd53jm",
+    "split": "train",
+    "line_idx": 20707,
+    "original_text": "Give this man a hug, he needs it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dê um abraço nesse cara, ele precisa."
+  },
+  {
+    "id": "eddir37",
+    "split": "train",
+    "line_idx": 20708,
+    "original_text": "For everyone who was wondering: dude is picked up, can move his legs and says “it’s ok, it’s ok”.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Para todos que estavam se perguntando: o cara foi socorrido, consegue mexer as pernas e diz \"tá tudo bem, tá tudo bem\"."
+  },
+  {
+    "id": "edzhvdj",
+    "split": "train",
+    "line_idx": 20709,
+    "original_text": "Nice of you to have some social awareness. I’m sure he appreciates that.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Legal da sua parte ter um pouco de consciência social. Tenho certeza que ele agradece."
+  },
+  {
+    "id": "eeb1l0f",
+    "split": "train",
+    "line_idx": 20710,
+    "original_text": "The transit will be rapid until it, too, becomes bogged down by stops on every other block.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O transporte vai ser rápido até que ele, também, fique atolado por paradas a cada dois quarteirões."
+  },
+  {
+    "id": "ed17oph",
+    "split": "train",
+    "line_idx": 20711,
+    "original_text": "Obviously, it was a humorous comment. But I'm pretty sure I can guess what you voted :P",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Obviamente, foi um comentário bem-humorado. Mas tenho quase certeza que consigo adivinhar em quem você votou :P"
+  },
+  {
+    "id": "ee1u90z",
+    "split": "train",
+    "line_idx": 20712,
+    "original_text": "Did she happen to find a magical ring before she drown?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por acaso ela encontrou um anel mágico antes de se afogar?"
+  },
+  {
+    "id": "eeb9r4i",
+    "split": "train",
+    "line_idx": 20713,
+    "original_text": "It's pretty convenient",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É bem conveniente"
+  },
+  {
+    "id": "edqec4t",
+    "split": "train",
+    "line_idx": 20714,
+    "original_text": "Thanks ? Lol I'm no internet warrior but that crossed the line. I also DM the video to [NAME]. The girl deserves love",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Valeu ? Kkk não sou nenhum guerreiro da internet, mas aquilo passou dos limites. Também mandei o vídeo na DM pro [NAME]. A garota merece amor"
+  },
+  {
+    "id": "ee2414z",
+    "split": "train",
+    "line_idx": 20715,
+    "original_text": "Predatory towing is getting ridiculous. I have up to date stickers for all the properties I maintain and have been towed twice. Fuck em.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Guincho predatório tá ficando ridículo. Eu tenho os adesivos em dia de todas as propriedades que eu cuido e já fui guinchado duas vezes. Que se danem."
+  },
+  {
+    "id": "eeh086a",
+    "split": "train",
+    "line_idx": 20716,
+    "original_text": "Nice try Lumi",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Boa tentativa, Lumi"
+  },
+  {
+    "id": "edow6dx",
+    "split": "train",
+    "line_idx": 20717,
+    "original_text": "I've spent too much of my life being angry at the Jets, just gotta roll with it now.",
+    "emotion_ids": "9,20",
+    "emotions": [
+      "disappointment",
+      "optimism"
+    ],
+    "translated_text": "Gastei tempo demais da minha vida ficando com raiva dos Jets, agora só tenho que aceitar e seguir o fluxo."
+  },
+  {
+    "id": "ee2y62o",
+    "split": "train",
+    "line_idx": 20718,
+    "original_text": "How many times do you have to watch The Office. lol!",
+    "emotion_ids": "1,7",
+    "emotions": [
+      "amusement",
+      "curiosity"
+    ],
+    "translated_text": "Quantas vezes você tem que assistir The Office. kkk!"
+  },
+  {
+    "id": "ef8cgc3",
+    "split": "train",
+    "line_idx": 20719,
+    "original_text": "The guy just loves drama",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "O cara simplesmente ama um drama"
+  },
+  {
+    "id": "eed1a5d",
+    "split": "train",
+    "line_idx": 20720,
+    "original_text": "This would be cool for a kids science project about conductors and why metal is such a good conductor",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Isso seria legal pra um projeto de ciências infantil sobre condutores e por que o metal é um condutor tão bom"
+  },
+  {
+    "id": "ef2p23s",
+    "split": "train",
+    "line_idx": 20721,
+    "original_text": "[NAME] is worse because he’s all of those things plus he took out my boi [NAME].",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "[NAME] é pior porque ele é tudo isso e ainda tirou meu parça [NAME]."
+  },
+  {
+    "id": "ee07pbp",
+    "split": "train",
+    "line_idx": 20722,
+    "original_text": "Are you retarded?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Você é retardado?"
+  },
+  {
+    "id": "eeahjaj",
+    "split": "train",
+    "line_idx": 20723,
+    "original_text": "Great sign! We’ll get them next year!!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ótima placa! A gente pega eles no ano que vem!!"
+  },
+  {
+    "id": "eegetb2",
+    "split": "train",
+    "line_idx": 20724,
+    "original_text": "So one study on ten years of data in a chem unit/battalion and you're extrapolating that to the entire DoD?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então, um estudo sobre dez anos de dados em uma unidade/batalhão químico e você tá extrapolando isso pro Departamento de Defesa inteiro?"
+  },
+  {
+    "id": "ee8vkuw",
+    "split": "train",
+    "line_idx": 20725,
+    "original_text": "Thank you for the update, I’ve been stressing about the shutdown and lines. This helps.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pela atualização, eu tava estressado com a paralisação e as filas. Isso ajuda."
+  },
+  {
+    "id": "ed5m8nr",
+    "split": "train",
+    "line_idx": 20726,
+    "original_text": "Ranger Pathfinder?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ranger Pathfinder?"
+  },
+  {
+    "id": "ee8hm5j",
+    "split": "train",
+    "line_idx": 20727,
+    "original_text": "\"Hey, Mr. [NAME], what chu gonna do, what chu gonna do make our dreams come true? \"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Ei, Sr. [NAME], o que você vai fazer, o que você vai fazer pra realizar nossos sonhos?\""
+  },
+  {
+    "id": "eeb6esn",
+    "split": "train",
+    "line_idx": 20728,
+    "original_text": "Thanks for recognizing me bud. And yes I will take some crap to go please",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu por me reconhecer, cara. E sim, vou querer um pouco de porcaria pra levar, por favor"
+  },
+  {
+    "id": "ee8ljc9",
+    "split": "train",
+    "line_idx": 20729,
+    "original_text": "Title question: Obviously. As has already been mentioned in other threads this very day.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pergunta do título: Obviamente. Como já foi mencionado em outras threads hoje mesmo."
+  },
+  {
+    "id": "ef09bls",
+    "split": "train",
+    "line_idx": 20730,
+    "original_text": "Not really, they can do what they've been doing and force a no deal brexit pretty soon...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nem tanto, eles podem fazer o que vêm fazendo e forçar um Brexit sem acordo logo logo..."
+  },
+  {
+    "id": "edijp1e",
+    "split": "train",
+    "line_idx": 20731,
+    "original_text": "Because it was a cool video it was sweet, and because it was a fash it was bitter. Simple as that.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Porque foi um vídeo legal, foi doce, e porque era um fascista, foi amargo. Simples assim."
+  },
+  {
+    "id": "ed9xb5u",
+    "split": "train",
+    "line_idx": 20732,
+    "original_text": "Phew! Sounds like he had a close call there :-( :-( :-(",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ufa! Parece que ele passou por um susto daqueles :-( :-( :-("
+  },
+  {
+    "id": "eer8tkn",
+    "split": "train",
+    "line_idx": 20733,
+    "original_text": "Apparently the Dodgers are still in the running for Realmuto.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aparentemente os Dodgers ainda estão na disputa pelo Realmuto."
+  },
+  {
+    "id": "eea2ant",
+    "split": "train",
+    "line_idx": 20734,
+    "original_text": "The paratrooper theme fits very well with his jump! Keep up the good work.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O tema de paraquedista combina muito bem com o salto dele! Continue com o bom trabalho."
+  },
+  {
+    "id": "ed3cd8g",
+    "split": "train",
+    "line_idx": 20735,
+    "original_text": "Anyone remember mean [NAME] burger and fries? That place was the jam!",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Alguém lembra do hambúrguer e batata frita do [NAME]? Aquele lugar era demais!"
+  },
+  {
+    "id": "eekw2ff",
+    "split": "train",
+    "line_idx": 20736,
+    "original_text": "Anything can happen. So many upsets have happened at the PLQ. Every team is beatable.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tudo pode acontecer. Tantas zebras já rolaram na PLQ. Todo time é vencível."
+  },
+  {
+    "id": "ef2qtei",
+    "split": "train",
+    "line_idx": 20737,
+    "original_text": "Lol. I realize that. I know plenty of people like y'all",
+    "emotion_ids": "1,22",
+    "emotions": [
+      "amusement",
+      "realization"
+    ],
+    "translated_text": "Kkk. Eu tô ligado. Conheço um monte de gente igual a vocês"
+  },
+  {
+    "id": "eeaz0w3",
+    "split": "train",
+    "line_idx": 20738,
+    "original_text": "What were they mumbling at the end before the commercial break? That was weird.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "O que eles estavam resmungando no final antes do intervalo comercial? Aquilo foi estranho."
+  },
+  {
+    "id": "ed2275o",
+    "split": "train",
+    "line_idx": 20739,
+    "original_text": "Otherwise it would be a terrible disservice to the NHL",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Caso contrário, seria um desserviço terrível pra NHL"
+  },
+  {
+    "id": "eda2pct",
+    "split": "train",
+    "line_idx": 20740,
+    "original_text": "Hi !! I totally get you. If you want to be friends I’m here !! :)",
+    "emotion_ids": "4,23",
+    "emotions": [
+      "approval",
+      "relief"
+    ],
+    "translated_text": "Oi !! Eu te entendo totalmente. Se quiser ser amigo, tô aqui !! :)"
+  },
+  {
+    "id": "eddhksg",
+    "split": "train",
+    "line_idx": 20741,
+    "original_text": "Given the politics of the time that wasn't unreasonable",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dada a política da época, não foi algo irracional"
+  },
+  {
+    "id": "efeafkf",
+    "split": "train",
+    "line_idx": 20742,
+    "original_text": "As an autism mum, I can’t thank you enough. ❤️",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Como mãe de autista, não tenho como te agradecer o suficiente. ❤️"
+  },
+  {
+    "id": "edovtp3",
+    "split": "train",
+    "line_idx": 20743,
+    "original_text": "Haha I remember her! And that documentary was insane. (its on Netflix and is called The Rachel Divide, for anyone who is wondering.)",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Haha eu lembro dela! E aquele documentário foi insano. (tá na Netflix e se chama The Rachel Divide, pra quem estiver se perguntando.)"
+  },
+  {
+    "id": "edqqrx8",
+    "split": "train",
+    "line_idx": 20744,
+    "original_text": "honestly this made me smile like an idiot on the subway, thank you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "sinceramente isso me fez sorrir feito um idiota no metrô, obrigado."
+  },
+  {
+    "id": "edr0m97",
+    "split": "train",
+    "line_idx": 20745,
+    "original_text": "Don't stop cold turkey. It's dangerous and you can have deadly seizures. Taper down if you are going to quit any benzo.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não pare de uma vez. É perigoso e você pode ter convulsões fatais. Vá diminuindo a dose se você for parar com qualquer benzo."
+  },
+  {
+    "id": "edcc1z5",
+    "split": "train",
+    "line_idx": 20746,
+    "original_text": "He will, they both look totally re-integrated. If not, they'll thrash the rockets bench guys lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ele vai, os dois parecem totalmente reintegrados. Se não, eles vão destruir os reservas dos Rockets kkk"
+  },
+  {
+    "id": "edj53w4",
+    "split": "train",
+    "line_idx": 20747,
+    "original_text": "Not initially, however... ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não inicialmente, porém..."
+  },
+  {
+    "id": "ed3il5h",
+    "split": "train",
+    "line_idx": 20748,
+    "original_text": "Honestly I think most of that sort of stuff existed between the 1985-2012-ish. Depending on your age most young people would have experienced these.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sinceramente, acho que a maior parte desse tipo de coisa existiu entre 1985 e 2012 mais ou menos. Dependendo da sua idade, a maioria dos jovens teria vivenciado isso."
+  },
+  {
+    "id": "eex56h9",
+    "split": "train",
+    "line_idx": 20749,
+    "original_text": "There just shouldn't be police enforcing nonsense traffic laws. Cops should stay at their station until summoned by a citizen like fire trucks and ambulances do.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Simplesmente não deveria ter polícia aplicando leis de trânsito inúteis. Policiais deveriam ficar na base até serem chamados por um cidadão, como fazem os bombeiros e ambulâncias."
+  }
+]

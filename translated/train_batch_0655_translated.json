@@ -1,0 +1,609 @@
+[
+  {
+    "id": "ef1uc9a",
+    "split": "train",
+    "line_idx": 32750,
+    "original_text": "Is that a normal price for this kind of thing or is it [NAME] expecting a super-wealthy person to impulse buy?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Isso é um preço normal pra esse tipo de coisa ou é o [NAME] esperando que alguma pessoa super rica compre por impulso?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eduxnph",
+    "split": "train",
+    "line_idx": 32751,
+    "original_text": "This is delusion beyond what I'm willing to engage with.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é uma ilusão além do que eu tô disposto a tankar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efdpyyt",
+    "split": "train",
+    "line_idx": 32752,
+    "original_text": "By being intellectually dishonest? Ok.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Sendo desonesto intelectualmente? Beleza.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehxsno",
+    "split": "train",
+    "line_idx": 32753,
+    "original_text": "This didn’t age well",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso envelheceu mal pra caralho",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee73r6l",
+    "split": "train",
+    "line_idx": 32754,
+    "original_text": "Thanks for the suggestion!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela sugestão!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ede3rws",
+    "split": "train",
+    "line_idx": 32755,
+    "original_text": "I'll admit that's a bit surprising, since it's such a massive international hub. But beggars can't be choosers I guess. ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Vou admitir que isso é meio surpreendente, já que é um hub internacional gigante. Mas quem tem boca vai a Roma, eu acho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efe4fyn",
+    "split": "train",
+    "line_idx": 32756,
+    "original_text": "Wow. I thought the antivaxxers couldn't get any lower. Boy was I super wrong.",
+    "emotion_ids": "9,13",
+    "emotions": [
+      "disappointment",
+      "excitement"
+    ],
+    "translated_text": "Caraca. Achei que os antivina não podiam descer mais o nível. Errei feio, errei rude.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eete3m3",
+    "split": "train",
+    "line_idx": 32757,
+    "original_text": "Well yeah, you've gotta paint it white yourselves",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Pois é, vocês que têm que pintar de branco por conta própria",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eefw9ad",
+    "split": "train",
+    "line_idx": 32758,
+    "original_text": "Well said, hope more and more people continue realize this and discover/take-back their power!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Bem dito, tomara que mais e mais pessoas continuem percebendo isso e descubram/recuperem seu poder!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efbdgaa",
+    "split": "train",
+    "line_idx": 32759,
+    "original_text": "You must be heartbroken, I’m so sorry. Can you start seeing a therapist?",
+    "emotion_ids": "5,25",
+    "emotions": [
+      "caring",
+      "sadness"
+    ],
+    "translated_text": "Você deve estar com o coração partido, sinto muito mesmo. Você pode começar a consultar um terapeuta?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepy610",
+    "split": "train",
+    "line_idx": 32760,
+    "original_text": "The ~~cis~~ transphobes. Not all cis people.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os ~~cis~~ transfóbicos. Nem todo mundo cis.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef2lx5j",
+    "split": "train",
+    "line_idx": 32761,
+    "original_text": "I talked to her family previous co workers and friends",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu falei com a família dela, com os ex-colegas de trabalho e com os amigos dela",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjdddd",
+    "split": "train",
+    "line_idx": 32762,
+    "original_text": ">Tua gave him a look, like, keep going ( ͡° ͜ʖ ͡°)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">Tua olhou pra ele tipo, continua ( ͡° ͜ʖ ͡°)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlyfri",
+    "split": "train",
+    "line_idx": 32763,
+    "original_text": "I have secret Reese’s, too!!! They’re hidden under the healthy snacks that none of the kids can see/reach anyway. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu também tenho Reese's escondido!!! Eles ficam escondidos embaixo dos lanches saudáveis que nenhuma das crianças consegue ver/alcançar de jeito nenhum.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1bkoq",
+    "split": "train",
+    "line_idx": 32764,
+    "original_text": "I need the snapchatzzzz give me names damnit",
+    "emotion_ids": "3,8",
+    "emotions": [
+      "annoyance",
+      "desire"
+    ],
+    "translated_text": "Eu preciso dos snapchatzzzz me dá os nomes porra",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgczx6",
+    "split": "train",
+    "line_idx": 32765,
+    "original_text": "Thank you so much! Yes that’s what I think I’ll do wait for him to make a move... the waiting part sucks. lol",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigada! Sim, é isso que acho que vou fazer, esperar ele dar o primeiro passo... essa parte da espera é uma droga. kkkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eddl4pw",
+    "split": "train",
+    "line_idx": 32766,
+    "original_text": "that's how the commenter in the screenshot spelled it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "foi assim que o comentarista na captura de tela escreveu",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetnxp8",
+    "split": "train",
+    "line_idx": 32767,
+    "original_text": "But economic systems do determine success of societies. If your economic system doesn't work, your political system will lean towards authoritarianism for it's politics.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas sistemas econômicos determinam o sucesso das sociedades sim. Se o seu sistema econômico não funciona, seu sistema político vai tender ao autoritarismo na política.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efh0s4h",
+    "split": "train",
+    "line_idx": 32768,
+    "original_text": "When I first saw the title I thought someone was asking for you to become pregnant with their baby",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando eu vi o título pela primeira vez, achei que alguém estava pedindo para você engravidar do bebê deles",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edo6xv7",
+    "split": "train",
+    "line_idx": 32769,
+    "original_text": "They fully divorced? I thought they were just separated for now",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles se divorciaram de vez? Achei que eles só estivessem separados por enquanto",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edhevjw",
+    "split": "train",
+    "line_idx": 32770,
+    "original_text": "That’s not the vaccines fault champ.....",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A culpa não é da vacina, meu parceiro.....",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edn0yr5",
+    "split": "train",
+    "line_idx": 32771,
+    "original_text": "He’s one of America’s greatest songwriters.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele é um dos maiores compositores da América.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedvfgy",
+    "split": "train",
+    "line_idx": 32772,
+    "original_text": "what did you guys expect for sunny gray",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "o que vocês esperavam do sunny gray",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4gx11",
+    "split": "train",
+    "line_idx": 32773,
+    "original_text": "I had season seats in 230 row 2 for a solid 5 years when the Pru just opened. Great view of the ice. Glad you had fun!",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Eu tive assentos de temporada na 230 fileira 2 por uns bons 5 anos quando o Pru acabou de abrir. Ótima vista do gelo. Que bom que você se diverteu!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeg9hgy",
+    "split": "train",
+    "line_idx": 32774,
+    "original_text": "You have to watch the live streams.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você tem que assistir às transmissões ao vivo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eevtv3g",
+    "split": "train",
+    "line_idx": 32775,
+    "original_text": "Lol that reaction was golden",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkk essa reação foi icônica",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edm06ae",
+    "split": "train",
+    "line_idx": 32776,
+    "original_text": "Not sure to downvote because genuine and encouraging or to upvote because sarcastic and hateful.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Na dúvida se dou downvote porque é genuíno e encorajador ou upvote porque é sarcástico e odioso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8z89p",
+    "split": "train",
+    "line_idx": 32777,
+    "original_text": "Yeah hed be a pure rental so maybe [NAME] is too much. [NAME] on his contract is definitely not worth assets though. Closer to a negative asset imo",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, ele seria um aluguel puro, então talvez o [NAME] seja demais. O [NAME] no contrato dele definitivamente não vale ativos, não. Mais para um ativo negativo na minha opinião.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef75ws3",
+    "split": "train",
+    "line_idx": 32778,
+    "original_text": "Because Im going to feel sorry for the death of someone who assaulted me. Sure thing buddy.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Porque eu vou ter pena da morte de alguém que me agrediu. Com certeza, meu chapa.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edrh2ob",
+    "split": "train",
+    "line_idx": 32779,
+    "original_text": "Sounds awesome!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Parece incrível!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee0snid",
+    "split": "train",
+    "line_idx": 32780,
+    "original_text": "Always been a Yankees and Chargers fan. Ask me how it feels to lose to Boston in two division playoff rounds within a few months.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Sempre fui torcedor dos Yankees e dos Chargers. Me pergunta como é perder para Boston em dois rounds de playoffs de divisão em poucos meses.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpcgws",
+    "split": "train",
+    "line_idx": 32781,
+    "original_text": "Genuinely fascinating.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Genuinamente fascinante.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edp0fki",
+    "split": "train",
+    "line_idx": 32782,
+    "original_text": "That was beautiful.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso foi lindo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edq5cvp",
+    "split": "train",
+    "line_idx": 32783,
+    "original_text": "It'll definitely show our hand which means we will have to pay up to trade up high enough that we are sure we get Haskins.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Com certeza vai mostrar nossas cartas, o que significa que vamos ter que pagar caro para trocar alto o suficiente para termos certeza de que vamos pegar o Haskins.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7zu10",
+    "split": "train",
+    "line_idx": 32784,
+    "original_text": "It had bad spelling but i understood it u grammqr nazi",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Tinha uns erros de português mas eu entendi, seu nazi da gramática",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edl4cw9",
+    "split": "train",
+    "line_idx": 32785,
+    "original_text": "Old ladies are like the only ppl that are nice to me lmao. Kindered spirits with the ugly.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Velhinhas são tipo as únicas pessoas que são legais comigo kkkk. Almas gémeas dos feios.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eet63kr",
+    "split": "train",
+    "line_idx": 32786,
+    "original_text": "It's called \"Duper's delight\". You see it frequently in sociopaths like serial killers, or politicians, or both, like [NAME].",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Isso se chama \"Duper's delight\" (prazer do enganador). Você vê isso frequentemente em sociopatas como serial killers, ou políticos, ou ambos, tipo o [NAME].",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eejks6e",
+    "split": "train",
+    "line_idx": 32787,
+    "original_text": "ALLL THE WAY DOWNNNN!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "TUDO PRA BAIXOOOO!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efha2jj",
+    "split": "train",
+    "line_idx": 32788,
+    "original_text": "You having a bad day man?",
+    "emotion_ids": "5,7",
+    "emotions": [
+      "caring",
+      "curiosity"
+    ],
+    "translated_text": "Tá tendo um dia ruim, cara?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpe7y3",
+    "split": "train",
+    "line_idx": 32789,
+    "original_text": "He’s a troll from T_D, they come through every now and then to try to start shit.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele é um troll do T_D, eles aparecem de vez em quando para tentar caçar confusão.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee2rawr",
+    "split": "train",
+    "line_idx": 32790,
+    "original_text": "Then he'll spend your worth plus some, or ...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aí ele vai gastar tudo o que você tem mais um pouco, ou...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eex34rz",
+    "split": "train",
+    "line_idx": 32791,
+    "original_text": "i love the eyes wtf they’re staring into my soul",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "eu amo os olhos caralho eles tão encarando a minha alma",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4mh0p",
+    "split": "train",
+    "line_idx": 32792,
+    "original_text": "feels like the Leave vote Opposition is falling apart...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "parece que a Oposição pró-Brexit está desmoronando...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eda6q6t",
+    "split": "train",
+    "line_idx": 32793,
+    "original_text": "Once it became clear I was too old to have a family, yeah, it felt too old to bother with it.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Assim que ficou claro que eu era velha demais para ter uma família, é, pareceu velha demais para me importar com isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6e9nt",
+    "split": "train",
+    "line_idx": 32794,
+    "original_text": "Just reload auto save and you should be golden",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É só recarregar o save automático que deve dar bom",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeo14z1",
+    "split": "train",
+    "line_idx": 32795,
+    "original_text": "Now you know which cars to wreck into !",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora você sabe em quais carros bater!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgrkld",
+    "split": "train",
+    "line_idx": 32796,
+    "original_text": "Oh wow I didn’t realize that",
+    "emotion_ids": "13,26",
+    "emotions": [
+      "excitement",
+      "surprise"
+    ],
+    "translated_text": "Nossa, eu não tinha percebido isso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "effwogf",
+    "split": "train",
+    "line_idx": 32797,
+    "original_text": "There are dozens of us.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Há dezenas de nós.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8u8zc",
+    "split": "train",
+    "line_idx": 32798,
+    "original_text": "Did I say he was a scammer? I said he's disgusting and there's nothing endearing about him at all. Not surprised this subreddit is defending him",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Eu disse que ele era um golpista? Eu disse que ele é nojento e não tem nada de cativante nele. Não me surpreende que esse subreddit esteja defendendo ele",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eexqbul",
+    "split": "train",
+    "line_idx": 32799,
+    "original_text": "And yet only has 16k karma.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E mesmo assim só tem 16 mil de karma.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

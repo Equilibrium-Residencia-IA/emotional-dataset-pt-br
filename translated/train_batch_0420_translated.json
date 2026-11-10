@@ -1,0 +1,557 @@
+[
+  {
+    "id": "ef8pnce",
+    "split": "train",
+    "line_idx": 21000,
+    "original_text": "Oh he works as a medic in CA. So hes an Aemt in other states!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ah, ele trabalha como médico na Califórnia. Então ele é um AEMT em outros estados!"
+  },
+  {
+    "id": "eeult07",
+    "split": "train",
+    "line_idx": 21001,
+    "original_text": "He might be happy to discover that he is the father of someone with superpowers! LOL",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Ele pode ficar feliz em descobrir que é pai de alguém com superpoderes! KKK"
+  },
+  {
+    "id": "ed1tn67",
+    "split": "train",
+    "line_idx": 21002,
+    "original_text": "Browns offense has been rough but hes keeping the ball moving.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O ataque dos Browns tem sido sofrível, mas ele está conseguindo fazer a bola andar."
+  },
+  {
+    "id": "edd61a0",
+    "split": "train",
+    "line_idx": 21003,
+    "original_text": "Where's your helmet?! Gotta love helmets.",
+    "emotion_ids": "7,18",
+    "emotions": [
+      "curiosity",
+      "love"
+    ],
+    "translated_text": "Cadê o seu capacete?! Tem que amar capacetes."
+  },
+  {
+    "id": "edidda1",
+    "split": "train",
+    "line_idx": 21004,
+    "original_text": "He's not surprised they spent money, he's wondering how much they paid to have this much penetration of their marketing.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ele não está surpreso que gastaram dinheiro, ele está se perguntando quanto pagaram para ter esse nível de penetração no marketing deles."
+  },
+  {
+    "id": "eel19ky",
+    "split": "train",
+    "line_idx": 21005,
+    "original_text": "Damn, I totally have used Dragon as my handle on certain dating apps before. Not sure how I feel about that now lol",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Caramba, eu já usei Dragon como apelido em certos apps de namoro antes. Não sei como me sinto sobre isso agora rs"
+  },
+  {
+    "id": "ef8eudv",
+    "split": "train",
+    "line_idx": 21006,
+    "original_text": "What a crazy month that was, 15 months ago... Before it was resolved. ",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Que mês doido aquele, 15 meses atrás... Antes de ser resolvido."
+  },
+  {
+    "id": "ee1celt",
+    "split": "train",
+    "line_idx": 21007,
+    "original_text": "Yeah, but if they don't get the point, they go and try somewhere else... like say unpopular opinion maybe",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "É, mas se eles não entendem o ponto, eles vão tentar em outro lugar... tipo, sei lá, talvez no unpopular opinion"
+  },
+  {
+    "id": "ecze4ws",
+    "split": "train",
+    "line_idx": 21008,
+    "original_text": "It's the giant robot penis. Texas favorite.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "É o pênis robô gigante. O favorito do Texas."
+  },
+  {
+    "id": "eeandj8",
+    "split": "train",
+    "line_idx": 21009,
+    "original_text": "Because train hitting your truck at full speed will prevent damaging the truck.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque um trem batendo no seu caminhão em velocidade máxima vai evitar danificar o caminhão, né."
+  },
+  {
+    "id": "ed872n2",
+    "split": "train",
+    "line_idx": 21010,
+    "original_text": "> A good jab to the sternum is what I was taught. maybe a sharpened bat would work better?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "> Um bom soco no esterno foi o que me ensinaram. talvez um taco afiado funcionasse melhor?"
+  },
+  {
+    "id": "edwmsuw",
+    "split": "train",
+    "line_idx": 21011,
+    "original_text": "Thank you ! I thought it was funny guess no one else noticed it or thought it was funny:/",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado! Eu achei engraçado, acho que ninguém mais notou ou achou graça :/"
+  },
+  {
+    "id": "ee9owho",
+    "split": "train",
+    "line_idx": 21012,
+    "original_text": "That’s because this is clearly an advertisement and not something that would actually be served to someone",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é porque claramente é um anúncio e não algo que seria realmente mostrado para alguém"
+  },
+  {
+    "id": "efeslty",
+    "split": "train",
+    "line_idx": 21013,
+    "original_text": "#DIRRRKKKK NOWITZKI!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "#DIRRRKKKK NOWITZKI!!!"
+  },
+  {
+    "id": "efh7c3t",
+    "split": "train",
+    "line_idx": 21014,
+    "original_text": "I believe the GM of Seattle would be known as “His Royal bitch pigeoness”",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Eu acredito que o GM de Seattle seria conhecido como “Sua Majestade o pombo vadia”"
+  },
+  {
+    "id": "efh7r6k",
+    "split": "train",
+    "line_idx": 21015,
+    "original_text": "this mom wants her child to die",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "essa mãe quer que o filho morra"
+  },
+  {
+    "id": "ede38g4",
+    "split": "train",
+    "line_idx": 21016,
+    "original_text": "Yeah almost as unfunny as your mom 🤣🤣🤣🤣🤣🤣🤣",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, quase tão sem graça quanto a sua mãe 🤣🤣🤣🤣🤣🤣🤣"
+  },
+  {
+    "id": "eee7bjn",
+    "split": "train",
+    "line_idx": 21017,
+    "original_text": "*whines and cries in brogressive*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "*choraminga e chora em brogressive*"
+  },
+  {
+    "id": "eff7ui2",
+    "split": "train",
+    "line_idx": 21018,
+    "original_text": "I think it’s funny, especially those eyes! Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu acho engraçado, especialmente aqueles olhos! Lol"
+  },
+  {
+    "id": "edk8w8o",
+    "split": "train",
+    "line_idx": 21019,
+    "original_text": "In such a situation, I would save the mother. Always.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Nessa situação, eu salvaria a mãe. Sempre."
+  },
+  {
+    "id": "een24nb",
+    "split": "train",
+    "line_idx": 21020,
+    "original_text": "It is a cult, and if the cultists don't keep feeding the delusion they will start doubting their beliefs. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É uma seita, e se os fanáticos não continuarem alimentando a ilusão, eles vão começar a duvidar das suas crenças."
+  },
+  {
+    "id": "edvjzef",
+    "split": "train",
+    "line_idx": 21021,
+    "original_text": "I mean, if it’s rotten food, especially fruit, mixed with various meats and maybe some seafood- you can get a pretty mean stench going. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Digo, se for comida podre, especialmente fruta, misturada com várias carnes e talvez algum fruto do mar - dá para criar um fedor bem desgraçado."
+  },
+  {
+    "id": "eer7as8",
+    "split": "train",
+    "line_idx": 21022,
+    "original_text": "As a fellow browns fan, unfortunate enough to be born into a browns family and in ohio... Hello sharer of a lifetime of heartbreak.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Como um colega torcedor dos Browns, azarado o suficiente para nascer em uma família de torcedores dos Browns e em Ohio... Olá, companheiro de uma vida inteira de desgostos."
+  },
+  {
+    "id": "efagy0j",
+    "split": "train",
+    "line_idx": 21023,
+    "original_text": "Look everyone it's that boy that laughs at everybody! Let's laugh at him!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Olhem todos, é aquele garoto que ri de todo mundo! Vamos rir dele!"
+  },
+  {
+    "id": "ed4ezj0",
+    "split": "train",
+    "line_idx": 21024,
+    "original_text": "That’s my point.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Esse é o meu ponto."
+  },
+  {
+    "id": "edzdyr3",
+    "split": "train",
+    "line_idx": 21025,
+    "original_text": "oh man another year",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "ah cara, mais um ano"
+  },
+  {
+    "id": "ef6ir91",
+    "split": "train",
+    "line_idx": 21026,
+    "original_text": "Everyone hates these posts but when we do post them it’s because we too are also proud of the work we do. Congrats!",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Todo mundo odeia esses posts, mas quando a gente posta é porque nós também temos orgulho do trabalho que fazemos. Parabéns!"
+  },
+  {
+    "id": "eemechy",
+    "split": "train",
+    "line_idx": 21027,
+    "original_text": "Strangely enough 70% of women in the work place are queen bees",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Estranhamente, 70% das mulheres no ambiente de trabalho são 'queen bees'"
+  },
+  {
+    "id": "eezia8g",
+    "split": "train",
+    "line_idx": 21028,
+    "original_text": "Most of them seem to be joking about the walls.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "A maioria deles parece estar brincando sobre os muros."
+  },
+  {
+    "id": "ee8dqxb",
+    "split": "train",
+    "line_idx": 21029,
+    "original_text": "Then you’re entirely ignorant",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então você é totalmente ignorante"
+  },
+  {
+    "id": "ef516hz",
+    "split": "train",
+    "line_idx": 21030,
+    "original_text": "I would of at least helped the poor guy. Throw some fire crackers at the dam thing",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu pelo menos teria ajudado o coitado. Jogava umas bombinhas naquela coisa"
+  },
+  {
+    "id": "ed5tyie",
+    "split": "train",
+    "line_idx": 21031,
+    "original_text": "As I understand it, the director? left so at least if they do reboot it it’ll be in more competent hands lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Pelo que entendi, o diretor? saiu, então pelo menos se eles fizerem um reboot, vai estar em mãos mais competentes rs"
+  },
+  {
+    "id": "eelbd0u",
+    "split": "train",
+    "line_idx": 21032,
+    "original_text": "im just going to leave this here",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "só vou deixar isso aqui"
+  },
+  {
+    "id": "efdfeky",
+    "split": "train",
+    "line_idx": 21033,
+    "original_text": "I know they finally gave Return of the King best Pic but my favorite out of the three was Two Towers. They are all great though.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu sei que finalmente deram o prêmio de Melhor Filme para O Retorno do Rei, mas o meu favorito dos três foi As Duas Torres. Mas todos são ótimos."
+  },
+  {
+    "id": "ef586jy",
+    "split": "train",
+    "line_idx": 21034,
+    "original_text": "Thanks! I've got at least 6 certifications from coursera and a few more from udemy. Good luck to you too!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu! Tenho pelo menos 6 certificações do Coursera e mais algumas da Udemy. Boa sorte para você também!"
+  },
+  {
+    "id": "eena7de",
+    "split": "train",
+    "line_idx": 21035,
+    "original_text": "I told you you’re right it’s silly anyone would care about foreign intelligence attempting to influence elections. What a silly joke.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu te disse que você está certo, é uma bobagem alguém se importar com inteligência estrangeira tentando influenciar eleições. Que piada boba."
+  },
+  {
+    "id": "ee36r7p",
+    "split": "train",
+    "line_idx": 21036,
+    "original_text": "I can’t imagine being this retired",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Não consigo imaginar estar tão aposentado assim"
+  },
+  {
+    "id": "eeukrfp",
+    "split": "train",
+    "line_idx": 21037,
+    "original_text": "*right, [NAME]. thank you for clarifying.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "*certo, [NAME]. obrigado por esclarecer."
+  },
+  {
+    "id": "eczwlf5",
+    "split": "train",
+    "line_idx": 21038,
+    "original_text": "it's not but damn i'm sorry to hear how common this is",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "não é, mas caramba, sinto muito em saber o quão comum isso é"
+  },
+  {
+    "id": "ef6klns",
+    "split": "train",
+    "line_idx": 21039,
+    "original_text": "Are you a [NAME] main hiding from the other survivors in a locker?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você é um main [NAME] se escondendo dos outros sobreviventes em um armário?"
+  },
+  {
+    "id": "ed3i9hq",
+    "split": "train",
+    "line_idx": 21040,
+    "original_text": ">Ultimate 12 Inch *notices bulge* *OwO what's this?*",
+    "emotion_ids": "7,26",
+    "emotions": [
+      "curiosity",
+      "surprise"
+    ],
+    "translated_text": ">Ultimate 12 Inch *percebe o volume* *OwO o que é isso?*"
+  },
+  {
+    "id": "ee6wyr6",
+    "split": "train",
+    "line_idx": 21041,
+    "original_text": "Same. Thats not the usual flight path out of [NAME]. Really curious how they got this pic.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu também. Essa não é a rota de voo comum saindo de [NAME]. Muito curioso como conseguiram essa foto."
+  },
+  {
+    "id": "edwtquo",
+    "split": "train",
+    "line_idx": 21042,
+    "original_text": "thats just an unpopular opinion, and legally wrong.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "isso é só uma opinião impopular, e legalmente errada."
+  },
+  {
+    "id": "ee6asfi",
+    "split": "train",
+    "line_idx": 21043,
+    "original_text": "Oh dear. Ive tried to forget that. Lmao If some one brings this up, i just remind them we are also the toilet water town. Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ah céus. Tentei esquecer disso. Lmao Se alguém menciona isso, eu só lembro eles que nós também somos a cidade da água de privada. Lol"
+  },
+  {
+    "id": "ed20lrl",
+    "split": "train",
+    "line_idx": 21044,
+    "original_text": "We don't care as much for 69. Hard to do properly. Glad it works for you. We prefer to take turns.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "A gente não liga tanto para o 69. Difícil de fazer direito. Que bom que funciona para vocês. Nós preferimos revezar."
+  },
+  {
+    "id": "edp9j0r",
+    "split": "train",
+    "line_idx": 21045,
+    "original_text": "having your head smashed into a kebab shop's counter",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ter sua cabeça esmagada no balcão de uma loja de kebab"
+  },
+  {
+    "id": "edq5od7",
+    "split": "train",
+    "line_idx": 21046,
+    "original_text": "**YOU CANNOT MURDER ME! IT'S ILLEGAL.**",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "**VOCÊ NÃO PODE ME ASSASSINAR! É ILEGAL.**"
+  },
+  {
+    "id": "eeiu284",
+    "split": "train",
+    "line_idx": 21047,
+    "original_text": "I wish I could be half as cool as that guy",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Quem me dera ser metade tão legal quanto aquele cara"
+  },
+  {
+    "id": "ed3n5hv",
+    "split": "train",
+    "line_idx": 21048,
+    "original_text": "Forehead kisses, and any of the cute nicknames he calls me [NAME], best feeling being in his arms [NAME] I miss it all",
+    "emotion_ids": "9,18",
+    "emotions": [
+      "disappointment",
+      "love"
+    ],
+    "translated_text": "Beijos na testa, e qualquer um dos apelidos fofos que ele me chama [NAME], a melhor sensação é estar nos braços dele [NAME] sinto falta de tudo isso"
+  },
+  {
+    "id": "ef1k2u2",
+    "split": "train",
+    "line_idx": 21049,
+    "original_text": "Thanks for explaining it! I’m not sure why my comment got downvoted. Without context, it makes no sense.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado por explicar! Não sei por que meu comentário foi negativado. Sem contexto, não faz sentido."
+  }
+]

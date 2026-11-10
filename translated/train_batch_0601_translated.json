@@ -1,0 +1,612 @@
+[
+  {
+    "id": "eeolz9o",
+    "split": "train",
+    "line_idx": 30050,
+    "original_text": "The numbers against EEA will go up once people realise it amounts to fuck all but still costs a fortune.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Os números contra o EEA vão subir assim que as pessoas perceberem que não serve pra porra nenhuma mas ainda custa uma fortuna.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8qln5",
+    "split": "train",
+    "line_idx": 30051,
+    "original_text": "What are the chances that [NAME] actually reads the report when it comes out?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quais são as chances de o [NAME] realmente ler o relatório quando for lançado?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ees7cfh",
+    "split": "train",
+    "line_idx": 30052,
+    "original_text": "Hello!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Olá!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edxmvp5",
+    "split": "train",
+    "line_idx": 30053,
+    "original_text": "How do you deal with not having pushers? They’re literally our saviors in grocery since we never have time to zone over there...",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Como vocês lidam com o fato de não terem empurradores? Eles são literalmente nossos salvadores no mercado, já que a gente nunca tem tempo de organizar as prateleiras lá...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edb0n5m",
+    "split": "train",
+    "line_idx": 30054,
+    "original_text": "It's spelled HIPAA, not HIPPA. It also doesn't do what you think, and at best it's the ADA that discourages employers from asking.",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Escreve-se HIPAA, não HIPPA. Além disso, não faz o que você pensa, e no máximo é a ADA que desestimula os empregadores a perguntarem.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efa8tp6",
+    "split": "train",
+    "line_idx": 30055,
+    "original_text": "thank you for your consideration but i like both",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "obrigado pela consideração mas eu gosto dos dois",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eep33as",
+    "split": "train",
+    "line_idx": 30056,
+    "original_text": "I have no idea what's going on, but I hate when people surround the car like that. ",
+    "emotion_ids": "6,10",
+    "emotions": [
+      "confusion",
+      "disapproval"
+    ],
+    "translated_text": "Não tenho a menor ideia do que está rolando, mas odeio quando cercam o carro desse jeito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edk49ao",
+    "split": "train",
+    "line_idx": 30057,
+    "original_text": "> On top of that, the article stated that some had even had their IUD ripped out by a partner. BLUUUUUURURRRRRRRGHHHHH WHYYYYYYY",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "> Além disso, a matéria afirmou que alguns tiveram até o DIU arrancado por um parceiro. BLEEEEEEEECRUURRRRGHHHHH POR QUEEEEEEE",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8977j",
+    "split": "train",
+    "line_idx": 30058,
+    "original_text": "Yeah no one is gonna do that and get reported to HR for bigotry.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "É, ninguém vai fazer isso e correr o risco de ser denunciado no RH por intolerância.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczca53",
+    "split": "train",
+    "line_idx": 30059,
+    "original_text": "My.. friend.. wants him to upload it, if he did!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu... amigo... quer que ele poste o vídeo, caso ele tenha feito!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eem0hhk",
+    "split": "train",
+    "line_idx": 30060,
+    "original_text": "It is fascinating that people spend billions of dollars on superhero fantasy yet they hate a real life superhero.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É fascinante que as pessoas gastem bilhões de dólares em fantasia de super-herói, mas odeiem um super-herói da vida real.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8dmli",
+    "split": "train",
+    "line_idx": 30061,
+    "original_text": "Are you assuming that all of [NAME] friends are mutual friends of whoever took this screenshot?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você tá assumindo que todos os amigos do [NAME] são amigos em comum de quem tirou esse print?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edzfar5",
+    "split": "train",
+    "line_idx": 30062,
+    "original_text": "Maybe if I don't try to hide, they'll think someone else did it. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Talvez se eu não tentar me esconder, eles pensem que outra pessoa fez isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbeer7",
+    "split": "train",
+    "line_idx": 30063,
+    "original_text": "> Ditch the drugs, especially the acid. Nothing wrong with occasional psychedelics, but my god dont do acid with these guys ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> Larga mão das drogas, especialmente o ácido. Não tem nada de errado com psicodélicos de vez em quando, mas pelo amor de Deus, não toma ácido com esses caras",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edodnwj",
+    "split": "train",
+    "line_idx": 30064,
+    "original_text": "facetune is hard work you fucking pore. I work all day to support this family and this is the thanks I get?",
+    "emotion_ids": "2,3,15",
+    "emotions": [
+      "anger",
+      "annoyance",
+      "gratitude"
+    ],
+    "translated_text": "Facetune dá o maior trabalho, seu bando de pobre fudido. Eu trabalho o dia todo pra sustentar essa família e é esse o agradecimento que eu recebo?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8qrd9",
+    "split": "train",
+    "line_idx": 30065,
+    "original_text": "I have a cold too 😿. Hope you feel better!",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Eu também tô resfriado 😿. Melhoras!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeyc7hc",
+    "split": "train",
+    "line_idx": 30066,
+    "original_text": "Idk how you can be definite about that considering [NAME] has never been rocked before.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei como você pode ter certeza disso, considerando que o [NAME] nunca tomou uma surra antes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7bt3z",
+    "split": "train",
+    "line_idx": 30067,
+    "original_text": "The top half of the dress looks perfect. It’s the bottom that’s bad.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A metade de cima do vestido tá perfeita. O problema é a parte de baixo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeafre8",
+    "split": "train",
+    "line_idx": 30068,
+    "original_text": "just like [NAME] was going to win by 90+%? I'm not going to believe it until I see it.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "igualzinho a [NAME] que ia ganhar com mais de 90%? Só acredito vendo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenpii0",
+    "split": "train",
+    "line_idx": 30069,
+    "original_text": "We've allways a ear to rent you here in reddit, you little sensitive bigheart. Now time to feel good again, ok?",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A gente tá sempre com os ouvidos abertos pra você aqui no reddit, seu manteiga derretida de coração mole. Agora é hora de se sentir bem de novo, beleza?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee62y3m",
+    "split": "train",
+    "line_idx": 30070,
+    "original_text": ">Limes have autobreaking Ha! That's an amusing typo! You meant autobraking, I assume.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": ">Limes têm autofrenagem! Ha! Que erro de digitação engraçado! Você quis dizer autofrenagem, imagino.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtp3wz",
+    "split": "train",
+    "line_idx": 30071,
+    "original_text": "Way up north. Near the country side. Lots of new homes being built in the Temperance area.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bem lá no norte. Perto do interior. Tem um monte de casa nova sendo construída na área de Temperance.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemlmxb",
+    "split": "train",
+    "line_idx": 30072,
+    "original_text": "Yeah more and more I play BFV I just find myself wishing this thing or that thing was more like the old BF’s.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "É, quanto mais eu jogo o BFV, mais eu fico desejando que isso ou aquilo fosse mais parecido com os Battlefields antigos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeub7im",
+    "split": "train",
+    "line_idx": 30073,
+    "original_text": "Poetic and also true.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Poético e também verdade.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edaime1",
+    "split": "train",
+    "line_idx": 30074,
+    "original_text": "I love this subreddit",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo esse subreddit",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edgz19f",
+    "split": "train",
+    "line_idx": 30075,
+    "original_text": "r/vaxxhappened. Fuck you Jan.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "r/vaxxhappened. Vai se foder, Jan.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edyew5o",
+    "split": "train",
+    "line_idx": 30076,
+    "original_text": "Until that plant dies because you just shocked the hell out of its root system.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Até que aquela planta morre porque você acabou de dar um choque danado no sistema de raízes dela.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjhydl",
+    "split": "train",
+    "line_idx": 30077,
+    "original_text": "Immigrant children dying in state camps? Horrible. Healthcare for the poor and eldery? Also horrible! Got it.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Crianças imigrantes morrendo em campos estatais? Horrível. Saúde para os pobres e idosos? Horrível também! Entendi.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8bamh",
+    "split": "train",
+    "line_idx": 30078,
+    "original_text": "It’s funny",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É engraçado",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edn5o29",
+    "split": "train",
+    "line_idx": 30079,
+    "original_text": "Yeah having a camp invetory was something i already wished they add to the game, the crafting part i did not think of..",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, ter um inventário de acampamento era algo que eu já queria que adicionassem no jogo, a parte de criação eu não tinha pensado...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef3wgk6",
+    "split": "train",
+    "line_idx": 30080,
+    "original_text": "At first view, I thought it was a beer mug seen from above but immediately saw it's a pancake and now I'm just feeling dipshit.",
+    "emotion_ids": "3,22",
+    "emotions": [
+      "annoyance",
+      "realization"
+    ],
+    "translated_text": "À primeira vista, achei que era uma caneca de cerveja vista de cima, mas na mesma hora vi que era uma panqueca e agora tô me sentindo um completo imbecil.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczrrn3",
+    "split": "train",
+    "line_idx": 30081,
+    "original_text": "Thank you so much❤",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado❤",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenff9u",
+    "split": "train",
+    "line_idx": 30082,
+    "original_text": "And mine?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E o meu?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef4bt2c",
+    "split": "train",
+    "line_idx": 30083,
+    "original_text": "exactly my condition, mate ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "exatamente a minha situação, mano",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9kmdf",
+    "split": "train",
+    "line_idx": 30084,
+    "original_text": "It’s objectively a lie. Prove me wrong",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é objetivamente uma mentira. Me prove o contrário",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edqhf75",
+    "split": "train",
+    "line_idx": 30085,
+    "original_text": "We've lived together for 4 years. We do everything together.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "A gente mora junto há 4 anos. A gente faz tudo junto.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edgwvoz",
+    "split": "train",
+    "line_idx": 30086,
+    "original_text": "Do you have any relatives who could support you?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você tem algum parente que possa te apoiar?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efddbgs",
+    "split": "train",
+    "line_idx": 30087,
+    "original_text": "So glad I have a 20 minute walk to work up in the Bay Area.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ainda bem que eu levo 20 minutos a pé pro trabalho lá na Bay Area.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eefr6l2",
+    "split": "train",
+    "line_idx": 30088,
+    "original_text": "I can finally play 'Kabhi kabhi aaditi'. Only hindi song I listen to.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Finalmente posso tocar 'Kabhi kabhi aaditi'. Única música hindi que eu ouço.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtaen6",
+    "split": "train",
+    "line_idx": 30089,
+    "original_text": "I love spaghetti... Can I have your recipe?",
+    "emotion_ids": "7,18",
+    "emotions": [
+      "curiosity",
+      "love"
+    ],
+    "translated_text": "Eu amo macarrão... Posso pegar sua receita?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee0s1ge",
+    "split": "train",
+    "line_idx": 30090,
+    "original_text": "Because it's like she's a child, though it would be weird to explain it right then.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque ela parece uma criança, embora fosse estranho explicar isso bem na hora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3bhwq",
+    "split": "train",
+    "line_idx": 30091,
+    "original_text": "Only season 1 of sense 8 is worth watching.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só a 1ª temporada de Sense8 vale a pena.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed12z7k",
+    "split": "train",
+    "line_idx": 30092,
+    "original_text": "the Browns called. They would be happy to help you end your career",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "os Browns ligaram. Eles adorariam te ajudar a acabar com a sua carreira",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef67u4j",
+    "split": "train",
+    "line_idx": 30093,
+    "original_text": "That’s a joke between our buddies. A euphemism of sorts...",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É uma piada interna entre a gente. Um eufemismo, por assim dizer...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ees5yb3",
+    "split": "train",
+    "line_idx": 30094,
+    "original_text": "Removed under rule #1. This is your second removal for the same rule.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Removido de acordo com a regra nº 1. Esta é a sua segunda remoção pela mesma regra.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edwnkdq",
+    "split": "train",
+    "line_idx": 30095,
+    "original_text": "Oh! I didn't realize they were also vegan.",
+    "emotion_ids": "22,26",
+    "emotions": [
+      "realization",
+      "surprise"
+    ],
+    "translated_text": "Ah! Eu não sabia que eles também eram veganos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edmrlq5",
+    "split": "train",
+    "line_idx": 30096,
+    "original_text": "So uh...what happened to men between 1990 and 1995? Why the huge spike?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Então... o que aconteceu com os homens entre 1990 e 1995? Por que esse pico enorme?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelwfil",
+    "split": "train",
+    "line_idx": 30097,
+    "original_text": "Thank you! Looks delicious.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado! Tem uma cara ótima.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edcuj07",
+    "split": "train",
+    "line_idx": 30098,
+    "original_text": "I like Celtic fans more than Buck fans",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu gosto mais dos torcedores do Celtics do que dos do Bucks",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgmj2p",
+    "split": "train",
+    "line_idx": 30099,
+    "original_text": "I guess I should specify. I would like a 'right' and 'left' political viewpoint.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que devo especificar. Eu gostaria de um ponto de vista político 'de direita' e 'de esquerda'.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

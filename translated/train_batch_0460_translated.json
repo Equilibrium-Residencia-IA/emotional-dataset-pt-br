@@ -1,0 +1,554 @@
+[
+  {
+    "id": "edcn2ku",
+    "split": "train",
+    "line_idx": 23000,
+    "original_text": "As a non-religious that’s fascinated by [RELIGION], I love this 😅.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Como alguém não religioso que é fascinado por [RELIGION], eu adorei isso 😅."
+  },
+  {
+    "id": "edbt9am",
+    "split": "train",
+    "line_idx": 23001,
+    "original_text": "The classic artifact player response to criticism: you just dont understand it loool",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "A resposta clássica de jogador de artifact pra qualquer crítica: você só não entende o jogo kkkkk"
+  },
+  {
+    "id": "eczowjx",
+    "split": "train",
+    "line_idx": 23002,
+    "original_text": "No we're getting Kinsler and be happy with it",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Não, a gente vai pegar o Kinsler e ficar feliz com isso"
+  },
+  {
+    "id": "eehoyyh",
+    "split": "train",
+    "line_idx": 23003,
+    "original_text": "Bahaha that wasn't a shot attempt until the last second",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bahaha aquilo nem foi tentativa de chute até o último segundo"
+  },
+  {
+    "id": "ed12a7n",
+    "split": "train",
+    "line_idx": 23004,
+    "original_text": "We're worse to animals than we were 100 years ago, js.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "A gente trata os animais pior do que tratava 100 anos atrás, só pra constar."
+  },
+  {
+    "id": "edb9chd",
+    "split": "train",
+    "line_idx": 23005,
+    "original_text": "“What a bummer. He ded. I look at sky. Maybe bird make me happy.”",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "“Que droga. Ele morreu. Olho pro céu. Talvez um passarinho me faça feliz.”"
+  },
+  {
+    "id": "edx75wl",
+    "split": "train",
+    "line_idx": 23006,
+    "original_text": "Honey mustard.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mostarda com mel."
+  },
+  {
+    "id": "ednz1s9",
+    "split": "train",
+    "line_idx": 23007,
+    "original_text": "That actually makes sense, thank you for answering my question. Did you try training your dog?",
+    "emotion_ids": "7,15",
+    "emotions": [
+      "curiosity",
+      "gratitude"
+    ],
+    "translated_text": "Isso na verdade faz sentido, obrigado por responder minha pergunta. Você tentou treinar seu cachorro?"
+  },
+  {
+    "id": "eedwm83",
+    "split": "train",
+    "line_idx": 23008,
+    "original_text": "Great news. Maybe they will be shut down.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ótima notícia. Talvez eles sejam fechados."
+  },
+  {
+    "id": "ed4rdm4",
+    "split": "train",
+    "line_idx": 23009,
+    "original_text": "Hey [NAME], just wanted to say thanks for coming to Minnesota, that’s all :) ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ei [NAME], só queria agradecer por vir a Minnesota, é isso :)"
+  },
+  {
+    "id": "ef4m09g",
+    "split": "train",
+    "line_idx": 23010,
+    "original_text": "I know North America is a big place but I wonder what it will take to see similar crowds in cities over here.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Eu sei que a América do Norte é um lugar grande, mas fico pensando o que vai ser preciso pra ver multidões parecidas nas cidades daqui."
+  },
+  {
+    "id": "ee1e4zl",
+    "split": "train",
+    "line_idx": 23011,
+    "original_text": "[NAME] from ZoE and [NAME] from TTGL. Actually fuck all that [NAME] from The Big O is where it's at.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "[NAME] de ZoE e [NAME] de TTGL. Na real, foda-se tudo isso, o [NAME] de The Big O é que é o cara."
+  },
+  {
+    "id": "ee1cejp",
+    "split": "train",
+    "line_idx": 23012,
+    "original_text": "I hate roundabouts. For some reason road designers have a fetish for them as more and more are popping up. For cyclist they are rings of death",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu odeio rotatórias. Por algum motivo os projetistas de estradas têm um fetiche por elas, já que estão surgindo cada vez mais. Pra ciclista, aquilo é um anel da morte"
+  },
+  {
+    "id": "eeelgfw",
+    "split": "train",
+    "line_idx": 23013,
+    "original_text": "That works too. To each their own.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso funciona também. Cada um na sua."
+  },
+  {
+    "id": "ed8sejt",
+    "split": "train",
+    "line_idx": 23014,
+    "original_text": "Your r/brogress post doesnt look dyel",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Seu post no r/brogress não parece nada de quem nem treina"
+  },
+  {
+    "id": "edp5nn3",
+    "split": "train",
+    "line_idx": 23015,
+    "original_text": "And then the oligarchs in charge will be forced to say how they really feel about America... this bizarre logic has very interesting potential.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "E aí os oligarcas no comando vão ser forçados a dizer o que realmente pensam sobre a América... essa lógica bizarra tem um potencial bem interessante."
+  },
+  {
+    "id": "ee5h21p",
+    "split": "train",
+    "line_idx": 23016,
+    "original_text": "Well that sucks",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Bom, isso é uma merda"
+  },
+  {
+    "id": "ednza02",
+    "split": "train",
+    "line_idx": 23017,
+    "original_text": "Crazy how before the offseason everyone was talking 350-400 mill deals for [NAME] and [NAME] as if that was all but inevitable",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "É doideira como antes da intertemporada todo mundo falava em contratos de 350-400 milhões pro [NAME] e pro [NAME] como se fosse algo inevitável"
+  },
+  {
+    "id": "efajjb3",
+    "split": "train",
+    "line_idx": 23018,
+    "original_text": "But I want to look cute as I eat myself into immobility and an early grave. /s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas eu quero parecer fofo enquanto como até ficar imóvel e ir pra cova mais cedo. /s"
+  },
+  {
+    "id": "edoea4p",
+    "split": "train",
+    "line_idx": 23019,
+    "original_text": "Good thing I don't watch porn lol",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ainda bem que eu não assisto pornô kkk"
+  },
+  {
+    "id": "eeg2ano",
+    "split": "train",
+    "line_idx": 23020,
+    "original_text": "[NAME] forbid PETA gives vegan alternatives for a holiday many vegans celebrate with their loved ones",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] proíba a PETA de dar alternativas veganas pra um feriado que muitos veganos celebram com quem amam"
+  },
+  {
+    "id": "eegfedp",
+    "split": "train",
+    "line_idx": 23021,
+    "original_text": "Rambo with the stinger",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Rambo com a stinger"
+  },
+  {
+    "id": "edbd221",
+    "split": "train",
+    "line_idx": 23022,
+    "original_text": "Man, my USDA loan took months to process even when the govt wasn’t shut down. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Cara, meu empréstimo do USDA levou meses pra processar mesmo quando o governo não tava fechado."
+  },
+  {
+    "id": "eevb1kg",
+    "split": "train",
+    "line_idx": 23023,
+    "original_text": "Wow. That'll teach you to try and help!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Nossa. Isso vai te ensinar a tentar ajudar!"
+  },
+  {
+    "id": "ef502ih",
+    "split": "train",
+    "line_idx": 23024,
+    "original_text": "Cos Disneyland is too damn expensive for them these days.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque a Disneyland tá cara demais pra eles hoje em dia."
+  },
+  {
+    "id": "efexekr",
+    "split": "train",
+    "line_idx": 23025,
+    "original_text": "I'm not sure I follow. What would that accomplish?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não tenho certeza se entendi. O que isso resolveria?"
+  },
+  {
+    "id": "edm24b2",
+    "split": "train",
+    "line_idx": 23026,
+    "original_text": "Haha, I feel that",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha, eu sinto essa"
+  },
+  {
+    "id": "ef3xe9e",
+    "split": "train",
+    "line_idx": 23027,
+    "original_text": "How am I arguing? I thought it was pretty clear I'm asking how something works in what I presume is a different county.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Como assim eu tô discutindo? Achei que tava bem claro que eu tô perguntando como algo funciona no que eu presumo ser um país diferente."
+  },
+  {
+    "id": "ecztf18",
+    "split": "train",
+    "line_idx": 23028,
+    "original_text": "I used to build a ramp and jump over other kids on my bike ala [NAME]... I was amazed at the time.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Eu costumava construir uma rampa e pular por cima das outras crianças com minha bike estilo [NAME]... eu ficava maravilhado na época."
+  },
+  {
+    "id": "ed3mhc8",
+    "split": "train",
+    "line_idx": 23029,
+    "original_text": "This is awesome. What did they play?",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível. O que eles tocaram?"
+  },
+  {
+    "id": "edch27s",
+    "split": "train",
+    "line_idx": 23030,
+    "original_text": "[NAME] has shot the three well the past few games. great to see",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME] tem arremessado bem de três nos últimos jogos. bom demais ver isso"
+  },
+  {
+    "id": "eejop98",
+    "split": "train",
+    "line_idx": 23031,
+    "original_text": "Sounds like you had a much rougher night than me. You win this round",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que você teve uma noite bem mais difícil que a minha. Você venceu essa rodada"
+  },
+  {
+    "id": "ee5h3zn",
+    "split": "train",
+    "line_idx": 23032,
+    "original_text": "You should come. You'd enjoy it.",
+    "emotion_ids": "4,17",
+    "emotions": [
+      "approval",
+      "joy"
+    ],
+    "translated_text": "Você deveria vir. Você ia gostar."
+  },
+  {
+    "id": "ees8t9t",
+    "split": "train",
+    "line_idx": 23033,
+    "original_text": "He has utterly squandered his time since leaving office. For those of us trying to champion his legacy it's a perpetual headache.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele desperdiçou totalmente seu tempo desde que saiu do cargo. Pra nós que tentamos defender seu legado, é uma dor de cabeça constante."
+  },
+  {
+    "id": "eeuxdbg",
+    "split": "train",
+    "line_idx": 23034,
+    "original_text": "The main reason I left is a hidden mmr used to influence matchmaking in a mode that requires a paid entry. That's disgusting",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "O principal motivo de eu ter saído é um MMR escondido que influenciava o matchmaking num modo que exige entrada paga. Isso é nojento"
+  },
+  {
+    "id": "edf36b9",
+    "split": "train",
+    "line_idx": 23035,
+    "original_text": "reminds me of Far Cry 5",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "me lembra Far Cry 5"
+  },
+  {
+    "id": "ef3ph6z",
+    "split": "train",
+    "line_idx": 23036,
+    "original_text": "Please don't /u ping users in SRD.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por favor, não marque usuários com /u no SRD."
+  },
+  {
+    "id": "efd6fgi",
+    "split": "train",
+    "line_idx": 23037,
+    "original_text": "As someone who went through school before the internet existed, yes, weird creepy kids existed. Although it was more in your face. ",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Como alguém que passou pela escola antes da internet existir, sim, existiam crianças estranhas e assustadoras. Embora fosse mais na cara."
+  },
+  {
+    "id": "eejd6h9",
+    "split": "train",
+    "line_idx": 23038,
+    "original_text": "I'm with the photo guy. It would be an awful feeling to watch your date flirt with some other dude ON YOUR DATE.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu tô com o cara da foto. Deve ser uma sensação horrível ver seu encontro flertar com outro cara NO SEU ENCONTRO."
+  },
+  {
+    "id": "ed7nhh7",
+    "split": "train",
+    "line_idx": 23039,
+    "original_text": "Have faith, I'm sure there is enough fan support for more popular characters to be brought back. ",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Tenha fé, tenho certeza que tem apoio de fã suficiente pra trazerem de volta personagens mais populares."
+  },
+  {
+    "id": "ef5s4br",
+    "split": "train",
+    "line_idx": 23040,
+    "original_text": "Any EU countries that get tricked into nationalism become prey and weaker relative to Russia and the US.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Qualquer país da UE que for enganado pelo nacionalismo vira presa e fica mais fraco em relação à Rússia e aos EUA."
+  },
+  {
+    "id": "ed3h1mv",
+    "split": "train",
+    "line_idx": 23041,
+    "original_text": "Yupp. If you drive down South Broadway you can see SoBro spraypainted on some buildings.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim. Se você dirigir pela South Broadway, dá pra ver SoBro pichado em alguns prédios."
+  },
+  {
+    "id": "eem0dog",
+    "split": "train",
+    "line_idx": 23042,
+    "original_text": "Mermaids don't exist.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sereias não existem."
+  },
+  {
+    "id": "edrf0al",
+    "split": "train",
+    "line_idx": 23043,
+    "original_text": "I’m sure [NAME] was thinking this when he told his daughter that she stunk like a toilet on his deathbed.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tenho certeza que o [NAME] tava pensando nisso quando disse pra filha dele que ela cheirava a privada no leito de morte dele."
+  },
+  {
+    "id": "efbmexp",
+    "split": "train",
+    "line_idx": 23044,
+    "original_text": "This is cute.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é fofo."
+  },
+  {
+    "id": "ee588pz",
+    "split": "train",
+    "line_idx": 23045,
+    "original_text": "Why slum it if they’re giving you actual cost?",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Por que se contentar com pouco se eles estão te dando o custo real?"
+  },
+  {
+    "id": "ee1gnq7",
+    "split": "train",
+    "line_idx": 23046,
+    "original_text": "I left the profession for exactly that reason. I couldn't emotionally handle the apathy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu larguei a profissão exatamente por esse motivo. Eu não aguentava emocionalmente a apatia"
+  },
+  {
+    "id": "eehiyb7",
+    "split": "train",
+    "line_idx": 23047,
+    "original_text": "Rattles off potential free agent edge defenders, neglects to include [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Lista vários possíveis defensores de borda agentes livres, esquece de incluir o [NAME]."
+  },
+  {
+    "id": "ef490tx",
+    "split": "train",
+    "line_idx": 23048,
+    "original_text": "Wow does that really work? I've never heard of anyone doing that before.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Nossa, isso funciona mesmo? Nunca ouvi falar de ninguém fazendo isso antes."
+  },
+  {
+    "id": "eei22ry",
+    "split": "train",
+    "line_idx": 23049,
+    "original_text": "You become assertive and take back your share of the power and control over your life. Go get No More Mr. Nice Guy.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você precisa ser assertivo e retomar sua parte do poder e controle sobre sua vida. Vai ler No More Mr. Nice Guy."
+  }
+]

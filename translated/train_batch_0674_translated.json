@@ -1,0 +1,611 @@
+[
+  {
+    "id": "edmexqg",
+    "split": "train",
+    "line_idx": 33700,
+    "original_text": "That's not even deconstructed. It's just unassembled.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso nem desconstruído é. Só tá desmontado mesmo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eevecb9",
+    "split": "train",
+    "line_idx": 33701,
+    "original_text": "Aww fuckballs, I thought it was today :( My bad.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Aww caralho, achei que era hoje :( Mal aí.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eel7djq",
+    "split": "train",
+    "line_idx": 33702,
+    "original_text": "The show paid for [NAME] surprise trip didn't they?",
+    "emotion_ids": "7,26",
+    "emotions": [
+      "curiosity",
+      "surprise"
+    ],
+    "translated_text": "O programa pagou a viagem surpresa do(a) [NAME], né?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edwbf3w",
+    "split": "train",
+    "line_idx": 33703,
+    "original_text": "One of our friends (seen in pic) wanted to make a poster today. I provided the idea, he created this masterpiece.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Um dos nossos amigos (visto na foto) quis fazer um cartaz hoje. Eu dei a ideia, ele criou essa obra-prima.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee544t2",
+    "split": "train",
+    "line_idx": 33704,
+    "original_text": "This really is next level",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é de outro nível mesmo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9fqmq",
+    "split": "train",
+    "line_idx": 33705,
+    "original_text": "Dang ol Mega-Low mart on frye!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Caraca, aquela Mega-Low mart na frye!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efe5mor",
+    "split": "train",
+    "line_idx": 33706,
+    "original_text": "Glad your a Liberal supporter.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Ainda bem que você apoia o partido Liberal.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemx1zg",
+    "split": "train",
+    "line_idx": 33707,
+    "original_text": "What? lol no. I feel bad they have to, but there are legit people who enjoy wearing it to show devotion.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Que? kkk não. Eu tenho pena que eles tenham que fazer isso, mas tem gente de verdade que curte usar pra mostrar devoção.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edp6byt",
+    "split": "train",
+    "line_idx": 33708,
+    "original_text": "I remember when reddit's default subs suddenly turned from [NAME] to [NAME] in a day.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu lembro quando os subs padrão do reddit mudaram de repente de [NAME] para [NAME] num dia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eewjtfk",
+    "split": "train",
+    "line_idx": 33709,
+    "original_text": "[NAME], they've turned into jerks.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "[NAME], eles viraram uns babacas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeo0if0",
+    "split": "train",
+    "line_idx": 33710,
+    "original_text": "Thanks! Oh my god, what a great interview. The man absolutely loves Winnipeg.",
+    "emotion_ids": "15,18",
+    "emotions": [
+      "gratitude",
+      "love"
+    ],
+    "translated_text": "Valeu! Caramba, que entrevista foda. O cara ama Winnipeg de paixão.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eda117i",
+    "split": "train",
+    "line_idx": 33711,
+    "original_text": "Things can be a little bit true, you know. It isn't all or nothing. Do you consider yourself a skeptic, by the way?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "As coisas podem ser meio verdade, sabe. Não é tudo ou nada. A propósito, você se considera cético?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehmyk3",
+    "split": "train",
+    "line_idx": 33712,
+    "original_text": "But it's still raping infantry. The case rounds OHK infantry up close. It's just horrendously weak against planes now...",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Mas continua estuprando a infantaria. A munição de fragmentação mata a infantaria na hora de perto. Só que agora tá horrivelmente fraca contra aviões...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee5d8fa",
+    "split": "train",
+    "line_idx": 33713,
+    "original_text": "Translation: \"I don't think restaurant employees should be allowed to express frustration under any circumstances.\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tradução: \"Eu acho que funcionários de restaurante não deveriam ter o direito de expressar frustração em hipótese alguma.\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0cl2h",
+    "split": "train",
+    "line_idx": 33714,
+    "original_text": "It's actually pretty fun, or it would be if it would run properly...",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Até que é mó legal, ou seria se rodasse direito...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ednfxt4",
+    "split": "train",
+    "line_idx": 33715,
+    "original_text": "Enchanted - [NAME]😍",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Encantado(a) - [NAME]😍",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebx6p2",
+    "split": "train",
+    "line_idx": 33716,
+    "original_text": "Well, I hope everything is going well in your retirement. Do your best to enjoy it :).",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Bem, espero que esteja tudo bem na sua aposentadoria. Aproveite ao máximo :).",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbo9yd",
+    "split": "train",
+    "line_idx": 33717,
+    "original_text": "Didn’t locals cry bloody murder about that and get it rejected? I hope the state tell them to pound sand and do it anyway.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "O pessoal da região não fez o maior escândalo por causa disso e conseguiu barrar? Tomara que o estado mande eles se foderem e façam mesmo assim.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed4v7ll",
+    "split": "train",
+    "line_idx": 33718,
+    "original_text": "Ahhh, that was actually really peaceful and cathartic. ",
+    "emotion_ids": "0,23",
+    "emotions": [
+      "admiration",
+      "relief"
+    ],
+    "translated_text": "Nossa, isso foi bem pacífico e revigorante.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjo8ez",
+    "split": "train",
+    "line_idx": 33719,
+    "original_text": "The irony tho",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A ironia né",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eequm7m",
+    "split": "train",
+    "line_idx": 33720,
+    "original_text": "FOUR?!?!? that's inhumane and unreasonable. We get 10.",
+    "emotion_ids": "7,10,22",
+    "emotions": [
+      "curiosity",
+      "disapproval",
+      "realization"
+    ],
+    "translated_text": "QUATRO?!?!? isso é desumano e sem cabimento. A gente ganha 10.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eduxbdx",
+    "split": "train",
+    "line_idx": 33721,
+    "original_text": "hate to say it but nobody outside of saskatchewan has heard of [NAME] either",
+    "emotion_ids": "9,10",
+    "emotions": [
+      "disappointment",
+      "disapproval"
+    ],
+    "translated_text": "odeio admitir mas ninguém fora de saskatchewan sabe quem é [NAME] também",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeeob2p",
+    "split": "train",
+    "line_idx": 33722,
+    "original_text": "His mom was a handsome woman!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A mãe dele era uma mulher bonita!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee2xqz0",
+    "split": "train",
+    "line_idx": 33723,
+    "original_text": "Astounding. People died. And the church's response is \"Thank [NAME] that the caravan moves on!\"",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Impressionante. Pessoas morreram. E a resposta da igreja é \"Graças a [NAME] que a caravana segue em frente!\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef7iw2e",
+    "split": "train",
+    "line_idx": 33724,
+    "original_text": "I mean, the whole point of this sub is to complain about not having a plate ...",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Tipo, o foco inteiro desse sub é reclamar de não ter prato...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee5h8kw",
+    "split": "train",
+    "line_idx": 33725,
+    "original_text": "And someone downvoted you for that smh",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "E ainda te deram downvote por causa disso pqp",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3nwga",
+    "split": "train",
+    "line_idx": 33726,
+    "original_text": "Need context on this lol. I'm on a Uber rn to a bar so will be drinking right with you!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Preciso de contexto disso kkk. Tô num Uber indo pra um bar, então vou beber junto com você!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebdnto",
+    "split": "train",
+    "line_idx": 33727,
+    "original_text": "I will kill you all",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Vou matar todos vocês",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eev32qn",
+    "split": "train",
+    "line_idx": 33728,
+    "original_text": "This would be huge!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Isso seria do caralho!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efcg9a0",
+    "split": "train",
+    "line_idx": 33729,
+    "original_text": "How ignorant of to care about the safety and well-being of others! Shame!",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Que falta de noção se importar com a segurança e o bem-estar dos outros! Que vergonha!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeolz5p",
+    "split": "train",
+    "line_idx": 33730,
+    "original_text": "It really is a just lean back and watch things improve on their own situation.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É aquela situação de só sentar e assistir as coisas melhorarem sozinhas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edsxul5",
+    "split": "train",
+    "line_idx": 33731,
+    "original_text": "Gay boy here. [NAME] is overrated imo",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Garoto gay aqui. [NAME] é superestimado na minha opinião",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eesifrc",
+    "split": "train",
+    "line_idx": 33732,
+    "original_text": "Hence I used \"weird\". I know it's awkward, but it was indoctrinated into us growing up.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Por isso eu usei \"estranho\". Eu sei que é esquisito, mas enfiaram na nossa cabeça enquanto a gente crescia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edogakn",
+    "split": "train",
+    "line_idx": 33733,
+    "original_text": "Honestly I’ve seen kids that age do really gross stuff",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Sinceramente, já vi crianças dessa idade fazerem umas paradas mó nojentas",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eero84v",
+    "split": "train",
+    "line_idx": 33734,
+    "original_text": "Thanks for sharing :)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu por compartilhar :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbbj3z",
+    "split": "train",
+    "line_idx": 33735,
+    "original_text": "Hard to tell",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Difícil dizer",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee0o87x",
+    "split": "train",
+    "line_idx": 33736,
+    "original_text": "When it's the same composer, this kind of thing is bound to happen.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Quando é o mesmo compositor, esse tipo de coisa costuma acontecer.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef5vt84",
+    "split": "train",
+    "line_idx": 33737,
+    "original_text": "Interesting, I’ll have to try it someday ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Interessante, vou ter que testar um dia",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbpuui",
+    "split": "train",
+    "line_idx": 33738,
+    "original_text": "My school usually says that you should avoid fighting and try leaving the premisis asap",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Minha escola geralmente diz que você deve evitar brigar e tentar vazar do lugar o mais rápido possível",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efh1dej",
+    "split": "train",
+    "line_idx": 33739,
+    "original_text": "Not at all,I've got friends I never did anything with",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que nada, tenho amigos com quem nunca fiz nada",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eewld6b",
+    "split": "train",
+    "line_idx": 33740,
+    "original_text": "I mean it’s a default subreddit soooo... not really saying much lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Tipo, é um subreddit padrão néããão... nem quer dizer muita coisa kkk",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7uin2",
+    "split": "train",
+    "line_idx": 33741,
+    "original_text": "Super cool to see",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Maneiríssimo de ver",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef813gg",
+    "split": "train",
+    "line_idx": 33742,
+    "original_text": "Jersey turnpike and that area of I95 is full of lunatics/selfish drivers. Credentials: I live, work with, and am related to them.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A Jersey Turnpike e aquela região da I95 é cheia de maluco/motorista egoísta. Credenciais: eu moro, trabalho com e sou parente deles.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edogatg",
+    "split": "train",
+    "line_idx": 33743,
+    "original_text": "Beautiful song and great moment in the story",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Música linda e um momento foda na história",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5kdj9",
+    "split": "train",
+    "line_idx": 33744,
+    "original_text": "How the hell",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como que pode",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed78e4a",
+    "split": "train",
+    "line_idx": 33745,
+    "original_text": "That is really valuable thank you. Supplying stats definitely will help my writing, so thank you for the feedback",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Isso é muito útil, obrigado. Ter estatísticas com certeza vai ajudar na minha escrita, então valeu pelo feedback",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedegbl",
+    "split": "train",
+    "line_idx": 33746,
+    "original_text": ">You can't purge dissenting opinions over there like you do here. Yes, because top minds definitely doesn't purge dissenting opinions. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": ">Você não pode banir opiniões divergentes lá igual faz aqui. Sim, porque os cabeções com certeza não banem opiniões divergentes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edci9bh",
+    "split": "train",
+    "line_idx": 33747,
+    "original_text": "Thanks! Definite props to him because he was pulling a double shift when we were at the capacity of campers.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Valeu! Dou o maior crédito pra ele porque ele tava fazendo turno duplo quando o camping tava lotado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed3xbt0",
+    "split": "train",
+    "line_idx": 33748,
+    "original_text": "He was horrible",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Ele era horrível",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczrnjl",
+    "split": "train",
+    "line_idx": 33749,
+    "original_text": "I haven't been much on this sub recently. Is this a common theme?? If so that's just freaky.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Não tenho aparecido muito nesse sub ultimamente. Isso é comum?? Se for, é mó bizarro.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

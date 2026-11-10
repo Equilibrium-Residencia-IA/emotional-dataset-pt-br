@@ -1,0 +1,560 @@
+[
+  {
+    "id": "edh2kpn",
+    "split": "train",
+    "line_idx": 21600,
+    "original_text": "This is so true!! I'm vaping mango right now! Weird... Wish I was a kid.",
+    "emotion_ids": "4,8,22",
+    "emotions": [
+      "approval",
+      "desire",
+      "realization"
+    ],
+    "translated_text": "Isso é tão verdade!! Tô vaporizando manga agora mesmo! Que doideira... Queria ser criança de novo."
+  },
+  {
+    "id": "eecss19",
+    "split": "train",
+    "line_idx": 21601,
+    "original_text": "the veteran’s name is [NAME]. news article",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O nome do veterano é [NAME]. artigo de notícia"
+  },
+  {
+    "id": "ee4ypig",
+    "split": "train",
+    "line_idx": 21602,
+    "original_text": "I LITERALLY SAID THAT TO MY FRIEND",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "EU LITERALMENTE FALEI ISSO PRO MEU AMIGO"
+  },
+  {
+    "id": "eeqwti7",
+    "split": "train",
+    "line_idx": 21603,
+    "original_text": "Anywhere skytrain wants to expand my tax paying dollars will be ok with it.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Qualquer lugar que o skytrain queira expandir, meus impostos estão de boa com isso."
+  },
+  {
+    "id": "edky4ot",
+    "split": "train",
+    "line_idx": 21604,
+    "original_text": "Thanks for clearing this up!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu por esclarecer isso!"
+  },
+  {
+    "id": "efeorny",
+    "split": "train",
+    "line_idx": 21605,
+    "original_text": "Crosspost! We're cool with crossposts.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Crosspost! A gente curte crossposts."
+  },
+  {
+    "id": "edj7d8s",
+    "split": "train",
+    "line_idx": 21606,
+    "original_text": "NSFW If anyone is wondering what happened to his leg (0:48)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "NSFW Se alguém estiver se perguntando o que aconteceu com a perna dele (0:48)"
+  },
+  {
+    "id": "edksr1y",
+    "split": "train",
+    "line_idx": 21607,
+    "original_text": "Don't just distance yourself, BLOCK them",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Não só se afaste, BLOQUEIE eles"
+  },
+  {
+    "id": "eduzp9i",
+    "split": "train",
+    "line_idx": 21608,
+    "original_text": "Wow, I wonder who's going on about Tahiti in the background.",
+    "emotion_ids": "13,26",
+    "emotions": [
+      "excitement",
+      "surprise"
+    ],
+    "translated_text": "Nossa, queria saber quem é que tá falando de Tahiti no fundo."
+  },
+  {
+    "id": "ef0p01k",
+    "split": "train",
+    "line_idx": 21609,
+    "original_text": "Yeah, not the rich,that makes sense to me. I'm just commenting on the title saying billionaires are bad for democracy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, não os ricos, isso faz sentido pra mim. Só tô comentando sobre o título que diz que bilionários são ruins pra democracia"
+  },
+  {
+    "id": "ee7hwdb",
+    "split": "train",
+    "line_idx": 21610,
+    "original_text": "30% of the country are insane.",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "30% do país é insano."
+  },
+  {
+    "id": "edanaml",
+    "split": "train",
+    "line_idx": 21611,
+    "original_text": "Rip ok lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Rip ok kkk"
+  },
+  {
+    "id": "eenfn82",
+    "split": "train",
+    "line_idx": 21612,
+    "original_text": "Yup, it may not look like much but it’s still statistically significant. That’s really bad for something being decided by a coin toss.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É, pode não parecer muito, mas ainda é estatisticamente significativo. Isso é muito ruim pra algo decidido na base do cara ou coroa."
+  },
+  {
+    "id": "ef24e53",
+    "split": "train",
+    "line_idx": 21613,
+    "original_text": "I enjoyed watching the crazy old man being dragged out at the end.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Gostei de ver o velho maluco sendo arrastado pra fora no final."
+  },
+  {
+    "id": "eeersug",
+    "split": "train",
+    "line_idx": 21614,
+    "original_text": "Same. I felt like I haven’t found the “right” therapist. Hang in there and hug your little one tight!",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Idem. Senti que não achei o terapeuta \"certo\". Aguenta firme e dá um abraço bem apertado no seu pequeno!"
+  },
+  {
+    "id": "ee6ebsj",
+    "split": "train",
+    "line_idx": 21615,
+    "original_text": "The hat is necessary, not sure about the rosy cheeks. Maybe he went full 19th century transient cowboy immersive and has scabies or something...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O chapéu é necessário, não tenho certeza sobre as bochechas rosadas. Talvez ele tenha entrado de cabeça no personagem de cowboy andarilho do século 19 e esteja com sarna ou algo assim..."
+  },
+  {
+    "id": "ef3215x",
+    "split": "train",
+    "line_idx": 21616,
+    "original_text": "I'm suprised I didn't see more of these. Thanks for the support :)",
+    "emotion_ids": "15,26",
+    "emotions": [
+      "gratitude",
+      "surprise"
+    ],
+    "translated_text": "Tô surpreso que não vi mais desses. Valeu pelo apoio :)"
+  },
+  {
+    "id": "eeb4h4x",
+    "split": "train",
+    "line_idx": 21617,
+    "original_text": "Now that I've seen this, I would like to petition that Warden is just another sentient suit of armour.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora que vi isso, gostaria de fazer uma petição pra que o Warden seja só mais uma armadura senciente."
+  },
+  {
+    "id": "eepp10v",
+    "split": "train",
+    "line_idx": 21618,
+    "original_text": "I’d probably need up spending all of my money on food and ammo, I like having a limit",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu provavelmente acabaria gastando todo meu dinheiro com comida e munição, gosto de ter um limite"
+  },
+  {
+    "id": "ee152fw",
+    "split": "train",
+    "line_idx": 21619,
+    "original_text": "I think its justified because that dude freaks me out. The less money the better.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Acho que é justificado porque aquele cara me dá medo. Quanto menos dinheiro, melhor."
+  },
+  {
+    "id": "eedwkv0",
+    "split": "train",
+    "line_idx": 21620,
+    "original_text": "Bless you this post made me cry",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Deus te abençoe, esse post me fez chorar"
+  },
+  {
+    "id": "edoheff",
+    "split": "train",
+    "line_idx": 21621,
+    "original_text": "I dunno man. I'll forever like [NAME], but slapping the hand of someone trying to help you up/see if you're alright is a big bitch move",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não sei, cara. Vou sempre gostar do [NAME], mas dar um tapa na mão de alguém que tá tentando te ajudar a levantar/ver se você tá bem é uma atitude muito escrota"
+  },
+  {
+    "id": "ef6fvo3",
+    "split": "train",
+    "line_idx": 21622,
+    "original_text": "What a jackass",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que babaca"
+  },
+  {
+    "id": "eemjitf",
+    "split": "train",
+    "line_idx": 21623,
+    "original_text": "Allow Ireland to become a colony of the UK, outside the EU?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Deixar a Irlanda virar uma colônia do Reino Unido, fora da UE?"
+  },
+  {
+    "id": "eeqnn73",
+    "split": "train",
+    "line_idx": 21624,
+    "original_text": "This makes two times in the last 4 years that the #1 high school football player has came out of New Jersey , the other being [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa é a segunda vez nos últimos 4 anos que o jogador de futebol americano nº 1 do ensino médio sai de New Jersey, o outro foi o [NAME]"
+  },
+  {
+    "id": "eeslgow",
+    "split": "train",
+    "line_idx": 21625,
+    "original_text": "How are you supposed to get any links in the first place if no site is trustworthy as you say?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como você deveria conseguir qualquer link pra começo de conversa se nenhum site é confiável como você diz?"
+  },
+  {
+    "id": "edskrua",
+    "split": "train",
+    "line_idx": 21626,
+    "original_text": "This looks delicious, I wish I had all ingredients on hand, because I would make this tomorrow.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Isso parece delicioso, queria ter todos os ingredientes à mão, porque eu faria isso amanhã."
+  },
+  {
+    "id": "ed7okel",
+    "split": "train",
+    "line_idx": 21627,
+    "original_text": "[NAME] needs to settle down before [NAME] gets him all worked up.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] precisa se acalmar antes que o [NAME] deixe ele todo pilhado."
+  },
+  {
+    "id": "ednjt02",
+    "split": "train",
+    "line_idx": 21628,
+    "original_text": "Get the lad a prize.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dê um prêmio pro rapaz."
+  },
+  {
+    "id": "eczqurv",
+    "split": "train",
+    "line_idx": 21629,
+    "original_text": "Here, here. Cheers to starting fresh!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Isso aí. Um brinde a recomeçar!"
+  },
+  {
+    "id": "edecdvk",
+    "split": "train",
+    "line_idx": 21630,
+    "original_text": "? I'm a dude so I was asking how often she feels like guys listen to her. Not sure what you're asking",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "? Sou homem, então tava perguntando o quanto ela sente que os caras ouvem ela. Não entendi o que você tá perguntando"
+  },
+  {
+    "id": "eeusbnx",
+    "split": "train",
+    "line_idx": 21631,
+    "original_text": "Shotgun Stories (2007) doesn't have the bank robbery hook, but is about two families feuding in rural Arkansas. [NAME] is great in it.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Shotgun Stories (2007) não tem o gancho de assalto a banco, mas é sobre duas famílias em guerra no interior do Arkansas. O [NAME] tá ótimo nele."
+  },
+  {
+    "id": "edv2dgs",
+    "split": "train",
+    "line_idx": 21632,
+    "original_text": "Perfect example of the disgusting misuse of ‘Orwellian’ on this website",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Exemplo perfeito do uso nojento e errado de 'Orwelliano' neste site"
+  },
+  {
+    "id": "edi3qiu",
+    "split": "train",
+    "line_idx": 21633,
+    "original_text": "I am an atheist and the idea of a god makes me disgusted and angry so I prefer not to be religious",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Sou ateu e a ideia de um deus me dá nojo e raiva, então prefiro não ser religioso"
+  },
+  {
+    "id": "edierqs",
+    "split": "train",
+    "line_idx": 21634,
+    "original_text": "Whoever is against the queen will die.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem for contra a rainha vai morrer."
+  },
+  {
+    "id": "edmel1r",
+    "split": "train",
+    "line_idx": 21635,
+    "original_text": "Of course. It would mean you owe them an unspecified favor in the future. That would be horrible.",
+    "emotion_ids": "3,14",
+    "emotions": [
+      "annoyance",
+      "fear"
+    ],
+    "translated_text": "Com certeza. Significaria que você deve a eles um favor não especificado no futuro. Isso seria horrível."
+  },
+  {
+    "id": "efaeyau",
+    "split": "train",
+    "line_idx": 21636,
+    "original_text": "Done Please spread the word. Invit your friends",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Feito. Por favor, espalhem a palavra. Convidem seus amigos"
+  },
+  {
+    "id": "edmbro8",
+    "split": "train",
+    "line_idx": 21637,
+    "original_text": "Very Cool.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Muito legal."
+  },
+  {
+    "id": "edjktw8",
+    "split": "train",
+    "line_idx": 21638,
+    "original_text": "Seahawks fans are very bad at just taking the L.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Torcedores dos Seahawks são muito ruins em aceitar a derrota."
+  },
+  {
+    "id": "ef0rf7q",
+    "split": "train",
+    "line_idx": 21639,
+    "original_text": "For your kindness to mobile users I give a platinum ⠀⠀⠀⠀⠀⣤⣶⣶⡶⠦⠴⠶⠶⠶⠶⡶⠶⠦⠶⠶⠶⠶⠶⠶⠶⣄⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⣿⣀⣀⣀⣀⠀⢀⣤⠄⠀⠀⣶⢤⣄⠀⠀⠀⣤⣤⣄⣿⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠿⣿⣿⣿⣿⡷⠋⠁⠀⠀⠀⠙⠢⠙⠻⣿⡿⠿⠿⠫⠋⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢀⣤⠞⠉⠀⠀⠀⠀⣴⣶⣄⠀⠀⠀⢀⣕⠦⣀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢀⣤⠾⠋⠁⠀⠀⠀⠀⢀⣼⣿⠟⢿⣆⠀⢠⡟⠉⠉⠊⠳⢤⣀⠀⠀⠀ ⠀⣠⡾⠛⠁⠀⠀⠀⠀⠀⢀⣀⣾⣿⠃⠀⡀⠹⣧⣘⠀⠀⠀⠀⠀⠀⠉⠳⢤⡀ ⠀⣿⡀⠀⠀⢠⣶⣶⣿⣿⣿⣿⡿⠁⠀⣼⠃⠀⢹⣿⣿⣿⣶⣶⣤⠀⠀⠀⢰⣷ ⠀⢿⣇⠀⠀⠈⠻⡟⠛⠋⠉⠉⠀⠀⡼⠃⠀⢠⣿⠋⠉⠉⠛⠛⠋⠀⢀⢀⣿⡏ ⠀⠘⣿⡄⠀⠀⠀⠈⠢⡀⠀⠀⠀⡼⠁⠀⢠⣿⠇⠀⠀⡀⠀⠀⠀⠀⡜⣼⡿⠀ ⠀⠀⢻⣷⠀⠀⠀⠀⠀⢸⡄⠀⢰⠃⠀⠀⣾⡟⠀⠀⠸⡇⠀⠀⠀⢰⢧⣿⠃⠀ ⠀⠀⠘⣿⣇⠀⠀⠀⠀⣿⠇⠀⠇⠀⠀⣼⠟⠀⠀⠀⠀⣇⠀⠀⢀⡟⣾⡟⠀⠀ ⠀⠀⠀⢹⣿⡄⠀⠀⠀⣿⠀⣀⣠⠴⠚⠛⠶⣤⣀⠀⠀⢻⠀⢀⡾⣹⣿⠃⠀⠀ ⠀⠀⠀⠀⢿⣷⠀⠀⠀⠙⠊⠁⠀⢠⡆⠀⠀⠀⠉⠛⠓⠋⠀⠸⢣⣿⠏⠀⠀⠀ ⠀⠀⠀⠀⠘⣿⣷⣦⣤⣤⣄⣀⣀⣿⣤⣤⣤⣤⣤⣄⣀⣀⣀⣀⣾⡟⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢹⣿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠃",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pela sua gentileza com usuários de celular, dou um platina ⠀⠀⠀⠀⠀⣤⣶⣶⡶⠦⠴⠶⠶⠶⠶⡶⠶⠦⠶⠶⠶⠶⠶⠶⠶⣄⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⣿⣀⣀⣀⣀⠀⢀⣤⠄⠀⠀⣶⢤⣄⠀⠀⠀⣤⣤⣄⣿⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠿⣿⣿⣿⣿⡷⠋⠁⠀⠀⠀⠙⠢⠙⠻⣿⡿⠿⠿⠫⠋⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢀⣤⠞⠉⠀⠀⠀⠀⣴⣶⣄⠀⠀⠀⢀⣕⠦⣀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢀⣤⠾⠋⠁⠀⠀⠀⠀⢀⣼⣿⠟⢿⣆⠀⢠⡟⠉⠉⠊⠳⢤⣀⠀⠀⠀ ⠀⣠⡾⠛⠁⠀⠀⠀⠀⠀⢀⣀⣾⣿⠃⠀⡀⠹⣧⣘⠀⠀⠀⠀⠀⠀⠉⠳⢤⡀ ⠀⣿⡀⠀⠀⢠⣶⣶⣿⣿⣿⣿⡿⠁⠀⣼⠃⠀⢹⣿⣿⣿⣶⣶⣤⠀⠀⠀⢰⣷ ⠀⢿⣇⠀⠀⠈⠻⡟⠛⠋⠉⠉⠀⠀⡼⠃⠀⢠⣿⠋⠉⠉⠛⠛⠋⠀⢀⢀⣿⡏ ⠀⠘⣿⡄⠀⠀⠀⠈⠢⡀⠀⠀⠀⡼⠁⠀⢠⣿⠇⠀⠀⡀⠀⠀⠀⠀⡜⣼⡿⠀ ⠀⠀⢻⣷⠀⠀⠀⠀⠀⢸⡄⠀⢰⠃⠀⠀⣾⡟⠀⠀⠸⡇⠀⠀⠀⢰⢧⣿⠃⠀ ⠀⠀⠘⣿⣇⠀⠀⠀⠀⣿⠇⠀⠇⠀⠀⣼⠟⠀⠀⠀⠀⣇⠀⠀⢀⡟⣾⡟⠀⠀ ⠀⠀⠀⢹⣿⡄⠀⠀⠀⣿⠀⣀⣠⠴⠚⠛⠶⣤⣀⠀⠀⢻⠀⢀⡾⣹⣿⠃⠀⠀ ⠀⠀⠀⠀⢿⣷⠀⠀⠀⠙⠊⠁⠀⢠⡆⠀⠀⠀⠉⠛⠓⠋⠀⠸⢣⣿⠏⠀⠀⠀ ⠀⠀⠀⠀⠘⣿⣷⣦⣤⣤⣄⣀⣀⣿⣤⣤⣤⣤⣤⣄⣀⣀⣀⣀⣾⡟⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢹⣿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠃"
+  },
+  {
+    "id": "ef8hlzz",
+    "split": "train",
+    "line_idx": 21640,
+    "original_text": "What a good pupper!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Que cachorrinho bom!"
+  },
+  {
+    "id": "ee2yxd5",
+    "split": "train",
+    "line_idx": 21641,
+    "original_text": "I gathered that part from the Boulder Barnes and Noble part. Was just curious if we were ever in the same ward.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Entendi essa parte pela parte da Barnes and Noble de Boulder. Só tava curioso se a gente já esteve na mesma ala."
+  },
+  {
+    "id": "edf23dn",
+    "split": "train",
+    "line_idx": 21642,
+    "original_text": "It most definitely is! You’ve gotta pick some up!!",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Com certeza é! Você tem que comprar um pouco!!"
+  },
+  {
+    "id": "eea868e",
+    "split": "train",
+    "line_idx": 21643,
+    "original_text": "Combining the savvy business strategies of MLMs with the insufferability of wine moms. Expecting some quality content here.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Combinando as estratégias de negócios espertas de pirâmides financeiras com a insuportabilidade das mães que bebem vinho. Esperando um conteúdo de qualidade aqui."
+  },
+  {
+    "id": "edllrs3",
+    "split": "train",
+    "line_idx": 21644,
+    "original_text": "You don't need financial management when the government handles all your money and all your legal representation is also provided by all mighty government.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não precisa de gestão financeira quando o governo cuida de todo o seu dinheiro e toda a sua representação legal também é fornecida pelo todo-poderoso governo."
+  },
+  {
+    "id": "eecouwb",
+    "split": "train",
+    "line_idx": 21645,
+    "original_text": "I should’ve used that when my dog died.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu devia ter usado isso quando meu cachorro morreu."
+  },
+  {
+    "id": "ed0v46z",
+    "split": "train",
+    "line_idx": 21646,
+    "original_text": "Right on. I’ll change my comment",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Beleza. Vou mudar meu comentário"
+  },
+  {
+    "id": "effbrf8",
+    "split": "train",
+    "line_idx": 21647,
+    "original_text": "Someone has sex with that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém faz sexo com isso."
+  },
+  {
+    "id": "edzzetn",
+    "split": "train",
+    "line_idx": 21648,
+    "original_text": "Oh, okay. Thank you. I hadn't been keeping up with it.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ah, entendi. Obrigado. Eu não tava acompanhando isso."
+  },
+  {
+    "id": "ed2o4uc",
+    "split": "train",
+    "line_idx": 21649,
+    "original_text": "of course you agree. you post in r_braincels.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "claro que você concorda. você posta no r_braincels."
+  }
+]

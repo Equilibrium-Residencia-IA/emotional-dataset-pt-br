@@ -1,0 +1,608 @@
+[
+  {
+    "id": "eejfrq9",
+    "split": "test",
+    "line_idx": 3050,
+    "original_text": "It's alright old man we're almost to your room",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Tudo bem, meu velho, a gente tá quase no seu quarto",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edl87ac",
+    "split": "test",
+    "line_idx": 3051,
+    "original_text": "[NAME], [NAME] mother. I loved her in the one episode. She had great chemistry with everyone she met. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME], mãe de [NAME]. Eu adorei ela naquele episódio. Ela teve uma química incrível com todo mundo que conheceu.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee35g54",
+    "split": "test",
+    "line_idx": 3052,
+    "original_text": "Oof, thanks",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ufa, valeu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu6561",
+    "split": "test",
+    "line_idx": 3053,
+    "original_text": "If she deleted your Snapchat just because you showed up to a bingo, then it seems she's a bit of a bad person",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Se ela apagou o seu Snapchat só porque você apareceu num bingo, então parece que ela é meio cuzona",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efeplj2",
+    "split": "test",
+    "line_idx": 3054,
+    "original_text": "A *Pontiac* Montana?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Um Pontiac Montana?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5i9cw",
+    "split": "test",
+    "line_idx": 3055,
+    "original_text": "The new persona is only if you get the true ending. Not sure if the thread poster has but just in case he didn’t",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A nova persona é só se você fizer o final verdadeiro. Não sei se o dono do post fez, mas só garantindo caso ele não tenha feito",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegnxi7",
+    "split": "test",
+    "line_idx": 3056,
+    "original_text": "Love your username",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amei seu user",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzjor2",
+    "split": "test",
+    "line_idx": 3057,
+    "original_text": "If you’re a solo player, then I understand...",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Se você joga solo, aí eu entendo...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgtpzv",
+    "split": "test",
+    "line_idx": 3058,
+    "original_text": "Thanks for your comment. This makes sense with the time frames too.",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Valeu pelo comentário. Isso faz sentido com os prazos também.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eex192q",
+    "split": "test",
+    "line_idx": 3059,
+    "original_text": "I only wrote it down as a last choice if I have trouble meeting people on campus.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu só anotei como última opção caso eu tenha dificuldade de conhecer gente no campus.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee37xgd",
+    "split": "test",
+    "line_idx": 3060,
+    "original_text": "On days like this you can get an extra scoop. Just to make sure you have the finnnnnessst meals ;)",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Em dias como esse você ganha uma colherada a mais. Só pra garantir que você tenha as meeeeelhores refeições ;)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef40i8o",
+    "split": "test",
+    "line_idx": 3061,
+    "original_text": "Well banano is pretty memeorable",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, banano é bem memeorável",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexv98q",
+    "split": "test",
+    "line_idx": 3062,
+    "original_text": "1. They don't understand football fundamentals. They play [NAME]. 2. They are short and want someone to identify with.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "1. Eles não entendem os fundamentos do futebol americano. Eles jogam [NAME]. 2. Eles são baixinhos e querem alguém pra se identificar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzsn5e",
+    "split": "test",
+    "line_idx": 3063,
+    "original_text": "Truth is hate. Men are women.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A verdade é o ódio. Homens são mulheres.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eep0px2",
+    "split": "test",
+    "line_idx": 3064,
+    "original_text": "No, the full video shows that the kids surrounded and berated the native elder man ",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Não, o vídeo completo mostra que os moleques cercaram e xingaram o senhor indígena",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmst7r",
+    "split": "test",
+    "line_idx": 3065,
+    "original_text": "Finally Mesut!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Finalmente, Mesut!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetdz7h",
+    "split": "test",
+    "line_idx": 3066,
+    "original_text": "Don't endorse violence against people.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não incentive violência contra pessoas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3i9ol",
+    "split": "test",
+    "line_idx": 3067,
+    "original_text": "It's your boy [NAME]!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É o seu garoto [NAME]!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed7yil",
+    "split": "test",
+    "line_idx": 3068,
+    "original_text": "He was young and he thought he was doing the right thing. No need to be rude about it.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ele era jovem e achou que tava fazendo a coisa certa. Não precisa ser grosso por causa disso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efdyqen",
+    "split": "test",
+    "line_idx": 3069,
+    "original_text": "Exactly. It’s all about control",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Exatamente. É tudo uma questão de controle",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhxflk",
+    "split": "test",
+    "line_idx": 3070,
+    "original_text": "YAAAS! Even though you're a stranger on the internet, this has made my day.",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "SIMMMM! Mesmo você sendo um estranho na internet, isso ganhou o meu dia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edng1aq",
+    "split": "test",
+    "line_idx": 3071,
+    "original_text": "Today's Recaptchas were fun. I'm very good at identifying store fronts, apparently...",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Os Recaptchas de hoje foram divertidos. Pelo visto eu sou muito bom em identificar fachada de loja...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgk4l6",
+    "split": "test",
+    "line_idx": 3072,
+    "original_text": "Say you ate something or say things they cannot measure.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fala que você comeu algo ou fala coisas que eles não consigam medir.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezjnyo",
+    "split": "test",
+    "line_idx": 3073,
+    "original_text": "Ok! I like making friends",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Beleza! Eu gosto de fazer amigos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtka5o",
+    "split": "test",
+    "line_idx": 3074,
+    "original_text": "That is in no way sexual harrassment...",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso de forma alguma é assédio sexual...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef0pifu",
+    "split": "test",
+    "line_idx": 3075,
+    "original_text": "Right, but we want to shit talk them directly. Not agree with other people shit talking them.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Sim, mas a gente quer falar mal deles na cara. Não concordar com outras pessoas falando mal deles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbk1f2",
+    "split": "test",
+    "line_idx": 3076,
+    "original_text": "Look on the bright side. I dont know what your bright side is but just look at it.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Olhe pelo lado bom. Não sei qual é o seu lado bom, mas só olha pra ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetg179",
+    "split": "test",
+    "line_idx": 3077,
+    "original_text": "We mess up on a draft so we just nvr draft anymore?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente erra num draft e aí simplesmente nunca mais drafta ninguém?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfg6s2",
+    "split": "test",
+    "line_idx": 3078,
+    "original_text": "Yep just googled it and she’s freezing her eggs and telling EVERYONE how I missed this...who knows",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, acabei de dar um Google e ela tá congelando os óvulos e contando pra TODO MUNDO, como eu perdi essa... sei lá",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqai17",
+    "split": "test",
+    "line_idx": 3079,
+    "original_text": "Before.revolution can happen in the streets it first has to happen in their minds - Stuck Mojo",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Antes que a revolução possa acontecer nas ruas, ela primeiro tem que acontecer na mente das pessoas - Stuck Mojo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8k4d7",
+    "split": "test",
+    "line_idx": 3080,
+    "original_text": "Last game I think someone said it well, \"[NAME] like a toddler in an NBA Pro's body. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "No último jogo acho que alguém resumiu bem, \"[NAME] parece uma criança no corpo de um jogador profissional da NBA.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxfzjt",
+    "split": "test",
+    "line_idx": 3081,
+    "original_text": "Just in time to get excited for a mediocre Twins season!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Bem a tempo de se empolgar com uma temporada medíocre dos Twins!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehthf7",
+    "split": "test",
+    "line_idx": 3082,
+    "original_text": "I feel like I have to call bs on this one. I hope lol",
+    "emotion_ids": "1,20",
+    "emotions": [
+      "amusement",
+      "optimism"
+    ],
+    "translated_text": "Sinto que preciso duvidar disso aí. Tomara kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebxhxb",
+    "split": "test",
+    "line_idx": 3083,
+    "original_text": "I just physically *shuddered* at the idea of redoing middle school..",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu literalmente *estremeci* só de pensar em fazer o ensino fundamental de novo...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef6u2bq",
+    "split": "test",
+    "line_idx": 3084,
+    "original_text": "Probably [NAME] tbh. I feel like what [NAME] did in the long run was a bit scummier, not by much tho.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Provavelmente [NAME], pra ser sincero. Acho que o que o [NAME] fez a longo prazo foi um pouco mais escroto, mas não por muito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eez76p2",
+    "split": "test",
+    "line_idx": 3085,
+    "original_text": "Hi everyone!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Oi gente!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1gm6j",
+    "split": "test",
+    "line_idx": 3086,
+    "original_text": "Get a second opinion from a different doctor. Eczema can get exacerbated by home remedies sometimes, so be sure to check with another doc first. ",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Pega uma segunda opinião com outro médico. Às vezes remédio caseiro pode piorar o eczema, então não deixa de consultar outro médico antes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3t871",
+    "split": "test",
+    "line_idx": 3087,
+    "original_text": "Just saw your history. Makes complete sense now. Your a trumptroll. Bye.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Acabei de ver seu histórico. Agora faz todo sentido. Você é um trumptroll. Falou.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee21tnl",
+    "split": "test",
+    "line_idx": 3088,
+    "original_text": "Do you people just sit in meme economy and wait for something new to come up?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vocês ficam aí sentados no meme economy só esperando aparecer alguma coisa nova?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eec8s5u",
+    "split": "test",
+    "line_idx": 3089,
+    "original_text": "Cheers lad :)",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Valeu, mano :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrqnk4",
+    "split": "test",
+    "line_idx": 3090,
+    "original_text": "I’m ready to unsubscribe from this sub",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tô pronto pra sair desse sub",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef390w5",
+    "split": "test",
+    "line_idx": 3091,
+    "original_text": "If you bought it from Levi’s I think they do it for free at their flagship store",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se você comprou na Levi's, acho que eles fazem de graça na loja principal deles",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efg6nx3",
+    "split": "test",
+    "line_idx": 3092,
+    "original_text": "And how long ago was this?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E isso faz quanto tempo?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfoypd",
+    "split": "test",
+    "line_idx": 3093,
+    "original_text": "Makes sense. So I need 2 USB drives according the the TAILS website.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Faz sentido. Então eu preciso de 2 pendrives de acordo com o site do TAILS.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczvupb",
+    "split": "test",
+    "line_idx": 3094,
+    "original_text": "Thanks!!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0taaw",
+    "split": "test",
+    "line_idx": 3095,
+    "original_text": "Will try. Thank you",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Vou tentar. Obrigado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef783e8",
+    "split": "test",
+    "line_idx": 3096,
+    "original_text": "Alright imma set small goals for myself thanks for tip man!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Beleza, vou colocar metas pequenas pra mim mesmo, valeu pela dica, cara!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8un4o",
+    "split": "test",
+    "line_idx": 3097,
+    "original_text": "That's a little girl, not a sandwich.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Isso é uma menininha, não um sanduíche.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4fh9g",
+    "split": "test",
+    "line_idx": 3098,
+    "original_text": "Wiggins and towns pick and roll use it more",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pick and roll do Wiggins e Towns, usem mais isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefiteu",
+    "split": "test",
+    "line_idx": 3099,
+    "original_text": "If we're talking about the person in the middle, that's a man. [NAME]. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se a gente tá falando da pessoa do meio, é um homem. [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

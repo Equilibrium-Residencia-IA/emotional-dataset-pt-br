@@ -1,0 +1,613 @@
+[
+  {
+    "id": "edq029x",
+    "split": "test",
+    "line_idx": 3950,
+    "original_text": "I never understood the point of parole. Seems to me like an expensive way to increase recidivism.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Eu nunca entendi o propósito da liberdade condicional. Me parece um jeito caro de aumentar a reincidência.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedbjkn",
+    "split": "test",
+    "line_idx": 3951,
+    "original_text": "No way society should pay for your child when you are perfectly capable.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "De jeito nenhum a sociedade deveria pagar pelo seu filho quando você tem total condição de fazer isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efdbp5v",
+    "split": "test",
+    "line_idx": 3952,
+    "original_text": "Lol he was actually roasting OG fans that lick his arse, not [NAME] himself. Take the upvote.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Kkkk na real ele tava zoando os fãs das antigas que puxam o saco dele, e não o próprio [NAME]. Toma aqui meu upvote.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbm7xp",
+    "split": "test",
+    "line_idx": 3953,
+    "original_text": "AA is BS as a whole. Meritocracy or GTFO.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ações afirmativas são uma palhaçada como um todo. Meritocracia ou vaza.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew4nqv",
+    "split": "test",
+    "line_idx": 3954,
+    "original_text": "Thought this was r/monkeyspaw for a sec. Mind if I grant your wish anyway?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Achei que fosse o r/monkeyspaw por um segundo. Se importa se eu realizar o seu desejo mesmo assim?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenccvp",
+    "split": "test",
+    "line_idx": 3955,
+    "original_text": "Awesome, let's celebrate! Send the free pack over here ;)",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Show de bola, bora comemorar! Manda o pacote grátis pra cá ;)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgldzg",
+    "split": "test",
+    "line_idx": 3956,
+    "original_text": "This says more about what [NAME] thinks about facts than what's true about music.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso diz mais sobre o que o [NAME] pensa sobre fatos do que o que é verdade sobre música.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3wcxe",
+    "split": "test",
+    "line_idx": 3957,
+    "original_text": "And there you have it, the left who argue with personal attacks and cnn buzzwords.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "E tá aí, a esquerda que discute com ataques pessoais e chavões da CNN.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetaj5u",
+    "split": "test",
+    "line_idx": 3958,
+    "original_text": "His wounds weren’t that bad, but probably got infected. Antibiotics fixed him. Good as new. ",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Os ferimentos dele não eram tão graves, mas provavelmente infeccionaram. Os antibióticos resolveram. Novinho em folha.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtkqat",
+    "split": "test",
+    "line_idx": 3959,
+    "original_text": "Yes of mine worry, no one liked mine either. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Relaxa, ninguém gostou do meu também.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi0rnb",
+    "split": "test",
+    "line_idx": 3960,
+    "original_text": "This sub absolutely gets personal within seconds of anything he says being postes",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Esse sub apela pro lado pessoal em segundos depois de qualquer coisa que ele fale ser postada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9s8qe",
+    "split": "test",
+    "line_idx": 3961,
+    "original_text": "I’m going to die right now I’m so scared tears and snot everywhere",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Eu vou morrer agora de tanto medo lágrimas e catarro pra todo lado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeyqkna",
+    "split": "test",
+    "line_idx": 3962,
+    "original_text": "True. I don't know the survival rates of the women in ancient rome but I can't imagine it was fantastic.",
+    "emotion_ids": "6,10",
+    "emotions": [
+      "confusion",
+      "disapproval"
+    ],
+    "translated_text": "Verdade. Não sei a taxa de sobrevivência das mulheres na Roma antiga, mas não imagino que fosse grande coisa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfycfr",
+    "split": "test",
+    "line_idx": 3963,
+    "original_text": "It doesn't matter if they are crazy stacked. We definently shouldnt be last in the league.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não importa se o time deles tá absurdamente forte. A gente com certeza não deveria estar em último na liga.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4wo23",
+    "split": "test",
+    "line_idx": 3964,
+    "original_text": "BDS is a discriminatory bigoted hateful movement. It's not just \"Oh, I disagree with some things that Israel has done.\"",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O BDS é um movimento discriminatório, preconceituoso e cheio de ódio. Não é só um \"Ah, não concordo com algumas coisas que Israel fez\".",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eek92cf",
+    "split": "test",
+    "line_idx": 3965,
+    "original_text": "Cool. Good luck!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Massa. Boa sorte!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegou3r",
+    "split": "test",
+    "line_idx": 3966,
+    "original_text": "You can't rightfully earn a billion dollars. Your employees can, and fifty thousand people in sweatshops can, but a single person cant",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não consegue ganhar um bilhão de dólares de forma justa. Os seus funcionários conseguem, e cinquenta mil pessoas em condições análogas à escravidão conseguem, mas uma única pessoa não",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeg64qz",
+    "split": "test",
+    "line_idx": 3967,
+    "original_text": "Look... they are pretending it never happened. Lol.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Olha só... tão fingindo que nunca aconteceu. Kkkk.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexfjqb",
+    "split": "test",
+    "line_idx": 3968,
+    "original_text": "Lol. Thanks for the link.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Kkkk. Valeu pelo link.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8op9a",
+    "split": "test",
+    "line_idx": 3969,
+    "original_text": "Not as nice as [NAME].",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não tão legal quanto [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4emvp",
+    "split": "test",
+    "line_idx": 3970,
+    "original_text": "Love is war",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O amor é uma guerra",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efdxat6",
+    "split": "test",
+    "line_idx": 3971,
+    "original_text": "I met him! He graduated from my high school and came back when I was a freshman to talk to us in PE. Really nice guy.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu conheci ele! Ele se formou no meu ensino médio e voltou quando eu tava no primeiro ano pra conversar com a gente na aula de educação física. Cara muito gente boa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efcajd0",
+    "split": "test",
+    "line_idx": 3972,
+    "original_text": "It's actually illegal to do this. Only allowed if absolutely unavoidable.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Na verdade é ilegal fazer isso. Só é permitido se for absolutamente inevitável.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesmjoo",
+    "split": "test",
+    "line_idx": 3973,
+    "original_text": "Idk, r/Tinder has plenty of posts to do with awful men too lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Sei lá, o r/Tinder tá cheio de posts sobre homens horríveis também kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddabsv",
+    "split": "test",
+    "line_idx": 3974,
+    "original_text": "Wait one of the posters responding is using makeup from ten years ago.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Peraí, uma das pessoas que respondeu tá usando maquiagem de dez anos atrás.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3r8uo",
+    "split": "test",
+    "line_idx": 3975,
+    "original_text": "Because they enjoy their toxic umoderated cesspool, apparently. Either way i'm done trying to care.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Porque eles curtem o próprio esgoto tóxico e sem moderação, pelo visto. De qualquer forma, cansei de tentar me importar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edozls6",
+    "split": "test",
+    "line_idx": 3976,
+    "original_text": "Haha. Got ‘em. Also this just in: Los Angeles is expensive. In other news, unrest in the Middle East.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Haha. Pegou de jeito. E mais uma notícia bombástica: Los Angeles é cara. Em outras notícias, confusão no Oriente Médio.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef89i62",
+    "split": "test",
+    "line_idx": 3977,
+    "original_text": "You must be ecstatic, I'm really happy for you.",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Você deve estar radiante, fico muito feliz por você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1ii6s",
+    "split": "test",
+    "line_idx": 3978,
+    "original_text": "The irony of the photo is that 60% of university admissions are women",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A ironia da foto é que 60% dos ingressantes na faculdade são mulheres",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edn4c87",
+    "split": "test",
+    "line_idx": 3979,
+    "original_text": "Girl I went to school with was killed like this.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Uma garota que estudou comigo morreu desse jeito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4w39z",
+    "split": "test",
+    "line_idx": 3980,
+    "original_text": "Honestly, fuck [NAME] after the bounty gate shit",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Sinceramente, que se foda o [NAME] depois daquela palhaçada do bounty gate",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef40528",
+    "split": "test",
+    "line_idx": 3981,
+    "original_text": "Dont blame em. They should force change to get done what needs to be done",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não tiro a razão deles. Têm que forçar a mudança pra fazer o que precisa ser feito",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een00dl",
+    "split": "test",
+    "line_idx": 3982,
+    "original_text": "“I hold that the more helpless a creature, the more entitled it is to protection by man from the cruelty of man” -[NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "“Sustento que, quanto mais indefesa for uma criatura, mais ela tem direito à proteção do homem contra a crueldade do homem” -[NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9lje1",
+    "split": "test",
+    "line_idx": 3983,
+    "original_text": "You just watched a commercial that blatantly explains it to you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você acabou de assistir a um comercial que explica isso na sua cara dura.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edil7ur",
+    "split": "test",
+    "line_idx": 3984,
+    "original_text": "By law, China must accept the South China Sea ruling, period. Stop trying to help China weasel out of it. ",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "Por lei, a China tem que aceitar a decisão sobre o Mar do Sul da China, e ponto final. Parem de tentar ajudar a China a tirar o corpo fora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9xv2o",
+    "split": "test",
+    "line_idx": 3985,
+    "original_text": "This is something that has to be learned from experience. Don't be hard on yourself!",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Isso é algo que você tem que aprender com a experiência. Não se cobre tanto!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee97qyj",
+    "split": "test",
+    "line_idx": 3986,
+    "original_text": "i know the feeling dude",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "eu sei como é, mano",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeugkmd",
+    "split": "test",
+    "line_idx": 3987,
+    "original_text": "> His face, mate. He thought he was a goner. Properly lol'd at that and reading all [NAME]' bits in his accent",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "> A cara dele, mano. Ele achou que tava lascado. Ri demais disso e de ler todas as falas do [NAME] com o sotaque dele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eea997z",
+    "split": "test",
+    "line_idx": 3988,
+    "original_text": "No because to them this disabled boy is faceless. It’s easier to digest our hate and vitriol without thinking about it.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Não, porque pra eles esse garoto com deficiência não tem rosto. É mais fácil digerir nosso ódio e veneno sem pensar a respeito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efapq9d",
+    "split": "test",
+    "line_idx": 3989,
+    "original_text": "Fucking hell they're bringing on all the giants",
+    "emotion_ids": "2,11",
+    "emotions": [
+      "anger",
+      "disgust"
+    ],
+    "translated_text": "Puta que pariu, eles tão colocando todos os gigantes pra jogar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgnm4o",
+    "split": "test",
+    "line_idx": 3990,
+    "original_text": "Weird flex, but ok",
+    "emotion_ids": "4,11",
+    "emotions": [
+      "approval",
+      "disgust"
+    ],
+    "translated_text": "Ostentação estranha, mas beleza",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi7nx2",
+    "split": "test",
+    "line_idx": 3991,
+    "original_text": "Definitely fake. Looks like bad CGI in a movie.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Com certeza é falso. Parece CGI ruim de filme.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eea2gtj",
+    "split": "test",
+    "line_idx": 3992,
+    "original_text": "Or better yet, on the woman who will let ME play with them!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ou melhor ainda, com a mulher que vai me deixar brincar com eles!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eek32qy",
+    "split": "test",
+    "line_idx": 3993,
+    "original_text": "Yah that's what is stopping me. I would have to wire all throw my car or go into my cars electrical which doesn't seem worth it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pois é, é isso que tá me travando. Eu teria que passar fiação pelo carro todo ou mexer na parte elétrica dele, o que não parece valer a pena.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkfsm6",
+    "split": "test",
+    "line_idx": 3994,
+    "original_text": "Can we all pitch in and buy this place instead of the Baltimore House?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente não pode fazer uma vaquinha e comprar esse lugar em vez da Casa de Baltimore?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe40v1",
+    "split": "test",
+    "line_idx": 3995,
+    "original_text": "Dirt bar downtown is pretty sweet.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "O Dirt bar no centro é bem da hora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenqj7j",
+    "split": "test",
+    "line_idx": 3996,
+    "original_text": "Such season 1 vibes and I love it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Mó vibe de 1ª temporada, adorei.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1yg7f",
+    "split": "test",
+    "line_idx": 3997,
+    "original_text": "Lol, like I said, not everything is about you",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkk, como eu disse, nem tudo gira em torno de você",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerlvqo",
+    "split": "test",
+    "line_idx": 3998,
+    "original_text": "He looks like a model tbh. Very good looking man.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele parece um modelo, pra falar a verdade. Um homem muito bonito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwv5o1",
+    "split": "test",
+    "line_idx": 3999,
+    "original_text": "Me me big sad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Tô tristão demais.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

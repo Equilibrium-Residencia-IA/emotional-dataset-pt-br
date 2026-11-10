@@ -1,0 +1,560 @@
+[
+  {
+    "id": "eeawybz",
+    "split": "train",
+    "line_idx": 20350,
+    "original_text": "\"You're right. Things are boring. You should find someone who isn't boring. I will too.\"",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você tem razão. As coisas estão chatas. Você deveria achar alguém que não seja chato. Eu também vou."
+  },
+  {
+    "id": "ee88nfo",
+    "split": "train",
+    "line_idx": 20351,
+    "original_text": "Is that you [NAME]?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "É você, [NAME]?"
+  },
+  {
+    "id": "eeymfw1",
+    "split": "train",
+    "line_idx": 20352,
+    "original_text": "Do it. There's no better way to learn something than to ~~write a book~~ draw a comic about it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Faz isso. Não tem jeito melhor de aprender alguma coisa do que ~~escrever um livro~~ desenhar uma HQ sobre isso."
+  },
+  {
+    "id": "edko7xj",
+    "split": "train",
+    "line_idx": 20353,
+    "original_text": "[NAME] was!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] foi!"
+  },
+  {
+    "id": "edfween",
+    "split": "train",
+    "line_idx": 20354,
+    "original_text": "Policing is inherently coercive. Anyone who opposes coercive authority must by definition oppose policing.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O policiamento é inerentemente coercitivo. Qualquer um que se oponha à autoridade coercitiva deve, por definição, se opor ao policiamento."
+  },
+  {
+    "id": "efavbk8",
+    "split": "train",
+    "line_idx": 20355,
+    "original_text": "I'm glad you like doing - you can feel the darkness taking over haha. This honestly sounds like an animated short?",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "Fico feliz que você goste de fazer isso - dá pra sentir a escuridão tomando conta haha. Isso honestamente parece um curta de animação?"
+  },
+  {
+    "id": "ed1ti7f",
+    "split": "train",
+    "line_idx": 20356,
+    "original_text": "It’s okay my mother in law left her Prius running outside my house for overnight and most of the next day.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tudo bem, minha sogra deixou o Prius dela ligado do lado de fora da minha casa durante a noite toda e quase o dia seguinte inteiro."
+  },
+  {
+    "id": "edh4pwe",
+    "split": "train",
+    "line_idx": 20357,
+    "original_text": "I don’t see going to church in there",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não vi nada de ir à igreja aí"
+  },
+  {
+    "id": "efdyakc",
+    "split": "train",
+    "line_idx": 20358,
+    "original_text": "wow thanks for the explanation. it's been like 3 hours and still looks like this",
+    "emotion_ids": "15,22",
+    "emotions": [
+      "gratitude",
+      "realization"
+    ],
+    "translated_text": "nossa, valeu pela explicação. já faz umas 3 horas e ainda tá desse jeito"
+  },
+  {
+    "id": "eeybdzp",
+    "split": "train",
+    "line_idx": 20359,
+    "original_text": "it's kinda cute",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "é meio fofinho"
+  },
+  {
+    "id": "edvhlmc",
+    "split": "train",
+    "line_idx": 20360,
+    "original_text": "[NAME] and and [NAME] still look the same ahhh",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] e [NAME] continuam iguais ahhh"
+  },
+  {
+    "id": "ee0br2k",
+    "split": "train",
+    "line_idx": 20361,
+    "original_text": "Me and my brother were both born and raised in SC but both our parents are from MI. So we were raised fans from the beginning",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu e meu irmão nascemos e fomos criados na Carolina do Sul, mas nossos pais são de Michigan. Então a gente já nasceu torcedor."
+  },
+  {
+    "id": "eepz07m",
+    "split": "train",
+    "line_idx": 20362,
+    "original_text": "If your argument is that we shouldn't build bike lanes because of rare inclement weather like yesterday then you just made an argument against roads.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se o seu argumento é que não deveríamos construir ciclovias por causa de um mau tempo raro como o de ontem, então você acabou de criar um argumento contra as estradas."
+  },
+  {
+    "id": "eee872p",
+    "split": "train",
+    "line_idx": 20363,
+    "original_text": "I’d think it would be well seasoned. Others prefer adding black pepper too.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu acho que ficaria bem temperado. Outros preferem adicionar pimenta-do-reino também."
+  },
+  {
+    "id": "eese8iu",
+    "split": "train",
+    "line_idx": 20364,
+    "original_text": "I didn't know that they had that on there lol. Are those the kind of shows that you're into?",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu não sabia que eles tinham isso lá, lol. Esse é o tipo de programa que você curte?"
+  },
+  {
+    "id": "edwn4df",
+    "split": "train",
+    "line_idx": 20365,
+    "original_text": "When are you and dad going to pop out a few baby-mammas for us boys, huh? And that's the *less* disgusting alternative. Blech!",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Quando é que você e o papai vão arrumar uns netinhos pra gente, hein? E essa é a alternativa *menos* nojenta. Credo!"
+  },
+  {
+    "id": "edd9ksk",
+    "split": "train",
+    "line_idx": 20366,
+    "original_text": "I second this sentiment! This has bothered me since the beginning and I don’t know if she really grasps how incredibly offensive this is!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu apoio esse sentimento! Isso tem me incomodado desde o começo e eu não sei se ela realmente entende o quão incrivelmente ofensivo isso é!"
+  },
+  {
+    "id": "efb4f2n",
+    "split": "train",
+    "line_idx": 20367,
+    "original_text": "No they are not.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, eles não são."
+  },
+  {
+    "id": "ef40i9s",
+    "split": "train",
+    "line_idx": 20368,
+    "original_text": "That’s strange logic that it triggered you.. they will use any retarded attempt to hoover you he probably hoped you would notice and get triggered by it.",
+    "emotion_ids": "20,27",
+    "emotions": [
+      "optimism",
+      "neutral"
+    ],
+    "translated_text": "É uma lógica estranha essa de que isso te gatilhou.. eles vão usar qualquer tentativa retardada pra te sugar de volta, ele provavelmente esperava que você notasse e ficasse gatilhado com isso."
+  },
+  {
+    "id": "edyo1un",
+    "split": "train",
+    "line_idx": 20369,
+    "original_text": "FBI! OPEN THE DOOR!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "FBI! ABRE A PORTA!"
+  },
+  {
+    "id": "edg71be",
+    "split": "train",
+    "line_idx": 20370,
+    "original_text": "I was wondering the same thing",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Eu estava me perguntando a mesma coisa"
+  },
+  {
+    "id": "een6gcu",
+    "split": "train",
+    "line_idx": 20371,
+    "original_text": "Very suspicious...",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Muito suspeito..."
+  },
+  {
+    "id": "ed5mljo",
+    "split": "train",
+    "line_idx": 20372,
+    "original_text": "If my dog were as ugly as you, id shave its butt, and tell it to walk backwards",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Se meu cachorro fosse tão feio quanto você, eu raspava a bunda dele e mandava ele andar de costas"
+  },
+  {
+    "id": "ecze76e",
+    "split": "train",
+    "line_idx": 20373,
+    "original_text": "Nice try GRU.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Boa tentativa, GRU."
+  },
+  {
+    "id": "ef6vric",
+    "split": "train",
+    "line_idx": 20374,
+    "original_text": "That’s what the pelicans would ask for. If you were in their shoes, what would u ask for?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É isso que os pelicanos pediriam. Se você estivesse no lugar deles, o que você pediria?"
+  },
+  {
+    "id": "eecqb0q",
+    "split": "train",
+    "line_idx": 20375,
+    "original_text": "Should be nice to we can see full video clip how we died....",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Seria legal se a gente pudesse ver o vídeo completo de como a gente morreu...."
+  },
+  {
+    "id": "ed3n3r1",
+    "split": "train",
+    "line_idx": 20376,
+    "original_text": "I feel like there's some shenanigans in place here.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sinto que tem alguma maracutaia rolando aqui."
+  },
+  {
+    "id": "eduwgti",
+    "split": "train",
+    "line_idx": 20377,
+    "original_text": "Let's wrap him in bubble wrap to be safe",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vamos embrulhar ele em plástico bolha pra garantir"
+  },
+  {
+    "id": "eedtxwy",
+    "split": "train",
+    "line_idx": 20378,
+    "original_text": "Saw a video on Instagram from my friend that lives in Longmont. The snow looks so pretty. Do want.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Vi um vídeo no Instagram de um amigo meu que mora em Longmont. A neve parece tão linda. Quero."
+  },
+  {
+    "id": "edn7dtv",
+    "split": "train",
+    "line_idx": 20379,
+    "original_text": "I'm not fantasising, I'm watching it happen. Just like I watched [NAME] smooth, supple back.",
+    "emotion_ids": "20,27",
+    "emotions": [
+      "optimism",
+      "neutral"
+    ],
+    "translated_text": "Não estou fantasiando, estou vendo acontecer. Assim como vi as costas lisas e macias do [NAME]."
+  },
+  {
+    "id": "ef0b4rm",
+    "split": "train",
+    "line_idx": 20380,
+    "original_text": "On my phone I can delete a conversation and when someone will send a message it will look like the first message ever",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "No meu celular eu posso apagar uma conversa e, quando alguém mandar uma mensagem, vai parecer a primeira mensagem de todas"
+  },
+  {
+    "id": "ed7q8la",
+    "split": "train",
+    "line_idx": 20381,
+    "original_text": "Unfortunately there are also far less/weaker unions now too",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Infelizmente, agora também existem muito menos sindicatos e eles estão mais fracos"
+  },
+  {
+    "id": "edg09jn",
+    "split": "train",
+    "line_idx": 20382,
+    "original_text": "Lol let me do you one better, what FPS games have EVER had built in aim assist with controller on pc?",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lol, deixa eu te perguntar uma melhor: quais jogos de FPS JÁ tiveram mira assistida nativa com controle no PC?"
+  },
+  {
+    "id": "ed8cext",
+    "split": "train",
+    "line_idx": 20383,
+    "original_text": "I instinctively thought that meant \"That's gotta hurt\"",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu instintivamente pensei que isso significava \"Isso deve doer\""
+  },
+  {
+    "id": "ee63vxk",
+    "split": "train",
+    "line_idx": 20384,
+    "original_text": "Every YouTube comment: [NAME] is beautiful and perfect how dare [NAME] and [NAME] breath near her, the production are forcing them on us.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Todo comentário no YouTube: [NAME] é linda e perfeita, como o [NAME] e a [NAME] ousam respirar perto dela, a produção está forçando eles na gente."
+  },
+  {
+    "id": "edvacxd",
+    "split": "train",
+    "line_idx": 20385,
+    "original_text": ">”The Palestinian [NAME] population is rotten to the core.” Source",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">\"A população palestina [NAME] está podre até a medula.\" Fonte"
+  },
+  {
+    "id": "eeoofew",
+    "split": "train",
+    "line_idx": 20386,
+    "original_text": "Can you link in the full posted videos where they yelled about the wall ? Thanks.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Pode mandar o link dos vídeos completos onde eles gritaram sobre o muro? Valeu."
+  },
+  {
+    "id": "edkfl23",
+    "split": "train",
+    "line_idx": 20387,
+    "original_text": "If you use one of those two I automatically hate you",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Se você usa um desses dois, eu automaticamente te odeio"
+  },
+  {
+    "id": "efgvjv6",
+    "split": "train",
+    "line_idx": 20388,
+    "original_text": "Some girls will like you, some girls won't. The end.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Algumas garotas vão gostar de você, outras não. Fim."
+  },
+  {
+    "id": "ee90tt5",
+    "split": "train",
+    "line_idx": 20389,
+    "original_text": "May you find and skin the perpetrator. My apologies to your family. ❤",
+    "emotion_ids": "16",
+    "emotions": [
+      "grief"
+    ],
+    "translated_text": "Que você encontre e esfolie o culpado. Minhas condolências à sua família. ❤"
+  },
+  {
+    "id": "eep5hp7",
+    "split": "train",
+    "line_idx": 20390,
+    "original_text": "She isn't disrespectful like [NAME] but she's also a cheater and she's making ridiculous excuses for her cheating",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Ela não é desrespeitosa como o [NAME], mas ela também é uma traidora e está dando desculpas ridículas pela traição dela"
+  },
+  {
+    "id": "efh0qzg",
+    "split": "train",
+    "line_idx": 20391,
+    "original_text": "No, everyone should should stop talking about the rights of groups of people, and start talking about *human* rights.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, todo mundo deveria parar de falar sobre os direitos de grupos de pessoas e começar a falar sobre direitos *humanos*."
+  },
+  {
+    "id": "ee2pfw9",
+    "split": "train",
+    "line_idx": 20392,
+    "original_text": "Is this from the new Ok Go video?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Isso é do novo vídeo do Ok Go?"
+  },
+  {
+    "id": "ed5hlxg",
+    "split": "train",
+    "line_idx": 20393,
+    "original_text": "I thought it only cost £250m in 2006?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu achei que só custava 250 milhões de libras em 2006?"
+  },
+  {
+    "id": "eev1ygb",
+    "split": "train",
+    "line_idx": 20394,
+    "original_text": "Each Dark Souls game has been voted \"Most Likely to Result in Controller Damage\".",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Cada jogo de Dark Souls foi eleito como \"O mais provável de resultar em danos ao controle\"."
+  },
+  {
+    "id": "ef77mf6",
+    "split": "train",
+    "line_idx": 20395,
+    "original_text": "Because he/she is prejudiced.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque ele/ela é preconceituoso(a)."
+  },
+  {
+    "id": "ef9kvhp",
+    "split": "train",
+    "line_idx": 20396,
+    "original_text": "She had her chance. 🤷",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela teve a chance dela. 🤷"
+  },
+  {
+    "id": "eer38ic",
+    "split": "train",
+    "line_idx": 20397,
+    "original_text": "Wish this applied to TPS's",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Queria que isso valesse para jogos de tiro em terceira pessoa"
+  },
+  {
+    "id": "edd01hp",
+    "split": "train",
+    "line_idx": 20398,
+    "original_text": "This was beautiful!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso foi lindo!"
+  },
+  {
+    "id": "ee8vzi8",
+    "split": "train",
+    "line_idx": 20399,
+    "original_text": "I wish I could get a lazy Malinois. I love their look and Mal puppies are so cute! But I’m not a run-everyday dog owner.",
+    "emotion_ids": "8,18",
+    "emotions": [
+      "desire",
+      "love"
+    ],
+    "translated_text": "Queria poder ter um Pastor Belga Malinois preguiçoso. Eu amo o visual deles e os filhotes são tão fofos! Mas eu não sou um dono de cachorro que corre todo dia."
+  }
+]

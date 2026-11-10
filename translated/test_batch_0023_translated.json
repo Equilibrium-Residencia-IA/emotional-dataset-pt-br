@@ -1,0 +1,611 @@
+[
+  {
+    "id": "efgqmll",
+    "split": "test",
+    "line_idx": 1150,
+    "original_text": "-9 and I’m out shopping. Sun is out feels great.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "-9 e eu aqui batendo perna. O sol saiu, bom demais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef81mtz",
+    "split": "test",
+    "line_idx": 1151,
+    "original_text": "Having good people around you is the most important part i am glad you found some good friends:)",
+    "emotion_ids": "0,5",
+    "emotions": [
+      "admiration",
+      "caring"
+    ],
+    "translated_text": "Ter gente boa por perto é a parte mais importante fico feliz que você encontrou bons amigos:)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtikix",
+    "split": "test",
+    "line_idx": 1152,
+    "original_text": "I heard the ostrich was sick.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Ouvi dizer que o avestruz estava doente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edw6wjq",
+    "split": "test",
+    "line_idx": 1153,
+    "original_text": "ah, it does me heart good to see NIMBYs in the wild",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "ah, aquece o coração ver gente contra obras na vizinhança solta por aí",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effqek4",
+    "split": "test",
+    "line_idx": 1154,
+    "original_text": "Tf is a smartpass+?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Que porra é um smartpass+?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbqwh3",
+    "split": "test",
+    "line_idx": 1155,
+    "original_text": "Mongoose actually mate for life, and he can't leave his girl behind!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mangustos na verdade têm parceiro pra vida toda, e ele não pode deixar a gatinha dele pra trás!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8k1r5",
+    "split": "test",
+    "line_idx": 1156,
+    "original_text": "I'M HERE",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "TÔ AQUI",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edt6gpu",
+    "split": "test",
+    "line_idx": 1157,
+    "original_text": "I listened to this song the other day for the first time and... oh boy yeah",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ouvi essa música outro dia pela primeira vez e... caraca, mano, sim",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbtrnn",
+    "split": "test",
+    "line_idx": 1158,
+    "original_text": "that's awesome-sometimes getting in the shower seems like an impossible undertaking but you did it",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "isso é incrível — às vezes entrar no chuveiro parece uma missão impossível, mas você conseguiu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eecry2n",
+    "split": "test",
+    "line_idx": 1159,
+    "original_text": ">!Did the name of the trophy gave away the twist to you?!<",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">!O nome do troféu entregou o plot twist pra você?!<",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5j9wk",
+    "split": "test",
+    "line_idx": 1160,
+    "original_text": "I will, Thank you!!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Pode deixar, muito obrigado!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ediwfql",
+    "split": "test",
+    "line_idx": 1161,
+    "original_text": "WHAT!?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O QUÊ!?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee579yx",
+    "split": "test",
+    "line_idx": 1162,
+    "original_text": "Nice, I saw them during the Demo and was pretty impressed ",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Maneiro, vi eles durante a Demo e fiquei bem impressionado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlqbl6",
+    "split": "test",
+    "line_idx": 1163,
+    "original_text": "Thank you! Very cool!! 😎",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu! Muito foda!! 😎",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efewql8",
+    "split": "test",
+    "line_idx": 1164,
+    "original_text": "When [NAME] dated the nurse just for drama with the STI....",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando o [NAME] namorou a enfermeira só pelo drama com a IST....",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edie08i",
+    "split": "test",
+    "line_idx": 1165,
+    "original_text": "For my next magic trick; watch me turn this bottle of fireball into domestic abuse",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pro meu próximo truque de mágica: vejam eu transformar essa garrafa de fireball em violência doméstica",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edf07n2",
+    "split": "test",
+    "line_idx": 1166,
+    "original_text": ">slaps windshield This bad boy can fit so many Leds on it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">dá uma palmada no para-brisa Cabe tanto Led nessa belezinha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0wlth",
+    "split": "test",
+    "line_idx": 1167,
+    "original_text": "Surprised he's in. Imagined he was concussed. He was on another planet for a bit.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Surpreso que ele tá jogando. Achei que tinha tido uma concussão. Ficou em outro planeta por um tempo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq6y1y",
+    "split": "test",
+    "line_idx": 1168,
+    "original_text": "Hunting would at least be more rewarding and fun. Every time I wanna meal prep in RDO I just horseback ride and lock-on to deer.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Caçar pelo menos seria mais recompensador e divertido. Toda vez que quero preparar comida no RDO eu só ando a cavalo e uso mira automática nos cervos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9ybl8",
+    "split": "test",
+    "line_idx": 1169,
+    "original_text": "At some point, we all hate it. Hey it feels good to be real sometimes. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Em algum momento, todo mundo odeia isso. Ei, é bom ser sincero às vezes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm7efb",
+    "split": "test",
+    "line_idx": 1170,
+    "original_text": "Can we forget that this moment happened",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Será que a gente pode fingir que esse momento nunca aconteceu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef6wfio",
+    "split": "test",
+    "line_idx": 1171,
+    "original_text": "It smelled even worse than it sounds. You learn just how quickly someone's feet can rot and really stink up an entire bay.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "O cheiro era ainda pior do que parece. Você descobre o quão rápido o pé de alguém pode apodrecer e empestar uma enfermaria inteira.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevqty9",
+    "split": "test",
+    "line_idx": 1172,
+    "original_text": "Who said that",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem disse isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekggka",
+    "split": "test",
+    "line_idx": 1173,
+    "original_text": "He looks like [NAME] in Jackass 2 when they glued pubes to his face.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele parece o [NAME] no Jackass 2 quando colaram pentelhos na cara dele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgk4br",
+    "split": "test",
+    "line_idx": 1174,
+    "original_text": "Awe that one was just for me but I really like the post",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Awn, esse foi feito sob medida pra mim, mas gostei muito do post",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edz7nsf",
+    "split": "test",
+    "line_idx": 1175,
+    "original_text": "So they are up thanks",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Então tão no ar valeu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezzv3d",
+    "split": "test",
+    "line_idx": 1176,
+    "original_text": "Lmao. I still sing fun with the funk sometimes.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkkkk. Eu ainda canto fun with the funk às vezes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edo6i6c",
+    "split": "test",
+    "line_idx": 1177,
+    "original_text": "You probably just have a fashion preference, if you arn't dysphoric about it then you don't have another gender really. ",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Você provavelmente só tem uma preferência de estilo, se não sente disforia com isso então não tem outro gênero na real.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0o4jo",
+    "split": "test",
+    "line_idx": 1178,
+    "original_text": "Oh sorry my bad, didmt know",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ah desculpa foi mal, n sabia",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eei5bwu",
+    "split": "test",
+    "line_idx": 1179,
+    "original_text": "[NAME] career ended after he broke his foot when he kicked a seat while blacked out on a party after a Vikings game.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A carreira do [NAME] acabou depois que ele quebrou o pé chutando um banco durante um apagão de bêbado numa festa depois de um jogo dos Vikings.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfz71x",
+    "split": "test",
+    "line_idx": 1180,
+    "original_text": "I would hope that Cartoon Network would have nothing to do with it. Would hate to see them \"Teen Titan\" ASOIAF. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Espero muito que o Cartoon Network não tenha nada a ver com isso. Ia odiar ver eles infantilizando ASOIAF feito Jovens Titãs.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2t4ek",
+    "split": "test",
+    "line_idx": 1181,
+    "original_text": "That’s exactly how mine is ! Wow that’s sort of funny there is an actual name For it 😳😔",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É exatamente assim com o meu ! Caraca, é meio engraçado que tem um nome de verdade Pra isso 😳😔",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer1jkc",
+    "split": "test",
+    "line_idx": 1182,
+    "original_text": "It’s showing up on mobile aswell, the double slash is weird for me though, probably on his end",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Tá aparecendo no celular também, mas a barra dupla tá estranha pra mim, deve ser do lado dele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee400k7",
+    "split": "test",
+    "line_idx": 1183,
+    "original_text": "And no fall damage",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E sem dano de queda",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemn50s",
+    "split": "test",
+    "line_idx": 1184,
+    "original_text": "Same here. There's so much good to discover in any decade really.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Comigo também. Tem tanta coisa boa pra descobrir em qualquer década, na real.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edod3qy",
+    "split": "test",
+    "line_idx": 1185,
+    "original_text": "I LOVED having him; every time [NAME] takes that 18 footer I expect to be automatic only to be very disappointed.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu AMAVA ter ele no time; toda vez que o [NAME] arremessa daquela meia distância eu espero que caia certinho, só pra me decepcionar legal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelyoln",
+    "split": "test",
+    "line_idx": 1186,
+    "original_text": "is your dad very wealthy by any chance [NAME]",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "seu pai é muito rico por acaso [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef198w6",
+    "split": "test",
+    "line_idx": 1187,
+    "original_text": "Why is this still not banned",
+    "emotion_ids": "2,3,9",
+    "emotions": [
+      "anger",
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Por que isso ainda não foi banido",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9h1fn",
+    "split": "test",
+    "line_idx": 1188,
+    "original_text": "Our soil needs the help! That would be a really unpleasant job.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "O nosso solo precisa dessa ajuda! Mas isso seria um trampo muito desagradável.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednvydz",
+    "split": "test",
+    "line_idx": 1189,
+    "original_text": "Yep i always say this. Absolutely best case scenario is a foul ball. If he puts it in play it's probably a dribbler.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Simm, eu sempre digo isso. O melhor cenário absoluto é uma bola em falta. Se ele botar a bola em jogo, provavelmente vai ser uma rebatida rasteira fraca.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6f0es",
+    "split": "test",
+    "line_idx": 1190,
+    "original_text": "Haha I was thinking Utah but... Florida makes sense too. There’s a few crazy states 🤷🏼‍♀️",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkk eu tava pensando em Utah, mas... Flórida faz sentido também. Tem uns estados malucos 🤷🏼‍♀️",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3ngxf",
+    "split": "test",
+    "line_idx": 1191,
+    "original_text": "Can’t believe a club paid $550k for Sandow that’s absurd.",
+    "emotion_ids": "26,27",
+    "emotions": [
+      "surprise",
+      "neutral"
+    ],
+    "translated_text": "Não acredito que um clube pagou 550 mil pelo Sandow, que absurdo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effv230",
+    "split": "test",
+    "line_idx": 1192,
+    "original_text": "By not using Facebook as a barometer of success. Look at Facebook as a highlight reel and not what people are actually living,",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não usando o Facebook como termômetro de sucesso. Olhe pro Facebook como uma vitrine dos melhores momentos e não o que as pessoas estão vivendo de verdade,",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef52l3i",
+    "split": "test",
+    "line_idx": 1193,
+    "original_text": "Wiggins midrange magic!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A mágica da meia distância do Wiggins!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edatfgp",
+    "split": "test",
+    "line_idx": 1194,
+    "original_text": "Not from but I lived there for 12 years until very recently",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Não sou de lá, mas morei lá por 12 anos até bem pouco tempo atrás",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edw2nto",
+    "split": "test",
+    "line_idx": 1195,
+    "original_text": "I do remember this and wanted nothing more than to kill that guy",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu lembro disso sim e a única coisa que eu queria era matar aquele cara",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevsblv",
+    "split": "test",
+    "line_idx": 1196,
+    "original_text": "For drunks is a paradise!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra bêbado é um paraíso!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6tecx",
+    "split": "test",
+    "line_idx": 1197,
+    "original_text": "Ignorance is unfortunately a part of mankind. We are still so Un-evolved",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "A ignorância infelizmente faz parte da humanidade. A gente ainda é tão pouco evoluído",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een6j5t",
+    "split": "test",
+    "line_idx": 1198,
+    "original_text": "I am really sorry for you, but oh my [NAME] this made me cry laughing. I hope the cat learns to like you eventually",
+    "emotion_ids": "1,24",
+    "emotions": [
+      "amusement",
+      "remorse"
+    ],
+    "translated_text": "Eu sinto muito por você, mas ai meu [NAME] eu chorei de rir com isso. Espero que o gato aprenda a gostar de você com o tempo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edk0nru",
+    "split": "test",
+    "line_idx": 1199,
+    "original_text": "nice!! I'll try this one",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "boa!! Vou tentar essa",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

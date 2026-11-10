@@ -1,0 +1,608 @@
+[
+  {
+    "id": "edv46n8",
+    "split": "dev",
+    "line_idx": 4850,
+    "original_text": "#NO! #GO CARDINALS!!!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "#NÃO! #VAI CARDINALS!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4il7w",
+    "split": "dev",
+    "line_idx": 4851,
+    "original_text": "[NAME] wanted to pull an [NAME] there! Good flashbacks!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "[NAME] quis dar uma de [NAME] ali! Boas lembranças!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejirmz",
+    "split": "dev",
+    "line_idx": 4852,
+    "original_text": "He reminds me of [NAME]. Gonna have to put on some muscle tho.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ele me lembra o [NAME]. Mas vai ter que ganhar uma massa muscular.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed697bw",
+    "split": "dev",
+    "line_idx": 4853,
+    "original_text": "It's in my garage. Couldn't be any easier to access it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fica na minha garagem. Não tinha como ser mais fácil de acessar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2h261",
+    "split": "dev",
+    "line_idx": 4854,
+    "original_text": "Gotta love that good old libertarian to fascist pipeline.",
+    "emotion_ids": "18,27",
+    "emotions": [
+      "love",
+      "neutral"
+    ],
+    "translated_text": "Como não amar esse bom e velho caminho de libertário a fascista.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekirqe",
+    "split": "dev",
+    "line_idx": 4855,
+    "original_text": "[NAME] was piss poor today",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] foi uma bosta hoje",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmtp8e",
+    "split": "dev",
+    "line_idx": 4856,
+    "original_text": "I love this show but I feel personally attacked when they say you can't live with 6 cups of tea a day and no food 😢",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo esse programa, mas me sinto pessoalmente atacado quando dizem que não dá pra viver com 6 xícaras de chá por dia e sem comida 😢",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8nrpl",
+    "split": "dev",
+    "line_idx": 4857,
+    "original_text": "What? No way, I thought ragnarok mobile was a pretty small game holy shit",
+    "emotion_ids": "6,22",
+    "emotions": [
+      "confusion",
+      "realization"
+    ],
+    "translated_text": "O quê? Sem chance, eu achava que ragnarok mobile era um joguinho pequeno, caralho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1rp4q",
+    "split": "dev",
+    "line_idx": 4858,
+    "original_text": "The same is true for Oblivion and Morrowind. They still bring us joy, thanks to lots of awesome mods.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "O mesmo vale pra Oblivion e Morrowind. Eles ainda nos trazem alegria, graças a um monte de mods incríveis.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeslhys",
+    "split": "dev",
+    "line_idx": 4859,
+    "original_text": "Walmart is also a good place to look at the local fauna.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O Walmart também é um bom lugar pra observar a fauna local.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7gkwc",
+    "split": "dev",
+    "line_idx": 4860,
+    "original_text": "That's actually legitimately hilarious. I'm going to have to start following this [NAME] fella",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Isso é legitimamente hilário. Vou ter que começar a seguir esse tal de [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2a560",
+    "split": "dev",
+    "line_idx": 4861,
+    "original_text": "Which one had to shower outside with the hose... [NAME]? That one was so sad to me",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Qual deles teve que tomar banho do lado de fora com a mangueira... [NAME]? Aquele lá me deu uma dó",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefiew6",
+    "split": "dev",
+    "line_idx": 4862,
+    "original_text": "Fidget spinners are cool again",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Fidget spinners são legais de novo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepfkmr",
+    "split": "dev",
+    "line_idx": 4863,
+    "original_text": "Ah, didn't read the comment that way, my bad",
+    "emotion_ids": "9,22",
+    "emotions": [
+      "disappointment",
+      "realization"
+    ],
+    "translated_text": "Ah, não interpretei o comentário desse jeito, vacilo meu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6dooc",
+    "split": "dev",
+    "line_idx": 4864,
+    "original_text": "that’s a brilliant photo, your torny looks younger than my one! so cute",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "essa foto tá incrível, seu torny parece mais novo que o meu! que fofura",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejnctr",
+    "split": "dev",
+    "line_idx": 4865,
+    "original_text": "Lol, this one’s great too!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkkk, esse aqui também é ótimo!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edu81f4",
+    "split": "dev",
+    "line_idx": 4866,
+    "original_text": "[NAME] is scary",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "[NAME] é assustador",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5fs8h",
+    "split": "dev",
+    "line_idx": 4867,
+    "original_text": "The worst case of cultural appropriation is him mimicking human language and thoughts when he is clearly some kind of barely sentient pond scum.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "O pior caso de apropriação cultural é ele imitando a linguagem e os pensamentos humanos quando claramente é algum tipo de escória de charco mal consciente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer2upi",
+    "split": "dev",
+    "line_idx": 4868,
+    "original_text": "What? Trolls? Actually, yeah, probably. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "O quê? Trolls? Na real, sim, provavelmente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesd3b4",
+    "split": "dev",
+    "line_idx": 4869,
+    "original_text": "The aints can lick my bum hole.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Os aints podem lamber o meu cuzinho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edl9lui",
+    "split": "dev",
+    "line_idx": 4870,
+    "original_text": "How do you walk about eating pasta?!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Como assim você anda por aí comendo macarrão?!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexycgr",
+    "split": "dev",
+    "line_idx": 4871,
+    "original_text": "Probably. I am surprised Reddit doesn't just purge all right leaning subs.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Provavelmente. Fico surpreso que o Reddit não expurgue de vez todos os subs de direita.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzrhgr",
+    "split": "dev",
+    "line_idx": 4872,
+    "original_text": "I dont think prostitutes are going to teach you how to have good sex 🤔",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não acho que garotas de programa vão te ensinar como transar bem 🤔",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef31ieu",
+    "split": "dev",
+    "line_idx": 4873,
+    "original_text": "Neat idea, but it looks terrible as a tool. It's faster to just separate with your hands. ",
+    "emotion_ids": "0,14",
+    "emotions": [
+      "admiration",
+      "fear"
+    ],
+    "translated_text": "Ideia bacana, mas como ferramenta parece péssimo. É mais rápido só separar com as mãos mesmo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7z9im",
+    "split": "dev",
+    "line_idx": 4874,
+    "original_text": "And bigger than that. Her house, her rules.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E mais que isso. A casa é dela, as regras são dela.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9ovup",
+    "split": "dev",
+    "line_idx": 4875,
+    "original_text": "It regenerates hate. It's hate motivational.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Isso regenera o ódio. É ódio motivacional.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcmflc",
+    "split": "dev",
+    "line_idx": 4876,
+    "original_text": "This is uncomfortably lame",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Isso é tão tosco que dá vergonha alheia",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5i7ps",
+    "split": "dev",
+    "line_idx": 4877,
+    "original_text": "Bro we were all aasim at that moment",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Irmão, todos nós éramos aasim naquele momento",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebsjw1",
+    "split": "dev",
+    "line_idx": 4878,
+    "original_text": "Cat noise was added in apparently. Still great video.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O miado de gato colocaram por cima, pelo visto. Mas o vídeo continua foda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2okxk",
+    "split": "dev",
+    "line_idx": 4879,
+    "original_text": "It seems some people on here don't like us disrupting their echo chamber.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo jeito tem gente aqui que não gosta quando a gente fura a bolha deles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq558l",
+    "split": "dev",
+    "line_idx": 4880,
+    "original_text": "Fish are friends, not food!",
+    "emotion_ids": "5,18",
+    "emotions": [
+      "caring",
+      "love"
+    ],
+    "translated_text": "Peixes são amigos, não comida!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeekbwa",
+    "split": "dev",
+    "line_idx": 4881,
+    "original_text": "Then why are you commenting on a thread about that article?",
+    "emotion_ids": "2,7",
+    "emotions": [
+      "anger",
+      "curiosity"
+    ],
+    "translated_text": "Então por que você tá comentando num post sobre essa matéria?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrt6l3",
+    "split": "dev",
+    "line_idx": 4882,
+    "original_text": "I'm old enough to remember the last time the Pistons got a stop on defense",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sou velho o suficiente pra lembrar da última vez que os Pistons conseguiram parar uma jogada na defesa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef747yw",
+    "split": "dev",
+    "line_idx": 4883,
+    "original_text": "37 here, happily single. And the majority of my friends who got married at 23/24 are getting divorced now. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "37 aqui, felizmente solteiro. E a maioria dos meus amigos que casaram aos 23/24 tão se divorciando agora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edra8rh",
+    "split": "dev",
+    "line_idx": 4884,
+    "original_text": "How long were you broken up and how long together?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quanto tempo vocês ficaram separados e quanto tempo juntos?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy3tkp",
+    "split": "dev",
+    "line_idx": 4885,
+    "original_text": "Love Myself by [NAME]. It’s a song about touching yourself. Kids were singing it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Love Myself da [NAME]. É uma música sobre se masturbar. As crianças ficavam cantando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7ki4a",
+    "split": "dev",
+    "line_idx": 4886,
+    "original_text": "Applied Math lol.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Matemática Aplicada kkkk.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8754u",
+    "split": "dev",
+    "line_idx": 4887,
+    "original_text": "They have great chemistry and it’s a cool dynamic but it can’t take over the entire show",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eles têm uma química incrível e uma dinâmica bem maneira, mas isso não pode tomar conta do programa inteiro",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edo596m",
+    "split": "dev",
+    "line_idx": 4888,
+    "original_text": "not true! Acute acopia needs a brief social admission, social work, and tincture of time Chronic acopia needs placement",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "não é verdade! Acopia aguda precisa de uma breve internação social, assistência social e deixar o tempo agir. Acopia crônica precisa de acolhimento institucional",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednndd9",
+    "split": "dev",
+    "line_idx": 4889,
+    "original_text": "Just having a discussion and giving my opinion, don’t understand why you’re getting so mad lol ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Só tô conversando e dando minha opinião, não entendo por que você tá tão estressado kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenix7i",
+    "split": "dev",
+    "line_idx": 4890,
+    "original_text": "Ahaha it's his mother's fault!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkkk a culpa é da mãe dele!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemsfhr",
+    "split": "dev",
+    "line_idx": 4891,
+    "original_text": "Even if he plays bottom pairing, his hockey IQ should help the team. At least, that's my hope!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Mesmo se ele jogar na linha de baixo, a inteligência de jogo dele no hóquei deve ajudar o time. Pelo menos, é o que eu espero!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eep3l5x",
+    "split": "dev",
+    "line_idx": 4892,
+    "original_text": "Emergency vehicle, lights on, no siren?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Veículo de emergência, com giroflex ligado e sem sirene?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0ts9b",
+    "split": "dev",
+    "line_idx": 4893,
+    "original_text": "your aiming muscles are just weak, they'll get stronger with time",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "seus músculos de mira só tão fracos, eles ficam mais fortes com o tempo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9njg8",
+    "split": "dev",
+    "line_idx": 4894,
+    "original_text": "CAN'T UPVOTE THIS MORE THAN ONCE, REDDIT PLZ FIX",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "NÃO DÁ PRA DAR UPVOTE MAIS DE UMA VEZ NISSO AQUI, CONSERTA AÍ REDDIT",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efaoyq3",
+    "split": "dev",
+    "line_idx": 4895,
+    "original_text": "I wouldn't be surprised if they were. Hopefully it stays with the amount of drama they have and don't go in the direction of 90DF.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não ficaria surpreso se fossem. Tomara que continue com essa mesma quantidade de drama e não vá no rumo de 90 Dias pra Casar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpnax7",
+    "split": "dev",
+    "line_idx": 4896,
+    "original_text": "Never more have I felt like I come from a British colony.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nunca me senti tanto como alguém de uma colônia britânica.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrkw0s",
+    "split": "dev",
+    "line_idx": 4897,
+    "original_text": "I know the feeling",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sei como é",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5kokt",
+    "split": "dev",
+    "line_idx": 4898,
+    "original_text": "Ok yea running toward him makes it easier good idea",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Beleza sim correr na direção dele facilita boa ideia",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0ik5w",
+    "split": "dev",
+    "line_idx": 4899,
+    "original_text": "Really should be twenty three year olds.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Deveriam mesmo ser jovens de vinte e três anos.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]
