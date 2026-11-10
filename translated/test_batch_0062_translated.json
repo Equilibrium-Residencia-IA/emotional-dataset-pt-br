@@ -1,0 +1,612 @@
+[
+  {
+    "id": "eepl0w8",
+    "split": "test",
+    "line_idx": 3100,
+    "original_text": "Reminds me of the old lady in Police Academy 4 shooting the .44 magnum. Damn that was fun!",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Me lembra a velhinha de Loucademia de Polícia 4 atirando com a .44 magnum. Caramba, aquilo foi bom demais!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efb0k3l",
+    "split": "test",
+    "line_idx": 3101,
+    "original_text": "I bet we'd all die. Thank [NAME] for colds and germs or we'd all be dead upon birth",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Aposto que a gente ia todo mundo morrer. Agradeça a [NAME] pelos resfriados e germes, senão a gente morria logo ao nascer",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemmnhm",
+    "split": "test",
+    "line_idx": 3102,
+    "original_text": "I think he's in it. I know [NAME] is killing me on my fantasy team right now",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Acho que ele tá nessa. Eu sei que o [NAME] tá acabando comigo no meu fantasy agora",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeesej6",
+    "split": "test",
+    "line_idx": 3103,
+    "original_text": "You have your opinion and I have mine why does that make only one of us a victim?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você tem a sua opinião e eu tenho a minha, por que isso faz só um de nós de vítima?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9mbvq",
+    "split": "test",
+    "line_idx": 3104,
+    "original_text": "Thank you for writing this, for letting us into your world so that we can better understand our own. I am very grateful for this gift.",
+    "emotion_ids": "15,17",
+    "emotions": [
+      "gratitude",
+      "joy"
+    ],
+    "translated_text": "Obrigado por escrever isso, por nos deixar entrar no seu mundo para que possamos entender melhor o nosso. Sou muito grato por esse presente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgm57i",
+    "split": "test",
+    "line_idx": 3105,
+    "original_text": "Play hard, but we don't want to reveal our secret raptor killing strategy until the playoffs...",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Jogar duro, mas a gente não quer revelar nossa estratégia secreta de matar raptors até os playoffs...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6w2jr",
+    "split": "test",
+    "line_idx": 3106,
+    "original_text": "Weird flex but ok",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meio estranho se gabar disso mas beleza",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efakc1k",
+    "split": "test",
+    "line_idx": 3107,
+    "original_text": "I'm a little disappointed that the tier markings werent' just different shades of green.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Tô meio decepcionado que as marcações dos tiers não eram só tons diferentes de verde.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1ixdb",
+    "split": "test",
+    "line_idx": 3108,
+    "original_text": "Thanks for your input into this discussion. It has been very productive.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pela sua contribuição nessa discussão. Foi muito produtiva.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed70d2p",
+    "split": "test",
+    "line_idx": 3109,
+    "original_text": "If we can get a 1st rounder it is without a doubt worth it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se a gente conseguir uma escolha de 1ª rodada, vale a pena sem dúvidas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee919ut",
+    "split": "test",
+    "line_idx": 3110,
+    "original_text": "Autism (mechanistic thinking, lack of theory of mind) is the opposite of intuition (thinking without thinking). ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Autismo (pensamento mecanicista, falta de teoria da mente) é o oposto da intuição (pensar sem pensar).",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edaz1g3",
+    "split": "test",
+    "line_idx": 3111,
+    "original_text": "[NAME] ! Glad that we helped you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "[NAME] ! Que bom que a gente te ajudou.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4ifci",
+    "split": "test",
+    "line_idx": 3112,
+    "original_text": "I don't wanna be controversial, but the streak might end...",
+    "emotion_ids": "10,20",
+    "emotions": [
+      "disapproval",
+      "optimism"
+    ],
+    "translated_text": "Não quero ser polêmico, mas essa sequência pode acabar...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed26ckc",
+    "split": "test",
+    "line_idx": 3113,
+    "original_text": "Make sure you actually try sativas. Don't just listen to people bsing about Sativa causing paranoia/anxiety etc.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Certifique-se de realmente experimentar sativas. Não fica só ouvindo o povo falando merda de que Sativa causa paranoia/ansiedade etc.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer4oun",
+    "split": "test",
+    "line_idx": 3114,
+    "original_text": "Some people are just very special lmao",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem gente que é muito especial mesmo kkkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2uwyq",
+    "split": "test",
+    "line_idx": 3115,
+    "original_text": ">Feminism is how we get to equality how do you know that?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": ">O feminismo é a forma como chegamos à igualdade como você sabe disso?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edaiwno",
+    "split": "test",
+    "line_idx": 3116,
+    "original_text": "Rapists can have parental rights in some states, assuming they find him.",
+    "emotion_ids": "12,27",
+    "emotions": [
+      "embarrassment",
+      "neutral"
+    ],
+    "translated_text": "Estupradores podem ter direitos parentais em alguns estados, caso encontrem ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3cuhh",
+    "split": "test",
+    "line_idx": 3117,
+    "original_text": "Same here, after she initiated the divorce and acussed me of not doing anything to stop it. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Mesma coisa aqui, depois que ela pediu o divórcio e me acusou de não fazer nada pra impedir.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgyww4",
+    "split": "test",
+    "line_idx": 3118,
+    "original_text": "Horseshoe effect going on with FBPE and the no deal brexiteers, basically if you're soft remainer or brexiteers they hate you. The irony ha",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Efeito ferradura rolando com o FBPE e os brexiteers radicais, basicamente se você for remainer ou brexiteer moderado, eles te odeiam. A ironia kkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe94e9",
+    "split": "test",
+    "line_idx": 3119,
+    "original_text": "Greatest part of that goal is the pique backheel for me. What is he even doing there :))",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "A melhor parte desse gol pra mim é o calcanhar do pique. O que que ele tá fazendo ali afinal :))",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeo6dx4",
+    "split": "test",
+    "line_idx": 3120,
+    "original_text": "Thanks. I guess.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu. Eu acho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eej6i9l",
+    "split": "test",
+    "line_idx": 3121,
+    "original_text": "For me, the only thing that makes it cringe is [NAME] covering his mouth",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra mim, a única coisa que deixa isso cringe é o [NAME] cobrindo a boca",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeb964m",
+    "split": "test",
+    "line_idx": 3122,
+    "original_text": "Wrecking Ball clips are the best",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Os clipes do Wrecking Ball são os melhores",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edd3lzb",
+    "split": "test",
+    "line_idx": 3123,
+    "original_text": "We know blocking [NAME] was [NAME] choice because he said it was.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente sabe que bloquear o [NAME] foi escolha do [NAME] porque ele disse que foi.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7myzb",
+    "split": "test",
+    "line_idx": 3124,
+    "original_text": "The only death that made me feel any emotion. And it wasn’t even the death itself.",
+    "emotion_ids": "16,25",
+    "emotions": [
+      "grief",
+      "sadness"
+    ],
+    "translated_text": "A única morte que me fez sentir alguma emoção. E nem foi a morte em si.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edur7a5",
+    "split": "test",
+    "line_idx": 3125,
+    "original_text": "Lol ok 👌🏾",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkk tá bom 👌🏾",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed79xso",
+    "split": "test",
+    "line_idx": 3126,
+    "original_text": "Mumbling on twitter and r/politics. Also [NAME] is getting annoyed as well. He is mr appropriations after all.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Resmungando no twitter e no r/politics. Além disso, o [NAME] também tá ficando irritado. Afinal, ele é o senhor das apropriações.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eee1mg7",
+    "split": "test",
+    "line_idx": 3127,
+    "original_text": "That is amazing!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5o7sf",
+    "split": "test",
+    "line_idx": 3128,
+    "original_text": "Lets see how [NAME] goes in Round 6",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Bora ver como o [NAME] se sai no Round 6",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebhxqu",
+    "split": "test",
+    "line_idx": 3129,
+    "original_text": "When her daughter says she wants to take all the weight from her and put it on her own body so her mom can go outside and play 😢❤️😢",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando a filha dela diz que quer pegar todo o peso dela e botar no próprio corpo pra mãe poder sair e brincar 😢❤️😢",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eets2cw",
+    "split": "test",
+    "line_idx": 3130,
+    "original_text": "Omg didn't even think of that! So clever! Yes!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Mds nem pensei nisso! Muito genial! Isso aí!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8mf9u",
+    "split": "test",
+    "line_idx": 3131,
+    "original_text": "To me his not doing it right because he is breaking contact with the skin. Keep contact and go back and forth!",
+    "emotion_ids": "10,22",
+    "emotions": [
+      "disapproval",
+      "realization"
+    ],
+    "translated_text": "Pra mim ele não tá fazendo direito porque tá perdendo o contato com a pele. Mantém o contato e vai pra frente e pra trás!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevcmsb",
+    "split": "test",
+    "line_idx": 3132,
+    "original_text": "Here we go again I hate [NAME] *becomes a Dodger* I mean I love [NAME]",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Lá vamos nós de novo Eu odeio o [NAME] *vai pros Dodgers* Quer dizer, eu amo o [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7oxbm",
+    "split": "test",
+    "line_idx": 3133,
+    "original_text": "Wait a minute, the rich own ranches.... You're one of them!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Peraí, os ricos têm fazendas.... Você é um deles!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerowk4",
+    "split": "test",
+    "line_idx": 3134,
+    "original_text": "NOT TODAY REINHARDT",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "HOJE NÃO REINHARDT",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczl4db",
+    "split": "test",
+    "line_idx": 3135,
+    "original_text": "The third period is going to be uncomfortable and I preemptively hate it.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "O terceiro período vai ser desconfortável e eu já tô odiando por antecipação.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedhe5e",
+    "split": "test",
+    "line_idx": 3136,
+    "original_text": "I'd imagine the confusion would be far greater, especially amongst the [RELIGION] community considering there is no aspect of Ramadan that prevents [NAME] from doing exams. ",
+    "emotion_ids": "6,20",
+    "emotions": [
+      "confusion",
+      "optimism"
+    ],
+    "translated_text": "Imagino que a confusão seria bem maior, principalmente na comunidade [RELIGION], considerando que não tem nada no Ramadã que impeça [NAME] de fazer provas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6pkzv",
+    "split": "test",
+    "line_idx": 3137,
+    "original_text": "holy shit that's bad, maybe the extremist right can't meme either?",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "puta que pariu que ruim, será que a extrema direita também não sabe memear?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddgwuz",
+    "split": "test",
+    "line_idx": 3138,
+    "original_text": "fake gamer girl didnt know [NAME] is already a rapper",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "falsa gamer girl não sabia que o [NAME] já é rapper",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu0fst",
+    "split": "test",
+    "line_idx": 3139,
+    "original_text": "The last thing you see before entering Hell.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "A última coisa que você vê antes de entrar no Inferno.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1ud27",
+    "split": "test",
+    "line_idx": 3140,
+    "original_text": "And desks clapped",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E as carteiras aplaudiram",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edo0cc5",
+    "split": "test",
+    "line_idx": 3141,
+    "original_text": "I didn’t know they ventured outside Facebook",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não sabia que eles se aventuravam fora do Facebook",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbc6ip",
+    "split": "test",
+    "line_idx": 3142,
+    "original_text": "That’s because [NAME] thinks he’s the man oin this team. [NAME] I can’t wait till he’s gone",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "É porque o [NAME] acha que é o cara desse time. [NAME] não vejo a hora dele vazar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelen0k",
+    "split": "test",
+    "line_idx": 3143,
+    "original_text": "I'm saying your question is irrelevant to the post's topic. Stop being passive aggressive.",
+    "emotion_ids": "2,10",
+    "emotions": [
+      "anger",
+      "disapproval"
+    ],
+    "translated_text": "Tô falando que a sua pergunta não tem nada a ver com o assunto do post. Para de ser passivo-agressivo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed37lbm",
+    "split": "test",
+    "line_idx": 3144,
+    "original_text": "OMG she reminds me of Ginger from Ginger Snaps! I'm in love!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "MDSS ela me lembra a Ginger de Possuída! Tô apaixonado!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3pa8o",
+    "split": "test",
+    "line_idx": 3145,
+    "original_text": "To be fair how often has someone drafted in the top 5 not immediately joined the team.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Pra ser justo, com que frequência alguém draftado no top 5 não entra logo pro time.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edivsdh",
+    "split": "test",
+    "line_idx": 3146,
+    "original_text": "They forgot the part where everyone started clapping.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esqueceram da parte em que todo mundo começou a aplaudir.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3w0az",
+    "split": "test",
+    "line_idx": 3147,
+    "original_text": "Ok, care to elaborate on what your mysterious link is?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Beleza, quer explicar o que é esse seu link misterioso?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee73k8f",
+    "split": "test",
+    "line_idx": 3148,
+    "original_text": "Only 2 days ?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Só 2 dias ?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkyq7s",
+    "split": "test",
+    "line_idx": 3149,
+    "original_text": "Sacrilege! :-P",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sacrilégio! :-P",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

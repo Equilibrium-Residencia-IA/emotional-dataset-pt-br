@@ -1,0 +1,614 @@
+[
+  {
+    "id": "eeo4bnk",
+    "split": "test",
+    "line_idx": 2050,
+    "original_text": "I hate you for that title. Thanks a lot. /s Right as I’m about to go to sleep too.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Te odeio por esse título. Valeu mesmo. /s Bem na hora que eu tava indo dormir ainda por cima.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekp5gi",
+    "split": "test",
+    "line_idx": 2051,
+    "original_text": "Wow. Forget the separation, lawyer up and go straight to divorce. ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa. Esquece separação, arruma um advogado e vai direto pro divórcio.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9cf9h",
+    "split": "test",
+    "line_idx": 2052,
+    "original_text": "Eh, it'll be alright. Just another battle scar haha. Best of luck to the both of us! ",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ah, vai ficar tudo bem. Só mais uma cicatriz de guerra haha. Boa sorte pra nós dois!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef2mfzy",
+    "split": "test",
+    "line_idx": 2053,
+    "original_text": "I don't feel so financially secure",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Não me sinto tão seguro financeiramente",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddrt3j",
+    "split": "test",
+    "line_idx": 2054,
+    "original_text": "Dude you really like The Strokes.",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Mano, você curte The Strokes mesmo, hein.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef6779u",
+    "split": "test",
+    "line_idx": 2055,
+    "original_text": "It' kinda ironic that \"Winners\" are actually losers (they haven't realised that yet)",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "É meio irônico que os \"Vencedores\" sejam na verdade perdedores (eles só não perceberam isso ainda)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edegxbh",
+    "split": "test",
+    "line_idx": 2056,
+    "original_text": "You still didn’t answer the question. Sorry it’s bugging me :)",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Você ainda não respondeu à pergunta. Desculpa, isso tá me incomodando :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmmoje",
+    "split": "test",
+    "line_idx": 2057,
+    "original_text": "Because I am a human, and I can do whatever I want, as long as it's not against the law",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Porque eu sou um ser humano e posso fazer o que eu quiser, contanto que não seja contra a lei",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew47wk",
+    "split": "test",
+    "line_idx": 2058,
+    "original_text": "I cant think of anything funny to say so upvote to give me free karma",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não consigo pensar em nada engraçado pra dizer, então dê upvote pra me dar karma grátis",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegkwrq",
+    "split": "test",
+    "line_idx": 2059,
+    "original_text": "How did [NAME] just give that beatdown to Attach, the other player was so far away.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como é que o [NAME] acabou de dar aquela surra no Attach? O outro jogador tava tão longe.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi8eo4",
+    "split": "test",
+    "line_idx": 2060,
+    "original_text": "No one makes it through. We all die. Just some sooner than others.",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Ninguém escapa dessa. Todos nós morremos. Só que uns mais cedo do que outros.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edsnzm6",
+    "split": "test",
+    "line_idx": 2061,
+    "original_text": "It's great! And it's his own choice, you don't force him.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Muito bom! E é escolha dele mesmo, você não tá forçando nada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu19sp",
+    "split": "test",
+    "line_idx": 2062,
+    "original_text": "So true. The chicks I pick up from clubbing are nothing compared to the love of a good woman.",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Pura verdade. As minas que eu pego na balada não chegam nem perto do amor de uma mulher de verdade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy80jz",
+    "split": "test",
+    "line_idx": 2063,
+    "original_text": "100% correct. Seriously, listen to [NAME] talking points when she mentions Syria. Matches RT propaganda exactly.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "100% certo. Sério, escuta os argumentos da [NAME] quando ela fala da Síria. Bate certinho com a propaganda da RT.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef830hr",
+    "split": "test",
+    "line_idx": 2064,
+    "original_text": "I can't do that....I don't know how to hard boil eggs sooooo",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Não consigo fazer isso.... Não sei como cozinhar ovo entããão",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxnv6e",
+    "split": "test",
+    "line_idx": 2065,
+    "original_text": "Oh, I don’t work there. My bf is in a band that plays there often. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, eu não trabalho lá. Meu namorado toca numa banda que se apresenta lá direto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5aehd",
+    "split": "test",
+    "line_idx": 2066,
+    "original_text": "I DO NOT NEGOTIATE WITH TERRORISTS this is what I tell my 3.5 year old on the daily",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "EU NÃO NEGOCIO COM TERRORISTAS é isso que eu falo pro meu filho de 3 anos e meio todo santo dia",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edyzi8t",
+    "split": "test",
+    "line_idx": 2067,
+    "original_text": "That's nothing, before BSE we did horrible things with bone meal animal feed. Cannibal cows.",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Isso não é nada, antes da vaca louca a gente fazia coisas horríveis com ração animal à base de farinha de osso. Vacas canibais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejid1r",
+    "split": "test",
+    "line_idx": 2068,
+    "original_text": "They’re not exactly tiny creatures. Patch that hole up, my dude.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eles não são exatamente bichinhos pequenos. Tapa esse buraco aí, meu parceiro.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeiqkjv",
+    "split": "test",
+    "line_idx": 2069,
+    "original_text": "😂 i need one too i’m on break and honestly my life revolves around reddit at this point, cake day is special enjoy it! ",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "😂 eu também preciso de uma tô no intervalo e honestamente minha vida gira em torno do reddit a essa altura, dia do bolo é especial aproveita!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefjcyz",
+    "split": "test",
+    "line_idx": 2070,
+    "original_text": "I shook a hand that shook his hand once",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu já apertei a mão de alguém que apertou a mão dele uma vez",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu42e3",
+    "split": "test",
+    "line_idx": 2071,
+    "original_text": "Despite the fact that they've been writing it for millennia.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Apesar do fato de que eles vêm escrevendo isso há milênios.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduqqv2",
+    "split": "test",
+    "line_idx": 2072,
+    "original_text": "Uh... What's stopping you from just throwing it away?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ué... O que tá te impedindo de simplesmente jogar fora?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejaqiz",
+    "split": "test",
+    "line_idx": 2073,
+    "original_text": "I've tried the \"peanut butter\"...I almost vomited. NASTY! It went straight to the trash.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Já experimentei a \"manteiga de amendoim\"... quase vomitei. NOJENTO! Foi direto pro lixo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeg781u",
+    "split": "test",
+    "line_idx": 2074,
+    "original_text": "[NAME] would be really pissed off to lose c3po and r2 to the fucking destroy ending",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "O [NAME] ia ficar putaço de perder o c3po e o r2 por causa da porra do final de destruição",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj0ga3",
+    "split": "test",
+    "line_idx": 2075,
+    "original_text": "Episode IX is apparently about [NAME] going back to Jakku",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O Episódio IX pelo visto é sobre o [NAME] voltando pra Jakku",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebsu7m",
+    "split": "test",
+    "line_idx": 2076,
+    "original_text": "I really love how this team responds to injuries",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu curto demais ver como esse time reage às lesões",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejklz1",
+    "split": "test",
+    "line_idx": 2077,
+    "original_text": "His opponent got DQ for pinching off [NAME] air tube. His first opponent is why [NAME] had the air tube in the first place.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O oponente dele foi desclassificado por apertar o tubo de ar do [NAME]. E foi por causa do primeiro oponente dele que o [NAME] tava usando o tubo de ar pra começo de conversa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4hwr5",
+    "split": "test",
+    "line_idx": 2078,
+    "original_text": "Politics are boring. Vote for everyone. -[NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Política é um saco. Vote em todo mundo. -[NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edivcys",
+    "split": "test",
+    "line_idx": 2079,
+    "original_text": "Take him to a family holiday and I'm sure your family will do all of the work to hint that you guys should get married.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Leva ele pra um feriado em família que eu tenho certeza de que sua família vai fazer todo o trabalho de dar indiretas pra vocês casarem.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeosw94",
+    "split": "test",
+    "line_idx": 2080,
+    "original_text": "I actually find it easier to place spawn beacons in stupid spots like this than a nice flat empty piece of ground.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Na real eu acho mais fácil colocar spawn beacons em lugares idiotas como esse do que num pedaço de chão plano e limpinho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edklulr",
+    "split": "test",
+    "line_idx": 2081,
+    "original_text": "If you can't see how the mass killing of Landlords is related to Communist ideology, there is really no point discussing further.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Se você não consegue ver como o assassinato em massa de proprietários de terras tem a ver com a ideologia comunista, realmente não tem por que continuar discutindo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1158i",
+    "split": "test",
+    "line_idx": 2082,
+    "original_text": "I... don‘t see anything wrong with that?",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu... não vejo nada de errado nisso?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj4jw9",
+    "split": "test",
+    "line_idx": 2083,
+    "original_text": "y i k e s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "m e d o",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5ph3r",
+    "split": "test",
+    "line_idx": 2084,
+    "original_text": "Franchise QB's are leaders who set the tone for the entire lockerroom. [NAME] is a terrible leader.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "QBs de franquia são líderes que definem o clima do vestiário inteiro. [NAME] é um líder terrível.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efecbk3",
+    "split": "test",
+    "line_idx": 2085,
+    "original_text": "[NAME] FIRED.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "[NAME] DEMITIDO.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef96jyy",
+    "split": "test",
+    "line_idx": 2086,
+    "original_text": "I grew up in the south and we ate casseroles all the time. So I share your \"what?!?!\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu cresci no sul e a gente comia empadão/caçarola direto. Então eu compartilho do seu \"o quê?!?!\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5oo2m",
+    "split": "test",
+    "line_idx": 2087,
+    "original_text": "Except [NAME] still went with the happy ending instead of ending it at the Aningaaq scene.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Só que o [NAME] ainda assim preferiu ir pro final feliz em vez de terminar na cena do Aningaaq.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwd76c",
+    "split": "test",
+    "line_idx": 2088,
+    "original_text": "Yeah this is downright spooky; she's not even using that face mask.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, isso é sinistro pra caramba; ela nem sequer tá usando aquela máscara facial.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efc5t6w",
+    "split": "test",
+    "line_idx": 2089,
+    "original_text": "YOU LIKE TURTLES? Gimme a second.",
+    "emotion_ids": "2,7",
+    "emotions": [
+      "anger",
+      "curiosity"
+    ],
+    "translated_text": "VOCÊ GOSTA DE TARTARUGAS? Me dá um segundo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2c5f7",
+    "split": "test",
+    "line_idx": 2090,
+    "original_text": "\"You can't stop me\" Ah yes, those playful words when referring to a sexual act...",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "\"Você não pode me impedir\" Ah sim, aquelas palavras brincalhonas quando se referem a um ato sexual...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepcswq",
+    "split": "test",
+    "line_idx": 2091,
+    "original_text": "Yeah, I wouldn't be too surprised by that either. I'm so excited to see or hear SOMETHING though. ",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "É, eu também não ficaria muito surpreso com isso. Mas tô tão empolgado pra ver ou ouvir QUALQUER coisa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef71kdy",
+    "split": "test",
+    "line_idx": 2092,
+    "original_text": "This is a toxic behaviour.. get rid of him as soon as possible.",
+    "emotion_ids": "3,5",
+    "emotions": [
+      "annoyance",
+      "caring"
+    ],
+    "translated_text": "Isso é um comportamento tóxico.. se livra dele o mais rápido possível.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxmxnj",
+    "split": "test",
+    "line_idx": 2093,
+    "original_text": "Wouldn’t be shocked for a lot of those guys to follow him to TB.",
+    "emotion_ids": "26,27",
+    "emotions": [
+      "surprise",
+      "neutral"
+    ],
+    "translated_text": "Não me surpreenderia se vários desses caras seguissem ele pra TB.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edf2dl2",
+    "split": "test",
+    "line_idx": 2094,
+    "original_text": "[NAME]? Y’all [NAME] are weird AF (and I love it).",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]? Vocês [NAME] são esquisitos pra caralho (e eu adoro isso).",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbjz5j",
+    "split": "test",
+    "line_idx": 2095,
+    "original_text": "Well, he promised [NAME] it was over and he was out for good, right. So, no.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, ele prometeu pra [NAME] que tinha acabado e que ele tinha saído de vez, né. Então, não.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef74ndd",
+    "split": "test",
+    "line_idx": 2096,
+    "original_text": "Wow that's amazing, I hope my situation is as good next year. ",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "Nossa, que demais, espero que a minha situação esteja tão boa assim no ano que vem.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edd2cj3",
+    "split": "test",
+    "line_idx": 2097,
+    "original_text": "My dad loves playing sport......the sport of slam dunking my arse for a touchdown",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Meu pai adora praticar esportes...... o esporte de me arrebentar na porrada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew64o4",
+    "split": "test",
+    "line_idx": 2098,
+    "original_text": "Wow! That's awesome! Congratulations! Its wonderful to have hope of being off medications one day.",
+    "emotion_ids": "0,17,20,26",
+    "emotions": [
+      "admiration",
+      "joy",
+      "optimism",
+      "surprise"
+    ],
+    "translated_text": "Nossa! Que demais! Meus parabéns! É maravilhoso ter esperança de um dia não precisar mais de remédios.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2pt5b",
+    "split": "test",
+    "line_idx": 2099,
+    "original_text": "I did this v recently and now my legs are covered in ingrown hairs >.<",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fiz isso mt recentemente e agora minhas pernas tão cheias de pelos encravados >.<",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

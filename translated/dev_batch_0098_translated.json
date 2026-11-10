@@ -1,0 +1,611 @@
+[
+  {
+    "id": "eewx9u0",
+    "split": "dev",
+    "line_idx": 4600,
+    "original_text": "Dementia is in my family so this is pretty exciting. I also have to wonder if this bacteria could cause other kinds of mental illnesses..",
+    "emotion_ids": "13,26",
+    "emotions": [
+      "excitement",
+      "surprise"
+    ],
+    "translated_text": "Tem demência na minha família, então isso é bem empolgante. Fico me perguntando também se essa bactéria poderia causar outros tipos de doenças mentais..",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1cgm6",
+    "split": "dev",
+    "line_idx": 4601,
+    "original_text": "Hey thanks! Happy new year to you too!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Opa, valeu! Feliz ano novo pra você também!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8dqqe",
+    "split": "dev",
+    "line_idx": 4602,
+    "original_text": "The miracle of life!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "O milagre da vida!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetiwwn",
+    "split": "dev",
+    "line_idx": 4603,
+    "original_text": "Definitely gonna go lookin' for that mod.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Com certeza vou atrás desse mod.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcb9bf",
+    "split": "dev",
+    "line_idx": 4604,
+    "original_text": "Loving this start boys",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amando esse começo, rapaziada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed648jq",
+    "split": "dev",
+    "line_idx": 4605,
+    "original_text": "I haven't had mine in years thanks to [NAME]",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Faz anos que não tenho o meu, graças ao [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhpjpm",
+    "split": "dev",
+    "line_idx": 4606,
+    "original_text": "my first thought was Superstar!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "meu primeiro pensamento foi Superstar!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgaatk",
+    "split": "dev",
+    "line_idx": 4607,
+    "original_text": "This is why I stopped watching. :( The brutality was disgusting.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Foi por isso que parei de assistir. :( A brutalidade foi nojenta.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm2ewm",
+    "split": "dev",
+    "line_idx": 4608,
+    "original_text": "Fall of religion also plays a role. I'm not religious at all, but I understand how it brought people together as far as a community structure. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O declínio da religião também tem um papel nisso. Não sou nem um pouco religioso, mas entendo como ela unia as pessoas em termos de estrutura comunitária.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edu4ywk",
+    "split": "dev",
+    "line_idx": 4609,
+    "original_text": "I like you, do you like me? Please circle Yes No",
+    "emotion_ids": "7,18",
+    "emotions": [
+      "curiosity",
+      "love"
+    ],
+    "translated_text": "Gosto de você, você gosta de mim? Por favor circule Sim Não",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqbrv7",
+    "split": "dev",
+    "line_idx": 4610,
+    "original_text": "I read the title, and honestly I thought it was [NAME] and his Telkom bill again",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Li o título e, sinceramente, achei que fosse o [NAME] e a conta da Telkom dele de novo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8d1fr",
+    "split": "dev",
+    "line_idx": 4611,
+    "original_text": "This made my hump day. Thank you good sir",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Isso salvou a minha quarta-feira. Muito obrigado, meu bom",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2ybxe",
+    "split": "dev",
+    "line_idx": 4612,
+    "original_text": "Anthem is a good 45 min from Scottsdale and the rush hour traffic is a nightmare.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Anthem fica a uns bons 45 minutos de Scottsdale e o trânsito no horário de pico é um pesadelo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed80vtr",
+    "split": "dev",
+    "line_idx": 4613,
+    "original_text": "What does all that pill shit they talk about mean anyways? Like what the fuck is a black pill and a red pill?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Afinal de contas, o que significa toda essa porra de pílula que eles ficam falando? Tipo, que caralhos é black pill e red pill?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemoh5q",
+    "split": "dev",
+    "line_idx": 4614,
+    "original_text": "I know right! Now I’ll never even know how far the distance was",
+    "emotion_ids": "6,20",
+    "emotions": [
+      "confusion",
+      "optimism"
+    ],
+    "translated_text": "Né, cara! Agora eu nunca vou saber nem qual era a distância",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eez78sa",
+    "split": "dev",
+    "line_idx": 4615,
+    "original_text": "Happy Cake Day Baby!!!❤️❤️❤️",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Feliz Dia do Bolo, meu bem!!!❤️❤️❤️",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczscmq",
+    "split": "dev",
+    "line_idx": 4616,
+    "original_text": "Not sure about OP, but caffeine tends to make many people more anxious (especially those with a co-morbid anxiety disorder(s)).",
+    "emotion_ids": "19,27",
+    "emotions": [
+      "nervousness",
+      "neutral"
+    ],
+    "translated_text": "Não sei quanto ao OP, mas a cafeína costuma deixar muita gente mais ansiosa (especialmente quem tem transtorno(s) de ansiedade comórbido(s)).",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed54njm",
+    "split": "dev",
+    "line_idx": 4617,
+    "original_text": "Between this and the headline it makes me wonder how he fits his ego through most doorways.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Entre isso e a manchete, eu me pergunto como o ego dele consegue passar pela maioria das portas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeje1qk",
+    "split": "dev",
+    "line_idx": 4618,
+    "original_text": "first of all calm down. second",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "primeiro de tudo, se acalme. segundo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtl0s3",
+    "split": "dev",
+    "line_idx": 4619,
+    "original_text": "Lincoln Riley had no HC experience and only 2 years of P5 OC experience.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Lincoln Riley não tinha experiência como treinador principal e só tinha 2 anos de experiência como coordenador ofensivo na P5.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfye8k",
+    "split": "dev",
+    "line_idx": 4620,
+    "original_text": "I'm sorry but your username is absolutely horrible lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Desculpa, mas o seu nome de usuário é simplesmente horrível kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eektbvn",
+    "split": "dev",
+    "line_idx": 4621,
+    "original_text": "It sucks because the guy ruined the name. Also ruined a tiny mustache.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "É uma merda porque o cara estragou o nome. E também estragou um bigodinho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeagrtk",
+    "split": "dev",
+    "line_idx": 4622,
+    "original_text": "I would go to bed early and I would have nothing to do the 3-4 nights a week I play tennis lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu ia dormir cedo e não teria nada pra fazer nas 3-4 noites por semana em que jogo tênis kkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduark4",
+    "split": "dev",
+    "line_idx": 4623,
+    "original_text": "Benzos stop working after a few weeks because they’re very addictive and tolerance grows quickly. I use them occasionally but never more than twice a week.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os benzos param de funcionar depois de algumas semanas porque viciam muito e a tolerância aumenta rápido. Eu tomo de vez em quando, mas nunca mais de duas vezes na semana.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edyzz7n",
+    "split": "dev",
+    "line_idx": 4624,
+    "original_text": "That would be nice",
+    "emotion_ids": "0,8,20",
+    "emotions": [
+      "admiration",
+      "desire",
+      "optimism"
+    ],
+    "translated_text": "Seria bom",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgghpl",
+    "split": "dev",
+    "line_idx": 4625,
+    "original_text": "Thank you for entertaining 24.5M people, Mr [NAME].",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado por entreter 24,5 milhões de pessoas, Sr. [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2z2sf",
+    "split": "dev",
+    "line_idx": 4626,
+    "original_text": "Now her child will walk around smelling like onion",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora o filho dela vai andar por aí cheirando a cebola",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetiy95",
+    "split": "dev",
+    "line_idx": 4627,
+    "original_text": "Anybody know why [NAME] sat the second half? It wasn't like anybody else was burning it up.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém sabe por que o [NAME] ficou no banco no segundo tempo? Não é como se qualquer outro tivesse jogando pra caralho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee29mif",
+    "split": "dev",
+    "line_idx": 4628,
+    "original_text": "It makes sense to me. I am a republican in that sense but hate the GOP for the most part.",
+    "emotion_ids": "2,10",
+    "emotions": [
+      "anger",
+      "disapproval"
+    ],
+    "translated_text": "Pra mim faz sentido. Sou republicano nesse sentido, mas detesto o GOP na maior parte.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeogkni",
+    "split": "dev",
+    "line_idx": 4629,
+    "original_text": "This just in: we’re all FAKES because of [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Plantão urgente: somos todos FALSOS por causa do [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef08lsi",
+    "split": "dev",
+    "line_idx": 4630,
+    "original_text": "is NRG some new meta",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "NRG é algum meta novo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edy843e",
+    "split": "dev",
+    "line_idx": 4631,
+    "original_text": "An RPG could have solved this problem.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Um RPG teria resolvido esse problema.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenaf4c",
+    "split": "dev",
+    "line_idx": 4632,
+    "original_text": "Its the absolute lunacy of liberals when they see a MAGA hat, that baffles me. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "É a pura loucura dos esquerdistas quando veem um boné do MAGA que me deixa perplexo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eep38ig",
+    "split": "dev",
+    "line_idx": 4633,
+    "original_text": "Amazing doggo 😍",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Doguinho incrível 😍",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efevz3u",
+    "split": "dev",
+    "line_idx": 4634,
+    "original_text": "Who ate the Carolina Reaper? Lol I’d prob be using that lid to knock myself out from the heat",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Quem comeu a Carolina Reaper? Kkk eu provavelmente estaria usando essa tampa pra me nocautear por causa do ardor",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkms2w",
+    "split": "dev",
+    "line_idx": 4635,
+    "original_text": "If he had called her bluff, I doubt she would’ve ever pulled that again",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se ele tivesse pagado pra ver o blefe dela, duvido que ela voltaria a fazer isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edq8py9",
+    "split": "dev",
+    "line_idx": 4636,
+    "original_text": "“Thank you bus driver! Thank you navigator!”",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "“Obrigado, motorista do ônibus! Obrigado, navegador!”",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edsv3f7",
+    "split": "dev",
+    "line_idx": 4637,
+    "original_text": "It's not because you killed the chicken. Kill another one and see if that happens again.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não é porque você matou a galinha. Mata outra e vê se acontece de novo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3uujx",
+    "split": "dev",
+    "line_idx": 4638,
+    "original_text": "I’m so sorry for your loss, I’ll drink a few extra for your fiancé",
+    "emotion_ids": "5,24",
+    "emotions": [
+      "caring",
+      "remorse"
+    ],
+    "translated_text": "Sinto muito pela sua perda, vou beber algumas a mais pelo seu noivo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5k01s",
+    "split": "dev",
+    "line_idx": 4639,
+    "original_text": "did anyone calculate aprox. how much would the food cost in total?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "alguém calculou aprox. quanto a comida custaria no total?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4j9kh",
+    "split": "dev",
+    "line_idx": 4640,
+    "original_text": "[NAME], aside from the goal was several magnitudes worse than [NAME]....",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], fora o gol, foi muitas vezes pior que o [NAME]....",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef169ls",
+    "split": "dev",
+    "line_idx": 4641,
+    "original_text": "He looks 10 years younger since leaving Old Trafford.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ele parece 10 anos mais jovem desde que saiu do Old Trafford.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edosw8g",
+    "split": "dev",
+    "line_idx": 4642,
+    "original_text": "This got a little personal for me",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa bateu meio forte em mim",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew1shl",
+    "split": "dev",
+    "line_idx": 4643,
+    "original_text": "I guess Metric is old enough now for one of their songs to be Grey’s title. Huh.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que o Metric já tá velho o suficiente pra uma das músicas deles ser o título de um episódio de Grey’s. Vish.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefedmx",
+    "split": "dev",
+    "line_idx": 4644,
+    "original_text": "Goobi is love.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Goobi é vida.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekxks0",
+    "split": "dev",
+    "line_idx": 4645,
+    "original_text": "[NAME] might've told her when they were talking about [NAME] being on her period.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] pode ter contado pra ela quando estavam conversando sobre a [NAME] estar menstruada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9z4i6",
+    "split": "dev",
+    "line_idx": 4646,
+    "original_text": "I wish [NAME] would debate [NAME], if he was alive :(. ",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu queria que o [NAME] debatesse com o [NAME], se ele estivesse vivo :(.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edalozu",
+    "split": "dev",
+    "line_idx": 4647,
+    "original_text": "Yeah that's bullshit and the complete opposite of what you said.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "É, isso é conversa fiada e o oposto completo do que você disse.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbf1xh",
+    "split": "dev",
+    "line_idx": 4648,
+    "original_text": "That's [NAME]!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É o [NAME]!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efasttc",
+    "split": "dev",
+    "line_idx": 4649,
+    "original_text": "Good thing there’s someone sensible in the Whitehouse.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ainda bem que tem alguém sensato na Casa Branca.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

@@ -1,0 +1,613 @@
+[
+  {
+    "id": "ee5ttfb",
+    "split": "dev",
+    "line_idx": 2550,
+    "original_text": "That man deserves a good whiskey. Hook him up.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Esse cara merece um bom uísque. Paga um pra ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effyi6y",
+    "split": "dev",
+    "line_idx": 2551,
+    "original_text": "They’re led by...gasp... a WOMAN!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles são liderados por... meu deus... uma MULHER!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef70yg7",
+    "split": "dev",
+    "line_idx": 2552,
+    "original_text": "That's damn impressive",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é impressionante pra caramba",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efeycue",
+    "split": "dev",
+    "line_idx": 2553,
+    "original_text": "[NAME] is getting the shit beat out of him and can't get a call",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] tá tomando uma surra daquelas e não marcam uma falta",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeytwk4",
+    "split": "dev",
+    "line_idx": 2554,
+    "original_text": "Yeah he could have stopped talking, but they didn't have to but his tongue out. they are the ones at fault for actually cutting his tongue out",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, ele podia ter calado a boca, mas eles não precisavam ter arrancado a língua dele fora. a culpa é deles por terem ido lá e arrancado a língua dele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edo37mx",
+    "split": "dev",
+    "line_idx": 2555,
+    "original_text": "Me too thanks",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Eu também obrigado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednvw5n",
+    "split": "dev",
+    "line_idx": 2556,
+    "original_text": "Wait, am I the only one who thought [NAME] was the tallest since childhood? ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Peraí, eu sou o único que achava que o [NAME] era o mais alto desde criança?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtzp28",
+    "split": "dev",
+    "line_idx": 2557,
+    "original_text": "DAMN I CAN NOT BELIEVE IT",
+    "emotion_ids": "10,26",
+    "emotions": [
+      "disapproval",
+      "surprise"
+    ],
+    "translated_text": "CARAMBA NÃO DÁ PRA ACREDITAR",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrr7yl",
+    "split": "dev",
+    "line_idx": 2558,
+    "original_text": "im actually really pumped to see how [NAME] does in Spain. hoping he gets some playing time to prove himself.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "eu tô muito empolgado pra ver como o [NAME] se sai na Espanha. espero que ele ganhe tempo de jogo pra mostrar serviço.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegjrbr",
+    "split": "dev",
+    "line_idx": 2559,
+    "original_text": "Don't tell me what to do.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Não me diga o que fazer.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkac2z",
+    "split": "dev",
+    "line_idx": 2560,
+    "original_text": "Yes, let’s start locking up people without any evidence that they did anything illegal. Definitely not an extremist POV.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É isso aí, vamos começar a prender as pessoas sem prova nenhuma de que fizeram algo ilegal. Com certeza não é um ponto de vista extremista.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eee6oh8",
+    "split": "dev",
+    "line_idx": 2561,
+    "original_text": "damn, Now THAT's detail.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "caramba, ISSO SIM é detalhe.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8tjw3",
+    "split": "dev",
+    "line_idx": 2562,
+    "original_text": "Finally, we can put [NAME] down at the bottom like the EXP thief deserves.",
+    "emotion_ids": "4,23",
+    "emotions": [
+      "approval",
+      "relief"
+    ],
+    "translated_text": "Finalmente a gente pode rebaixar o [NAME] lá pro fundo, como esse ladrão de EXP merece.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edka83g",
+    "split": "dev",
+    "line_idx": 2563,
+    "original_text": "The weirdest part is the underwear. My mom wouldn’t even let me and my sister share underwear. Something something hygiene.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "A parte mais bizarra é a roupa de baixo. Minha mãe nem deixava eu e minha irmã compartilharmos roupa íntima. Alguma coisa sobre higiene.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5s9gd",
+    "split": "dev",
+    "line_idx": 2564,
+    "original_text": "It's bad enough to break into a house, but snooping and stealing from a friend?! r/trashy r/iamatotalpieceofshit Hope you have better luck with friends in the future!",
+    "emotion_ids": "11,20",
+    "emotions": [
+      "disgust",
+      "optimism"
+    ],
+    "translated_text": "Invadir uma casa já é ruim o suficiente, mas xeretar e roubar de um amigo?! r/trashy r/iamatotalpieceofshit Espero que você tenha mais sorte com amigos no futuro!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtamqj",
+    "split": "dev",
+    "line_idx": 2565,
+    "original_text": "Someone tell Disney. The evil mouse has sued daycare centers for painting Mickey on their walls, they sure as hell will sue for this abomination.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém avisa a Disney. O rato do mal já processou creches por pintarem o Mickey nas paredes, com certeza vão processar por essa abominação.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2pk8t",
+    "split": "dev",
+    "line_idx": 2566,
+    "original_text": "That Pixel art yak is so cute tho.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Aquele yak em pixel art é tão fofo, cara.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edyyzqj",
+    "split": "dev",
+    "line_idx": 2567,
+    "original_text": "Roger that, I'll see if I have any in store~ Thanks!",
+    "emotion_ids": "4,15",
+    "emotions": [
+      "approval",
+      "gratitude"
+    ],
+    "translated_text": "Entendido, vou ver se tem algum na loja~ Valeu!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7x15c",
+    "split": "dev",
+    "line_idx": 2568,
+    "original_text": "He did not cheat on you. He ended it with that other woman before committing to you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele não te traiu. Ele terminou com aquela outra mulher antes de se comprometer com você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed55oly",
+    "split": "dev",
+    "line_idx": 2569,
+    "original_text": "Because I've lost control of my life.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque eu perdi o controle da minha vida.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edv7kkp",
+    "split": "dev",
+    "line_idx": 2570,
+    "original_text": "I'm asexual too, so I'm doubly protected against advertisements.",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Eu também sou assexual, então sou duplamente protegido contra propagandas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edic2l9",
+    "split": "dev",
+    "line_idx": 2571,
+    "original_text": "Imagine watching yourself back and still being unable to see why you were eliminated",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Imagina assistir a si mesmo de novo e ainda assim não conseguir entender por que foi eliminado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4gw2w",
+    "split": "dev",
+    "line_idx": 2572,
+    "original_text": "I hate this, and I hate you. But actually I love this, and only like you.",
+    "emotion_ids": "2,18",
+    "emotions": [
+      "anger",
+      "love"
+    ],
+    "translated_text": "Eu odeio isso, e odeio você. Mas na verdade eu amo isso, e só gosto de você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edvznox",
+    "split": "dev",
+    "line_idx": 2573,
+    "original_text": "Oh no you got us Feminism canceled Pack it up y'all",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Ah não, você pegou a gente Feminismo cancelado Podem arrumar as coisas galera",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeo44cr",
+    "split": "dev",
+    "line_idx": 2574,
+    "original_text": "ill show [NAME] this thanks well hang it up on the wall",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "vou mostrar pro [NAME] isso valeu vamos pendurar na parede",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeziyvg",
+    "split": "dev",
+    "line_idx": 2575,
+    "original_text": "this is the best thing I have read in awhile. so simple yet so hiarious.",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "essa é a melhor coisa que eu li em muito tempo. tão simples mas tão hilária.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edz62it",
+    "split": "dev",
+    "line_idx": 2576,
+    "original_text": "My template is usually : - Sassy, back-handed or just straight-up offensive response back to them. - Walk Away.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Minha resposta padrão geralmente é: - Resposta debochada, passivo-agressiva ou simplesmente ofensiva na cara dura. - Dar as costas e sair andando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1ljkr",
+    "split": "dev",
+    "line_idx": 2577,
+    "original_text": "Well. That went sideways pretty quickly.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É. O negócio desandou bem rápido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlse69",
+    "split": "dev",
+    "line_idx": 2578,
+    "original_text": "It was extremely sad ... because you can tell the reason why [NAME] is the way he is.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Foi extremamente triste... porque dá pra sacar o motivo do [NAME] ser do jeito que é.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef82zgl",
+    "split": "dev",
+    "line_idx": 2579,
+    "original_text": "The color of it is really cool too",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "A cor dele também é muito massa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eextngh",
+    "split": "dev",
+    "line_idx": 2580,
+    "original_text": "This article and the accompanying photos have gone viral. Anyone who knows him personally has probably read it. Dude's probably being shamed and humiliated as we speak",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa matéria e as fotos que acompanham viralizaram. Todo mundo que conhece ele pessoalmente provavelmente já leu. O cara deve estar passando a maior vergonha e sendo humilhado neste exato momento",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edo64fw",
+    "split": "dev",
+    "line_idx": 2581,
+    "original_text": "It doesn't. It really doesn't. I just had a 2nd one a few weeks ago.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não melhora. Não melhora mesmo. Eu acabei de ter o segundo há algumas semanas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3pj5w",
+    "split": "dev",
+    "line_idx": 2582,
+    "original_text": "The fact that entities go around violating rights is not an argument that we should keep them.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O fato de certas entidades ficarem por aí violando direitos não é argumento para continuarmos mantendo elas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgm4sg",
+    "split": "dev",
+    "line_idx": 2583,
+    "original_text": "Aww that's so cute! What a good workmate",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Aww que fofura! Que ótimo colega de trabalho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeclwef",
+    "split": "dev",
+    "line_idx": 2584,
+    "original_text": "Thank you, I thought the plane in the picture was cool too. I am. One of the best pictures I’ve taken with my phone.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado, eu também achei o avião na foto muito legal. Sou sim. Uma das melhores fotos que já tirei com o meu celular.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edu21ti",
+    "split": "dev",
+    "line_idx": 2585,
+    "original_text": "Because people want to have more than the absolute bare necessities for survival.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque as pessoas querem ter mais do que o mínimo absoluto necessário para sobreviver.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2rp7m",
+    "split": "dev",
+    "line_idx": 2586,
+    "original_text": "this, they will find a way. we screwed over my entire street for an hour when I got my new fridge..",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "isso, eles vão dar um jeito. nós ferramos a minha rua inteira por uma hora quando chegou minha geladeira nova..",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeslzd7",
+    "split": "dev",
+    "line_idx": 2587,
+    "original_text": "So many downvotes. Reading comprehension, people",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tanto downvote. Interpretação de texto, minha gente",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edggipn",
+    "split": "dev",
+    "line_idx": 2588,
+    "original_text": "Thanks man, I feel better now.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu cara, me sinto melhor agora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeb9eiy",
+    "split": "dev",
+    "line_idx": 2589,
+    "original_text": "Unfortunately you can’t control YouTube. It’s pretty bad out there, you just have to finish the episode ASAP. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Infelizmente não dá pra controlar o YouTube. O negócio tá feio por lá, você só tem que terminar o episódio o quanto antes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjdo0a",
+    "split": "dev",
+    "line_idx": 2590,
+    "original_text": "Mavs fans are mavs fans, who cares what they are later. Stop gatekeeping",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Torcedores dos Mavs são torcedores dos Mavs, quem se importa com o que eles vão ser depois. Para de bancar o fiscal",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effukkt",
+    "split": "dev",
+    "line_idx": 2591,
+    "original_text": "Here is the original post",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Aqui está o post original",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9kxwt",
+    "split": "dev",
+    "line_idx": 2592,
+    "original_text": "Imperial is already messy and hard to understand",
+    "emotion_ids": "9,10",
+    "emotions": [
+      "disappointment",
+      "disapproval"
+    ],
+    "translated_text": "O sistema imperial já é confuso e difícil de entender",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edaso61",
+    "split": "dev",
+    "line_idx": 2593,
+    "original_text": "The lads put in excellent shift over the Christmas fair dues lads. Thanks for keeping on top of things. Delighted online shopper :)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "A rapaziada mandou muito bem no plantão de Natal, merecem respeito. Valeu por manterem tudo sob controle. Cliente online super satisfeito :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee85z8c",
+    "split": "dev",
+    "line_idx": 2594,
+    "original_text": "Literally every team sub says this when something negative about them is posted They dislike the hire because he wasn't exactly popular in Seattle.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Literalmente todo sub de time fala isso quando postam algo negativo sobre eles Eles não curtiram a contratação porque ele não era exatamente querido em Seattle.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edra3uk",
+    "split": "dev",
+    "line_idx": 2595,
+    "original_text": "I was totally expecting this",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tava super esperando por isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5pbih",
+    "split": "dev",
+    "line_idx": 2596,
+    "original_text": "Lol did you just take the experts picks that they talked about on Action Network?",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkk você só pegou os palpites dos especialistas de que falaram no Action Network?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgbncn",
+    "split": "dev",
+    "line_idx": 2597,
+    "original_text": "Honestly I’m confused in 10 different ways here",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Sinceramente, tô confuso de umas 10 maneiras diferentes aqui",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7tka2",
+    "split": "dev",
+    "line_idx": 2598,
+    "original_text": "That’d what you think.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É o que você pensa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eds8fkh",
+    "split": "dev",
+    "line_idx": 2599,
+    "original_text": "The mindset that feminism has instilled them with: entitlement.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A mentalidade que o feminismo incutiu nelas: achar que têm direito a tudo.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

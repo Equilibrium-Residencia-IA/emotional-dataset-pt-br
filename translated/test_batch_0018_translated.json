@@ -1,0 +1,611 @@
+[
+  {
+    "id": "ef1m9la",
+    "split": "test",
+    "line_idx": 900,
+    "original_text": "Trinity: Ru: >THIS IS THE TOP LEVEL DRAG YOURE DOING IT HERE RIGHT NOW",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Trinity: Ru: >ISSO É DRAG DE ALTO NÍVEL VOCÊ TÁ FAZENDO ISSO AQUI AGORA",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeuz29s",
+    "split": "test",
+    "line_idx": 901,
+    "original_text": "I’ve learned to just laugh these off, and try not to dwell on them. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aprendi a só rir dessas coisas e tentar não ficar noiado com isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3kag6",
+    "split": "test",
+    "line_idx": 902,
+    "original_text": "It’s a nice basket.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É uma cesta bonita.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekdonu",
+    "split": "test",
+    "line_idx": 903,
+    "original_text": "Maybe he *did* leave the building. If you can't find him, he could've left without you knowing. Is that better or worse?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Talvez ele *tenha* saído do prédio. Se você não consegue achar ele, ele pode ter saído sem você saber. Isso é melhor ou pior?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edvdy44",
+    "split": "test",
+    "line_idx": 904,
+    "original_text": "Threatening to drive your sisters into the ocean is illegal. It's called making a terroristic threat or menacing and can cause her to lose access to your sisters",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Ameaçar jogar o carro no mar com as suas irmãs dentro é crime. Isso se enquadra como ameaça terrorista ou intimidação e pode fazer ela perder o direito de ver as suas irmãs",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelmvui",
+    "split": "test",
+    "line_idx": 905,
+    "original_text": "Ok google it then. 🤦🏼‍♀️",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Beleza, dá um google então. 🤦🏼‍♀️",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efam1r7",
+    "split": "test",
+    "line_idx": 906,
+    "original_text": "Haha yes! Ill do that to my cat all the time. He seeems to appreciate the assist",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha sim! Faço isso com o meu gato direto. Ele parece curtir a ajudinha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeenvvq",
+    "split": "test",
+    "line_idx": 907,
+    "original_text": "Yep, minimizing massively",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sim, minimizando pra caramba",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef91a2o",
+    "split": "test",
+    "line_idx": 908,
+    "original_text": "But a worker who earns wealth can invest it and become a capital investor. In that case he is literally providing the capital.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Mas um trabalhador que junta patrimônio pode investir e virar um investidor de capital. Nesse caso, ele literalmente tá fornecendo o capital.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmuxrd",
+    "split": "test",
+    "line_idx": 909,
+    "original_text": "Thanks very much, so do I! :)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado, eu também! :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczlc6s",
+    "split": "test",
+    "line_idx": 910,
+    "original_text": "To be fair, I’m not slaughtering my own food ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra ser justo, eu não abato a minha própria comida",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjcva3",
+    "split": "test",
+    "line_idx": 911,
+    "original_text": "Yeah, I always thought [NAME] would be an improved [NAME]. It's a damn shame we haven't thrown to him more often.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Pois é, eu sempre achei que o [NAME] seria uma versão melhorada do [NAME]. É uma pena danada que a gente não tenha lançado mais a bola pra ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3dz69",
+    "split": "test",
+    "line_idx": 912,
+    "original_text": "Been saying horford has been overrated since he got that fat contract",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Venho dizendo que o Horford é superestimado desde que ele pegou aquele contrato gordo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2f59i",
+    "split": "test",
+    "line_idx": 913,
+    "original_text": "Wow you think 15 downvotes in Reddit from the YIMBY cult has any meaning? I didn't say anything pertaining to economics.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Nossa, você acha que 15 downvotes no Reddit vindos da seita YIMBY significam alguma coisa? Eu nem falei nada sobre economia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7d0w7",
+    "split": "test",
+    "line_idx": 914,
+    "original_text": "It’s funny because this is the summary of most discussion posts on this sub",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É engraçado porque esse é o resumo da maioria dos posts de discussão deste sub",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eei41e2",
+    "split": "test",
+    "line_idx": 915,
+    "original_text": "Wow they got them [NAME]? Those US agents are some lucky guys",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, pegaram o [NAME] deles? Esses agentes dos EUA são uns caras de sorte",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4mye9",
+    "split": "test",
+    "line_idx": 916,
+    "original_text": "The black beans were there hidden within the rice!! :) gotta love those legumes",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "O feijão preto tava escondido no meio do arroz!! :) tem como não amar essas leguminosas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeirjs2",
+    "split": "test",
+    "line_idx": 917,
+    "original_text": "Anything intelligent to say, sometime maybe perhaps?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Alguma coisa inteligente pra falar, em algum momento, quem sabe?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpt47k",
+    "split": "test",
+    "line_idx": 918,
+    "original_text": "I’m sorry but [NAME] has better memes",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Foi mal, mas o [NAME] tem memes melhores",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7oraz",
+    "split": "test",
+    "line_idx": 919,
+    "original_text": "Ranked #3 edge defender in the NFL, 25 years old, and makes our division rival weaker",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Classificado como 3º melhor edge defender da NFL, 25 anos, e ainda enfraquece o rival da nossa divisão",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe4nw7",
+    "split": "test",
+    "line_idx": 920,
+    "original_text": "Loved it!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amei!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed19k48",
+    "split": "test",
+    "line_idx": 921,
+    "original_text": "“[NAME], I tried to make ramen in the coffee pot and I broke everything” - [NAME]",
+    "emotion_ids": "9,24",
+    "emotions": [
+      "disappointment",
+      "remorse"
+    ],
+    "translated_text": "“[NAME], eu tentei fazer miojo na cafeteira e quebrei tudo” - [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3fkca",
+    "split": "test",
+    "line_idx": 922,
+    "original_text": "This made me snort while laughing. Well done!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Essa me fez roncar de tanto rir. Mandou bem!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2v6ac",
+    "split": "test",
+    "line_idx": 923,
+    "original_text": "Congratulations mate!!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Parabéns, meu parceiro!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8hesy",
+    "split": "test",
+    "line_idx": 924,
+    "original_text": "She looks just like that dude from Santa Clarita Diet",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela é a cara daquele cara de Santa Clarita Diet",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu4dq8",
+    "split": "test",
+    "line_idx": 925,
+    "original_text": "> pushed all of them Hey dumbass you pushed the emergency button",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "> apertou todos eles Ô energúmeno, você apertou o botão de emergência",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4d4wa",
+    "split": "test",
+    "line_idx": 926,
+    "original_text": "shes married to the [NAME] the singer from silverchair",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ela é casada com o [NAME], o vocalista do silverchair",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejple1",
+    "split": "test",
+    "line_idx": 927,
+    "original_text": "The edit... what? Why is he playing on an account that was registered by someone else?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A edição... o quê? Por que ele tá jogando numa conta que foi criada por outra pessoa?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edocl7i",
+    "split": "test",
+    "line_idx": 928,
+    "original_text": "It's still interesting to watch though ... from far away, with no personal involvement whatsoever.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ainda assim é interessante de assistir... de longe, sem nenhum envolvimento pessoal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8wetr",
+    "split": "test",
+    "line_idx": 929,
+    "original_text": "Shaving her legs, hoping the video didn’t cut short and that’s all she shaved in there....",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Depilando as pernas, torcendo pro vídeo não ter cortado antes e isso ter sido tudo o que ela depilou ali...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4oii3",
+    "split": "test",
+    "line_idx": 930,
+    "original_text": "THE PACK RUNS DEEP AND HARD. I WOULD SHARE MY KRAFT MAC AND CHEESE WITH YOU ANY DAY. AROOOOOOOOO",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A MATILHA CORRE JUNTO E PESADO. EU DIVIDIRIA MEU MACARRÃO COM QUEIJO KRAFT CONTIGO A QUALQUER HORA. AUUUUUUUUU",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee51m6c",
+    "split": "test",
+    "line_idx": 931,
+    "original_text": "I know, there isn't even a 7 in it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu sei, não tem nem um 7 ali.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ediocbf",
+    "split": "test",
+    "line_idx": 932,
+    "original_text": "Great post thank you ❤️",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Ótimo post, obrigado ❤️",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8o43a",
+    "split": "test",
+    "line_idx": 933,
+    "original_text": "\"what you want\" is a populated, limited set, and thus discrete.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "\"o que você quer\" é um conjunto populado e limitado, portanto discreto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi6635",
+    "split": "test",
+    "line_idx": 934,
+    "original_text": "Thanks man, my brother and my girlfriend just told me to laugh it off; but the thought doesn't stop haunting me. ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, cara, meu irmão e minha namorada só me disseram pra rir disso; mas esse pensamento não para de me assombrar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9wi54",
+    "split": "test",
+    "line_idx": 935,
+    "original_text": "I dont think thats too far off. There are 200k homes in most suburbs.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não acho que esteja tão longe assim. Tem 200 mil casas na maioria dos subúrbios.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ecziwwe",
+    "split": "test",
+    "line_idx": 936,
+    "original_text": "It would be really bad for relations between the two cities if we took Memphis' NBA team.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Seria péssimo pras relações entre as duas cidades se a gente pegasse o time da NBA de Memphis.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrdmm0",
+    "split": "test",
+    "line_idx": 937,
+    "original_text": "Really? wow. I just reinstalled chrome from scratch, again. So it was Ghostery that caused the full screen issues?",
+    "emotion_ids": "22,26",
+    "emotions": [
+      "realization",
+      "surprise"
+    ],
+    "translated_text": "Sério? Nossa. Eu acabei de reinstalar o Chrome do zero, de novo. Então era o Ghostery que tava causando os problemas de tela cheia?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjhfz7",
+    "split": "test",
+    "line_idx": 938,
+    "original_text": "At home with a viral infection right now! Praying for death and to the god of paracetamol. Ugh.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Em casa com uma virose agora! Rezando pela morte e pro deus do paracetamol. Que saco.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesem2o",
+    "split": "test",
+    "line_idx": 939,
+    "original_text": "Thank you for posting this. I never heard this particular interview before.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado por postar isso. Eu nunca tinha ouvido essa entrevista específica antes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3w6ic",
+    "split": "test",
+    "line_idx": 940,
+    "original_text": "Just got a bit worried because it's always showed up instantly for me before",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Só fiquei um pouco preocupado porque sempre aparecia na hora pra mim antes",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9jihh",
+    "split": "test",
+    "line_idx": 941,
+    "original_text": "As a Cardinals man i agree, makes me want to deck the cunt but hes huge and i love him, so conflicted",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Como torcedor dos Cardinals eu concordo, dá vontade de quebrar esse arrombado na porrada, mas ele é gigante e eu amo ele, tô tão dividido",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6zzxx",
+    "split": "test",
+    "line_idx": 942,
+    "original_text": "That windshield crack from his skull!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aquele trinco no para-brisa foi com a cabeça dele!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edx3pze",
+    "split": "test",
+    "line_idx": 943,
+    "original_text": "Yay, coming out is hard, you're lucky that they didnt avoid you for the next month, I'm happy for you",
+    "emotion_ids": "5,17,23",
+    "emotions": [
+      "caring",
+      "joy",
+      "relief"
+    ],
+    "translated_text": "Aêê, se assumir é foda, que sorte a sua que eles não te evitaram pelo mês seguinte, fico muito feliz por você",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eea2j7t",
+    "split": "test",
+    "line_idx": 944,
+    "original_text": "i hate [NAME] and 20 good men",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "eu odeio [NAME] e 20 homens bons",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee43ak8",
+    "split": "test",
+    "line_idx": 945,
+    "original_text": "Personally I would take some time to myself and work on spending time with my family since I love them more than my job.",
+    "emotion_ids": "5,18",
+    "emotions": [
+      "caring",
+      "love"
+    ],
+    "translated_text": "Pessoalmente, eu tiraria um tempo pra mim e focaria em passar um tempo com a minha família, já que eu amo eles mais do que o meu trabalho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edppe95",
+    "split": "test",
+    "line_idx": 946,
+    "original_text": "She is during her week of taking sugar pills. Yea I do wish she had mentioned it anyway, I can’t sleep",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Ela tá na semana de tomar as pílulas de açúcar. É, queria que ela tivesse avisado mesmo assim, não tô conseguindo dormir",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepff84",
+    "split": "test",
+    "line_idx": 947,
+    "original_text": "She’s gonna spend all her time whining about [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela vai passar o tempo todo enchendo o saco por causa de [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednq034",
+    "split": "test",
+    "line_idx": 948,
+    "original_text": "Thank you. Edit: I have cancer now",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. Edit: tô com câncer agora",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4vo6e",
+    "split": "test",
+    "line_idx": 949,
+    "original_text": "As it should be. Great.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Como deve ser. Maravilha.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "id": "ed8lefg",
+    "split": "dev",
+    "line_idx": 1800,
+    "original_text": "[NAME], you are a freak.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], você é uma aberração.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeo1gdm",
+    "split": "dev",
+    "line_idx": 1801,
+    "original_text": "Why [NAME] over [NAME]?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que o [NAME] em vez do [NAME]?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedujvp",
+    "split": "dev",
+    "line_idx": 1802,
+    "original_text": "Thanks for the advice",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pelo conselho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmjhic",
+    "split": "dev",
+    "line_idx": 1803,
+    "original_text": "hope so! Gfinity3 at the copperbox was an incredible event/atmosphere",
+    "emotion_ids": "0,20",
+    "emotions": [
+      "admiration",
+      "optimism"
+    ],
+    "translated_text": "espero que sim! O Gfinity3 no copperbox foi um evento/clima incrível",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer5voe",
+    "split": "dev",
+    "line_idx": 1804,
+    "original_text": "Unfortunately, this sub is slowly being populated by prequel revisionists and the good-ol-day guys. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Infelizmente, esse sub tá sendo tomado aos poucos por revisionistas das prequels e a galera do \"no meu tempo que era bom\".",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edv4zav",
+    "split": "dev",
+    "line_idx": 1805,
+    "original_text": "[NAME] just stopped getting the ball in the 4th quarter and stood in the corner",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] simplesmente parou de receber a bola no 4º quarto e ficou plantado no canto",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwoojh",
+    "split": "dev",
+    "line_idx": 1806,
+    "original_text": "So glad you got justice and closure. You can properly begin to heal now. I’m not sure I ever will get the same sadly",
+    "emotion_ids": "17,25",
+    "emotions": [
+      "joy",
+      "sadness"
+    ],
+    "translated_text": "Que bom que você conseguiu justiça e encerramento. Agora você pode finalmente começar a se curar. Infelizmente, não tenho certeza se algum dia vou conseguir o mesmo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9vzc6",
+    "split": "dev",
+    "line_idx": 1807,
+    "original_text": "This did not age well lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Isso aqui envelheceu mal demais kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeive97",
+    "split": "dev",
+    "line_idx": 1808,
+    "original_text": "You are welcome mr/ms [NAME]",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "De nada, sr./sra. [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef2u76v",
+    "split": "dev",
+    "line_idx": 1809,
+    "original_text": "Just a heads up that’s not what neoliberalism is.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só avisando que neoliberalismo não é isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpl1jz",
+    "split": "dev",
+    "line_idx": 1810,
+    "original_text": "What do you mean?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que você quer dizer?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtzrwa",
+    "split": "dev",
+    "line_idx": 1811,
+    "original_text": "Sure hoping so!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Com certeza torcendo pra isso!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqdbf4",
+    "split": "dev",
+    "line_idx": 1812,
+    "original_text": "Damn. r/murderedbywords",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Caramba. r/murderedbywords",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2746s",
+    "split": "dev",
+    "line_idx": 1813,
+    "original_text": "Wasn't getting anywhere to begin with, might as well have some toxic fun with it.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Já não tava indo a lugar nenhum mesmo, então bora se divertir sendo tóxico.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed10iw1",
+    "split": "dev",
+    "line_idx": 1814,
+    "original_text": "Sorry to hear that brother! Solid advice and power and love to you. Here is knowing things will get better and that you're a champ!",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Sinto muito por isso, irmão! Conselho certeiro, força e amor pra você. A certeza aqui é que as coisas vão melhorar e que você é um guerreiro!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edz5qmp",
+    "split": "dev",
+    "line_idx": 1815,
+    "original_text": "New Houston foodies here that make Youtube videos on food primarily on Houston spots. Would love some honest feedback!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Novos criadores gastronômicos de Houston por aqui, fazemos vídeos pro YouTube sobre comida, focando principalmente nos points de Houston. Adoraríamos um feedback sincero!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrvbkf",
+    "split": "dev",
+    "line_idx": 1816,
+    "original_text": "I was thinking the same thing. It does make me wonder how whomever leaked it, obtained a copy in the first place. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu tava pensando a mesma coisa. Mas fico me perguntando como quem vazou conseguiu uma cópia pra começo de conversa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edn3nhp",
+    "split": "dev",
+    "line_idx": 1817,
+    "original_text": "That was a joke omg",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Era brincadeira mds",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddsbut",
+    "split": "dev",
+    "line_idx": 1818,
+    "original_text": "you’re beautiful",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "você é linda",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edf0z4b",
+    "split": "dev",
+    "line_idx": 1819,
+    "original_text": "It was never about comparisons, it was about our experiences and relationship to capitalists here.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nunca foi sobre comparações, foi sobre as nossas experiências e nossa relação com os capitalistas daqui.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcc5nb",
+    "split": "dev",
+    "line_idx": 1820,
+    "original_text": "Now someone mod danganronpa 2 so everytime [NAME] says hope its actually \"AHHH HAHA! Thats hot!\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora alguém faz um mod de danganronpa 2 pra toda vez que o [NAME] disser hope ser na verdade \"AHHH HAHA! Thats hot!\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed720rh",
+    "split": "dev",
+    "line_idx": 1821,
+    "original_text": "I'm not trying to address the whole issue. I'm just trying to suggest that there might be unintended consequences that lead to even less public discourse.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não tô tentando resolver a questão toda. Só tô querendo sugerir que podem haver consequências indesejadas que levem a ainda menos debate público.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelij99",
+    "split": "dev",
+    "line_idx": 1822,
+    "original_text": "Thanks for you wisdom man I really appreciate your advice.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pela sabedoria, cara, agradeço demais pelo conselho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe52gf",
+    "split": "dev",
+    "line_idx": 1823,
+    "original_text": "I have no answers for you, but I send you warm enfolding hugs of understanding and light. Peace to you.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não tenho respostas pra você, mas te envio abraços calorosos e acolhedores de compreensão e luz. Paz pra você.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5vbm2",
+    "split": "dev",
+    "line_idx": 1824,
+    "original_text": "He has a prog rock album.. its horrific",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Ele tem um álbum de rock progressivo.. é medonho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9es9p",
+    "split": "dev",
+    "line_idx": 1825,
+    "original_text": "Masha'Allah that he performed this, yet I disagree in it being the most beautiful. ",
+    "emotion_ids": "0,10",
+    "emotions": [
+      "admiration",
+      "disapproval"
+    ],
+    "translated_text": "Masha'Allah que ele fez isso, mas discordo de que seja o mais bonito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5x68x",
+    "split": "dev",
+    "line_idx": 1826,
+    "original_text": "Dude, grammar.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mano, gramática.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelec4b",
+    "split": "dev",
+    "line_idx": 1827,
+    "original_text": "We got fucked",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "A gente se fodeu",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevgy92",
+    "split": "dev",
+    "line_idx": 1828,
+    "original_text": "He does not want to hear the plans that will work though.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas ele não quer ouvir os planos que vão dar certo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3yiz5",
+    "split": "dev",
+    "line_idx": 1829,
+    "original_text": "I clicked tive times on the Facebook like Button",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cliquei cinco vezes no botão de curtir do Facebook",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efaxvrg",
+    "split": "dev",
+    "line_idx": 1830,
+    "original_text": "I love it when people delete their whiny comments and then try to reply with something snarky",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adoro quando as pessoas apagam os comentários de mimimi delas e depois tentam responder com alguma gracinha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee6hwxc",
+    "split": "dev",
+    "line_idx": 1831,
+    "original_text": "Just wanna say I appreciate you posting these videos every few days!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Só queria dizer que eu curto muito você postar esses vídeos a cada poucos dias!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerfbw0",
+    "split": "dev",
+    "line_idx": 1832,
+    "original_text": "Sucks dude. For social creatures we're pretty inept at socialising and helping each other.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Foda, cara. Pra seres sociais, a gente é bem incompetente em socializar e ajudar uns aos outros.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edax07j",
+    "split": "dev",
+    "line_idx": 1833,
+    "original_text": "Seriously Creepy.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Sinistro pra caralho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef28b6o",
+    "split": "dev",
+    "line_idx": 1834,
+    "original_text": "I have that same desk from Amazon. Great desk.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu tenho essa mesma mesa da Amazon. Excelente mesa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edu0neq",
+    "split": "dev",
+    "line_idx": 1835,
+    "original_text": "I’m with you on that I suppose. Can only hope for the best.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tô com você nessa, imagino. Só resta torcer pelo melhor.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed94ld9",
+    "split": "dev",
+    "line_idx": 1836,
+    "original_text": "What? /s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quê? /s",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eey2wp0",
+    "split": "dev",
+    "line_idx": 1837,
+    "original_text": "Imagine if you lived here and these people were your parents. Welcome to my reality.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Imagina se você morasse aqui e essas pessoas fossem seus pais. Bem-vindo à minha realidade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef0y357",
+    "split": "dev",
+    "line_idx": 1838,
+    "original_text": "I've been a libertarian on this sub since I joined reddit 3 years ago. This is either my first or second most commented sub",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu sou libertário nesse sub desde que entrei no Reddit há 3 anos. Esse é o meu primeiro ou segundo sub onde mais comento",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee84vhh",
+    "split": "dev",
+    "line_idx": 1839,
+    "original_text": "The lunatic is on the grass.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O louco está na grama.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeggbes",
+    "split": "dev",
+    "line_idx": 1840,
+    "original_text": "To say the \"New Jersey area\" lost 5700 millionaires and then explain that that includes New York City is silly.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dizer que a \"região de Nova Jersey\" perdeu 5.700 milionários e depois explicar que isso inclui a cidade de Nova York é ridículo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1sdeo",
+    "split": "dev",
+    "line_idx": 1841,
+    "original_text": "Congrats on your commission, do your best!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Parabéns pela sua promoção de patente, dê o seu melhor!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrjm8l",
+    "split": "dev",
+    "line_idx": 1842,
+    "original_text": "Only >!best boys!< get in this sandwich",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só os >!melhores garotos!< entram nesse sanduíche",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een361l",
+    "split": "dev",
+    "line_idx": 1843,
+    "original_text": "200 likes already? Can we keep it going! Upvote! Upvote! Upvote! Enough upvotes and we will get the community involved.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "200 curtidas já? Bora manter o ritmo! Upvote! Upvote! Upvote! Se tiver upvote suficiente a gente traz a comunidade pra participar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef6bvg6",
+    "split": "dev",
+    "line_idx": 1844,
+    "original_text": "But how can someone not be gender critical and yet claim to be a radical feminist? I’m genuinely confused.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Mas como alguém pode não ser crítico de gênero e ainda assim dizer que é feminista radical? Tô sinceramente confuso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5bqzb",
+    "split": "dev",
+    "line_idx": 1845,
+    "original_text": "at least give the penguin some scritches, as it said no matter what they do, it would head to the mountain anyways 😭",
+    "emotion_ids": "8,20",
+    "emotions": [
+      "desire",
+      "optimism"
+    ],
+    "translated_text": "pelo menos faz um cafuné no pinguim, já que ele disse que não importava o que fizessem, ele iria em direção à montanha de qualquer jeito 😭",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edq51n7",
+    "split": "dev",
+    "line_idx": 1846,
+    "original_text": "Doesn't matter, you don't deserve an advantage over everyone else just because you have a disability. Edit: Lol, downvoted for stating a fact.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não interessa, você não merece ter vantagem sobre todo mundo só porque tem uma deficiência. Edit: Kkkk, levei downvote por falar uma verdade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef19ua6",
+    "split": "dev",
+    "line_idx": 1847,
+    "original_text": "haha not bad my man",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "haha mandou bem, meu mano",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddtyen",
+    "split": "dev",
+    "line_idx": 1848,
+    "original_text": "\"the unemployment rate is so low because everyone has two jobs\" - AOC , Economics 100",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"a taxa de desemprego tá tão baixa porque todo mundo tem dois empregos\" - AOC, Economia 101",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefoi23",
+    "split": "dev",
+    "line_idx": 1849,
+    "original_text": "Dad had a heart attack, but he'd been in a fight. Unfortunate circumstances. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Meu pai teve um ataque cardíaco, mas tinha entrado numa briga. Fatalidade.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "id": "eev3yus",
+    "split": "train",
+    "line_idx": 23550,
+    "original_text": "I'm surprised no one posted a Meat thread yet...",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Tô surpreso que ninguém ainda fez um thread sobre carne...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eedvdg1",
+    "split": "train",
+    "line_idx": 23551,
+    "original_text": "A slum level flat with too many roommates.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Um apê de nível favela com colegas de quarto demais.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeuku5e",
+    "split": "train",
+    "line_idx": 23552,
+    "original_text": "I'd worry about traffic more than the TSA.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Eu me preocuparia mais com o trânsito do que com a TSA.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edohqjh",
+    "split": "train",
+    "line_idx": 23553,
+    "original_text": "Came here looking for the knowitall that explains the difference. Disapointed in reddit today.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Vim aqui procurando o sabichão que explica a diferença. Decepcionado com o Reddit hoje.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef0w4pt",
+    "split": "train",
+    "line_idx": 23554,
+    "original_text": "no worries, just clean your room",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "sem estresse, só arruma teu quarto",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed6ry31",
+    "split": "train",
+    "line_idx": 23555,
+    "original_text": "Sorry if I was insulting, I just took your post as some commie type smugly trolling how stupid [NAME] is ",
+    "emotion_ids": "9,24",
+    "emotions": [
+      "disappointment",
+      "remorse"
+    ],
+    "translated_text": "Desculpa se pareci insultar, só levei teu post como aquele comunista todo espertinho tirando sarro de como o [NAME] é idiota",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edgz7r8",
+    "split": "train",
+    "line_idx": 23556,
+    "original_text": "Repost. But still nuce.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Repost. Mas ainda tá massa.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeg27oo",
+    "split": "train",
+    "line_idx": 23557,
+    "original_text": "now that you say it, i can't unsee it...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "agora que você falou, não consigo mais desver...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee5s0j7",
+    "split": "train",
+    "line_idx": 23558,
+    "original_text": "He can hook him up with a pink blouse. Courtesy of big mamma.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele pode dar a ele uma blusa rosa. Cortesia da mamãe grande.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eead67g",
+    "split": "train",
+    "line_idx": 23559,
+    "original_text": "Wow, this is terrifying.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Caramba, isso é assustador.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eey5o05",
+    "split": "train",
+    "line_idx": 23560,
+    "original_text": "My landlord had one outside my apartment for a while...this went up in my window for a few days. LOL",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu dono de casa tinha um desses do lado do meu apê por um tempo... isso subiu na minha janela por uns dias. LOL",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eee37c1",
+    "split": "train",
+    "line_idx": 23561,
+    "original_text": "He goes after my Wisconsin teams all the time... so I live that one haha. Pisses me off but still love em",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "Ele sempre zoa meus times de Wisconsin... então eu vivo isso, haha. Me irrita, mas ainda amo eles",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed72jqu",
+    "split": "train",
+    "line_idx": 23562,
+    "original_text": "Yeah but then C diff turns into the hulk and then we’re REALLY screwed",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, mas aí o C diff vira o Hulk e a gente tá REALMENTE ferrado",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eef78gb",
+    "split": "train",
+    "line_idx": 23563,
+    "original_text": "Intrusive thoughts happen in anxiety disorders, although I'm not sure if that's what you're describing here",
+    "emotion_ids": "6,19",
+    "emotions": [
+      "confusion",
+      "nervousness"
+    ],
+    "translated_text": "Pensamentos intrusivos rolam em transtornos de ansiedade, embora eu não tenha certeza se é isso que você tá descrevendo",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee4ej03",
+    "split": "train",
+    "line_idx": 23564,
+    "original_text": "I could crush him like a bug right now.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu poderia esmagá‑lo como um inseto agora mesmo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee1mjff",
+    "split": "train",
+    "line_idx": 23565,
+    "original_text": "Can't remember how many times i died there. Death is easy if you keep spamming holy water in the corner",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Não lembro quantas vezes morri lá. Morrer é fácil se você ficar jogando água benta no canto",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eexbanq",
+    "split": "train",
+    "line_idx": 23566,
+    "original_text": "I'm hoping it's more statistical noise at this point still, but it's definitely worrying.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Tô na esperança de que ainda seja só ruído estatístico, mas tá realmente preocupante.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee1clns",
+    "split": "train",
+    "line_idx": 23567,
+    "original_text": "So uncharacteristic for an INTJ but country music is my favorite genre!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Super fora do padrão pra um INTJ, mas música country é meu gênero favorito!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edl0owx",
+    "split": "train",
+    "line_idx": 23568,
+    "original_text": "Sorry, didn’t realize I was talking to a fan of the prestigious UCLA Bruins football program.",
+    "emotion_ids": "22,25",
+    "emotions": [
+      "realization",
+      "sadness"
+    ],
+    "translated_text": "Desculpa, não percebi que eu tava falando com um fã do prestigioso programa de futebol dos UCLA Bruins.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee62tdm",
+    "split": "train",
+    "line_idx": 23569,
+    "original_text": "And [NAME] solid one-word sentences",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E o [NAME] com frases de uma palavra só",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eduduat",
+    "split": "train",
+    "line_idx": 23570,
+    "original_text": "How aren’t you in fucking school",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Como é que você não tá na porra da escola?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed9n50o",
+    "split": "train",
+    "line_idx": 23571,
+    "original_text": "nice shot of that full moon on the first day of winter!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "belíssima foto da lua cheia no primeiro dia do inverno!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eexggk3",
+    "split": "train",
+    "line_idx": 23572,
+    "original_text": "Strange how you know they are 16...",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Estranho como você sabe que eles têm 16...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efdeesu",
+    "split": "train",
+    "line_idx": 23573,
+    "original_text": "Thanks :)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu :)",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee1o6vs",
+    "split": "train",
+    "line_idx": 23574,
+    "original_text": "The last message was particularly painful to read",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "A última mensagem foi especialmente dolorosa de ler",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeark3o",
+    "split": "train",
+    "line_idx": 23575,
+    "original_text": "Can’t wait till they oversell it once again. Never change.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mal posso esperar pra eles exagerarem de novo. Nunca mudam.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed8huva",
+    "split": "train",
+    "line_idx": 23576,
+    "original_text": "[NAME]. What a time to be alive.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]. Que época pra viver.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4cava",
+    "split": "train",
+    "line_idx": 23577,
+    "original_text": "It was on a washed out road in the at 2am. Which makes it even worse. They never should have been towing that vic.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Foi numa estrada alagada às 2h da manhã. O que piora ainda mais. Nunca deveriam ter rebocado aquele carro.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef4e4oo",
+    "split": "train",
+    "line_idx": 23578,
+    "original_text": "Wow this is pretty interesting. We should have a thread about what's it like to grow up in a polygamous household",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Caraca, isso é bem interessante. Deveria ter um thread sobre como é crescer numa família poligâmica",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efbr6gt",
+    "split": "train",
+    "line_idx": 23579,
+    "original_text": "Who hurt you",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem te machucou?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efavjox",
+    "split": "train",
+    "line_idx": 23580,
+    "original_text": "Almost heaven...",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Quase o paraíso...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eekwv92",
+    "split": "train",
+    "line_idx": 23581,
+    "original_text": "Yeah, that's why I'm not feeling like there's much I can do except vent.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "É, por isso não sinto que tenho muito o que fazer além de desabafar.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4pqxa",
+    "split": "train",
+    "line_idx": 23582,
+    "original_text": "They certainly haven't re-used a plot reveal that is now 40 years old.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles definitivamente não reutilizaram um plot twist que já tem 40 anos.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eev5frt",
+    "split": "train",
+    "line_idx": 23583,
+    "original_text": "Yeah, I actually like the combination of the two styles of names thought. Love the LAFC and the LA Galaxy...lol",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "Na real eu curto a combinação dos dois estilos de nomes. Amo o LAFC e o LA Galaxy... lol",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee2b1px",
+    "split": "train",
+    "line_idx": 23584,
+    "original_text": "Everybody seems to be lost.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Todo mundo parece estar perdido.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edl79um",
+    "split": "train",
+    "line_idx": 23585,
+    "original_text": "A girl that ugly only liking me isn't a compliment its an insult and it shows [NAME] hates me",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Uma garota tão feia só curtindo eu não é elogio, é insulto e mostra que o [NAME] me odeia",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed6pjh6",
+    "split": "train",
+    "line_idx": 23586,
+    "original_text": "Drive thru is the worst. The number of times people would sneeze in my face at the window was infuriating.",
+    "emotion_ids": "2,11",
+    "emotions": [
+      "anger",
+      "disgust"
+    ],
+    "translated_text": "Drive‑thru é o pior. A quantidade de vezes que a galera espirrava na minha cara na janela era irritante.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed2nn1n",
+    "split": "train",
+    "line_idx": 23587,
+    "original_text": "Watch Dortmund sign the better player in [NAME] to replace him...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Assistam o Dortmund contratar o melhor jogador do [NAME] pra substituir ele...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eczocof",
+    "split": "train",
+    "line_idx": 23588,
+    "original_text": "Definitely accurate, lasted about a month total in a Disney “internship” program... was more like slavery. Terrible experience that ruined Disney for me",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Com certeza preciso, durou tipo um mês num programa de \"estágio\" da Disney... era mais escravidão. Experiência terrível que arruinou a Disney pra mim",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed04n3g",
+    "split": "train",
+    "line_idx": 23589,
+    "original_text": "I hate to be that guy, but there are 6’0” + women",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Detesto ser esse cara, mas tem mulher de 1,85m+",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee3uqcz",
+    "split": "train",
+    "line_idx": 23590,
+    "original_text": "it made me cry too when [NAME] return to her older self😢",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "me fez chorar também quando o [NAME] voltou ao seu eu mais velho 😢",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee7k5n6",
+    "split": "train",
+    "line_idx": 23591,
+    "original_text": "Well said, being alone is a stronger feeling than love! ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Muito bem dito, estar sozinho é um sentimento mais forte que o amor!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeyod7q",
+    "split": "train",
+    "line_idx": 23592,
+    "original_text": "It’s a wonder [NAME] didn’t get more duis with the amount he needed to drink",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "É um milagre o [NAME] não ter tomado mais DUIs com a quantidade que ele bebeu",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4mn6u",
+    "split": "train",
+    "line_idx": 23593,
+    "original_text": "My husband’s mental health issues caused our divorce. If you need a friend or a listening ear, pm me. I hope things improve!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Os problemas de saúde mental do meu marido causaram nosso divórcio. Se precisar de um amigo ou de alguém pra ouvir, me manda PM. Espero que as coisas melhorem!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee4e2ol",
+    "split": "train",
+    "line_idx": 23594,
+    "original_text": "The soft glam palette from ABH, because almost everyone loves it. And I love it too. I am actually loving it more than my modern renaissance 😊",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "A paleta soft glam da ABH, porque quase todo mundo ama. E eu também adoro. Tô amando mais que meu modern renaissance 😊",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eequmpz",
+    "split": "train",
+    "line_idx": 23595,
+    "original_text": "Gotta hang tough",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem que segurar firme",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efg0zbt",
+    "split": "train",
+    "line_idx": 23596,
+    "original_text": "You’re a stud 🙌🏻",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você é um monstro 🙌🏻",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef8heu8",
+    "split": "train",
+    "line_idx": 23597,
+    "original_text": "Yes. Then then dead teammate has to spectate for 20min. This is no where near as bad on PC as console.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim. Aí o companheiro morto tem que ficar assistindo por 20 min. Isso não é nem perto de ser tão ruim no PC quanto no console.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee5547e",
+    "split": "train",
+    "line_idx": 23598,
+    "original_text": "Her husband is disgusting. I can’t even look at the cute baby when his face is in the shot.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "O marido dela é nojento. Não consigo nem olhar o bebê fofo quando o rosto dele aparece na foto.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efe65nt",
+    "split": "train",
+    "line_idx": 23599,
+    "original_text": "Black Mirror is great.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Black Mirror é ótimo.",
+    "translator": "openai/gpt-oss-120b"
+  }
+]

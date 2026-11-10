@@ -1,0 +1,610 @@
+[
+  {
+    "id": "eeydfpr",
+    "split": "train",
+    "line_idx": 24050,
+    "original_text": "Well that isn't fucking creepy.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pô, isso não é nada assustador.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed35uf6",
+    "split": "train",
+    "line_idx": 24051,
+    "original_text": "Can’t see him doing well in the premier league tbh. Wouldn’t be surprised if he ends up wishing he stayed at Dortmund.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Não vejo ele se dando bem na Premier, pra ser sincero. Não ia me surpreender se ele acabar desejando ter ficado no Dortmund.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeyov2a",
+    "split": "train",
+    "line_idx": 24052,
+    "original_text": "2009. What a year to be a 10 year old",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "2009. Que ano pra ser criança de 10 anos.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee3n98j",
+    "split": "train",
+    "line_idx": 24053,
+    "original_text": "Nice try Gillette",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Boa tentativa, Gillette.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed5by1p",
+    "split": "train",
+    "line_idx": 24054,
+    "original_text": "WITH not without",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "COM, não sem.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4c8ce",
+    "split": "train",
+    "line_idx": 24055,
+    "original_text": "Taking a charge up 30. I love this team",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Subindo a carga até 30. Amo esse time.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef24unk",
+    "split": "train",
+    "line_idx": 24056,
+    "original_text": "She look like any dude I use to battle rap with",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela parece qualquer cara que eu costumava batalhar no rap.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edmvrbq",
+    "split": "train",
+    "line_idx": 24057,
+    "original_text": "Being with someone else means nothing, he seems like he might be abusive in the future. You did the right thing cutting him off.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ficar com outra pessoa não significa nada, ele parece que pode ser abusivo no futuro. Você fez a escolha certa ao cortar ele.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef6obiu",
+    "split": "train",
+    "line_idx": 24058,
+    "original_text": "Do you know what caused the relapse? Identify the cause of failure so you won't repeat the same mistake.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você sabe o que causou a recaída? Identifique a causa da falha pra não repetir o mesmo erro.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeriu27",
+    "split": "train",
+    "line_idx": 24059,
+    "original_text": "what a lovely gift, you are blessed my friend, she picked you!!!! use it in good health",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Que presente lindo, você é abençoado, meu amigo, ela te escolheu!!!! Use com saúde.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed1fe2y",
+    "split": "train",
+    "line_idx": 24060,
+    "original_text": "Ahhh I misread your comment as “If I noticed a car on a flat bed with no straps.”",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Ahhh eu li seu comentário como “Se eu vi um carro numa carroça sem cintas.”",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ees0axf",
+    "split": "train",
+    "line_idx": 24061,
+    "original_text": "This is like taking over a buddy's girlfriend so that he can hook up with the girl you really wanted in the first place.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É tipo tomar a namorada do brother pra poder ficar com a garota que você realmente queria desde o começo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eebdr8x",
+    "split": "train",
+    "line_idx": 24062,
+    "original_text": "Thanks to me, my grandma now refers to to [NAME] as \"the lizard\".",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Graças a mim, minha avó agora chama o [NAME] de \"o lagarto\".",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eegpcu3",
+    "split": "train",
+    "line_idx": 24063,
+    "original_text": "Exactly my point",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Exatamente o que eu falei.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eelrul8",
+    "split": "train",
+    "line_idx": 24064,
+    "original_text": "Man, I miss those days. LA is pretty much dead now.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Cara, sinto falta desses dias. LA tá praticamente morta agora.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edin3sj",
+    "split": "train",
+    "line_idx": 24065,
+    "original_text": "I love how it stops just before the impact",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adoro como para bem antes do impacto.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed2cn32",
+    "split": "train",
+    "line_idx": 24066,
+    "original_text": "You're not [NAME]. [NAME] not Asian You seriously never noticed? Hey, hats off to you for not seeing race. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não é o [NAME]. [NAME] não é asiático. Sério que nunca percebeu? Valeu por não enxergar raça.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edi1l6p",
+    "split": "train",
+    "line_idx": 24067,
+    "original_text": "Being so rare and only giving you bad luck? Fake news",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Ser tão raro e ainda trazer azar? Fake news.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed5wdvt",
+    "split": "train",
+    "line_idx": 24068,
+    "original_text": "Thank you for these helpful points. I’ll read them again later.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelos pontos úteis. Vou reler depois.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eedaspx",
+    "split": "train",
+    "line_idx": 24069,
+    "original_text": "My man's on the left looks like he's trying too guard precious",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Meu mano da esquerda parece que tá tentando proteger o precioso demais.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edm96e5",
+    "split": "train",
+    "line_idx": 24070,
+    "original_text": "What year did I wake up in?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Em que ano eu acordei?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eerspng",
+    "split": "train",
+    "line_idx": 24071,
+    "original_text": "Why does everyone keep assuming that we’ll suddenly sign big name FA’s? This is a terrible idea.",
+    "emotion_ids": "7,14",
+    "emotions": [
+      "curiosity",
+      "fear"
+    ],
+    "translated_text": "Por que todo mundo fica achando que a gente vai assinar FA’s de peso de repente? Ideia péssima.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eda8ivi",
+    "split": "train",
+    "line_idx": 24072,
+    "original_text": "Love [NAME]. Amazing beaches!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Amo o [NAME]. Praias incríveis!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efcx38n",
+    "split": "train",
+    "line_idx": 24073,
+    "original_text": "I'm already tall, I just need to stop being a lanky scarecrow... at least I got good hips",
+    "emotion_ids": "20,21",
+    "emotions": [
+      "optimism",
+      "pride"
+    ],
+    "translated_text": "Já sou alto, só preciso parar de ser aquele espantalho magrelo... pelo menos tenho quadril bom.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eew6uem",
+    "split": "train",
+    "line_idx": 24074,
+    "original_text": "When was this? Is it in opposition to the coup?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Quando foi isso? É contra o golpe?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edmhbae",
+    "split": "train",
+    "line_idx": 24075,
+    "original_text": "> Why do you think you're in financial hell? He spends the rest on drugs according to his post history.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "> Por que você acha que tá na merda financeira? Ele gasta o resto em drogas, segundo o histórico dele.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edc5p8u",
+    "split": "train",
+    "line_idx": 24076,
+    "original_text": "Seriously, old friends talking about massive life developments when they see each other again isn't bad this is silly.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sério, amigos velhos falando de mudanças de vida gigantes quando se reencontram não é ruim, isso é ridículo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eea4fr0",
+    "split": "train",
+    "line_idx": 24077,
+    "original_text": "It is pretty funny. Our wives cannot stand when we're all together because it's all we talk about lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É bem engraçado. Nossas esposas não aguentam quando a gente tá todo mundo junto porque é disso que a gente fala lol",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee1sz53",
+    "split": "train",
+    "line_idx": 24078,
+    "original_text": "And how often the Asian guy is the token gay guy (especially since Uncle George came out). What I would give for more Asian romantic leads!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E quantas vezes o cara asiático vira o gay de apoio (especialmente depois que o tio George assumiu). O que eu daria por mais protagonistas românticos asiáticos!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edrir5m",
+    "split": "train",
+    "line_idx": 24079,
+    "original_text": "Focus on yourself and not on finding a relationship. It sounds like you have a lot of personal issues to work on and are projecting your problems.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Foca em você e não em achar um relacionamento. Parece que você tem muitos problemas pessoais pra resolver e tá projetando suas questões.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "effgmrh",
+    "split": "train",
+    "line_idx": 24080,
+    "original_text": "Love the guy complaining the panel is stacked against the rich what with all the high tax rhetoric. *The WORLD is stacked against the rest of us.*",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amo o cara reclamando que o painel tá contra os ricos com todo esse papo de impostos altos. *O MUNDO tá contra o resto da gente.*",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eev0ya6",
+    "split": "train",
+    "line_idx": 24081,
+    "original_text": "🎶Living in America🎶",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "🎶Vivendo na América🎶",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4gkcb",
+    "split": "train",
+    "line_idx": 24082,
+    "original_text": "I’m sticking by what I said.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu continuo firme no que eu disse.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eer9t7j",
+    "split": "train",
+    "line_idx": 24083,
+    "original_text": "If the anime really ends that way there’s no way I see [NAME] and [NAME] get back together.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se o anime acabar assim, não vejo o [NAME] e o [NAME] voltarem juntos.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efar486",
+    "split": "train",
+    "line_idx": 24084,
+    "original_text": "I don't have children yet so I will just have a long conversation with my balls tonight",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Ainda não tenho filhos, então vou ter uma longa conversa com meus testículos hoje à noite.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edfd1ic",
+    "split": "train",
+    "line_idx": 24085,
+    "original_text": "Yeah they taste so fake!!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Sim, eles têm gosto tão fake!!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edq79xi",
+    "split": "train",
+    "line_idx": 24086,
+    "original_text": "Thank [NAME] , surprising he doesn't want the mets deal",
+    "emotion_ids": "15,26",
+    "emotions": [
+      "gratitude",
+      "surprise"
+    ],
+    "translated_text": "Obrigado [NAME], surpreendente que ele não queira o acordo com os Mets.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efgyzd1",
+    "split": "train",
+    "line_idx": 24087,
+    "original_text": "They mean that too often, people would accidentally reflect. Tbh, it was pretty useless imo",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles dizem isso com muita frequência, as pessoas acabam refletindo sem querer. Sinceramente, foi meio inútil na minha opinião.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eedqefe",
+    "split": "train",
+    "line_idx": 24088,
+    "original_text": "It still seems Fairy popular, I might get it. Thanks for the tip!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ainda parece que Fairy tá popular, talvez eu compre. Valeu a dica!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eczex23",
+    "split": "train",
+    "line_idx": 24089,
+    "original_text": "E - Either we turn it around and make the playoffs or tank and [NAME] gets fired so win win right?",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "E - Ou viramos o jogo e vamos aos playoffs ou tankamos e o [NAME] é demitido, então ganha-ganha, né?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edngce9",
+    "split": "train",
+    "line_idx": 24090,
+    "original_text": "Yes, I know. But thanks, no damage to the second car and just some scratches on mine.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sim, eu sei. Mas valeu, nada de dano no segundo carro, só uns arranhões no meu.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeifvpo",
+    "split": "train",
+    "line_idx": 24091,
+    "original_text": "I did not post this. I really do find it funny tho",
+    "emotion_ids": "1,10",
+    "emotions": [
+      "amusement",
+      "disapproval"
+    ],
+    "translated_text": "Eu não postei isso. Mas achei bem engraçado mesmo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed499jn",
+    "split": "train",
+    "line_idx": 24092,
+    "original_text": "Just found my new phone background. This is amazing, keep it up!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Acabei de achar meu novo fundo de tela. Isso é incrível, continue assim!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eda9ahb",
+    "split": "train",
+    "line_idx": 24093,
+    "original_text": "I know right? Getting that wrong would’ve de-railed the joke.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Eu sei, né? Errar isso teria estragado a piada.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed3j353",
+    "split": "train",
+    "line_idx": 24094,
+    "original_text": "I wonder if that was the original plan or if [NAME] just realized what [NAME] talked about and threw in that note to explain it.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Será que esse era o plano original ou o [NAME] só percebeu o que o [NAME] falou e jogou aquela nota pra explicar?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edozzab",
+    "split": "train",
+    "line_idx": 24095,
+    "original_text": "What? I don’t just want to sleep with him. I want more idk... I value myself",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O quê? Eu não quero só dormir com ele. Quero mais, sei lá... Eu me valorizo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef3q11i",
+    "split": "train",
+    "line_idx": 24096,
+    "original_text": "Yeah they look very buff",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, eles parecem bem musculosos.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed0y2su",
+    "split": "train",
+    "line_idx": 24097,
+    "original_text": "Hahaha okay that actually made me laugh. Thanks man",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "Hahaha ok, isso realmente me fez rir. Valeu, mano.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee85fmg",
+    "split": "train",
+    "line_idx": 24098,
+    "original_text": "I'm a girl and got the belt for doing something similar with another girl.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sou menina e levei a cinta por fazer algo parecido com outra garota.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eel7dma",
+    "split": "train",
+    "line_idx": 24099,
+    "original_text": "That sounds frustrating!",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Isso parece frustrante!",
+    "translator": "openai/gpt-oss-120b"
+  }
+]

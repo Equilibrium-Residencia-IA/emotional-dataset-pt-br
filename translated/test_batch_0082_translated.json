@@ -1,0 +1,613 @@
+[
+  {
+    "id": "eebx7x7",
+    "split": "test",
+    "line_idx": 4100,
+    "original_text": "Because they are triggered. I’m just stating my opinion. It’s a bit fun.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Porque eles ficaram putos. Eu só tô dando a minha opinião. É até meio divertido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1kg09",
+    "split": "test",
+    "line_idx": 4101,
+    "original_text": "That's the problem I'm pointing, the media use stupid clicbait names and people get dumber and dumber.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Esse é o problema que tô apontando, a mídia usa esses nomes idiotas de clickbait e as pessoas vão ficando cada vez mais burras.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeun2hx",
+    "split": "test",
+    "line_idx": 4102,
+    "original_text": "I think the driver had the heart attack. She did not even give him a wave and a thank you for not smashing her precious child.",
+    "emotion_ids": "9,15",
+    "emotions": [
+      "disappointment",
+      "gratitude"
+    ],
+    "translated_text": "Acho que quem teve um ataque cardíaco foi o motorista. Ela nem deu um tchauzinho ou agradeceu a ele por não passar por cima da criança preciosa dela.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5nfbq",
+    "split": "test",
+    "line_idx": 4103,
+    "original_text": "One of the best pubs in London. Even more likely inside!!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Um dos melhores pubs de Londres. Mais provável ainda lá dentro!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edt640l",
+    "split": "test",
+    "line_idx": 4104,
+    "original_text": "\"You're my best friend in the whole world Mister [NAME].\" *meows for food*",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "\"Você é meu melhor amigo no mundo inteiro, Senhor [NAME].\" *mia pedindo comida*",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlqazg",
+    "split": "test",
+    "line_idx": 4105,
+    "original_text": "You know what to do. Start telling people.",
+    "emotion_ids": "5,22",
+    "emotions": [
+      "caring",
+      "realization"
+    ],
+    "translated_text": "Você sabe o que fazer. Comece a contar pras pessoas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu0qyz",
+    "split": "test",
+    "line_idx": 4106,
+    "original_text": "Hope all is well now xo",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Espero que esteja tudo bem agora bjuss",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7niut",
+    "split": "test",
+    "line_idx": 4107,
+    "original_text": "Ugh I'm sorry man! Jerk off until your heart is content and don't apologize for it!",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Putz, sinto muito, cara! Bate uma até não aguentar mais e não peça desculpas por isso!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqpmkt",
+    "split": "test",
+    "line_idx": 4108,
+    "original_text": "HER VOICE IS SO GOOD no wonder she likes phone calls",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "A VOZ DELA É BOA DEMAIS não é à toa que ela curte chamadas de voz",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eea17fw",
+    "split": "test",
+    "line_idx": 4109,
+    "original_text": "But it flattens the whole thing out.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas isso deixa tudo plano.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm5qv7",
+    "split": "test",
+    "line_idx": 4110,
+    "original_text": "Deathly afraid, the undersides of boats too. I can't look if I see them in a picture or movie",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Morro de medo, da parte de baixo dos barcos também. Não consigo nem olhar se vejo numa foto ou filme",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq2jyu",
+    "split": "test",
+    "line_idx": 4111,
+    "original_text": "If everyone else can figure this out, then I don't see why it's so implausible for the US.",
+    "emotion_ids": "6,10",
+    "emotions": [
+      "confusion",
+      "disapproval"
+    ],
+    "translated_text": "Se todo mundo consegue resolver isso, então não vejo por que seria tão implausível pros EUA.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efamfy4",
+    "split": "test",
+    "line_idx": 4112,
+    "original_text": "Does a civil suit create legal precedence? Edit: I'm assuming it's a civil suit.",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Um processo civil cria precedente jurídico? Edit: Tô supondo que seja um processo civil.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edd0jx1",
+    "split": "test",
+    "line_idx": 4113,
+    "original_text": "Also Strike Anywhere. This thread makes my heart happy. <3",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Strike Anywhere também. Essa thread deixa meu coração quentinho. <3",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeemmwk",
+    "split": "test",
+    "line_idx": 4114,
+    "original_text": "I’ve not had it happen on mobile but that is because I use apollo. This happens on desktop",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Comigo não rolou no celular, mas é porque eu uso o Apollo. Isso acontece no PC",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefxn5s",
+    "split": "test",
+    "line_idx": 4115,
+    "original_text": "Conservative is massively brigaded on an hourly basis. Unfortunately, it requires strict moderation or else it is unreadable.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "O Conservative sofre brigading em massa a cada hora. Infelizmente, exige uma moderação rigorosa, senão fica ilegível.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eek2ntl",
+    "split": "test",
+    "line_idx": 4116,
+    "original_text": "I love [NAME]. He’s just going to keep getting better.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu adoro o [NAME]. Ele só vai melhorar cada vez mais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1ryif",
+    "split": "test",
+    "line_idx": 4117,
+    "original_text": "Omg, your screen name made me lol!!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Mddc, seu nick me fez rir alto!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq0fdr",
+    "split": "test",
+    "line_idx": 4118,
+    "original_text": "That is not accurate based on the conversation i had with Mr. [NAME] today.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso não tá certo, com base na conversa que tive com o Sr. [NAME] hoje.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbzsc2",
+    "split": "test",
+    "line_idx": 4119,
+    "original_text": "Ah does look fun",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ah, parece bem divertido",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedsu17",
+    "split": "test",
+    "line_idx": 4120,
+    "original_text": "My point was they had no choice but to pull social levers to try and improve health, as they didn't have anything else at their disposal. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que eu quis dizer é que eles não tinham escolha a não ser recorrer a medidas sociais pra tentar melhorar a saúde, já que não tinham mais nada à disposição.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelbr0z",
+    "split": "test",
+    "line_idx": 4121,
+    "original_text": "I'd smash",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu macetava",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edyl3x9",
+    "split": "test",
+    "line_idx": 4122,
+    "original_text": "How can we send money to you?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Como a gente pode te mandar dinheiro?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edvwmos",
+    "split": "test",
+    "line_idx": 4123,
+    "original_text": "Enjoy the void",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aproveite o vazio",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee6b97a",
+    "split": "test",
+    "line_idx": 4124,
+    "original_text": "[NAME] is still mad at [NAME] either way.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] continua com raiva de [NAME] de qualquer jeito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjh2ja",
+    "split": "test",
+    "line_idx": 4125,
+    "original_text": "That whole thread makes me want to shake babies.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Essa thread inteira me dá vontade de chacoalhar bebês.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee451sg",
+    "split": "test",
+    "line_idx": 4126,
+    "original_text": "As a Ringwraith this offends me. Please build me a snowfort.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como um Espectro do Anel, eu me sinto ofendido. Por favor, construa um forte de neve pra mim.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqwha5",
+    "split": "test",
+    "line_idx": 4127,
+    "original_text": "i would agree with that. i still dont see a good reason not to provide daycare though.",
+    "emotion_ids": "4,10",
+    "emotions": [
+      "approval",
+      "disapproval"
+    ],
+    "translated_text": "eu concordaria com isso. mas ainda não vejo um bom motivo pra não oferecer creche.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eewjd3i",
+    "split": "test",
+    "line_idx": 4128,
+    "original_text": "Glad you came to your senses. Go feel uncomfortable about Lola bunny in Space Jam again.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Que bom que você caiu em si. Volta lá a ficar desconfortável com a Lola Bunny em Space Jam.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef50zaj",
+    "split": "test",
+    "line_idx": 4129,
+    "original_text": "Yep California, I would've been surprised if they cleared him.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É, Califórnia... eu ficaria surpreso se tivessem absolvido ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edozbj0",
+    "split": "test",
+    "line_idx": 4130,
+    "original_text": "Did you even read the post? Literally the first line says she doesn't do anything remotely house wifey.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você ao menos leu o post? Literalmente a primeira linha diz que ela não faz nada nem remotamente parecido com dona de casa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemtsrk",
+    "split": "test",
+    "line_idx": 4131,
+    "original_text": "Psst, your spoiler tag is busted. Don't leave spaces between the ! and your text.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Psiu, sua tag de spoiler quebrou. Não deixa espaço entre o ! e o texto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeaj34s",
+    "split": "test",
+    "line_idx": 4132,
+    "original_text": "so true lmao",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "muito vdd kkkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee560ot",
+    "split": "test",
+    "line_idx": 4133,
+    "original_text": "LSD or the fungal kind? Out of curiosity",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "LSD ou de fungo? Só por curiosidade",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef46fcb",
+    "split": "test",
+    "line_idx": 4134,
+    "original_text": "That doesn’t seem like very responsible presentation of findings.",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Não parece uma forma muito responsável de apresentar os resultados.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edh5ho0",
+    "split": "test",
+    "line_idx": 4135,
+    "original_text": "Sure that's a good way. Unfortunately, I am not a gamer per se.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Com certeza é um bom caminho. Infelizmente, eu não sou exatamente um gamer.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edvapuo",
+    "split": "test",
+    "line_idx": 4136,
+    "original_text": "god damn this is some major league pathos",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "caralho, isso é comoção no mais alto nível",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeuhgqn",
+    "split": "test",
+    "line_idx": 4137,
+    "original_text": "Tell him his Gospels lack integrity due to their anonymity 😭😭😭😭😭😭😭😭",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Diz pra ele que os Evangelhos dele não têm credibilidade por serem anônimos 😭😭😭😭😭😭😭😭",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfup7i",
+    "split": "test",
+    "line_idx": 4138,
+    "original_text": "Nope, not a [NAME] fan at all.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, não sou fã de [NAME] de jeito nenhum.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "een5sns",
+    "split": "test",
+    "line_idx": 4139,
+    "original_text": "I know they are treated very well, but some of them do die.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu sei que eles são super bem tratados, mas alguns morrem sim.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetlif1",
+    "split": "test",
+    "line_idx": 4140,
+    "original_text": "Left or right, doesn't matter, just laugh at statists on all sides ",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Esquerda ou direita, tanto faz, o negócio é rir de estatista de todos os lados",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexapep",
+    "split": "test",
+    "line_idx": 4141,
+    "original_text": "I love how his armor got bigger and bigger as he got progressively fatter.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adoro como a armadura dele foi ficando cada vez maior conforme ele foi engordando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eef4572",
+    "split": "test",
+    "line_idx": 4142,
+    "original_text": "These memes are either on a 9gag level or r/funny levels of comedy. And I can't tell which is worse.",
+    "emotion_ids": "6,11,27",
+    "emotions": [
+      "confusion",
+      "disgust",
+      "neutral"
+    ],
+    "translated_text": "Esses memes estão num nível de comédia tipo 9gag ou r/funny. E eu não sei qual é pior.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelfjvg",
+    "split": "test",
+    "line_idx": 4143,
+    "original_text": "talking about me again?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "falando de mim de novo?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeaveb6",
+    "split": "test",
+    "line_idx": 4144,
+    "original_text": "Yes! Dont you love to let babies suck you with a perfect jawline!",
+    "emotion_ids": "3,7",
+    "emotions": [
+      "annoyance",
+      "curiosity"
+    ],
+    "translated_text": "Sim! Você não adora deixar bebês mamarem em você com uma mandíbula perfeita!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3cz1p",
+    "split": "test",
+    "line_idx": 4145,
+    "original_text": "[NAME] said that it was recorded the monday after [NAME], that's why his voice is like that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] disse que foi gravado na segunda-feira depois do [NAME], por isso a voz dele tá daquele jeito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbhwg7",
+    "split": "test",
+    "line_idx": 4146,
+    "original_text": "It doesn’t look cool",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não fica legal",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8latb",
+    "split": "test",
+    "line_idx": 4147,
+    "original_text": "Sorry, new at ",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa, sou novo no",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednk0nk",
+    "split": "test",
+    "line_idx": 4148,
+    "original_text": "Feel free to leave.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Fique à vontade para sair.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5lxb7",
+    "split": "test",
+    "line_idx": 4149,
+    "original_text": "Sorry for the bad analogy, yours is way better",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa pela analogia ruim, a sua é bem melhor",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

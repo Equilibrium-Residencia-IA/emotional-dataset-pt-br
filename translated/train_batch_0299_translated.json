@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ef74i0h",
+    "split": "train",
+    "line_idx": 14950,
+    "original_text": "Should I say (sent to all) after I say snap back to snap more?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Devo dizer (enviado pra geral) depois que eu digo \"snap back\" pra \"snap more\"?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeywntq",
+    "split": "train",
+    "line_idx": 14951,
+    "original_text": "Enter trier [NAME] isn’t a starting level pg he’s better off in the g league playing 30+mpg every game with a big role",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Entrar no trier [NAME] não é nível iniciante, pg, ele tá melhor na G League jogando 30+ mpg todo jogo com papel importante",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee36h4i",
+    "split": "train",
+    "line_idx": 14952,
+    "original_text": "we got good at breakaways!!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "A gente ficou bom nos contra-ataques!!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eer2s9p",
+    "split": "train",
+    "line_idx": 14953,
+    "original_text": "This doesn't solve the problem of people using controllers, they make it harder for everyone low rank or not",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso não resolve o problema da galera que usa controle, só deixa tudo mais difícil pra todo mundo, seja rank baixo ou não",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee3iko9",
+    "split": "train",
+    "line_idx": 14954,
+    "original_text": "Idk, my fleshlite addiction is pretty costly",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei, minha dependência de fleshlite tá bem cara",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed81ent",
+    "split": "train",
+    "line_idx": 14955,
+    "original_text": "I guess a little research goes a long way. [NAME] is the last speaker with the 20 dollar example. Stay strong all!",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Acho que um pouquinho de pesquisa ajuda muito. [NAME] foi o último a falar com o exemplo de 20 dólares. Segura firme, galera!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee5dxo3",
+    "split": "train",
+    "line_idx": 14956,
+    "original_text": "Too bad that's not the case. I'm happy I'll one day die.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Pena que não é assim. Tô feliz que um dia eu morra.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed6vidk",
+    "split": "train",
+    "line_idx": 14957,
+    "original_text": "Because killing the same mice twice is very tricky",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Porque matar o mesmo rato duas vezes é muito complicado",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeqkfii",
+    "split": "train",
+    "line_idx": 14958,
+    "original_text": "This offense is just painful to watch.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Essa falta de jeito é dolorosa de assistir.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeoh5uj",
+    "split": "train",
+    "line_idx": 14959,
+    "original_text": "That's the best thing about free will, you don't need an excuse.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Essa é a melhor parte do livre arbítrio, você não precisa de desculpa.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef33st6",
+    "split": "train",
+    "line_idx": 14960,
+    "original_text": "So we got Summer’s model now. Team STRQ flashbacks next volume?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Então agora temos o modelo da Summer. Próximo volume com flashbacks da equipe STRQ?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eet4wlq",
+    "split": "train",
+    "line_idx": 14961,
+    "original_text": "Heh, unfortunately true. Especially with US medical system which mostly refuses euthanasia of any kind.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Heh, infelizmente é verdade. Ainda mais com o sistema de saúde dos EUA que quase nunca aceita eutanásia.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eev51kt",
+    "split": "train",
+    "line_idx": 14962,
+    "original_text": "wow that’s really some hate there. I hated [NAME] in the Office too, but he got okay since the third run",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "wow, que ódio. Eu também odiava o [NAME] no The Office, mas ele ficou ok a partir da terceira temporada",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edv1tf0",
+    "split": "train",
+    "line_idx": 14963,
+    "original_text": "Wait what are the stereotypes? As a bi male I'm a bit curious to find out what others think in like.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Espera, quais são os estereótipos? Como bi masculino, tô curioso pra saber o que a galera pensa.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee7vt3h",
+    "split": "train",
+    "line_idx": 14964,
+    "original_text": "Kill it with fire.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Queime isso com fogo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee4dyfv",
+    "split": "train",
+    "line_idx": 14965,
+    "original_text": "They're playing on their phone and smoking in the toilet too. That's how they take a break. I'd rather take a walk outside personally",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles ficam no celular e fumando no banheiro também. É assim que eles dão um tempo. Eu prefiro dar uma volta lá fora, na boa.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeu03n9",
+    "split": "train",
+    "line_idx": 14966,
+    "original_text": "Plot twist, they're all looking at a mirror because everyone there is a beautiful student",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Plot twist, todo mundo tá olhando pro espelho porque todo mundo ali é um estudante lindo",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edyqpcw",
+    "split": "train",
+    "line_idx": 14967,
+    "original_text": "Well, I guess that explains my gf mood now ",
+    "emotion_ids": "6,22",
+    "emotions": [
+      "confusion",
+      "realization"
+    ],
+    "translated_text": "Bom, acho que isso explica o humor da minha namorada agora",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edbp9mf",
+    "split": "train",
+    "line_idx": 14968,
+    "original_text": "Yeah well you’re a horrible [NAME]",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É, então você é um [NAME] horrível",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eepyvca",
+    "split": "train",
+    "line_idx": 14969,
+    "original_text": "This is an attempted genocide. Genocide happens because of those seeking power, not because of religion or ethnicity or college educations. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é um genocídio planejado. Genocídio rola por causa de quem busca poder, não por religião, etnia ou nível de instrução.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edvad4s",
+    "split": "train",
+    "line_idx": 14970,
+    "original_text": "This is obviously ironic",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é óbvio que é irônico",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eetihm9",
+    "split": "train",
+    "line_idx": 14971,
+    "original_text": "So 7 years of playing the game (started playing at 15 and is 24 now). Ridiculous.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Então 7 anos jogando (comecei aos 15 e agora tenho 24). Ridículo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed05i1t",
+    "split": "train",
+    "line_idx": 14972,
+    "original_text": "Just cleaned my room",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Acabei de limpar meu quarto",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eer0ao4",
+    "split": "train",
+    "line_idx": 14973,
+    "original_text": "Lol at the caption, but I believe it’s Netflix’s new original movie Close.",
+    "emotion_ids": "1,4",
+    "emotions": [
+      "amusement",
+      "approval"
+    ],
+    "translated_text": "Lol na legenda, mas acho que é o novo filme original da Netflix, Close.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edri3ga",
+    "split": "train",
+    "line_idx": 14974,
+    "original_text": "I love posts like this because they make me feel so much better about being vegan.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adoro posts assim, me deixam muito mais confiante de ser vegano.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efemxoy",
+    "split": "train",
+    "line_idx": 14975,
+    "original_text": "So I'm being unsafe. I'll work on that, thanks.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Então eu tô sendo inseguro. Vou melhorar isso, valeu.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "een14sg",
+    "split": "train",
+    "line_idx": 14976,
+    "original_text": "It's crazy, just something small like that, can make a man forget about all his troubles. I wish I new what that felt like 🙄",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "É louco, uma coisinha assim pode fazer um cara esquecer todos os problemas. Queria saber como é isso 🙄",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee4nmzb",
+    "split": "train",
+    "line_idx": 14977,
+    "original_text": "Was he good back then?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ele era bom naquela época?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eehxw06",
+    "split": "train",
+    "line_idx": 14978,
+    "original_text": "I saw the video. It was more awkward than anything.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Vi o vídeo. Foi mais constrangedor que tudo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef8n2u0",
+    "split": "train",
+    "line_idx": 14979,
+    "original_text": "Want to relay that in a coherent message?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Quer colocar isso numa mensagem coerente?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efb2i0r",
+    "split": "train",
+    "line_idx": 14980,
+    "original_text": "Yes you can, you need to worry about em for a little while ago obviously doesn't handle as well as like 500lb heavier.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sim, dá pra, mas tem que se preocupar com isso há um tempo, obviamente não dá pra segurar 500lb a mais.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeg2ht9",
+    "split": "train",
+    "line_idx": 14981,
+    "original_text": "Every time one of our players enter top form they get injured.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Toda vez que um dos nossos jogadores entra em alta forma, ele se lesiona.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eep99wl",
+    "split": "train",
+    "line_idx": 14982,
+    "original_text": "Have a wonderful day.",
+    "emotion_ids": "13,27",
+    "emotions": [
+      "excitement",
+      "neutral"
+    ],
+    "translated_text": "Tenha um dia maravilhoso.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edccca7",
+    "split": "train",
+    "line_idx": 14983,
+    "original_text": "I love this drink.GIF",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amo essa bebida.GIF",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edlki4o",
+    "split": "train",
+    "line_idx": 14984,
+    "original_text": "Who knows. The source and medical journal is about 18 years old. So maybe more research has shined a better light on it since then.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem sabe. A fonte e o artigo médico têm uns 18 anos. Talvez pesquisas novas tenham clareado mais o assunto desde então.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eff7e00",
+    "split": "train",
+    "line_idx": 14985,
+    "original_text": "Seems fun, wonder how she would have ended up if the ca er was not there",
+    "emotion_ids": "1,26",
+    "emotions": [
+      "amusement",
+      "surprise"
+    ],
+    "translated_text": "Parece divertido, imagina como ela teria acabado se o ca não estivesse lá",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edz0zzc",
+    "split": "train",
+    "line_idx": 14986,
+    "original_text": "SDAs are [RELIGION] tho lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "SDAs são [RELIGION] haha",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eek8sfr",
+    "split": "train",
+    "line_idx": 14987,
+    "original_text": "Crowder is terrible... How do you lose that gunfight or not have the common sense to just run away",
+    "emotion_ids": "2,14",
+    "emotions": [
+      "anger",
+      "fear"
+    ],
+    "translated_text": "Crowder é péssimo... Como perder aquele tiroteio ou não ter a mínima noção de fugir?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ees98uk",
+    "split": "train",
+    "line_idx": 14988,
+    "original_text": "**GET OUT NORMIES! OUT!**",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "**SAIAM, NORMIES! SAIAM!**",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeqvwi1",
+    "split": "train",
+    "line_idx": 14989,
+    "original_text": "[NAME] comment has me laughing",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "O comentário do [NAME] me fez rir",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eelmu9t",
+    "split": "train",
+    "line_idx": 14990,
+    "original_text": "Are you located in Wellington? Just interested to see where garage project is available in New Zealand, because i've heard its limited... ",
+    "emotion_ids": "7,13",
+    "emotions": [
+      "curiosity",
+      "excitement"
+    ],
+    "translated_text": "Você mora em Wellington? Só queria saber onde o projeto de garagem tá disponível na Nova Zelândia, porque ouvi dizer que é limitado...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ednrgfx",
+    "split": "train",
+    "line_idx": 14991,
+    "original_text": "If [NAME] gets 350M+ from anyone we should be glad we didn't get him.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Se o [NAME] ganhar 350M+ de alguém, a gente devia ficar feliz por não ter pegado ele.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeplk7f",
+    "split": "train",
+    "line_idx": 14992,
+    "original_text": "I agree. I’d love to keep [NAME] around but recognize it might not be possible.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Concordo. Gostaria de manter o [NAME] por perto, mas sei que pode não ser possível.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edpjwyw",
+    "split": "train",
+    "line_idx": 14993,
+    "original_text": "maybe it's all [NAME] fault",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "talvez seja tudo culpa do [NAME]",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eevadfh",
+    "split": "train",
+    "line_idx": 14994,
+    "original_text": "What?! And you’re not a vegetable?! /s",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "O quê?! E você não é um vegetal?! /s",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eectuqa",
+    "split": "train",
+    "line_idx": 14995,
+    "original_text": "I was in the top 3 on solo and lost solely due to buddy having 2 concussions.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Fiquei no top 3 solo e perdi só porque o parceiro tinha duas concussões.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efb3a88",
+    "split": "train",
+    "line_idx": 14996,
+    "original_text": "Yeah, but you should drive to the road conditions not the speed limit.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, mas você deve dirigir de acordo com as condições da estrada, não só com o limite de velocidade.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eetbnjm",
+    "split": "train",
+    "line_idx": 14997,
+    "original_text": "I know it's possible, but you have to be wayyyy above average alpha type.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sei que dá pra, mas tem que ser muito acima da média, tipo um alfa.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed2dn1w",
+    "split": "train",
+    "line_idx": 14998,
+    "original_text": "I'm just tired of feeling the same way everyday it's really grinding me down, that sucks about your summer school.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Tô cansado de sentir a mesma coisa todo dia, isso tá me desgastando, que chato sua escola de verão.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeq3ope",
+    "split": "train",
+    "line_idx": 14999,
+    "original_text": "As ironic as it sounds but her being a non factor is what ultimately won them the game (compared to inting [NAME])",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Por mais irônico que pareça, o fato dela ser irrelevante foi o que acabou garantindo a vitória (comparado ao [NAME] intando)",
+    "translator": "openai/gpt-oss-120b"
+  }
+]

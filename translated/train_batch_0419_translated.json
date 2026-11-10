@@ -1,0 +1,560 @@
+[
+  {
+    "id": "edinvf9",
+    "split": "train",
+    "line_idx": 20950,
+    "original_text": "I'm sorry. I meant numbers. Where can I see them.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Foi mal. Eu quis dizer números. Onde eu posso ver eles?"
+  },
+  {
+    "id": "eeqrqxe",
+    "split": "train",
+    "line_idx": 20951,
+    "original_text": "I think you two are obligated to go to bed together now.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que vocês dois são obrigados a ir pra cama juntos agora."
+  },
+  {
+    "id": "ed73z6i",
+    "split": "train",
+    "line_idx": 20952,
+    "original_text": "Ha! You're right! I don't know why I assume you were male. Sorry. :)",
+    "emotion_ids": "4,24",
+    "emotions": [
+      "approval",
+      "remorse"
+    ],
+    "translated_text": "Ha! Você tem razão! Não sei por que presumi que você era homem. Desculpa. :)"
+  },
+  {
+    "id": "ef7ttt1",
+    "split": "train",
+    "line_idx": 20953,
+    "original_text": "That’s not true*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso não é verdade*"
+  },
+  {
+    "id": "eezrvz8",
+    "split": "train",
+    "line_idx": 20954,
+    "original_text": "Because the false accusation makes my anxiety worse",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Porque essa acusação falsa piora minha ansiedade"
+  },
+  {
+    "id": "eecpk36",
+    "split": "train",
+    "line_idx": 20955,
+    "original_text": ">not a cure-all. Since we don't have such a thing, is this not the next best option?",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": ">não é uma cura milagrosa. Já que não temos algo assim, essa não seria a segunda melhor opção?"
+  },
+  {
+    "id": "ee6ih28",
+    "split": "train",
+    "line_idx": 20956,
+    "original_text": "Seems familiar",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece familiar"
+  },
+  {
+    "id": "ee5mgg8",
+    "split": "train",
+    "line_idx": 20957,
+    "original_text": "I'm a Bioware fanboy so obviously biased. I even enjoyed Andromeda. Haha.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Sou fanboy da Bioware, então obviamente sou suspeito pra falar. Até curti Andromeda. Haha."
+  },
+  {
+    "id": "ed84i73",
+    "split": "train",
+    "line_idx": 20958,
+    "original_text": "That's no hero to me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra mim, isso não é herói nenhum."
+  },
+  {
+    "id": "ed8ogxv",
+    "split": "train",
+    "line_idx": 20959,
+    "original_text": "Why the downvotes?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por que os downvotes?"
+  },
+  {
+    "id": "ed0r16t",
+    "split": "train",
+    "line_idx": 20960,
+    "original_text": "Ah, I see. I wasn’t sure if I was supposed to make contact. Thanks for the info!",
+    "emotion_ids": "6,15",
+    "emotions": [
+      "confusion",
+      "gratitude"
+    ],
+    "translated_text": "Ah, entendi. Eu não tinha certeza se era pra eu entrar em contato. Valeu pela informação!"
+  },
+  {
+    "id": "eefvctx",
+    "split": "train",
+    "line_idx": 20961,
+    "original_text": "Love it or hate it. That kid is a hero",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Amando ou odiando. Aquele moleque é um herói"
+  },
+  {
+    "id": "edhk4gb",
+    "split": "train",
+    "line_idx": 20962,
+    "original_text": "I sincerely apologize...I’ll delete and please take this upvote",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Peço sinceras desculpas... vou deletar e por favor aceite esse upvote"
+  },
+  {
+    "id": "ef6g9dl",
+    "split": "train",
+    "line_idx": 20963,
+    "original_text": "That was.. very confusing and entirely unhelpful? I read it three times and got nothing from this.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Isso foi... muito confuso e totalmente inútil? Li três vezes e não entendi nada."
+  },
+  {
+    "id": "ee9od0x",
+    "split": "train",
+    "line_idx": 20964,
+    "original_text": "This stinks like Troom Troom",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso tá com cheiro de Troom Troom"
+  },
+  {
+    "id": "eeg8wtf",
+    "split": "train",
+    "line_idx": 20965,
+    "original_text": "Thankyou so much",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado mesmo"
+  },
+  {
+    "id": "efdarg7",
+    "split": "train",
+    "line_idx": 20966,
+    "original_text": "Lol [NAME] must have took [NAME] phone",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lol [NAME] deve ter pegado o celular do [NAME]"
+  },
+  {
+    "id": "ed9sskp",
+    "split": "train",
+    "line_idx": 20967,
+    "original_text": "It doesn’t surprise me given that this is the kind of establishment where staff rape the coma patients.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Não me surpreende, já que esse é o tipo de lugar onde a equipe estupra os pacientes em coma."
+  },
+  {
+    "id": "ee7p08v",
+    "split": "train",
+    "line_idx": 20968,
+    "original_text": "I didn't think it was that bad ><",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Eu não achei tão ruim assim ><"
+  },
+  {
+    "id": "efbztnx",
+    "split": "train",
+    "line_idx": 20969,
+    "original_text": "Thank you so much. I will check them out as well.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado. Vou dar uma olhada neles também."
+  },
+  {
+    "id": "ef4tys1",
+    "split": "train",
+    "line_idx": 20970,
+    "original_text": "That's so sad.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Isso é tão triste."
+  },
+  {
+    "id": "ed4gn8u",
+    "split": "train",
+    "line_idx": 20971,
+    "original_text": "I love trying new foods for the most part",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo experimentar comidas novas na maior parte das vezes"
+  },
+  {
+    "id": "ef9xx4d",
+    "split": "train",
+    "line_idx": 20972,
+    "original_text": "I would suffer a heat stroke or die of diarrhea",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu teria uma insolação ou morreria de diarreia"
+  },
+  {
+    "id": "eeft1cc",
+    "split": "train",
+    "line_idx": 20973,
+    "original_text": "Minus the eyebrows I personally think it’s an attractive look. But the fucking eyebrows ruin it all.",
+    "emotion_ids": "0,2",
+    "emotions": [
+      "admiration",
+      "anger"
+    ],
+    "translated_text": "Tirando as sobrancelhas, pessoalmente acho um visual atraente. Mas as sobrancelhas do caralho estragam tudo."
+  },
+  {
+    "id": "edz08n7",
+    "split": "train",
+    "line_idx": 20974,
+    "original_text": "Sleepy [NAME]?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] com sono?"
+  },
+  {
+    "id": "ee7gcv4",
+    "split": "train",
+    "line_idx": 20975,
+    "original_text": "You too! Yay to a family of choice!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você também! Viva a família que a gente escolhe!"
+  },
+  {
+    "id": "edgtfmo",
+    "split": "train",
+    "line_idx": 20976,
+    "original_text": "I'm glad you called it because it really is a beautiful and beautifully honest statement.",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Fico feliz que você tenha apontado isso, porque é realmente uma declaração linda e lindamente honesta."
+  },
+  {
+    "id": "ee87p8g",
+    "split": "train",
+    "line_idx": 20977,
+    "original_text": "Too bad [NAME] is a bad person if abandoned and tries to kill you as well. Her singing was really nice..",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Pena que a [NAME] é uma pessoa ruim se for abandonada e tenta te matar também. O canto dela era muito bom.."
+  },
+  {
+    "id": "edpdtni",
+    "split": "train",
+    "line_idx": 20978,
+    "original_text": "I was expecting it and I jumped. I don’t even have thlassaphobia lol",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tava esperando e levei um susto. Eu nem tenho talassofobia lol"
+  },
+  {
+    "id": "eez9z4b",
+    "split": "train",
+    "line_idx": 20979,
+    "original_text": "I would never wish for someone to get injured, but an injury needs to happen at the Pro Bowl so they cancel it forever.",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "Eu nunca desejaria que alguém se machucasse, mas uma lesão precisa acontecer no Pro Bowl pra cancelarem essa porra pra sempre."
+  },
+  {
+    "id": "ed8pq7h",
+    "split": "train",
+    "line_idx": 20980,
+    "original_text": "My sentiments.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Penso o mesmo."
+  },
+  {
+    "id": "ef824yl",
+    "split": "train",
+    "line_idx": 20981,
+    "original_text": "Hahaha was this the guy, OP?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Hahaha era esse o cara, OP?"
+  },
+  {
+    "id": "eey3tbb",
+    "split": "train",
+    "line_idx": 20982,
+    "original_text": "PLEASE PLACE YOUR ITEM IN THE BAG. PLEASE PLACE YOUR ITEM IN THE BAG. AN ATTENDANT HAS BEEN NOTIFIED TO ASSIST YOU.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "POR FAVOR, COLOQUE SEU ITEM NA SACOLA. POR FAVOR, COLOQUE SEU ITEM NA SACOLA. UM ATENDENTE FOI NOTIFICADO PARA TE AJUDAR."
+  },
+  {
+    "id": "efd4x1y",
+    "split": "train",
+    "line_idx": 20983,
+    "original_text": "Are you allowed to voice any political opinion on Youtube or are they also censoring based on this?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Você tem permissão pra expressar qualquer opinião política no Youtube ou eles também estão censurando com base nisso?"
+  },
+  {
+    "id": "edrsp55",
+    "split": "train",
+    "line_idx": 20984,
+    "original_text": "Please [NAME] that’s how I want to go!",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Por favor [NAME], é assim que eu quero ir embora!"
+  },
+  {
+    "id": "eelvixz",
+    "split": "train",
+    "line_idx": 20985,
+    "original_text": "\"I suffer from a very sexy learning disability. What do I call it, [NAME]?\"",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "\"Eu sofro de um distúrbio de aprendizagem muito sexy. Como eu chamo isso, [NAME]?\""
+  },
+  {
+    "id": "ef737tw",
+    "split": "train",
+    "line_idx": 20986,
+    "original_text": "He probably got hurt making the video",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Ele provavelmente se machucou fazendo o vídeo"
+  },
+  {
+    "id": "edyywql",
+    "split": "train",
+    "line_idx": 20987,
+    "original_text": "Aye...same",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pois é... eu também"
+  },
+  {
+    "id": "edlcowh",
+    "split": "train",
+    "line_idx": 20988,
+    "original_text": "Oh my bad hahaha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Ah, foi mal hahaha"
+  },
+  {
+    "id": "efbanp1",
+    "split": "train",
+    "line_idx": 20989,
+    "original_text": "Definitely, I also get suspicious when someone tries to be my friend which doesn’t help",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Com certeza, eu também fico desconfiado quando alguém tenta ser meu amigo, o que não ajuda em nada"
+  },
+  {
+    "id": "ed8csgb",
+    "split": "train",
+    "line_idx": 20990,
+    "original_text": "Pretty sure the plate is completely visible in the article...",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Tenho quase certeza de que a placa está totalmente visível no artigo..."
+  },
+  {
+    "id": "eesghmh",
+    "split": "train",
+    "line_idx": 20991,
+    "original_text": "But the keeper wasnt.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas o goleiro não estava."
+  },
+  {
+    "id": "edrrqxr",
+    "split": "train",
+    "line_idx": 20992,
+    "original_text": "What a shame... she was passing really well too...",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Que vergonha... ela tava passando muito bem também..."
+  },
+  {
+    "id": "eebjhs0",
+    "split": "train",
+    "line_idx": 20993,
+    "original_text": "That is not a snake its a tree, it looks like some sort of beach tree to me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aquilo não é uma cobra, é uma árvore, parece algum tipo de árvore de praia pra mim."
+  },
+  {
+    "id": "edbatb6",
+    "split": "train",
+    "line_idx": 20994,
+    "original_text": "Get your nose hair waxed. Trust me on this.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Depila os pelos do nariz com cera. Confia em mim."
+  },
+  {
+    "id": "eeyra7d",
+    "split": "train",
+    "line_idx": 20995,
+    "original_text": "He did great in dodgeball.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele foi muito bem na queimada."
+  },
+  {
+    "id": "efdp1lo",
+    "split": "train",
+    "line_idx": 20996,
+    "original_text": "Lol. That too",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lol. Isso também"
+  },
+  {
+    "id": "efevkx0",
+    "split": "train",
+    "line_idx": 20997,
+    "original_text": "[NAME] looks so fed up with this game. He's going to scream at the whole team after the game.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] parece tão de saco cheio desse jogo. Ele vai gritar com o time inteiro depois da partida."
+  },
+  {
+    "id": "ef8tpl2",
+    "split": "train",
+    "line_idx": 20998,
+    "original_text": "Why did I read “roommate” in the title as “comerade.” How many memes have I viewed?!",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Por que eu li \"roommate\" (colega de quarto) no título como \"comrade\" (camarada)? Quantos memes eu já vi?!"
+  },
+  {
+    "id": "ediidup",
+    "split": "train",
+    "line_idx": 20999,
+    "original_text": "You are [NAME] and I claim my five pounds.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você é o [NAME] e eu reivindico minhas cinco libras."
+  }
+]

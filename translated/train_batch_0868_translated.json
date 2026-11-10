@@ -1,0 +1,123 @@
+[
+  {
+    "id": "eerlirr",
+    "split": "train",
+    "line_idx": 43400,
+    "original_text": "[NAME] was half-blood but it wasn't a smart idea to bring up his father.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O [NAME] era mestiço, mas não era uma boa ideia falar do pai dele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevimah",
+    "split": "train",
+    "line_idx": 43401,
+    "original_text": "You just know they're the same people who call PTSD sufferers cowards, or would make fun of someone having a panic attack.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dá pra ver na cara que é o mesmo tipo de gente que chama quem tem TEPT de covarde, ou que zoaria alguém tendo um ataque de pânico.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efahy50",
+    "split": "train",
+    "line_idx": 43402,
+    "original_text": "I don't know if I'm comfortable with a religion that approves of human sacrifice tbh",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei se me sinto muito confortável com uma religião que aprova sacrifício humano, pra falar a verdade",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehvvsb",
+    "split": "train",
+    "line_idx": 43403,
+    "original_text": "How have [NAME] and [NAME] looked tonight? I was watching the Huskies game during the first period.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Como o [NAME] e o [NAME] jogaram hoje à noite? Eu tava assistindo ao jogo dos Huskies durante o primeiro tempo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8ymm9",
+    "split": "train",
+    "line_idx": 43404,
+    "original_text": "Your paranoia over it seems schizophrenic to me. Just in case you are not, please elaborate on why this is important to society.",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Essa sua paranoia com isso me parece coisa de esquizofrênico. Mas caso você não seja, por favor explique melhor por que isso é importante pra sociedade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edsb738",
+    "split": "train",
+    "line_idx": 43405,
+    "original_text": "Added you mate well I’ve just got the bow and I love the hunting aspect of the game so happily join you hunting and what not",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Te adicionei aí, mano! Bem, acabei de pegar o arco e me amarro na parte de caça do jogo, então com certeza topo jogar com você pra caçar e tal",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7fdou",
+    "split": "train",
+    "line_idx": 43406,
+    "original_text": "Always thought that was funny but is it a reference to anything?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Sempre achei engraçado, mas é referência a alguma coisa?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgbhks",
+    "split": "train",
+    "line_idx": 43407,
+    "original_text": "What are you talking about? Anything bad that happened was [NAME] fault - only good things were [NAME] doing!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Do que você tá falando? Qualquer coisa de ruim que aconteceu foi culpa do [NAME] — só as coisas boas foram feitas pelo [NAME]!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1naf8",
+    "split": "train",
+    "line_idx": 43408,
+    "original_text": "More like a baptism, with sexy results!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Mais pra um batismo, só que com resultados bem sensuais!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eecwmbq",
+    "split": "train",
+    "line_idx": 43409,
+    "original_text": "Enjoy the ride!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Aproveite o passeio!",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

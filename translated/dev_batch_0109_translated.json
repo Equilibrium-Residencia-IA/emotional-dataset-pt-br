@@ -1,0 +1,610 @@
+[
+  {
+    "id": "edttuq9",
+    "split": "dev",
+    "line_idx": 5150,
+    "original_text": "She looks so pretty in that photo.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ela tá tão linda nessa foto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed3muk",
+    "split": "dev",
+    "line_idx": 5151,
+    "original_text": "Thanks for the laugh 😂😂",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela risada 😂😂",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgenh0",
+    "split": "dev",
+    "line_idx": 5152,
+    "original_text": "Have you talked to your group and [NAME] about him?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você já conversou com a sua turma e com [NAME] sobre ele?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edribac",
+    "split": "dev",
+    "line_idx": 5153,
+    "original_text": "[NAME] but probably secondly, [NAME] because I find both so boring.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "[NAME], mas provavelmente em segundo lugar, [NAME], porque acho os dois tão sem graça.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef92ona",
+    "split": "dev",
+    "line_idx": 5154,
+    "original_text": "For some reason I'm reminded of this",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Por algum motivo isso me lembrou disto",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexv0zb",
+    "split": "dev",
+    "line_idx": 5155,
+    "original_text": "Why is this so common? I have a dream and then remember it a couple of weeks later.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que isso é tão comum? Eu tenho um sonho e aí lembro dele umas duas semanas depois.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efavv2e",
+    "split": "dev",
+    "line_idx": 5156,
+    "original_text": "Oh fuck I almost forgot to jerk off and smoke weed today. I'm so forgetful. Appreciate the reminder.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Puta que pariu, quase esqueci de bater uma e fumar maconha hoje. Sou tão esquecido. Valeu pelo lembrete.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3wkkc",
+    "split": "dev",
+    "line_idx": 5157,
+    "original_text": "Are you lost?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você tá perdido?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8hn3s",
+    "split": "dev",
+    "line_idx": 5158,
+    "original_text": "I'm an inspiring man",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Eu sou um homem inspirador",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed02l8f",
+    "split": "dev",
+    "line_idx": 5159,
+    "original_text": "You’re so young! I hope things improve for you. Stick to you plan.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Você é tão novo! Espero que as coisas melhorem pra você. Segue firme no seu plano.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenp4x8",
+    "split": "dev",
+    "line_idx": 5160,
+    "original_text": "YPG has carried out numerous attacks. Yet you seem to judge them on the few messed up things they have done.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "O YPG realizou vários ataques. Ainda assim, você parece julgar eles pelas poucas merdas que fizeram.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedqsvs",
+    "split": "dev",
+    "line_idx": 5161,
+    "original_text": "alright yeah guess i am stupid",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "beleza, é, acho que sou burro mesmo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2xqnl",
+    "split": "dev",
+    "line_idx": 5162,
+    "original_text": "Of course this is the type of dude to CC a .45 caliber.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Claro que esse é o tipo de cara que anda armado com um .45 velado.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eex65le",
+    "split": "dev",
+    "line_idx": 5163,
+    "original_text": "Can anyone share the attitude of the madinans towards [NAME] when he went there?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Alguém pode compartilhar a postura dos habitantes de Medina em relação a [NAME] quando ele foi pra lá?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edk5r7o",
+    "split": "dev",
+    "line_idx": 5164,
+    "original_text": "We use that a lot in the UK too",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "A gente usa muito isso no Reino Unido também",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edw2gad",
+    "split": "dev",
+    "line_idx": 5165,
+    "original_text": "Oh hey this is pretty awesome! I've never seen such a concise itinerary on one page before.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nossa, que massa isso! Nunca vi um roteiro tão direto ao ponto numa página só antes.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edoohgc",
+    "split": "dev",
+    "line_idx": 5166,
+    "original_text": "It says Expect. Which means nothing is official as of right now.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Diz \"Espera-se\". O que significa que nada é oficial até o momento.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efetwh0",
+    "split": "dev",
+    "line_idx": 5167,
+    "original_text": "Now I can’t unhear it...",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Agora não consigo mais desouvir isso...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezi4ba",
+    "split": "dev",
+    "line_idx": 5168,
+    "original_text": "I love this so much. Helpful and hilarious!",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "Amei tanto isso. Útil e hilário!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeudc1b",
+    "split": "dev",
+    "line_idx": 5169,
+    "original_text": "Not when they are written by his lawyers, but he totally wrote 'build the wall crime will fall' and thought it was so clever",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não quando são escritos pelos advogados dele, mas com certeza foi ele quem escreveu 'construa o muro que o crime cai' e achou o cúmulo da genialidade",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed683n0",
+    "split": "dev",
+    "line_idx": 5170,
+    "original_text": "Thanks yeah that sounds good",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, é, parece uma boa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edet9yg",
+    "split": "dev",
+    "line_idx": 5171,
+    "original_text": "I still can't believe I used to watch [NAME] videos",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Ainda não acredito que eu costumava assistir aos vídeos de [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeo2cob",
+    "split": "dev",
+    "line_idx": 5172,
+    "original_text": "These parents probably dress and openly love the kid more",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esses pais provavelmente vestem e amam mais abertamente essa criança",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edo40t7",
+    "split": "dev",
+    "line_idx": 5173,
+    "original_text": "Are you saying you did not expect those bananas?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você tá dizendo que não tava esperando aquelas bananas?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqsf8p",
+    "split": "dev",
+    "line_idx": 5174,
+    "original_text": "Wow, that's clunky.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, que desajeitado.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edec76t",
+    "split": "dev",
+    "line_idx": 5175,
+    "original_text": "Damn. Hope they don’t have children",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Caramba. Espero que eles não tenham filhos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4uq4t",
+    "split": "dev",
+    "line_idx": 5176,
+    "original_text": "I'm also scared.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Eu também tô com medo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehzy4r",
+    "split": "dev",
+    "line_idx": 5177,
+    "original_text": "There’s no such thing as the trauma Olympics. Try some empathy sometime.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não existe essa de Olimpíadas do trauma. Tente ter um pouco de empatia de vez em quando.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer2wi9",
+    "split": "dev",
+    "line_idx": 5178,
+    "original_text": "That cowboy was pretty deft",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Aquele caubói foi bem habilidoso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgd5wy",
+    "split": "dev",
+    "line_idx": 5179,
+    "original_text": "You seem fun.",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "Você parece ser bem divertido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9dtlp",
+    "split": "dev",
+    "line_idx": 5180,
+    "original_text": "I put Norilsk on my phone so I feel better when Chicago is crazy cold",
+    "emotion_ids": "17,23",
+    "emotions": [
+      "joy",
+      "relief"
+    ],
+    "translated_text": "Eu coloquei Norilsk no meu celular pra me sentir melhor quando Chicago tiver um frio de lascar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee57lnr",
+    "split": "dev",
+    "line_idx": 5181,
+    "original_text": "That is the plan!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse é o plano!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedl4j7",
+    "split": "dev",
+    "line_idx": 5182,
+    "original_text": "Yeah I misread",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, eu li errado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee21aee",
+    "split": "dev",
+    "line_idx": 5183,
+    "original_text": "TELL ME MY FUTURE, YOU SORCERER",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "ME CONTE MEU FUTURO, SEU FEITICEIRO",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq586j",
+    "split": "dev",
+    "line_idx": 5184,
+    "original_text": "Actually there are some terminals now that let you disable it lmao. Very sad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Na real, tem uns terminais agora que deixam você desativar isso kkkkk. Muito triste.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eez9uly",
+    "split": "dev",
+    "line_idx": 5185,
+    "original_text": "If the kids are in sports activities you can chat up the other parents.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se as crianças fazem atividades esportivas, você pode puxar papo com os outros pais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edr7xep",
+    "split": "dev",
+    "line_idx": 5186,
+    "original_text": "That's along the lines of what I was thinking, thank you!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Era mais ou menos nessa linha que eu tava pensando, obrigado!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjs9g8",
+    "split": "dev",
+    "line_idx": 5187,
+    "original_text": "Because she's a mediocre writer who got lucky with Harry Potter and is in no way relevant unless she needlessly retcons HP.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque ela é uma escritora medíocre que deu sorte com Harry Potter e não tem relevância nenhuma, a menos que fique fazendo retcon desnecessário em HP.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenubly",
+    "split": "dev",
+    "line_idx": 5188,
+    "original_text": "I had no idea this was a thing!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não fazia ideia de que isso existia!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeakafm",
+    "split": "dev",
+    "line_idx": 5189,
+    "original_text": "Blatant manipulation. Wow!! Who do we report that to?",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Manipulação descarada. Caramba!! Pra quem a gente denuncia isso?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2gjnf",
+    "split": "dev",
+    "line_idx": 5190,
+    "original_text": ">ageism Lol. Nobody's *discriminating against* these folks cuz they're teenagers. Settle it down, mate.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">etarismo Kkkkk. Ninguém tá *discriminando* esse pessoal porque são adolescentes. Baixa a bola aí, parceiro.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edghrs5",
+    "split": "dev",
+    "line_idx": 5191,
+    "original_text": "If only there was a league of sorts of higher ranked play that they could watch. Oh well.",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "Se ao menos existisse tipo uma liga de ranque mais alto que eles pudessem assistir. Mas fazer o que.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednojxz",
+    "split": "dev",
+    "line_idx": 5192,
+    "original_text": "Yeah you’re implying that someone holds the shitty opinion you just made up. Which is basically an attempt to make them look bad. Character assassination.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É, você tá dando a entender que alguém tem essa opinião de merda que você acabou de inventar. O que é basicamente uma tentativa de queimar o filme deles. Difamação pura.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9vd92",
+    "split": "dev",
+    "line_idx": 5193,
+    "original_text": "I should stop jumping in elevators.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu devia parar de pular em elevador.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfnyvo",
+    "split": "dev",
+    "line_idx": 5194,
+    "original_text": "It’s okay bro saints about to beat them 41-3 next week lmao don’t worry",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Relaxa mano, os saints vão arregaçar eles de 41 a 3 semana que vem kkkk esquenta não",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee70r6e",
+    "split": "dev",
+    "line_idx": 5195,
+    "original_text": "Say what? He has been playing for epsilon till now. Never seen some real accusations on him cheating. I think you should read some more.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como é que é? Ele jogou pela epsilon até agora. Nunca vi nenhuma acusação real de ele usar trapaça. Acho que você devia se informar melhor.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer0igi",
+    "split": "dev",
+    "line_idx": 5196,
+    "original_text": "This is great! Can anyone make a request with you to draw?",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ficou ótimo! Qualquer um pode te pedir um desenho?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed4o0i",
+    "split": "dev",
+    "line_idx": 5197,
+    "original_text": "Mafia meme...?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meme de máfia...?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgqj2o",
+    "split": "dev",
+    "line_idx": 5198,
+    "original_text": "I’m so excited for next season. My expectations are slowly climbing.",
+    "emotion_ids": "13,20",
+    "emotions": [
+      "excitement",
+      "optimism"
+    ],
+    "translated_text": "Tô muito empolgado pra próxima temporada. Minhas expectativas estão subindo aos poucos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjfpnv",
+    "split": "dev",
+    "line_idx": 5199,
+    "original_text": "카니발 sounds more like cannibal than carnival.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "카니발 soa mais como canibal do que carnaval.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ef9247g",
+    "split": "test",
+    "line_idx": 1750,
+    "original_text": "The Mavs would probably have to give up some picks as well",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os Mavs provavelmente teriam que abrir mão de algumas escolhas de draft também",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9m8n5",
+    "split": "test",
+    "line_idx": 1751,
+    "original_text": "Good. They can afford it.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Ótimo. Eles têm grana pra isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm5gw8",
+    "split": "test",
+    "line_idx": 1752,
+    "original_text": "You'll find a few down South, too. No surprise.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você vai encontrar alguns lá pro Sul também. Nenhuma surpresa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeb9saw",
+    "split": "test",
+    "line_idx": 1753,
+    "original_text": "I know, I know, but CAN YOU BLAME ME FOR BEING NERVOUS",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Eu sei, eu sei, mas DÁ PRA ME CULPAR POR ESTAR NERVOSO",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi90li",
+    "split": "test",
+    "line_idx": 1754,
+    "original_text": "You are. It's the cat. She looked away right when you turned the camera over towards her. She'd deliberately trying to mislead you.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pois é. É o gato. Ela desviou o olhar bem na hora que você virou a câmera pra ela. Ela tá querendo te enganar de propósito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4nerr",
+    "split": "test",
+    "line_idx": 1755,
+    "original_text": "My wife would say that all of the above and another dozen more are cheating...and she wonders why I’ve fucked other women...",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Minha esposa diria que tudo isso aí em cima e mais uma dúzia de coisas são traição... e ela ainda se pergunta por que eu já comi outras mulheres...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eec3w8z",
+    "split": "test",
+    "line_idx": 1756,
+    "original_text": "Please correct me if I'm wrong, but I thought that the name changes had more to do with legal issues then geographical ones.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por favor me corrijam se eu estiver errado, mas eu achava que as mudanças de nome tinham mais a ver com questões jurídicas do que geográficas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3bjn7",
+    "split": "test",
+    "line_idx": 1757,
+    "original_text": "Exactly. So many people live here because they love public transit. It is an ammenity. NJ is not trying to make a profit from the PATH.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Exatamente. Muita gente mora aqui porque ama transporte público. É um conforto. NJ não tá tentando lucrar com o PATH.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3056i",
+    "split": "test",
+    "line_idx": 1758,
+    "original_text": "And that he’s not white",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "E o fato de que ele não é branco",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeixbxm",
+    "split": "test",
+    "line_idx": 1759,
+    "original_text": "Didn't even take a sip of the wine, and he still got wasted. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nem tomou um gole de vinho e já ficou chapado desse jeito. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5hgei",
+    "split": "test",
+    "line_idx": 1760,
+    "original_text": "This really circled my jerk",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Essa tocou fundo no meu círculo de punheta",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edilkoj",
+    "split": "test",
+    "line_idx": 1761,
+    "original_text": "I try to get close but I get pushed away. I try to back away and now I've just backed away.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tento me aproximar, mas sou afastado. Eu tento me afastar e agora simplesmente me distanciei de vez.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenkjpw",
+    "split": "test",
+    "line_idx": 1762,
+    "original_text": "To match the Mets green st paddy’s jerseys",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra combinar com a camisa verde de St. Patrick do Mets",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7cppv",
+    "split": "test",
+    "line_idx": 1763,
+    "original_text": "Got me spitted coffee all over my phone🤣",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Me fez cuspir café no celular todo🤣",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef25n7n",
+    "split": "test",
+    "line_idx": 1764,
+    "original_text": "I'm my parents' first and only child.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu sou o primeiro e único filho dos meus pais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq098c",
+    "split": "test",
+    "line_idx": 1765,
+    "original_text": "I honestly loved her performance as [NAME] in Scott Pilgrim. But then again I also love Scott Pilgrim so...",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Eu honestamente adorei a atuação dela como [NAME] em Scott Pilgrim. Mas pensando bem, eu também amo Scott Pilgrim, então...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjw23t",
+    "split": "test",
+    "line_idx": 1766,
+    "original_text": "Just like that fucking idiot that was just trying to kidnap that woman, and chased her into a Karate studio... turned out just about the same.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Igualzinho àquele idiota de merda que tentou sequestrar aquela mulher e foi perseguir ela logo dentro de uma academia de caratê... deu quase no mesmo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhg1ez",
+    "split": "test",
+    "line_idx": 1767,
+    "original_text": "Love the alliteration here.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amei a aliteração aqui.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edio9lx",
+    "split": "test",
+    "line_idx": 1768,
+    "original_text": "Try Venezuela. It's your communist utopia in action.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tenta a Venezuela. É a sua utopia comunista na prática.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1r7bj",
+    "split": "test",
+    "line_idx": 1769,
+    "original_text": "I'm not saying to hate them, I'm wondering why this sub just started worshiping them.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Não tô falando pra odiar eles, só tô querendo entender por que esse sub começou a idolatrar eles do nada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbejsl",
+    "split": "test",
+    "line_idx": 1770,
+    "original_text": "Had to sober up before I could figure out YouTube, but that was amazing.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tive que ficar sóbrio antes de conseguir entender o YouTube, mas aquilo foi incrível.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee17ydn",
+    "split": "test",
+    "line_idx": 1771,
+    "original_text": "Ugh. [NAME] [NAME] (another British celeb)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aff. [NAME] [NAME] (outra celebridade britânica)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6jdms",
+    "split": "test",
+    "line_idx": 1772,
+    "original_text": "Why is it that EVERY SINGLE TIME ONE OF THESE HAPPENS I’m only like a day late",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Por que é que TODA SANTA VEZ QUE UMA DESSAS ACONTECE eu chego tipo um dia atrasado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeglpk0",
+    "split": "test",
+    "line_idx": 1773,
+    "original_text": ">Shouldn’t the Bible be infallible No. That would be idolatry. Only [NAME] is infallible,",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">A Bíblia não deveria ser infalível Não. Isso seria idolatria. Só [NAME] é infalível,",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejyop4",
+    "split": "test",
+    "line_idx": 1774,
+    "original_text": "Thanks for the help.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela ajuda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eek6uzl",
+    "split": "test",
+    "line_idx": 1775,
+    "original_text": "It’s the format. It’s like one of those bad [NAME] memes",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É o formato. Parece um daqueles memes ruins de [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeatz37",
+    "split": "test",
+    "line_idx": 1776,
+    "original_text": "He's not sure it's still relevant.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ele não tem certeza se isso ainda é relevante.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeowf30",
+    "split": "test",
+    "line_idx": 1777,
+    "original_text": "Sorry you can’t enjoy things cause other people enjoy them lol. Your loss",
+    "emotion_ids": "1,25",
+    "emotions": [
+      "amusement",
+      "sadness"
+    ],
+    "translated_text": "Pena que você não consegue curtir as coisas só porque os outros tão curtindo kkkk. Pior pra você",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeb4jqw",
+    "split": "test",
+    "line_idx": 1778,
+    "original_text": "My jersey has the great number 10 on it!!",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "A minha camisa tem o glorioso número 10 nas costas!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed75faf",
+    "split": "test",
+    "line_idx": 1779,
+    "original_text": "No doubt would start at wing. We need help there and it would help ease him in",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Com certeza começaria na ponta. A gente precisa de ajuda ali e ajudaria a ir acostumando ele aos poucos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjh8yp",
+    "split": "test",
+    "line_idx": 1780,
+    "original_text": "She was 100% more likable on the tell-all than she was in the show. She may deserve that sweet husband of hers yet!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela tava 100% mais simpática no reencontro do que foi no programa. Ela ainda é capaz de merecer aquele maridão fofo que tem!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeoi9xd",
+    "split": "test",
+    "line_idx": 1781,
+    "original_text": "This just makes me feel inferior at this point.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Isso agora só tá me fazendo sentir inferior.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevmcy1",
+    "split": "test",
+    "line_idx": 1782,
+    "original_text": "Terrible shade of lipstick she's wearing...",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Tom de batom horrível esse que ela tá usando...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemxweq",
+    "split": "test",
+    "line_idx": 1783,
+    "original_text": "If a crime is committed, you can contact the police and report it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se um crime for cometido, você pode entrar em contato com a polícia e denunciar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlg2g9",
+    "split": "test",
+    "line_idx": 1784,
+    "original_text": "Right. The mantra at my school is that we don't give grades, kids earn them.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Exato. O lema na minha escola é que a gente não dá nota, os alunos é que conquistam.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgdc1b",
+    "split": "test",
+    "line_idx": 1785,
+    "original_text": "Lmao, your joke did not go unnoticed to me!",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkkk, a sua piada não passou despercebida por mim não!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew2h48",
+    "split": "test",
+    "line_idx": 1786,
+    "original_text": "All I can say is.. good luck bro",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tudo o que eu posso dizer é... boa sorte mano",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeozdy2",
+    "split": "test",
+    "line_idx": 1787,
+    "original_text": "Hm, I haven’t heard that opinion before but it sounds good. Thanks for the advice!",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Hum, nunca tinha ouvido essa opinião antes, mas parece boa. Valeu pelo conselho!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efczfib",
+    "split": "test",
+    "line_idx": 1788,
+    "original_text": "We were all that way when we were 17 too",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente também era assim com 17 anos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eer5uny",
+    "split": "test",
+    "line_idx": 1789,
+    "original_text": "Oh of course!",
+    "emotion_ids": "4,22,26",
+    "emotions": [
+      "approval",
+      "realization",
+      "surprise"
+    ],
+    "translated_text": "Ah, claro!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee6ygil",
+    "split": "test",
+    "line_idx": 1790,
+    "original_text": "I think most of these pictures would be much scarier if we had the perspective of the guy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que a maioria dessas fotos seria bem mais assustadora se a gente tivesse a perspectiva do cara",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejga22",
+    "split": "test",
+    "line_idx": 1791,
+    "original_text": "Hurr durr everyone needs to worry about other people’s problems",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Hurr durr todo mundo precisa se preocupar com os problemas dos outros",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0eze5",
+    "split": "test",
+    "line_idx": 1792,
+    "original_text": "Before he was riding a Bronco he was riding your mom.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Antes de montar num Bronco ele tava montando na sua mãe.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef335nm",
+    "split": "test",
+    "line_idx": 1793,
+    "original_text": "Physical copies at my preffered online retailer actually sold out. Its crazy. For all platforms.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "As cópias físicas na loja online que eu costumo comprar esgotaram de verdade. Bizarro. Pra todas as plataformas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9auvu",
+    "split": "test",
+    "line_idx": 1794,
+    "original_text": "Officially worse than Telkom. Well done vuma",
+    "emotion_ids": "0,11",
+    "emotions": [
+      "admiration",
+      "disgust"
+    ],
+    "translated_text": "Oficialmente pior que a Telkom. Parabéns vuma",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4bv31",
+    "split": "test",
+    "line_idx": 1795,
+    "original_text": "Parents drugging their kids to prove a point. I love it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Pais dopando os filhos pra provar um ponto. Adoro.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6dtg0",
+    "split": "test",
+    "line_idx": 1796,
+    "original_text": "Wasnt much to ruin.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não tinha muita coisa pra estragar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8yr9t",
+    "split": "test",
+    "line_idx": 1797,
+    "original_text": "Wait, they're not? *looks closer* Huh.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pera, não são? *olha mais de perto* É mesmo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4qza1",
+    "split": "test",
+    "line_idx": 1798,
+    "original_text": "Article is behind a pay wall",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A matéria tá bloqueada por paywall",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edk98na",
+    "split": "test",
+    "line_idx": 1799,
+    "original_text": "In many states the law prosecutes the server just as harsh as the lawbreakers when it comes to alcohol. Dram shop law",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Em muitos estados a lei pune quem serve a bebida com o mesmo rigor dos infratores quando se trata de álcool. Lei de responsabilidade de estabelecimentos",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

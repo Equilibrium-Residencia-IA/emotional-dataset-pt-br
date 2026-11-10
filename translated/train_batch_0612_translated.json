@@ -1,0 +1,606 @@
+[
+  {
+    "id": "ed35tfs",
+    "split": "train",
+    "line_idx": 30600,
+    "original_text": "I don't generally find the CBO projections very accurate in retrospect. Some of their accounting practices and metrics seem error prone.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "No geral, não acho as projeções do CBO muito precisas em retrospecto. Algumas das práticas contábeis e métricas deles parecem propensas a erros.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1ea8b",
+    "split": "train",
+    "line_idx": 30601,
+    "original_text": "Oh yes! You're great.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ah, sim! Você é demais.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edg91z0",
+    "split": "train",
+    "line_idx": 30602,
+    "original_text": "Well that makes it easy. Thanks again. I'll look into it.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Bem, isso facilita as coisas. Valeu de novo. Vou dar uma olhada nisso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed0rtl7",
+    "split": "train",
+    "line_idx": 30603,
+    "original_text": "I unfortunately can not afford a lawyer. Luckily the only thing that we shared is our daughter",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Infelizmente eu não tenho grana para um advogado. Por sorte a única coisa que a gente compartilhou é a nossa filha",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenrppf",
+    "split": "train",
+    "line_idx": 30604,
+    "original_text": "[NAME]: \"I wish I won't get robbed of a victory again\" [one finger of the monkeys paw curls]",
+    "emotion_ids": "8,20",
+    "emotions": [
+      "desire",
+      "optimism"
+    ],
+    "translated_text": "[NAME]: \"Tomara que eu não seja roubado de uma vitória de novo\" [um dedo da pata de macaco se fecha]",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eezfcpe",
+    "split": "train",
+    "line_idx": 30605,
+    "original_text": "I wanna tell the antivaxxers how wonderful it is to deal with insulin shots and everything else and tell them to screw off. :3",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu quero dizer pra esses antivina como é maravilhoso lidar com injeções de insulina e o caralho a quatro e mandar eles se fuderem. :3",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eejvfmy",
+    "split": "train",
+    "line_idx": 30606,
+    "original_text": "It's so goddamn funny.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "É bom pra caralho de engraçado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8k377",
+    "split": "train",
+    "line_idx": 30607,
+    "original_text": "I chose a name without my parents. Then when I told them the name, they said that's the name they had picked out if I was afab",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu escolhi um nome sem os meus pais. Aí quando eu contei o nome pra eles, disseram que esse era o nome que eles tinham escolhido caso eu fosse designado feminino ao nascer",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczyetc",
+    "split": "train",
+    "line_idx": 30608,
+    "original_text": "I always wanted to be an actor! Always found it fun to emulate and/or imitate others",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu sempre quis ser ator! Sempre achei mó divertido imitar e/ou copiar os outros",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eex7hcd",
+    "split": "train",
+    "line_idx": 30609,
+    "original_text": "Unfortunately not. 😏",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Infelizmente não. 😏",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5ws0d",
+    "split": "train",
+    "line_idx": 30610,
+    "original_text": "This fuck needs to sthaaaaap",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Esse arrombado tem que paraaaaaar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqc1c5",
+    "split": "train",
+    "line_idx": 30611,
+    "original_text": "Don't be afraid to go through therapy.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não tenha medo de fazer terapia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeuyrbq",
+    "split": "train",
+    "line_idx": 30612,
+    "original_text": "Hire the best prostitute you can afford dude",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Contrata a melhor acompanhante que você puder pagar, mano",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed3pewn",
+    "split": "train",
+    "line_idx": 30613,
+    "original_text": "suck me beautiful",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "chupa aqui sua linda",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eem9xg0",
+    "split": "train",
+    "line_idx": 30614,
+    "original_text": "DayZ chemlights actually last for 3 IRL hours already, which is plenty of time to find new ones.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os bastões de luz do DayZ na verdade já duram 3 horas na vida real, o que é tempo de sobra pra achar novos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eerb4nn",
+    "split": "train",
+    "line_idx": 30615,
+    "original_text": "Gotta share the love, have an upvote :) ",
+    "emotion_ids": "18,20",
+    "emotions": [
+      "love",
+      "optimism"
+    ],
+    "translated_text": "Tem que espalhar o amor, toma um cimavoto :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edzhwe9",
+    "split": "train",
+    "line_idx": 30616,
+    "original_text": "Should start at 1mg and see how you feel",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Deveria começar com 1mg e ver como você se sente",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7wam1",
+    "split": "train",
+    "line_idx": 30617,
+    "original_text": "Phone calls are the ultimate nightmare !!",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Ligação telefônica é o pesadelo supremo !!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4ry2u",
+    "split": "train",
+    "line_idx": 30618,
+    "original_text": "Copy pasta?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ctrl+C Ctrl+V?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed3zqsk",
+    "split": "train",
+    "line_idx": 30619,
+    "original_text": "[NAME] gettin angry!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] ficando puto!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef3ptgs",
+    "split": "train",
+    "line_idx": 30620,
+    "original_text": "Stanley's in Tyler",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Stanley's em Tyler",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8beqi",
+    "split": "train",
+    "line_idx": 30621,
+    "original_text": "You have a real axe to grind about this. Should've pulled your bootstraps up more and mowed more lawns in the summer, son.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você tá com uma birra danada com isso. Tinha que ter tomado vergonha na cara e cortado mais grama no verão, meu filho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edrcpyq",
+    "split": "train",
+    "line_idx": 30622,
+    "original_text": "dude, that's [NAME] or [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "mano, isso é [NAME] ou [NAME]",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edo7ci9",
+    "split": "train",
+    "line_idx": 30623,
+    "original_text": "So the [NAME] invading an even whiter Westeros full of [NAME]?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Então os [NAME] invadindo um Westeros mais branco ainda cheio de [NAME]?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edxjhln",
+    "split": "train",
+    "line_idx": 30624,
+    "original_text": "And the problem?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E o problema?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelhyj5",
+    "split": "train",
+    "line_idx": 30625,
+    "original_text": "I do to! We all heard a huge crash and bang and I ran over expecting the worse. Was truly a miracle",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Eu também! A gente ouviu um estrondo enorme e eu corri lá achando que ia ser o pior. Foi um verdadeiro milagre",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edizw1y",
+    "split": "train",
+    "line_idx": 30626,
+    "original_text": "I loooooove Tiff!!!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amoooo a Tiff!!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenevj8",
+    "split": "train",
+    "line_idx": 30627,
+    "original_text": "Thanks for the gold kind stranger",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelo ouro, gentil estranho",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edxbzrb",
+    "split": "train",
+    "line_idx": 30628,
+    "original_text": "That's not what follows from that at all.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não é isso que se conclui disso de jeito nenhum.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeppfvb",
+    "split": "train",
+    "line_idx": 30629,
+    "original_text": "How about as a whole we just hate snow",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Que tal a gente simplesmente odiar neve no geral",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eekexwv",
+    "split": "train",
+    "line_idx": 30630,
+    "original_text": "That sounds very sketchy to me. I would be thinking he’s with another girl TBH",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Isso me parece muito suspeito. Pra falar a verdade, eu estaria achando que ele tá com outra",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedn7u9",
+    "split": "train",
+    "line_idx": 30631,
+    "original_text": "I wonder what they'll name it.... I guess Chipper if its a boy, and Chipper if its a girl ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quero ver que nome vão colocar.... Chuto Chipper se for menino, e Chipper se for menina",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee97y49",
+    "split": "train",
+    "line_idx": 30632,
+    "original_text": "[NAME] I *swear*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] eu *juro*",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eevidbo",
+    "split": "train",
+    "line_idx": 30633,
+    "original_text": "Happy late birthday :) I hope you got to spend it with someone/doing something that makes you feel happy and whole.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Feliz aniversário atrasado :) Espero que você tenha passado com alguém/fazendo algo que te faça sentir feliz e pleno.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef7tzx8",
+    "split": "train",
+    "line_idx": 30634,
+    "original_text": "RDR singleplayer, not whatever the fuck that online is",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "RDR singleplayer, e não essa porra desse online",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed2ygk2",
+    "split": "train",
+    "line_idx": 30635,
+    "original_text": "Goalpost shifting much?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Mudando de assunto/meta pra caralho, né?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ednjaqo",
+    "split": "train",
+    "line_idx": 30636,
+    "original_text": "Indescribably beautiful.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Indescritivelmente lindo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efcj0j5",
+    "split": "train",
+    "line_idx": 30637,
+    "original_text": "Haha, no I mean the kind of disposable powerups in a mobile game. Not console/PC games.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Haha, não, digo aquele tipo de power-up descartável em jogo de celular. Não jogo de console/PC.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeyl4ql",
+    "split": "train",
+    "line_idx": 30638,
+    "original_text": "MassivelyOP: really new, but can't say it's not news.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "MassivelyOP: mó novo, mas não dá pra dizer que não é notícia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efe7v2z",
+    "split": "train",
+    "line_idx": 30639,
+    "original_text": "Good mythical morning. Hope you get better soon",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Bom dia mítico. Melhoras logo aí",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eezyo1l",
+    "split": "train",
+    "line_idx": 30640,
+    "original_text": "Yeah who knows how many indictments [NAME] is gonna rack up retroactively? It could be hundreds! /s",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "É, quem sabe quantas acusações o [NAME] vai acumular retroativamente? Podem ser centenas! /s",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eddbgmp",
+    "split": "train",
+    "line_idx": 30641,
+    "original_text": "When will this finish",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Quando é que isso vai acabar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee655oi",
+    "split": "train",
+    "line_idx": 30642,
+    "original_text": "Omg I really thought it was a new word for me, not debacle 😂😂😂 she didn’t even try ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Caralho, eu achei mesmo que era uma palavra nova pra mim, e não fiasco 😂😂😂 ela nem tentou",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eear3qq",
+    "split": "train",
+    "line_idx": 30643,
+    "original_text": "> Sleeping next to someone I knew my wife is trying to kill me!",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "> Dormindo do lado de alguém que eu sabia que minha esposa tá tentando me matar!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efdtwfi",
+    "split": "train",
+    "line_idx": 30644,
+    "original_text": "I’m not attracted enough to her for me to ask her out, but I would have sex with if she wanted ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não me sinto atraído o suficiente por ela pra chamar pra sair, mas eu transaria se ela quisesse",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef99bzg",
+    "split": "train",
+    "line_idx": 30645,
+    "original_text": "No, a plot hole means that your story lacks logical consistency ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, furo de roteiro significa que a sua história não tem consistência lógica",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5h2x4",
+    "split": "train",
+    "line_idx": 30646,
+    "original_text": "Not too much, I’m talking to a girl right now that’s 5 years younger than me lol.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Não muita coisa, tô trocando ideia com uma mina agora que é 5 anos mais nova que eu kkkk.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eet7f6x",
+    "split": "train",
+    "line_idx": 30647,
+    "original_text": "I'd love that",
+    "emotion_ids": "18,20",
+    "emotions": [
+      "love",
+      "optimism"
+    ],
+    "translated_text": "Eu adoraria",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eep3n6t",
+    "split": "train",
+    "line_idx": 30648,
+    "original_text": "Spiritual shorthand. You nailed it. That term says it all. They've become so practiced in it that it has become meaningless.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Atalho espiritual. Na mosca. Esse termo diz tudo. Os caras tão tão acostumados com isso que perdeu o sentido.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eekufm7",
+    "split": "train",
+    "line_idx": 30649,
+    "original_text": "No, I have to make money somehow, I’m not doing more than Mom dies of polio before getting in a relationship,",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, eu tenho que fazer dinheiro de algum jeito, não vou ficar sem namorar até a mamãe morrer de pólio,",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

@@ -1,0 +1,556 @@
+[
+  {
+    "id": "ed7dx87",
+    "split": "train",
+    "line_idx": 21400,
+    "original_text": "Thanks for the recommendation! By this point I should just start a list. :D",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela recomendação! A essa altura eu devia começar uma lista. :D"
+  },
+  {
+    "id": "edzkrs0",
+    "split": "train",
+    "line_idx": 21401,
+    "original_text": "Not how it works for a lot of things. E.g. \"teach men not to rape\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não é assim que funciona pra muita coisa. Ex: \"ensine os homens a não estuprar\""
+  },
+  {
+    "id": "eew6mmm",
+    "split": "train",
+    "line_idx": 21402,
+    "original_text": "Pistons need more picks and less aging players. Get as many picks as possible and hope to get lucky.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Os Pistons precisam de mais escolhas e menos jogadores velhos. Peguem o máximo de escolhas possível e torçam pra dar sorte."
+  },
+  {
+    "id": "ednv5fy",
+    "split": "train",
+    "line_idx": 21403,
+    "original_text": "Jurisprudence fetishist gets off on technicality.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fetichista de jurisprudência goza com tecnicalidades."
+  },
+  {
+    "id": "ee6258c",
+    "split": "train",
+    "line_idx": 21404,
+    "original_text": "Yea but did u see [NAME] pass to [NAME] miss",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, mas você viu o passe do [NAME] pro [NAME] errar?"
+  },
+  {
+    "id": "ees4hr7",
+    "split": "train",
+    "line_idx": 21405,
+    "original_text": "If fathers could have a say though... do you really think that would result in less children?? Id say it would result in more..",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Se os pais pudessem opinar... você acha mesmo que isso resultaria em menos crianças?? Eu diria que resultaria em mais.."
+  },
+  {
+    "id": "eew86jx",
+    "split": "train",
+    "line_idx": 21406,
+    "original_text": "You know what? Mine is just more of the bullshit. Nothing’s changed. I finally woke up.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quer saber? O meu é só mais do mesmo. Nada mudou. Finalmente acordei."
+  },
+  {
+    "id": "ef1u2j7",
+    "split": "train",
+    "line_idx": 21407,
+    "original_text": "Why is this getting downvoted. I love Meepo so much. :(",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Por que estão dando downvote nisso? Eu amo tanto o Meepo. :("
+  },
+  {
+    "id": "eerhx86",
+    "split": "train",
+    "line_idx": 21408,
+    "original_text": "That really generalized my political enemys.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso generalizou muito meus inimigos políticos."
+  },
+  {
+    "id": "eepjh9a",
+    "split": "train",
+    "line_idx": 21409,
+    "original_text": "Glad we cleared this up",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Que bom que esclarecemos isso"
+  },
+  {
+    "id": "eenqev4",
+    "split": "train",
+    "line_idx": 21410,
+    "original_text": "Quad turret hopefully",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Torre quádrupla, tomara"
+  },
+  {
+    "id": "ef8jx5f",
+    "split": "train",
+    "line_idx": 21411,
+    "original_text": "Pilots omg... you are not alone there!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Pilotos, meu Deus... você não está sozinho nessa!"
+  },
+  {
+    "id": "eeqji5l",
+    "split": "train",
+    "line_idx": 21412,
+    "original_text": "Wait what power is this?!?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Espera, que poder é esse?!?"
+  },
+  {
+    "id": "ed4jdkg",
+    "split": "train",
+    "line_idx": 21413,
+    "original_text": "I LOVE google voice! IT's the only way I can get my parents to reply to anything!",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "EU AMO o Google Voice! É o único jeito de fazer meus pais responderem qualquer coisa!"
+  },
+  {
+    "id": "ee48d6k",
+    "split": "train",
+    "line_idx": 21414,
+    "original_text": "I hope [NAME], [NAME], and that wonderful, talented, [NAME] QB defeat the Pats.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que [NAME], [NAME] e aquele QB [NAME] maravilhoso e talentoso derrotem os Pats."
+  },
+  {
+    "id": "eeub7hl",
+    "split": "train",
+    "line_idx": 21415,
+    "original_text": "Journalists not writing the headlines remains one of the most frustrating aspects of print media on digital platforms.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Jornalistas não escreverem as próprias manchetes continua sendo um dos aspectos mais frustrantes da mídia impressa em plataformas digitais."
+  },
+  {
+    "id": "eervpgm",
+    "split": "train",
+    "line_idx": 21416,
+    "original_text": "We haven’t heard from you in a while. Hopefully you and your kids are doing well.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Faz tempo que não temos notícias suas. Espero que você e seus filhos estejam bem."
+  },
+  {
+    "id": "eefkzci",
+    "split": "train",
+    "line_idx": 21417,
+    "original_text": "Why shall I? It’s too much fun reading comments written by distorted bubble people ;)",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Por que eu faria isso? É divertido demais ler comentários escritos por pessoas que vivem em bolhas distorcidas ;)"
+  },
+  {
+    "id": "ed0mge2",
+    "split": "train",
+    "line_idx": 21418,
+    "original_text": "Do you have a source for this claim. Seems promising but would love to dig into it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Você tem uma fonte pra essa afirmação? Parece promissor, mas adoraria me aprofundar nisso."
+  },
+  {
+    "id": "efdzova",
+    "split": "train",
+    "line_idx": 21419,
+    "original_text": "Thanks for the info! Fellow dry eyelids , I guess I'll just keep using my usual.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela informação! Colegas de pálpebras secas, acho que vou continuar usando o meu de sempre."
+  },
+  {
+    "id": "ef2iv2v",
+    "split": "train",
+    "line_idx": 21420,
+    "original_text": "Yes for sure! Please let me know how your job venture goes! :) would love to hear your experience.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Sim, com certeza! Por favor, me conta como vai o seu novo emprego! :) adoraria saber da sua experiência."
+  },
+  {
+    "id": "eek3c48",
+    "split": "train",
+    "line_idx": 21421,
+    "original_text": "DAE think that [NAME]’ insults towards [NAME] are lowkey racist and dissmissive.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mais alguém acha que os insultos do [NAME] contra o [NAME] são levemente racistas e desdenhosos?"
+  },
+  {
+    "id": "ed0z9fe",
+    "split": "train",
+    "line_idx": 21422,
+    "original_text": "[NAME], [NAME], and [NAME] should make the World Cup ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], [NAME] e [NAME] deveriam ir para a Copa do Mundo"
+  },
+  {
+    "id": "eeqxd2a",
+    "split": "train",
+    "line_idx": 21423,
+    "original_text": "You look like a guy that could use help pleasing his wife.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você parece um cara que precisa de uma ajuda pra satisfazer a esposa."
+  },
+  {
+    "id": "eezg86n",
+    "split": "train",
+    "line_idx": 21424,
+    "original_text": "aww hell no. This fucking ad",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "ah, nem ferrando. Esse anúncio do caralho"
+  },
+  {
+    "id": "effyg93",
+    "split": "train",
+    "line_idx": 21425,
+    "original_text": "Very astute observation.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Observação muito astuta."
+  },
+  {
+    "id": "edm3rks",
+    "split": "train",
+    "line_idx": 21426,
+    "original_text": "Man [NAME] and [NAME] are wylin",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cara, o [NAME] e o [NAME] estão doidões"
+  },
+  {
+    "id": "ed3zclu",
+    "split": "train",
+    "line_idx": 21427,
+    "original_text": "Don't play dumb, there are political parties that promote liberalism and conservatism as their main philosophies.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não se faça de bobo, existem partidos políticos que promovem o liberalismo e o conservadorismo como suas filosofias principais."
+  },
+  {
+    "id": "eczkygh",
+    "split": "train",
+    "line_idx": 21428,
+    "original_text": "I’ll buy it i don’t care",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Vou comprar, não tô nem aí"
+  },
+  {
+    "id": "edtv8n2",
+    "split": "train",
+    "line_idx": 21429,
+    "original_text": "You're an uneducated twat.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Você é um idiota sem educação."
+  },
+  {
+    "id": "edi0flf",
+    "split": "train",
+    "line_idx": 21430,
+    "original_text": "I liked [NAME]...",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu gostava do [NAME]..."
+  },
+  {
+    "id": "ee3h0ys",
+    "split": "train",
+    "line_idx": 21431,
+    "original_text": "Wow! That's too real, it touched me! Nice work :D",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nossa! Isso é muito real, me tocou! Bom trabalho :D"
+  },
+  {
+    "id": "eedh0zk",
+    "split": "train",
+    "line_idx": 21432,
+    "original_text": "I was getting changed!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu estava me trocando!"
+  },
+  {
+    "id": "ef6c71j",
+    "split": "train",
+    "line_idx": 21433,
+    "original_text": "> like a fucking peregrine falcon, her and him beeline straight for her bedroom. Are they falcons or bees? Alphas don't mix metaphors.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "> como um falcão-peregrino do caralho, ele e ela vão direto pro quarto dela. Eles são falcões ou abelhas? Alfas não misturam metáforas."
+  },
+  {
+    "id": "ef8xmlp",
+    "split": "train",
+    "line_idx": 21434,
+    "original_text": "That was so fun!! 😂😂😂👌👌👌🤲🤲🙏🙏🙏🔥🔥🔥😎😎",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Isso foi muito divertido!! 😂😂😂👌👌👌🤲🤲🙏🙏🙏🔥🔥🔥😎😎"
+  },
+  {
+    "id": "ed9u6e6",
+    "split": "train",
+    "line_idx": 21435,
+    "original_text": "Yes, I am 100% superior to [NAME]. If you're not, I'm sorry ",
+    "emotion_ids": "4,24",
+    "emotions": [
+      "approval",
+      "remorse"
+    ],
+    "translated_text": "Sim, eu sou 100% superior ao [NAME]. Se você não é, sinto muito"
+  },
+  {
+    "id": "eet4xhd",
+    "split": "train",
+    "line_idx": 21436,
+    "original_text": "It’s best we end this conversation before someone interprets that differently",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É melhor encerrarmos essa conversa antes que alguém interprete isso de outra forma"
+  },
+  {
+    "id": "ef1rq6p",
+    "split": "train",
+    "line_idx": 21437,
+    "original_text": "Its not the 90s old man. Now if you said you like pancake asses, thats juicy",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Não estamos nos anos 90, velho. Agora, se você dissesse que gosta de bunda reta, aí sim é interessante"
+  },
+  {
+    "id": "eeaqzyn",
+    "split": "train",
+    "line_idx": 21438,
+    "original_text": "I'm afraid that will leave Britain no better. Can't imagine the ruckus if remain wins.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Receio que isso não vá deixar a Grã-Bretanha em situação melhor. Não consigo nem imaginar a confusão se o 'ficar' vencer."
+  },
+  {
+    "id": "eek7cdm",
+    "split": "train",
+    "line_idx": 21439,
+    "original_text": "[Facebook laugh react]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[Reação de risada do Facebook]"
+  },
+  {
+    "id": "edxu4zh",
+    "split": "train",
+    "line_idx": 21440,
+    "original_text": "America can out-lazy your ass any day.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "A América ganha de você na preguiça a qualquer hora."
+  },
+  {
+    "id": "edc9a8b",
+    "split": "train",
+    "line_idx": 21441,
+    "original_text": "Everyday, always, I am a hero inside my head",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Todo dia, sempre, eu sou um herói dentro da minha cabeça"
+  },
+  {
+    "id": "eeq9w20",
+    "split": "train",
+    "line_idx": 21442,
+    "original_text": "I think a lot of people don't understand how personal certain questions are and think just because they have one it's okay to ask it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que muita gente não entende o quão pessoais certas perguntas são e acham que só porque eles têm uma, tá tudo bem perguntar."
+  },
+  {
+    "id": "eep0tr6",
+    "split": "train",
+    "line_idx": 21443,
+    "original_text": "Creepiest building in Chicago. I couldn’t even imagine the number of gunshot victims that have gone theough those doors and came out in a body bag.",
+    "emotion_ids": "11,14",
+    "emotions": [
+      "disgust",
+      "fear"
+    ],
+    "translated_text": "O prédio mais assustador de Chicago. Eu não consigo nem imaginar o número de vítimas de tiro que passaram por aquelas portas e saíram num saco de cadáver."
+  },
+  {
+    "id": "eekkytj",
+    "split": "train",
+    "line_idx": 21444,
+    "original_text": "You just need to ignore him. He only crawls out when he can complain about traditional [NAME] or dem stupid republicans.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você só precisa ignorar ele. Ele só aparece quando pode reclamar do [NAME] tradicional ou daqueles republicanos estúpidos."
+  },
+  {
+    "id": "eeochpb",
+    "split": "train",
+    "line_idx": 21445,
+    "original_text": "Literally everywhere. There's nothing especially Texan about any of this. I heard all of this in freaking SCONSIN.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Literalmente em todo lugar. Não tem nada de especialmente texano nisso. Ouvi tudo isso lá no Wisconsin."
+  },
+  {
+    "id": "eesachg",
+    "split": "train",
+    "line_idx": 21446,
+    "original_text": "You’re not wrong. The post is mostly a joke 🤷‍♂️",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Você não está errado. O post é mais uma piada 🤷‍♂️"
+  },
+  {
+    "id": "ed2arkj",
+    "split": "train",
+    "line_idx": 21447,
+    "original_text": "I see what u did there!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Entendi o que você fez aí!"
+  },
+  {
+    "id": "ee9cha5",
+    "split": "train",
+    "line_idx": 21448,
+    "original_text": "And why does he shame women for choosing a beautiful person over an ugly guy lol?",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "E por que ele envergonha mulheres por escolherem uma pessoa bonita em vez de um cara feio, lol?"
+  },
+  {
+    "id": "efewjyc",
+    "split": "train",
+    "line_idx": 21449,
+    "original_text": "[NAME] was mediocre for several years in a row even if he was winning. He matches [NAME] more than anyone",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] foi medíocre por vários anos seguidos, mesmo ganhando. Ele combina mais com o [NAME] do que com qualquer outro"
+  }
+]

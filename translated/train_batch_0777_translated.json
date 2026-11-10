@@ -1,0 +1,612 @@
+[
+  {
+    "id": "effmsje",
+    "split": "train",
+    "line_idx": 38850,
+    "original_text": "I feel a little sad for her. That she thinks the only options or something to do is having kids. Fuck her tho.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu sinto um pouco de pena dela. Por achar que as únicas opções ou o que fazer é ter filhos. Mas que se foda ela.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eembhii",
+    "split": "train",
+    "line_idx": 38851,
+    "original_text": "Sounds good to me.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Por mim fechado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eezq851",
+    "split": "train",
+    "line_idx": 38852,
+    "original_text": "BITCOIN SEND MONEY INSTANTLY (waits 6 months to get money and still praises site)",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "BITCOIN MANDA DINHEIRO NA HORA (espera 6 meses pra receber a grana e ainda elogia o site)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1olvc",
+    "split": "train",
+    "line_idx": 38853,
+    "original_text": "I'd like to see it set during the [NAME] conquest of China, That'd be cool",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu gostaria de ver se passa durante a conquista da China por [NAME], isso seria legal",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeq4icn",
+    "split": "train",
+    "line_idx": 38854,
+    "original_text": "When they say shoot your shot that’s not what they meant",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando dizem pra tentar a sorte, não era bem isso que queriam dizer",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efaifo2",
+    "split": "train",
+    "line_idx": 38855,
+    "original_text": "accept no substitutes",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "aceite nenhuma imitação",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetngan",
+    "split": "train",
+    "line_idx": 38856,
+    "original_text": "What a goal",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Que golaço",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemqrob",
+    "split": "train",
+    "line_idx": 38857,
+    "original_text": "i am aware...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "eu tô ligado...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee6xo1q",
+    "split": "train",
+    "line_idx": 38858,
+    "original_text": "No worries. I'll look into this for sure.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tranquilo. Vou dar uma olhada nisso com certeza.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efebk96",
+    "split": "train",
+    "line_idx": 38859,
+    "original_text": "This didn't happen in the US",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso não aconteceu nos EUA",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edup6zj",
+    "split": "train",
+    "line_idx": 38860,
+    "original_text": "So good.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Muito bom.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8lt22",
+    "split": "train",
+    "line_idx": 38861,
+    "original_text": "You. Are. Awesome. Also, congratulations on the baby!!!!",
+    "emotion_ids": "0,13",
+    "emotions": [
+      "admiration",
+      "excitement"
+    ],
+    "translated_text": "Você. É. Foda. Ah, e parabéns pelo bebê!!!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edfqfnh",
+    "split": "train",
+    "line_idx": 38862,
+    "original_text": "He was pointing out that they use the stadiums themselves since the football field itself is universal.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele estava apontando que eles usam os estádios em si, já que o campo de futebol é universal.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edw7a8s",
+    "split": "train",
+    "line_idx": 38863,
+    "original_text": "That’s typical Wigs. Hot one game, cold the next three. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A cara do Wigs. Joga bem uma partida, some nas três seguintes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemgws4",
+    "split": "train",
+    "line_idx": 38864,
+    "original_text": "Looks really good! TY! Will watch it tonight",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Parece muito bom! VALEU! Vou assistir hoje à noite",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgtfru",
+    "split": "train",
+    "line_idx": 38865,
+    "original_text": "Yes but the way she does so at the moment, with makeup and bracelets are a bit uncomfortable for her, she says",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, mas do jeito que ela faz isso no momento, com maquiagem e pulseiras, fica meio desconfortável pra ela, ela diz",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeykoq7",
+    "split": "train",
+    "line_idx": 38866,
+    "original_text": "OK, thanks I'm gonna delete it and post it in another sub reddit.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Beleza, valeu, vou apagar e postar em outro sub.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepnjv3",
+    "split": "train",
+    "line_idx": 38867,
+    "original_text": "They shout it near the end. Listen for WAAAAAAALLLLLL",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Eles gritam no finalzinho. Ouve só o WAAAAAAALLLLLL",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef9lk5o",
+    "split": "train",
+    "line_idx": 38868,
+    "original_text": "I like it!",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Eu curti!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5964h",
+    "split": "train",
+    "line_idx": 38869,
+    "original_text": "Happy New Year.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Feliz Ano Novo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edavq34",
+    "split": "train",
+    "line_idx": 38870,
+    "original_text": "Shame our government can't progress as fast as the infrastructure.",
+    "emotion_ids": "9,12",
+    "emotions": [
+      "disappointment",
+      "embarrassment"
+    ],
+    "translated_text": "É uma pena que nosso governo não consiga progredir tão rápido quanto a infraestrutura.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8dj6a",
+    "split": "train",
+    "line_idx": 38871,
+    "original_text": "Sounds like there is market demand for this service. Some innovative rideshare company should take advantage.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece que há demanda de mercado para esse serviço. Alguma empresa inovadora de carona deveria aproveitar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczbpfi",
+    "split": "train",
+    "line_idx": 38872,
+    "original_text": "I would cheer hard for a Cyborg win in that tourney.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Eu torceria muito por uma vitória da Cyborg nesse torneio.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqzh5y",
+    "split": "train",
+    "line_idx": 38873,
+    "original_text": "This right here is the kind of father I want to be. Thanks for that.",
+    "emotion_ids": "8,15",
+    "emotions": [
+      "desire",
+      "gratitude"
+    ],
+    "translated_text": "Isso aqui é o tipo de pai que eu quero ser. Valeu por isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edzpbz0",
+    "split": "train",
+    "line_idx": 38874,
+    "original_text": "Any chance you have a bank account information you want to share?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Tem alguma chance de você ter os dados da sua conta bancária pra passar?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edocabj",
+    "split": "train",
+    "line_idx": 38875,
+    "original_text": "I am not at all familiar with the gibbed audio extractor but I'd have to imagine those lines are in the Citadel DLC files.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Eu não manjo nada do extrator de áudio gibbed, mas imagino que essas falas estejam nos arquivos da DLC Citadel.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtr46j",
+    "split": "train",
+    "line_idx": 38876,
+    "original_text": "Go get ‘em!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vai lá e arrebenta!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetgngo",
+    "split": "train",
+    "line_idx": 38877,
+    "original_text": "I wonder if NBCSN allows for the crowd to take more of the sound space",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu queria saber se a NBCSN deixa a torcida fazer mais barulho na transmissão",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eee1637",
+    "split": "train",
+    "line_idx": 38878,
+    "original_text": "I find this super relateable, I had no idea others felt the same way. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Acho isso super identificável, não fazia ideia de que outras pessoas sentiam o mesmo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef42g5i",
+    "split": "train",
+    "line_idx": 38879,
+    "original_text": "Yeah, your initial question was just an innocent little query.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, sua pergunta inicial foi só uma duvidazinha inocente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef7tcj5",
+    "split": "train",
+    "line_idx": 38880,
+    "original_text": "That day was incredible.",
+    "emotion_ids": "4,17",
+    "emotions": [
+      "approval",
+      "joy"
+    ],
+    "translated_text": "Aquele dia foi incrível.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeueb6c",
+    "split": "train",
+    "line_idx": 38881,
+    "original_text": "They made the same few songs over and over again. Problem is I love those songs so I'm not too bothered. Personally love them.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eles faziam as mesmas músicas repetidas vezes. O problema é que eu amo essas músicas, então não ligo tanto. Particularmente adoro eles.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehyau4",
+    "split": "train",
+    "line_idx": 38882,
+    "original_text": "Nice. Thanks for the original.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Legal. Valeu pelo original.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee796d8",
+    "split": "train",
+    "line_idx": 38883,
+    "original_text": "Where is that damn SaLt LiCK",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Cadê essa porra desse SaLt LiCK",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8stlx",
+    "split": "train",
+    "line_idx": 38884,
+    "original_text": "Thank you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebrp69",
+    "split": "train",
+    "line_idx": 38885,
+    "original_text": "Nets well run? Should I being bring up the trade?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Nets bem administrados? Quer que eu traga à tona aquela troca?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8qcdo",
+    "split": "train",
+    "line_idx": 38886,
+    "original_text": "Well, that one time, I was very constipated...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, aquela vez, eu tava super constipado...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef671op",
+    "split": "train",
+    "line_idx": 38887,
+    "original_text": "..how is he not? better == good",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "..como ele não é? melhor == bom",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepq83p",
+    "split": "train",
+    "line_idx": 38888,
+    "original_text": "Just be supportive and listen. Maybe do something that would make her happy like a favorite chocolate",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só apoie e ouça. Quem sabe fazer algo que a deixe feliz, tipo um chocolate favorito",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edj4ksx",
+    "split": "train",
+    "line_idx": 38889,
+    "original_text": "Leafs would have won this game if it wasn’t for that bullshit overturn.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Os Leafs teriam vencido esse jogo se não fosse por aquela anulação filha da puta.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eff255g",
+    "split": "train",
+    "line_idx": 38890,
+    "original_text": "My aim in battlefornt 2 is pretty good = navy seal, elite unit",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Minha mira no battlefront 2 é tão boa = navy seal, unidade de elite",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqo9rq",
+    "split": "train",
+    "line_idx": 38891,
+    "original_text": "The [NAME] trade to get [NAME] wasn't too shabby either.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "A troca do [NAME] pra trazer o [NAME] também não foi nada mal.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eer9uzm",
+    "split": "train",
+    "line_idx": 38892,
+    "original_text": "He was skinnu guy all his life, untill that transformation.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele foi um cara magrelo a vida toda, até aquela transformação.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed3zin2",
+    "split": "train",
+    "line_idx": 38893,
+    "original_text": "The next year: Well, sequel time already, huh? Welcome back, I guess.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "No ano seguinte: Ah, hora de continuação, né? Bem-vindo de volta, eu acho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eea8abl",
+    "split": "train",
+    "line_idx": 38894,
+    "original_text": "I mean he is cleay doing *something* right.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Digo, ele tá claramente fazendo *alguma* coisa certa.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpt4u0",
+    "split": "train",
+    "line_idx": 38895,
+    "original_text": "Makes sense. Interesting perspective.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Faz sentido. Perspectiva interessante.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7oa1k",
+    "split": "train",
+    "line_idx": 38896,
+    "original_text": "[NAME] doesn't do nihilism. She's war ravaged. Ergo she has to recover.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] não curte niilismo. Ela é destruída pela guerra. Logo, ela precisa se recuperar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efer3s1",
+    "split": "train",
+    "line_idx": 38897,
+    "original_text": "Just got home from work, do we really have 4 goals on 8 SOG?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Acabei de chegar do trabalho, a gente tem mesmo 4 gols em 8 finalizações?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edfxrrj",
+    "split": "train",
+    "line_idx": 38898,
+    "original_text": "Upvoting simply for the (Eli = )",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Dando upvote só pelo (Eli = )",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeeioa4",
+    "split": "train",
+    "line_idx": 38899,
+    "original_text": "\"No known gold medals\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Nenhuma medalha de ouro conhecida\"",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

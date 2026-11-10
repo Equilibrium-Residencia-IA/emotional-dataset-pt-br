@@ -1,0 +1,611 @@
+[
+  {
+    "id": "ed4f0sr",
+    "split": "train",
+    "line_idx": 30100,
+    "original_text": "I really only do this after a while if awkward silence, which may make it even more awkward tbh",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Eu na real só faço isso depois de um tempo de silåncio constrangedor, o que talvez deixe a situação mais constrangedora ainda pra falar a verdade",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edrjdqn",
+    "split": "train",
+    "line_idx": 30101,
+    "original_text": "I feel like the cameraman is having a seizure or something",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu sinto que o cameraman está tendo uma crise epiléptica ou algo assim",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edc5clt",
+    "split": "train",
+    "line_idx": 30102,
+    "original_text": "That survival rate is skewed. It doesn't include the people who don't seek treatment because they can't afford it",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Essa taxa de sobrevivãncia está distorcida. Não inclui as pessoas que não procuram tratamento porque não podem pagar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef9rjqp",
+    "split": "train",
+    "line_idx": 30103,
+    "original_text": "Protesting in general is an emotional response. People’s attachment to their cause grows stronger in the face of confrontation and adversity.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Protestar em geral é uma resposta emocional. O apego das pessoas à sua causa fica mais forte diante de confrontos e adversidades.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed74490",
+    "split": "train",
+    "line_idx": 30104,
+    "original_text": "There will always be a difference between a friend and a true friend",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sempre vai existir uma diferença entre um amigo e um amigo de verdade",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efagcjp",
+    "split": "train",
+    "line_idx": 30105,
+    "original_text": "[NAME] why are there so many guendouzi haters?",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "[NAME] por que tem tanto hater do guendouzi?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepqmht",
+    "split": "train",
+    "line_idx": 30106,
+    "original_text": "I didn't know that communism was a subject",
+    "emotion_ids": "6,22",
+    "emotions": [
+      "confusion",
+      "realization"
+    ],
+    "translated_text": "Eu não sabia que comunismo era uma matéria",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eff0zzu",
+    "split": "train",
+    "line_idx": 30107,
+    "original_text": "There to busy guzzling down Russian propoganda , to enact a final solution on tmor.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Estão ocupados demais engolindo propaganda russa para aplicar uma solução final no tmor.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edb9iph",
+    "split": "train",
+    "line_idx": 30108,
+    "original_text": "I think it's kind of cute. Someone give her a megaphone, she's a gift for the GOP.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu acho meio fofo. Alguém dá um megafone pra ela, ela é um presente para o partido republicano.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed4pw4n",
+    "split": "train",
+    "line_idx": 30109,
+    "original_text": "I love [NAME] :)",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo o [NAME] :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edv0w4b",
+    "split": "train",
+    "line_idx": 30110,
+    "original_text": "Haha I thought that was more subtle than something like HOO DINI or banana bus.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Haha achei isso mais sutil do que algo como HOO DINI ou banana bus.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeisn3f",
+    "split": "train",
+    "line_idx": 30111,
+    "original_text": "Very, but I also never really liked home to begin with so it's been more of a relief.",
+    "emotion_ids": "10,23",
+    "emotions": [
+      "disapproval",
+      "relief"
+    ],
+    "translated_text": "Muito, mas eu também nunca gostei muito de casa para começar então tem sido mais um alívio.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee60s05",
+    "split": "train",
+    "line_idx": 30112,
+    "original_text": "We might now be almost maybe nearly ready to potentially maybe play finals. I think [NAME] will make the finals this year. They'll be the surprise team.",
+    "emotion_ids": "20,26",
+    "emotions": [
+      "optimism",
+      "surprise"
+    ],
+    "translated_text": "A gente talvez agora esteja quase talvez quase pronto para potencialmente talvez jogar a final. Acho que o [NAME] vai chegar à final esse ano. Eles vão ser o time surpresa.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee9u1tr",
+    "split": "train",
+    "line_idx": 30113,
+    "original_text": "Topic change #4. This is getting sad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Mudança de assunto número 4. Isso tá ficando triste.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eep7yha",
+    "split": "train",
+    "line_idx": 30114,
+    "original_text": "I have the exact same issue and also had my ears checked recently but there is no issue with my hearing",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tenho exatamente o mesmo problema e também fiz exames nos ouvidos recentemente, mas não tem nenhum problema com minha audição",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6og2a",
+    "split": "train",
+    "line_idx": 30115,
+    "original_text": "Why should I get flayed? He's the one who sucks!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Por que eu deveria ser esfolado? Ele é quem é um lixo!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efcxay0",
+    "split": "train",
+    "line_idx": 30116,
+    "original_text": "To laugh at the bad memes",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra rir dos memes ruins",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeng9p9",
+    "split": "train",
+    "line_idx": 30117,
+    "original_text": "True, but it all started under [NAME] and will get even worse if Labour manages to get into government. ",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Verdade, mas tudo começou sob o [NAME] e vai ficar pior ainda se o Labour conseguir entrar no governo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edm0v93",
+    "split": "train",
+    "line_idx": 30118,
+    "original_text": "The hero we didn't deserve ,but the hero we needed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O herói que não merecíamos, mas o herói de que precisávamos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efd81hn",
+    "split": "train",
+    "line_idx": 30119,
+    "original_text": "Private practice cash only in a wealthy suburban area. Just see the worried well and live the dream.",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Clínica particular só aceitando grana em área residencial rica. Só atender os hipocondríacos preocupados e viver o sonho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee0nka9",
+    "split": "train",
+    "line_idx": 30120,
+    "original_text": "If you're blaming her for the design of the movies I'd say it does matter since she didn't do them, but ok. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se você está culpando ela pelo design dos filmes, eu diria que importa sim já que ela não fez eles, mas tá bom.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4duod",
+    "split": "train",
+    "line_idx": 30121,
+    "original_text": "Now that you live alone you don't have money left to buy a dishwasher",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora que você mora sozinho não sobrou dinheiro para comprar uma lava-louças",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6hgq2",
+    "split": "train",
+    "line_idx": 30122,
+    "original_text": "What is the least confusing racism to you",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Qual é o racismo menos confuso para você",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee5pu4o",
+    "split": "train",
+    "line_idx": 30123,
+    "original_text": "stupid science bitches",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "bando de cientistas otários",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edonve7",
+    "split": "train",
+    "line_idx": 30124,
+    "original_text": "huh i didn’t even know that button existed",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "caramba eu nem sabia que esse botão existia",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edt6xuo",
+    "split": "train",
+    "line_idx": 30125,
+    "original_text": "This is the truth they don't want us knowing!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Essa é a verdade que eles não querem que a gente saiba!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edc8h9v",
+    "split": "train",
+    "line_idx": 30126,
+    "original_text": "on the subject of meltdowns, stay calm yourself and try your best not to escalate them.",
+    "emotion_ids": "5,27",
+    "emotions": [
+      "caring",
+      "neutral"
+    ],
+    "translated_text": "sobre o assunto de crises nervosas, fique calmo você mesmo e faça o seu melhor para não piorar a situação.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eewcihm",
+    "split": "train",
+    "line_idx": 30127,
+    "original_text": "Learning to read was the worst mistake of my life",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Aprender a ler foi o pior erro da minha vida",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7i2m2",
+    "split": "train",
+    "line_idx": 30128,
+    "original_text": "nah he only had one good year really",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "nada, ele só teve um ano bom mesmo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjtssv",
+    "split": "train",
+    "line_idx": 30129,
+    "original_text": "I would make a terrible partner. Fuck, I'm not even a good friend. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu seria um parceiro horrível. Porra, eu não sou nem um bom amigo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6wl4n",
+    "split": "train",
+    "line_idx": 30130,
+    "original_text": "This makes me feel so much better about the things I’ve done that make me cringe.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Isso me faz sentir muito melhor sobre as coisas que eu fiz que me dão vergonha alheia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edvyrfi",
+    "split": "train",
+    "line_idx": 30131,
+    "original_text": "\"LEFT TURN YIELD ON GREEN\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"VIRE A ESQUERDA CEDENDO NO SINAL VERDE\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edckbco",
+    "split": "train",
+    "line_idx": 30132,
+    "original_text": "Far more to do with being entirely irresponsible and dumb than anything related to benefits or tax claims.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Tem muito mais a ver com ser totalmente irresponsável e burro do que qualquer coisa relacionada a benefícios ou auxílios do governo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eertojl",
+    "split": "train",
+    "line_idx": 30133,
+    "original_text": "Most people don't know the first thing about [NAME], so unsurprising.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "A maioria das pessoas não sabe patavina sobre o [NAME], então não surpreende.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef84hog",
+    "split": "train",
+    "line_idx": 30134,
+    "original_text": "There's an online service we had to upload everything to that checks it against all the other uploads it has received worldwide to detect plagiarism.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem um serviço online para o qual tivemos que enviar tudo que compara com todos os outros envios recebidos no mundo todo para detectar plágio.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef3sohw",
+    "split": "train",
+    "line_idx": 30135,
+    "original_text": "Dirt, glass, poop whatever you dont want on your feet.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Terra, vidro, cocô o que você não quiser nos seus pés.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef6qd1e",
+    "split": "train",
+    "line_idx": 30136,
+    "original_text": "oh shitttt. it’s upside down",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "caralhããão. tá de cabeça para baixo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eez47aw",
+    "split": "train",
+    "line_idx": 30137,
+    "original_text": "rather than wait for the site to load, we'll just tell you it didn't load - Reddit",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "em vez de esperar o site carregar, vamos só te falar que não carregou - Reddit",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef4sy8o",
+    "split": "train",
+    "line_idx": 30138,
+    "original_text": "Just saw your edit. What the crap. Guy was obviously creepy.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Acabei de ver sua edição. Que porra. O cara era obviamente bizarro.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edju2lf",
+    "split": "train",
+    "line_idx": 30139,
+    "original_text": "Should've left it at this.",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Deveria ter deixado nisso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee0pizx",
+    "split": "train",
+    "line_idx": 30140,
+    "original_text": "Right now it's >you're dead ***or else completely reliant on maybe getting help via violent redistribution***. You only think that's better because of your fetish.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora está tipo >você está morto ***ou então totalmente dependente de talvez conseguir ajuda por redistribuição violenta***. Você só acha que isso é melhor por causa do seu fetiche.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed39u7f",
+    "split": "train",
+    "line_idx": 30141,
+    "original_text": "This is true — it only really is annoying for 69ing I guess. Too much going on ahahaha",
+    "emotion_ids": "1,3",
+    "emotions": [
+      "amusement",
+      "annoyance"
+    ],
+    "translated_text": "Isso é verdade — só é chato mesmo para fazer 69 eu acho. Muita coisa acontecendo ahahaha",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed59e5q",
+    "split": "train",
+    "line_idx": 30142,
+    "original_text": "That’s when we realized straights dress like randomized sims",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Foi ai que percebemos que heteros se vestem igual sims gerados aleatoriamente",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efdb70j",
+    "split": "train",
+    "line_idx": 30143,
+    "original_text": "I know, right? What an embarrassment that local news would call that thing a \"tractor\".",
+    "emotion_ids": "7,12",
+    "emotions": [
+      "curiosity",
+      "embarrassment"
+    ],
+    "translated_text": "Não me diga? Que vergonha o jornal local chamar aquela coisa de \"trator\".",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemzktm",
+    "split": "train",
+    "line_idx": 30144,
+    "original_text": "Get your mom professional help. Any grow person who runs away from their own home afterargument definitely has mental health issues",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Dê ajuda profissional para sua mãe. Qualquer pessoa adulta que foge da própria casa depois de uma discussão com certeza tem problemas de saúde mental",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeawchl",
+    "split": "train",
+    "line_idx": 30145,
+    "original_text": "But shouldn't that money go *back to Connecticut*. We don't lack problems.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mas esse dinheiro não deveria voltar *para Connecticut*. Não faltam problemas pra gente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqcqh3",
+    "split": "train",
+    "line_idx": 30146,
+    "original_text": "I have a [NAME] jersey for the same reason. Ugh.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tenho uma camisa do [NAME] pelo mesmo motivo. Eca.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebpo9c",
+    "split": "train",
+    "line_idx": 30147,
+    "original_text": "Sorry, every time I try a link post my post fails, I’m just doing a text post. ",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa, toda vez que tento postar um link meu post falha, só estou fazendo um post de texto.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed077un",
+    "split": "train",
+    "line_idx": 30148,
+    "original_text": "Happy new year!",
+    "emotion_ids": "17,27",
+    "emotions": [
+      "joy",
+      "neutral"
+    ],
+    "translated_text": "Feliz ano novo!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4y9vp",
+    "split": "train",
+    "line_idx": 30149,
+    "original_text": "Imagine ordering this. \"1000 burgers to the white house? Yeah ok buddy\" ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Imagina pedir isso. \"1000 hambórgueres para a Casa Branca? É, tá bom, meu camarada\"",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

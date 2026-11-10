@@ -1,0 +1,556 @@
+[
+  {
+    "id": "edr7k9j",
+    "split": "train",
+    "line_idx": 22400,
+    "original_text": "[NAME] man, none of them. model yourself after the best version of yourself",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] cara, nenhum deles. Tente ser a melhor versão de si mesmo."
+  },
+  {
+    "id": "edrrxv2",
+    "split": "train",
+    "line_idx": 22401,
+    "original_text": "Came on her face and she told you? Wow disrespect. Either she didn't know how you really felt or didn't care. Sorry about your luck",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Gozei na cara dela e ela te contou? Nossa, que falta de respeito. Ou ela não sabia o que você realmente sentia ou não tava nem aí. Sinto muito pelo seu azar."
+  },
+  {
+    "id": "edcvq7k",
+    "split": "train",
+    "line_idx": 22402,
+    "original_text": "This is what you get for starring in a mediocre movie",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Isso é o que você ganha por estrelar um filme medíocre."
+  },
+  {
+    "id": "ed021z8",
+    "split": "train",
+    "line_idx": 22403,
+    "original_text": "If he was from a free pack he's not sellable, sorry",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Se ele veio de um pacote gratuito, não dá pra vender, malz."
+  },
+  {
+    "id": "eeoyehn",
+    "split": "train",
+    "line_idx": 22404,
+    "original_text": "i see, thanks bro",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "entendi, valeu mano"
+  },
+  {
+    "id": "eep0p61",
+    "split": "train",
+    "line_idx": 22405,
+    "original_text": "My mom likes to use the word, “tripolar” for me and it’s aggravating. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Minha mãe gosta de usar a palavra \"tripolar\" pra mim e isso é irritante."
+  },
+  {
+    "id": "edzcy5e",
+    "split": "train",
+    "line_idx": 22406,
+    "original_text": "That's what I was talking about. Eat one meal, then hibernate until you're so hungry you gotta eat again.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Era disso que eu tava falando. Come uma refeição, depois hiberna até ficar com tanta fome que tem que comer de novo."
+  },
+  {
+    "id": "edrojqj",
+    "split": "train",
+    "line_idx": 22407,
+    "original_text": "That explains quite a bit.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso explica bastante coisa."
+  },
+  {
+    "id": "edtrhgv",
+    "split": "train",
+    "line_idx": 22408,
+    "original_text": "Oh, I see. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, entendi."
+  },
+  {
+    "id": "eelruvs",
+    "split": "train",
+    "line_idx": 22409,
+    "original_text": "Qwertyuiop makes for a great snack though",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Qwertyuiop até que é um ótimo lanche, vai."
+  },
+  {
+    "id": "edw79la",
+    "split": "train",
+    "line_idx": 22410,
+    "original_text": "You are BOTH awful people.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Vocês DOIS são pessoas horríveis."
+  },
+  {
+    "id": "ed070rj",
+    "split": "train",
+    "line_idx": 22411,
+    "original_text": "You might want to look into therapy",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Talvez você devesse procurar uma terapia."
+  },
+  {
+    "id": "ed1p5cl",
+    "split": "train",
+    "line_idx": 22412,
+    "original_text": "They’re just insecure tbh",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles só são inseguros, pra falar a verdade."
+  },
+  {
+    "id": "ee2luzy",
+    "split": "train",
+    "line_idx": 22413,
+    "original_text": "Thank you. It's great that I can come here and have lovely people like you help me to not feel so alone.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. É muito bom poder vir aqui e ter pessoas adoráveis como você me ajudando a não me sentir tão sozinho."
+  },
+  {
+    "id": "edo6anj",
+    "split": "train",
+    "line_idx": 22414,
+    "original_text": "I've been watching him rant about it on twitter the past few days. I'm curious what his opinion on the game is outside the minigames.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu tenho visto ele reclamar disso no Twitter nos últimos dias. Tô curioso pra saber qual é a opinião dele sobre o jogo fora dos minigames."
+  },
+  {
+    "id": "edwxrda",
+    "split": "train",
+    "line_idx": 22415,
+    "original_text": "We can't let the 8 year olds who are playing an M rated game see all of this bad language!!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "A gente não pode deixar as crianças de 8 anos que jogam um jogo pra maiores de 18 verem todo esse palavreado!!"
+  },
+  {
+    "id": "eeox56o",
+    "split": "train",
+    "line_idx": 22416,
+    "original_text": "You just worded it badly, like we all SHOULD want to see it change, which many of us don’t.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Você só se expressou mal, tipo, nós todos DEVERÍAMOS querer ver isso mudar, o que muitos de nós não queremos."
+  },
+  {
+    "id": "edlrmv0",
+    "split": "train",
+    "line_idx": 22417,
+    "original_text": "I’m sorry about your friend.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Sinto muito pelo seu amigo."
+  },
+  {
+    "id": "ed6erop",
+    "split": "train",
+    "line_idx": 22418,
+    "original_text": "Edit 2, holy shit this is great. But be cautious ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Edit 2, caralho, isso é muito bom. Mas toma cuidado."
+  },
+  {
+    "id": "efftno8",
+    "split": "train",
+    "line_idx": 22419,
+    "original_text": "Good lad!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Boa, garoto!"
+  },
+  {
+    "id": "eeekh16",
+    "split": "train",
+    "line_idx": 22420,
+    "original_text": "Should you choose to have kids, you're going to make a good parent one day.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Se você decidir ter filhos, você vai ser um bom pai/mãe um dia."
+  },
+  {
+    "id": "ee0p9d1",
+    "split": "train",
+    "line_idx": 22421,
+    "original_text": "If the ps5 ends up having ps3 backwards compatibility I'll come back to this post to taunt you.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Se o PS5 acabar tendo retrocompatibilidade com PS3, eu volto nesse post pra tirar sarro de você."
+  },
+  {
+    "id": "ee7pchc",
+    "split": "train",
+    "line_idx": 22422,
+    "original_text": "That's not even the sub I put. Bad bot.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Esse nem é o sub que eu coloquei. Bot ruim."
+  },
+  {
+    "id": "efa9v6r",
+    "split": "train",
+    "line_idx": 22423,
+    "original_text": "Look at downvote_me_moreYOLO's posting history. Looks like a UofT student from the GTA. Judge the source and throttle your anger accordingly.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Dá uma olhada no histórico de posts do downvote_me_moreYOLO. Parece ser um estudante da UofT de Toronto. Julgue a fonte e controle sua raiva de acordo."
+  },
+  {
+    "id": "ed7bo38",
+    "split": "train",
+    "line_idx": 22424,
+    "original_text": "You can thank the Volkswagen diesel scandal for this...that plate was",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Você pode agradecer ao escândalo do diesel da Volkswagen por isso... aquela placa era"
+  },
+  {
+    "id": "ef3atfa",
+    "split": "train",
+    "line_idx": 22425,
+    "original_text": "He's know for making rhythms.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele é conhecido por criar ritmos."
+  },
+  {
+    "id": "ed67u8n",
+    "split": "train",
+    "line_idx": 22426,
+    "original_text": "Oh such a embarrassing mistake, or was it?",
+    "emotion_ids": "7,12",
+    "emotions": [
+      "curiosity",
+      "embarrassment"
+    ],
+    "translated_text": "Ah, que erro embaraçoso, ou será que foi?"
+  },
+  {
+    "id": "ed2fc1s",
+    "split": "train",
+    "line_idx": 22427,
+    "original_text": "That’s why I have a separate work number - I can just shut it off.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É por isso que eu tenho um número de trabalho separado - eu posso simplesmente desligar."
+  },
+  {
+    "id": "ee3253o",
+    "split": "train",
+    "line_idx": 22428,
+    "original_text": "And he be like - great and you? I'm like Great. And the conversation ends lol :-)",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "E ele fica tipo - ótimo e você? Eu fico tipo Ótimo. E a conversa acaba kkk :-)"
+  },
+  {
+    "id": "ee3y1fw",
+    "split": "train",
+    "line_idx": 22429,
+    "original_text": "Lmao, The first thing i did after reading is trying to do it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Kkkkk, a primeira coisa que eu fiz depois de ler foi tentar fazer."
+  },
+  {
+    "id": "edd6h8l",
+    "split": "train",
+    "line_idx": 22430,
+    "original_text": "She's immortal now. Spread throughout the internet...shared by hapless idiots.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ela é imortal agora. Espalhada pela internet... compartilhada por idiotas azarados."
+  },
+  {
+    "id": "eek2hff",
+    "split": "train",
+    "line_idx": 22431,
+    "original_text": "I'd be happy for them to take a shot at him, I think he's an excellent player and only getting better.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu ficaria feliz se eles dessem uma chance pra ele, acho que ele é um excelente jogador e só tá ficando melhor."
+  },
+  {
+    "id": "ef8pdow",
+    "split": "train",
+    "line_idx": 22432,
+    "original_text": "Yeah, I mean we’re all just in their wake over here. I’m humbled.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "É, quero dizer, estamos todos apenas na esteira deles por aqui. Me sinto humilde."
+  },
+  {
+    "id": "edopir7",
+    "split": "train",
+    "line_idx": 22433,
+    "original_text": "I wish ours was like that.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu queria que o nosso fosse assim."
+  },
+  {
+    "id": "efbbqye",
+    "split": "train",
+    "line_idx": 22434,
+    "original_text": "[NAME] has the best facial expressions LOL. Her face is literally this emoji: 😒",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] tem as melhores expressões faciais KKKK. A cara dela é literalmente esse emoji: 😒"
+  },
+  {
+    "id": "ed25qch",
+    "split": "train",
+    "line_idx": 22435,
+    "original_text": "I like you [NAME] :)",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu gosto de você [NAME] :)"
+  },
+  {
+    "id": "ef7q21e",
+    "split": "train",
+    "line_idx": 22436,
+    "original_text": "99.9999999% of sugar relationships involve sex. If you're not interested in sex, you should not sugar.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "99,9999999% dos relacionamentos sugar envolvem sexo. Se você não tem interesse em sexo, você não deveria entrar no sugar."
+  },
+  {
+    "id": "efe2ffd",
+    "split": "train",
+    "line_idx": 22437,
+    "original_text": "You're so talented OP. I like your sense of humor. But it hurts too cuz too real :(",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você é tão talentoso, OP. Gosto do seu senso de humor. Mas dói também porque é muito real :("
+  },
+  {
+    "id": "edfnbbo",
+    "split": "train",
+    "line_idx": 22438,
+    "original_text": "I'm really appreciate someone saying this.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu agradeço muito alguém dizer isso."
+  },
+  {
+    "id": "eewz6d2",
+    "split": "train",
+    "line_idx": 22439,
+    "original_text": "I was going to say this... he endangered your health",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu ia dizer isso... ele colocou sua saúde em risco."
+  },
+  {
+    "id": "eegquo1",
+    "split": "train",
+    "line_idx": 22440,
+    "original_text": "I had shopping to put on the thing. Plus I wanted to go home.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tinha compras pra colocar na esteira. Além disso, eu queria ir pra casa."
+  },
+  {
+    "id": "eeljsws",
+    "split": "train",
+    "line_idx": 22441,
+    "original_text": "I'm...not going to let him see me cry.",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "Eu... não vou deixar ele me ver chorar."
+  },
+  {
+    "id": "eepfryr",
+    "split": "train",
+    "line_idx": 22442,
+    "original_text": "Great minds more like... And youtube suggestions.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Grandes mentes, ou melhor... E as sugestões do YouTube."
+  },
+  {
+    "id": "eesu8o8",
+    "split": "train",
+    "line_idx": 22443,
+    "original_text": "It’s okay, my mom has always hated me and I’m fine.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Tá tudo bem, minha mãe sempre me odiou e eu tô bem."
+  },
+  {
+    "id": "ed0q69l",
+    "split": "train",
+    "line_idx": 22444,
+    "original_text": "Every red light should have one of these!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Todo sinal vermelho deveria ter um desses!"
+  },
+  {
+    "id": "efcojm6",
+    "split": "train",
+    "line_idx": 22445,
+    "original_text": "to 6:30. Does that look fake to you?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "aos 6:30. Aquilo parece falso pra você?"
+  },
+  {
+    "id": "ed0qwqq",
+    "split": "train",
+    "line_idx": 22446,
+    "original_text": "Well I'm glad I decided to go to McD's instead of doing those lines!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Bom, ainda bem que eu decidi ir no McDonald's em vez de ficar naquelas filas!"
+  },
+  {
+    "id": "eemn7ka",
+    "split": "train",
+    "line_idx": 22447,
+    "original_text": "Find like-minded people you can have meaningful conversations with. Everything else I consider a waste of my spare time.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Encontre pessoas que pensam como você e com quem você possa ter conversas significativas. Todo o resto eu considero um desperdício do meu tempo livre."
+  },
+  {
+    "id": "efey8im",
+    "split": "train",
+    "line_idx": 22448,
+    "original_text": "One of my all-time favorite bands, and one of the best live acts you'll ever see!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Uma das minhas bandas favoritas de todos os tempos, e um dos melhores shows que você vai ver na vida!"
+  },
+  {
+    "id": "eequ77s",
+    "split": "train",
+    "line_idx": 22449,
+    "original_text": "[NAME], we have a guy with a bucket on his head and you have pornstars. I’m glad I live on this side of the Atlantic ",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "[NAME], nós temos um cara com um balde na cabeça e vocês têm estrelas pornô. Ainda bem que eu moro desse lado do Atlântico"
+  }
+]

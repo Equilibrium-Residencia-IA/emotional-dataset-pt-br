@@ -1,0 +1,557 @@
+[
+  {
+    "id": "eeegppm",
+    "split": "train",
+    "line_idx": 21700,
+    "original_text": "[NAME] I've smoked for 20 years. Really is time to quit.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "[NAME] eu fumo faz 20 anos. Realmente tá na hora de parar."
+  },
+  {
+    "id": "efh8jqz",
+    "split": "train",
+    "line_idx": 21701,
+    "original_text": "WE'RE ON OUR WAY WE'RE ON OUR WAY TO BAKU, WE'RE ON OUR WAY!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ESTAMOS A CAMINHO ESTAMOS A CAMINHO DE BAKU, ESTAMOS A CAMINHO!"
+  },
+  {
+    "id": "eeiha8e",
+    "split": "train",
+    "line_idx": 21702,
+    "original_text": "Lol. Mod conspiracy theories. Yes they want to destroy the sub. That is their goal.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lol. Teorias da conspiração dos mods. Sim, eles querem destruir o sub. Esse é o objetivo deles."
+  },
+  {
+    "id": "edcjij3",
+    "split": "train",
+    "line_idx": 21703,
+    "original_text": "Nice win! Good luck on your future tournaments!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Bela vitória! Boa sorte nos seus próximos torneios!"
+  },
+  {
+    "id": "eeeslbj",
+    "split": "train",
+    "line_idx": 21704,
+    "original_text": "This 100%. [NAME] was a great enforcer, but him scoring a hat trick with the Thrashers was just crazy.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso 100%. [NAME] era um ótimo executor, mas ele fazer um hat trick com os Thrashers foi simplesmente insano."
+  },
+  {
+    "id": "edcmp09",
+    "split": "train",
+    "line_idx": 21705,
+    "original_text": "it's quite a large red flag. It depends on the context, but if they are in her dating league, I would be suspicious. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "é um sinal de alerta bem grande. Depende do contexto, mas se eles estiverem no mesmo nível de namoro que ela, eu ficaria desconfiado."
+  },
+  {
+    "id": "edurzhs",
+    "split": "train",
+    "line_idx": 21706,
+    "original_text": "[NAME] has not played under [NAME] for a single day of his career.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] não jogou sob o comando de [NAME] por um único dia na carreira dele."
+  },
+  {
+    "id": "edorxks",
+    "split": "train",
+    "line_idx": 21707,
+    "original_text": "Hey everybody we got us an optimist here.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Ei pessoal, temos um otimista aqui."
+  },
+  {
+    "id": "eea6wnk",
+    "split": "train",
+    "line_idx": 21708,
+    "original_text": "So you have your twin 6'9 215 pound forwards playing different positions? Interesting gm'ing. I see why the Hornets are so terrible.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Então você tem seus alas gêmeos de 2,06m e 97kg jogando em posições diferentes? Gestão interessante. Entendi por que os Hornets são tão ruins."
+  },
+  {
+    "id": "ef7mlrh",
+    "split": "train",
+    "line_idx": 21709,
+    "original_text": "Opposites attract! I thought the same thing when he helped her cook Thanksgiving.",
+    "emotion_ids": "15,22",
+    "emotions": [
+      "gratitude",
+      "realization"
+    ],
+    "translated_text": "Os opostos se atraem! Pensei a mesma coisa quando ele ajudou ela a cozinhar no Dia de Ação de Graças."
+  },
+  {
+    "id": "efdfl0t",
+    "split": "train",
+    "line_idx": 21710,
+    "original_text": "I loved [NAME] so much",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amava tanto o [NAME]"
+  },
+  {
+    "id": "ed69k4g",
+    "split": "train",
+    "line_idx": 21711,
+    "original_text": "tRuLy A wOrK oF wOnDeR",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "VeRdAdEiRaMeNtE uMa ObRa De ArTe"
+  },
+  {
+    "id": "eez5v5p",
+    "split": "train",
+    "line_idx": 21712,
+    "original_text": "Why wouldn’t the cops turn off the truck and take the keys?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Por que os policiais não desligaram o caminhão e tiraram a chave?"
+  },
+  {
+    "id": "eetcwc8",
+    "split": "train",
+    "line_idx": 21713,
+    "original_text": "Missed the beginning of the game, cheers or boos for [NAME]? I'm assuming cheers, but you never know in MTL",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Perdi o começo do jogo, rolou vaia ou aplauso pro [NAME]? Imagino que aplauso, mas nunca se sabe em MTL"
+  },
+  {
+    "id": "ef0fz6d",
+    "split": "train",
+    "line_idx": 21714,
+    "original_text": "But come on babe, you know you want me babe...l.o.l. JK Babe ;)",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Mas qual é gata, você sabe que me quer gata...l.o.l. Brincadeira gata ;)"
+  },
+  {
+    "id": "eez9k9j",
+    "split": "train",
+    "line_idx": 21715,
+    "original_text": "yes how does it feel being one of them",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "sim como é a sensação de ser um deles"
+  },
+  {
+    "id": "eeughzo",
+    "split": "train",
+    "line_idx": 21716,
+    "original_text": "Ooooooh I wanna try it now!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ooooooh eu quero tentar agora!"
+  },
+  {
+    "id": "eezjypk",
+    "split": "train",
+    "line_idx": 21717,
+    "original_text": "Looked like [NAME] knee landed on kemba arm",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pareceu que o joelho do [NAME] caiu no braço do kemba"
+  },
+  {
+    "id": "eezvy6k",
+    "split": "train",
+    "line_idx": 21718,
+    "original_text": "So I have a hobby, I'm passionate about my 2nd Amendment rights, and I dont post/comment on reddit often. Your point?",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Então, eu tenho um hobby, sou apaixonado pelos meus direitos da 2ª Emenda, e não posto/comento no reddit com frequência. Qual o seu ponto?"
+  },
+  {
+    "id": "ed49hla",
+    "split": "train",
+    "line_idx": 21719,
+    "original_text": "This doesn't even make sense!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Isso nem faz sentido!"
+  },
+  {
+    "id": "edwdqfb",
+    "split": "train",
+    "line_idx": 21720,
+    "original_text": "Okay just thought it would be a good idea.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Beleza, só achei que seria uma boa ideia."
+  },
+  {
+    "id": "eenwjdl",
+    "split": "train",
+    "line_idx": 21721,
+    "original_text": "No you shouldn’t. If you recieve income, it should be taxed.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, você não deveria. Se você recebe renda, ela deveria ser tributada."
+  },
+  {
+    "id": "eedvwnj",
+    "split": "train",
+    "line_idx": 21722,
+    "original_text": "Time to cut him off. Or find a way to get him good help. Cause he sounds a little dangerous.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Hora de cortar relações. Ou achar um jeito de conseguir uma ajuda boa pra ele. Porque ele parece um pouco perigoso."
+  },
+  {
+    "id": "efge8mn",
+    "split": "train",
+    "line_idx": 21723,
+    "original_text": "Sir the fuck down. This is an intervention, we need to talk.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Senta a bunda aí. Isso é uma intervenção, precisamos conversar."
+  },
+  {
+    "id": "eewfeon",
+    "split": "train",
+    "line_idx": 21724,
+    "original_text": "a lost art",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "uma arte perdida"
+  },
+  {
+    "id": "eexuxuv",
+    "split": "train",
+    "line_idx": 21725,
+    "original_text": "I actually find running harder than passing on all madden",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu na verdade acho correr mais difícil do que passar no all madden"
+  },
+  {
+    "id": "ef4cdxx",
+    "split": "train",
+    "line_idx": 21726,
+    "original_text": "So smart it looks like he shut his fingers in the door. That’s a nasty bruise under his fingernail.",
+    "emotion_ids": "0,3,11",
+    "emotions": [
+      "admiration",
+      "annoyance",
+      "disgust"
+    ],
+    "translated_text": "Tão esperto que parece que prendeu os dedos na porta. Que hematoma feio embaixo da unha dele."
+  },
+  {
+    "id": "eeyypz0",
+    "split": "train",
+    "line_idx": 21727,
+    "original_text": "It's ironic that those who most strongly embrace TSSC and other churches are so often utterly lacking in any level of true \"faith.\"",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É irônico que aqueles que mais abraçam a TSSC e outras igrejas são tão frequentemente desprovidos de qualquer nível de \"fé\" verdadeira."
+  },
+  {
+    "id": "eewazmn",
+    "split": "train",
+    "line_idx": 21728,
+    "original_text": "Fascinating! Thanks for the info!",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Fascinante! Valeu pela informação!"
+  },
+  {
+    "id": "efdoozh",
+    "split": "train",
+    "line_idx": 21729,
+    "original_text": "I hate his hoist a shit shot and throw your legs forward so you can draw a foul on the defender for crowding your landing space.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu odeio esse arremesso dele de pular e jogar as pernas pra frente só pra cavar falta do defensor por invadir o espaço de aterrissagem."
+  },
+  {
+    "id": "edn5avp",
+    "split": "train",
+    "line_idx": 21730,
+    "original_text": "I used to have no problems finding them, but I’m struggling really hard now",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu não costumava ter problemas pra achar eles, mas tô sofrendo muito agora"
+  },
+  {
+    "id": "eewqg6r",
+    "split": "train",
+    "line_idx": 21731,
+    "original_text": "I love how this sub is so sensitive. Some people just havent seen them IRL!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo como esse sub é tão sensível. Algumas pessoas só não viram eles na vida real!"
+  },
+  {
+    "id": "ed6ggax",
+    "split": "train",
+    "line_idx": 21732,
+    "original_text": "hello im bipolar 2 the fun kind",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "olá sou bipolar 2, o tipo divertido"
+  },
+  {
+    "id": "edb8wbq",
+    "split": "train",
+    "line_idx": 21733,
+    "original_text": "He must simply be known as [NAME], all the greats are known by a single name.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele deve ser conhecido simplesmente como [NAME], todos os grandes são conhecidos por um único nome."
+  },
+  {
+    "id": "edxffdq",
+    "split": "train",
+    "line_idx": 21734,
+    "original_text": "Pls end me",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Por favor, me mata"
+  },
+  {
+    "id": "edcr8hl",
+    "split": "train",
+    "line_idx": 21735,
+    "original_text": "I’m not a detective, but I don’t think it was her. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não sou detetive, mas não acho que foi ela."
+  },
+  {
+    "id": "ee1e74y",
+    "split": "train",
+    "line_idx": 21736,
+    "original_text": "Being ugly and confident does not mean you'll do well in dating. You'll just try more.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Ser feio e confiante não significa que você vai se dar bem nos encontros. Você só vai tentar mais."
+  },
+  {
+    "id": "eea914m",
+    "split": "train",
+    "line_idx": 21737,
+    "original_text": "Well you’re not wrong.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, você não está errado."
+  },
+  {
+    "id": "eeq93ve",
+    "split": "train",
+    "line_idx": 21738,
+    "original_text": "a realization of the fact that you're not good enough and you have to work a lot harder and develop your taste?",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "uma percepção do fato de que você não é bom o suficiente e tem que trabalhar muito mais e desenvolver seu gosto?"
+  },
+  {
+    "id": "eejtkpv",
+    "split": "train",
+    "line_idx": 21739,
+    "original_text": "Wouldn't you just enjoy more focus on Celtic football?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Você não gostaria de mais foco no futebol do Celtic?"
+  },
+  {
+    "id": "eezcz65",
+    "split": "train",
+    "line_idx": 21740,
+    "original_text": "Good for you! So awesome!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Bom pra você! Muito foda!"
+  },
+  {
+    "id": "edm92fp",
+    "split": "train",
+    "line_idx": 21741,
+    "original_text": "I cannot answer this question without asking you to read a specific book.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não consigo responder essa pergunta sem pedir pra você ler um livro específico."
+  },
+  {
+    "id": "eefhetj",
+    "split": "train",
+    "line_idx": 21742,
+    "original_text": "The mouthbreathers usually aren't boys but guys between 2-3 times my age. Possibly homeless and very smelly.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os boca-aberta geralmente não são garotos, mas caras entre 2 a 3 vezes a minha idade. Possivelmente sem-teto e muito fedorentos."
+  },
+  {
+    "id": "ed1seiq",
+    "split": "train",
+    "line_idx": 21743,
+    "original_text": "Thanks for sharing",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu por compartilhar"
+  },
+  {
+    "id": "efhax92",
+    "split": "train",
+    "line_idx": 21744,
+    "original_text": "I'm sorry that you're so angry.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Sinto muito que você esteja tão bravo."
+  },
+  {
+    "id": "eeqodcp",
+    "split": "train",
+    "line_idx": 21745,
+    "original_text": "And this is why this sub is the way it is.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "E é por isso que esse sub é desse jeito."
+  },
+  {
+    "id": "ef8zahz",
+    "split": "train",
+    "line_idx": 21746,
+    "original_text": "[NAME] lesnar. Sorry [NAME]",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "[NAME] lesnar. Desculpa [NAME]"
+  },
+  {
+    "id": "edrgand",
+    "split": "train",
+    "line_idx": 21747,
+    "original_text": "You’ll have to take it up with my good friend [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você vai ter que se resolver com meu bom amigo [NAME]"
+  },
+  {
+    "id": "edm5l3m",
+    "split": "train",
+    "line_idx": 21748,
+    "original_text": "Is there any example in History where a 'multicultural' society has succeeded to the point of them becoming a major power?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Existe algum exemplo na História onde uma sociedade 'multicultural' teve sucesso a ponto de se tornar uma grande potência?"
+  },
+  {
+    "id": "ee5i8sg",
+    "split": "train",
+    "line_idx": 21749,
+    "original_text": "I don’t know but I think they at least have foil inside, I remember seeing you could hack one into an antenna.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei, mas acho que pelo menos eles têm papel alumínio dentro, lembro de ver que dava pra hackear um e transformar em antena."
+  }
+]

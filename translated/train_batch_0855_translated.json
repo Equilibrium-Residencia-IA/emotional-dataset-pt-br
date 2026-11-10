@@ -1,0 +1,611 @@
+[
+  {
+    "id": "eebdhn8",
+    "split": "train",
+    "line_idx": 42750,
+    "original_text": "No, you have the right too. Pretty crazy, but awesome thing we have. Freedom of expression.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Não, você também tem o direito. Meio louco, mas uma parada foda que a gente tem. Liberdade de expressão.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed35f81",
+    "split": "train",
+    "line_idx": 42751,
+    "original_text": "A sharp stick? I think you need a rifle to kill that bastard",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Um pedaço de pau pontudo? Acho que você precisa de um rifle pra matar aquele desgraçado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetqij6",
+    "split": "train",
+    "line_idx": 42752,
+    "original_text": "MI-13 was uncontested by the GOP, too, but the numbers probably work out because Tlaib beat the Green Party candidate 81-19.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "MI-13 também não foi disputada pelo Partido Republicano, mas os números provavelmente fecham porque a Tlaib venceu a candidata do Partido Verde por 81 a 19.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6hkoe",
+    "split": "train",
+    "line_idx": 42753,
+    "original_text": "Being rich isnt the only way to be successful. The first success to conquer is learning to love and accept ourselves",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ser rico não é o único jeito de ter sucesso. O primeiro sucesso a ser conquistado é aprender a se amar e se aceitar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddh22q",
+    "split": "train",
+    "line_idx": 42754,
+    "original_text": "Let's not pretend that all fetishes are fine.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não vamos fingir que todo fetiche é normal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrb0ym",
+    "split": "train",
+    "line_idx": 42755,
+    "original_text": "Because after the troubles, making a joke about religion in Northern Ireland goes down badly. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque depois dos conflitos, fazer piada sobre religião na Irlanda do Norte pega super mal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj326i",
+    "split": "train",
+    "line_idx": 42756,
+    "original_text": "+1 Thought I had depression, turns out I just wasn’t being happy enough! Who’da thunk it.",
+    "emotion_ids": "17,25",
+    "emotions": [
+      "joy",
+      "sadness"
+    ],
+    "translated_text": "+1 Achei que eu tava com depressão, mas no fim das contas eu só não tava sendo feliz o suficiente! Quem diria.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3bbxa",
+    "split": "train",
+    "line_idx": 42757,
+    "original_text": "Let's not try to pretend both were equally bad, [NAME] was magnitudes worse",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não vamos tentar fingir que os dois foram igualmente ruins, o [NAME] foi infinitamente pior",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edr298t",
+    "split": "train",
+    "line_idx": 42758,
+    "original_text": "Yes but that's largely changed in much of the US (the coasts at least). Surprised a state or two hasn't legalized it",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Sim, mas isso mudou bastante em boa parte dos EUA (pelo menos no litoral). Surpreso que um estado ou dois ainda não tenha legalizado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmh4it",
+    "split": "train",
+    "line_idx": 42759,
+    "original_text": "To be fair [NAME] and Unite were both cleared of wrongdoing.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Para ser justo, tanto [NAME] quanto a Unite foram inocentados de qualquer irregularidade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczr3pv",
+    "split": "train",
+    "line_idx": 42760,
+    "original_text": "thank you for your kind words.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "obrigado por suas palavras gentis.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeaau1f",
+    "split": "train",
+    "line_idx": 42761,
+    "original_text": "Imagine thinking this comment was ok to post. Shame on you.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Imagina achar de boa postar um comentário desse. Que vergonha.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeyd7wy",
+    "split": "train",
+    "line_idx": 42762,
+    "original_text": "Yup. Hysterical bonding from ultimatums. Remember that time ultimatums created lust and desire...........?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Sim. Apego histérico gerado por ultimatos. Lembra daquela vez que ultimatos geraram tesão e desejo...........?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjefy9",
+    "split": "train",
+    "line_idx": 42763,
+    "original_text": "Thanks mr bot",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, sr. bot",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzxugb",
+    "split": "train",
+    "line_idx": 42764,
+    "original_text": "BALL DONT LIE",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "A BOLA NÃO MENTE",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeafkqi",
+    "split": "train",
+    "line_idx": 42765,
+    "original_text": "It was pretty good, I didn't have the patience to see *all* the endings myself but spoilers exist on reddit for the curious (; ",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Foi bem bom, eu não tive paciência pra ver *todos* os finais por conta própria, mas tem spoiler no reddit pros curiosos (; ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edv70d7",
+    "split": "train",
+    "line_idx": 42766,
+    "original_text": "Can confirm. My forehead creases came from doing this for years.",
+    "emotion_ids": "3,4",
+    "emotions": [
+      "annoyance",
+      "approval"
+    ],
+    "translated_text": "Posso confirmar. As rugas na minha testa vieram de fazer isso durante anos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef75lx8",
+    "split": "train",
+    "line_idx": 42767,
+    "original_text": "What I'm saying g is this is really on the edge of being a that happened I mean it could be partially true",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que eu tô dizendo é que isso tá bem no limite de ser um \"aconteceu pra caralho\", quer dizer, pode ser parcialmente verdade",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeuo89s",
+    "split": "train",
+    "line_idx": 42768,
+    "original_text": "They're probably usually too fixated on how they look to even consider their surroundings",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles provavelmente costumam ser tão bitolados com a própria aparência que nem reparam ao redor",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eethk7i",
+    "split": "train",
+    "line_idx": 42769,
+    "original_text": "Hot girls get horny too.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gostosas também ficam com tesão.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0u7lj",
+    "split": "train",
+    "line_idx": 42770,
+    "original_text": "Right?!!! But I have learned to love the bitter taste of alp 🤢😭",
+    "emotion_ids": "7,18,22",
+    "emotions": [
+      "curiosity",
+      "love",
+      "realization"
+    ],
+    "translated_text": "Né?!!! Mas eu aprendi a amar o gosto amargo do alp 🤢😭",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3gua7",
+    "split": "train",
+    "line_idx": 42771,
+    "original_text": "Awesome! I hope it helps you :)",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Demais! Espero que te ajude :)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbr4fe",
+    "split": "train",
+    "line_idx": 42772,
+    "original_text": "She was acting from her emotions instead of logic. I suppose I have a huge distain for that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela tava agindo pela emoção em vez da razão. Acho que tenho um tremendo desprezo por isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhn4jj",
+    "split": "train",
+    "line_idx": 42773,
+    "original_text": "He looks like he is half Italian half Russian and belongs in a fight club.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele parece meio italiano meio russo e que frequenta um clube da luta.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efggot8",
+    "split": "train",
+    "line_idx": 42774,
+    "original_text": "Aw, man, with that title, I was hoping for good old-fashioned corporal punishment, like back in the 1700s. ",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Poxa, cara, com esse título, eu tava esperando um bom e velho castigo físico à moda antiga, tipo lá nos anos 1700.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkngiz",
+    "split": "train",
+    "line_idx": 42775,
+    "original_text": "Go to Happiest Hour before/after the game. Walking distance b/w AA center. It's a fun spot!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Vai no Happiest Hour antes/depois do jogo. Dá pra ir a pé do AA center. O lugar é bem divertido!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzqi2u",
+    "split": "train",
+    "line_idx": 42776,
+    "original_text": "No problem! I've been chillin in capture the flag for couple of days now and she is super strong and fun in this mode.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "De boa! Eu tô curtindo no modo capture a bandeira já faz uns dias e ela é super forte e divertida nesse modo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7k99j",
+    "split": "train",
+    "line_idx": 42777,
+    "original_text": "Even if I would get 100 bucks for downloading and playing I wouldn't touch this crap piece of forced romance with baby inside.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Mesmo se eu ganhasse 100 pratas pra baixar e jogar, eu não tocaria nessa porcaria de romance forçado com bebê no meio.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekplci",
+    "split": "train",
+    "line_idx": 42778,
+    "original_text": "The age of consent is 16 in Massachusetts. Unless they’re sending nude pictures he’s not doing anything illegal.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A idade de consentimento é 16 anos em Massachusetts. A menos que estejam mandando nudes, ele não tá fazendo nada ilegal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4w1sl",
+    "split": "train",
+    "line_idx": 42779,
+    "original_text": "He may have thought he had time but I really can't comment on his frame.of mind",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele pode ter achado que tinha tempo, mas eu realmente não posso opinar sobre o estado mental dele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eev029m",
+    "split": "train",
+    "line_idx": 42780,
+    "original_text": "In this case his hands were up, so the solution is them keeping their hands up, and not beating innocent people. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nesse caso as mãos dele tavam levantadas, então a solução é eles manterem as mãos pra cima e não espancar gente inocente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefjo93",
+    "split": "train",
+    "line_idx": 42781,
+    "original_text": "I know, I'm training. Only a semi-cursed word with a number as the user seems coincidental.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Eu sei, tô treinando. Só uma palavra meio amaldiçoada com um número no nome de usuário parece coincidência.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef02duz",
+    "split": "train",
+    "line_idx": 42782,
+    "original_text": "you are a smart dude",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "você é um cara inteligente",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeufk2j",
+    "split": "train",
+    "line_idx": 42783,
+    "original_text": "Holy shit, it's never occurred to me I'll still be anxious at 50. Thanks for this, very informative",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Caralho, nunca me passou pela cabeça que eu ainda vou estar ansioso aos 50. Valeu por isso, muito informativo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg6meu",
+    "split": "train",
+    "line_idx": 42784,
+    "original_text": "Oh I see",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, entendi",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1fkc6",
+    "split": "train",
+    "line_idx": 42785,
+    "original_text": "yeah he was - i also remember him crashing into beltran when he was a Met. Scary play",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "é, ele era sim — também lembro dele batendo no beltran quando jogava nos Mets. Que lance assustador",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eewk2dv",
+    "split": "train",
+    "line_idx": 42786,
+    "original_text": "put it in a drink, preferably a soda. Its great to sip on!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "bota numa bebida, de preferência um refri. É ótimo pra ir tomando aos poucos!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeftpc8",
+    "split": "train",
+    "line_idx": 42787,
+    "original_text": "Been a while since I watched but you gotta go through the mirror and put the bear under the bed. Then you can go with her.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Faz um tempo que assisti, mas você tem que atravessar o espelho e botar o urso embaixo da cama. Aí você pode ir com ela.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7rxlo",
+    "split": "train",
+    "line_idx": 42788,
+    "original_text": "So... the company basically shifted the HGC budget into severance packages for executives?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então... a empresa basicamente redirecionou o orçamento do HGC pra pacotes de rescisão de executivos?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6awse",
+    "split": "train",
+    "line_idx": 42789,
+    "original_text": "I work closely with GoA (but not for them) and I agree. They made a lot of great policy and program decisions.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Trabalho junto com o GoA (mas não pra eles) e concordo. Eles tomaram muitas decisões ótimas de políticas e programas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eewcqyc",
+    "split": "train",
+    "line_idx": 42790,
+    "original_text": "Thank [NAME] for state rights.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Agradeça a [NAME] pela autonomia dos estados.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eestsfh",
+    "split": "train",
+    "line_idx": 42791,
+    "original_text": "Or the action to take on the bad feeling. As we say in poker, \"he made a bad read, and got coolered.\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ou a atitude a tomar em relação ao mau pressentimento. Como dizemos no poker: \"ele fez uma leitura ruim e levou um cooler\".",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3049w",
+    "split": "train",
+    "line_idx": 42792,
+    "original_text": "You can buy bitesize toad in the holes in Tesco. They are amazing. These look like they use hotdogs but I imagine would be almost as good.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Dá pra comprar mini toad in the hole no Tesco. São maravilhosos. Esses aí parecem usar salsicha, mas imagino que fiquem quase tão bons.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe03ty",
+    "split": "train",
+    "line_idx": 42793,
+    "original_text": "Im definitely gonna check the bushes around the burn where everyone throws their targets from now on. Im not over it i feel bad man.",
+    "emotion_ids": "2,25",
+    "emotions": [
+      "anger",
+      "sadness"
+    ],
+    "translated_text": "Com certeza vou vasculhar os arbustos perto do córrego onde todo mundo joga os alvos a partir de agora. Não superei isso, tô me sentindo mal, cara.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednj2kx",
+    "split": "train",
+    "line_idx": 42794,
+    "original_text": "Amazing device... Wish I had one growing up in New York. As long as it works, that is! ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Aparelho incrível... Queria ter tido um enquanto crescia em Nova York. Desde que funcione, claro!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjh129",
+    "split": "train",
+    "line_idx": 42795,
+    "original_text": "And here is my personal favorite, “To weigh one couple’s pathetic-ness against the others is to split the hairs that [NAME] collected.” Truth 💆🏽‍♀️",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "E aqui tá o meu favorito: “Comparar o quão patético é um casal em relação a outros é procurar pelo em ovo entre os que a [NAME] juntou.” Verdade pura 💆🏽‍♀️",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edeki7f",
+    "split": "train",
+    "line_idx": 42796,
+    "original_text": "best part was him tearing apart his Real shirt while walking out",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "a melhor parte foi ele rasgando a camisa do Real enquanto saía",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeok247",
+    "split": "train",
+    "line_idx": 42797,
+    "original_text": "I WaS KIddInG i loVE U lOLlOL",
+    "emotion_ids": "1,18",
+    "emotions": [
+      "amusement",
+      "love"
+    ],
+    "translated_text": "EU TAVa bRInCAnDo EU TE AMo kKkKkK",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eek626j",
+    "split": "train",
+    "line_idx": 42798,
+    "original_text": "I'd say the bigger potential problem is getting reported for public indecency, that goes on your criminal record.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Eu diria que o problema potencial maior é ser denunciado por atentado ao pudor, isso vai pra ficha criminal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedpshm",
+    "split": "train",
+    "line_idx": 42799,
+    "original_text": "They then went to a piano concert together. This conflict is amazing in it's twists and turns.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Depois eles foram juntos a um concerto de piano. Esse conflito é incrível de tantas reviravoltas.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "eczcnu6",
+    "split": "train",
+    "line_idx": 37350,
+    "original_text": "That’s a lot of chonkers!",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Quanta gorncha gorda!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edbh31q",
+    "split": "train",
+    "line_idx": 37351,
+    "original_text": "I love when people call 500ms lights useless.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu adoro quando chamam luzes de 500ms de inúteis.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef5zqj3",
+    "split": "train",
+    "line_idx": 37352,
+    "original_text": "Nah I wish, that would have been awesome!!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Nossa, quem dera, isso teria sido incrível!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efa6390",
+    "split": "train",
+    "line_idx": 37353,
+    "original_text": "It's a dumb and harmful thing, when you invite people because of their race and sexual orientation over qualifications and skill",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "É uma coisa idiota e prejudicial quando você convida pessoas por causa da raça e orientação sexual em vez de qualificação e competência",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eee81m8",
+    "split": "train",
+    "line_idx": 37354,
+    "original_text": "Too bad \"incremental change toward reasonable goals via evidence-based policy\" doesn't work well on a bumper sticker",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que pena que \"mudança gradual rumo a objetivos razoáveis por meio de políticas baseadas em evidências\" não funciona muito bem em adesivo de para-choque",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eebdxp1",
+    "split": "train",
+    "line_idx": 37355,
+    "original_text": "Great to see [NAME] back on the court",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Muito bom ver o [NAME] de volta à quadra",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eevdq1h",
+    "split": "train",
+    "line_idx": 37356,
+    "original_text": "He might be, indeed...just remember, if you do catch him doing this, that he's just a kid without any understanding on that stuff. ",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Ele pode estar mesmo... só lembre que, se você pegar ele fazendo isso, ele é só um moleque que não entende nada dessas paradas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eep4txk",
+    "split": "train",
+    "line_idx": 37357,
+    "original_text": "only facts mate - so nothing you would be interested in",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "só fatos meu parça - ou seja, nada que te interesse",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edmxz84",
+    "split": "train",
+    "line_idx": 37358,
+    "original_text": "[NAME] I can understand, but Ukrainian? Is he a migrant from central asia? Or a [NAME]? I am confused",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "[NAME] eu consigo entender, mas ucraniano? Ele é um migrante da Ásia central? Ou um [NAME]? Tô confuso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlpvy1",
+    "split": "train",
+    "line_idx": 37359,
+    "original_text": "Have that pic.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tenho essa foto.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7db3d",
+    "split": "train",
+    "line_idx": 37360,
+    "original_text": "Not sad or cringe.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nem triste nem vergonha alheia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehstl4",
+    "split": "train",
+    "line_idx": 37361,
+    "original_text": "Didn't even get a chuckle out of me. I guess its just too high brow for my dumb brain.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Nem me arrancou uma risadinha. Acho que é intelectual demais pra minha cabeça oca.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehqrem",
+    "split": "train",
+    "line_idx": 37362,
+    "original_text": "Nothing going [NAME] way tonight, lets just blame it on sickness and move on",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nada tá dando certo pro [NAME] hoje, vamos só colocar a culpa na doença e bola pra frente",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edsvehr",
+    "split": "train",
+    "line_idx": 37363,
+    "original_text": "Hopefully she lives in a very vaccinated area that will protect her baby. Hopefully.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tomara que ela viva em uma área com muita gente vacinada que proteja o bebê dela. Tomara.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed0148u",
+    "split": "train",
+    "line_idx": 37364,
+    "original_text": "What episode is this?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que episódio é esse?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edz3cr7",
+    "split": "train",
+    "line_idx": 37365,
+    "original_text": "Damn. That’s profound. Did you graduate from Harvard?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Caralho. Isso é profundo. Você se formou em Harvard?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlqrpw",
+    "split": "train",
+    "line_idx": 37366,
+    "original_text": "For some reason I always thought that was [NAME] unless if I'm remembering a different play",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Por algum motivo eu sempre achei que aquilo era o [NAME], a não ser que eu esteja lembrando de uma peça diferente",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eephfi0",
+    "split": "train",
+    "line_idx": 37367,
+    "original_text": "I love the logic of a better cheaper more reliable service comes along, so let's block the roads and highways that will make people love us LOL",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu adoro a lógica de que surge um serviço melhor, mais barato e mais confiável, então vamos bloquear as ruas e rodovias que é pra fazer o povo amar a gente KKKK",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeziafe",
+    "split": "train",
+    "line_idx": 37368,
+    "original_text": ">Working in MD AND DC? Would this be illegal? I will do that, thanks!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": ">Trabalhar em MD E DC? Isso seria ilegal? Vou fazer isso, valeu!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efbmrh7",
+    "split": "train",
+    "line_idx": 37369,
+    "original_text": "So remember when everyone was reading [NAME] for making a song and performing it on the show around a contrived part of her brand???",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Saca só quando todo mundo tava descendo a lenha no [NAME] por ter feito uma música e apresentado no programa em cima de uma parte forçada da marca dela???",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed10xps",
+    "split": "train",
+    "line_idx": 37370,
+    "original_text": "Me too :(",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu também :(",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8ob2i",
+    "split": "train",
+    "line_idx": 37371,
+    "original_text": "[NAME] \" haters gonna hate\" the most cringe I've seen of any politician. Worse than [NAME] benefit singing some working class song. ",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "O [NAME] \"odiadores vão odiar\" é a maior vergonha alheia que já vi de qualquer político. Pior do que a [NAME] cantando música de classe operária.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eezk9n9",
+    "split": "train",
+    "line_idx": 37372,
+    "original_text": "Not to burst anyone's bubble, but this ad isn't new. Maybe it's just being recirculated because of the whole Gillette fiasco.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não querendo estragar a brisa de ninguém, mas esse anúncio não é novo. Talvez só esteja circulando de novo por causa de todo aquele fiasco da Gillette.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef04ydg",
+    "split": "train",
+    "line_idx": 37373,
+    "original_text": "that's amazing, gives me hope. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "isso é incrível, me dá esperança.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef84z4r",
+    "split": "train",
+    "line_idx": 37374,
+    "original_text": "I love how at one point you're following behind her hair watching her dodge a spear",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Eu adoro como em um ponto você fica seguindo o cabelo dela vendo ela desviar de uma lança",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eesorwj",
+    "split": "train",
+    "line_idx": 37375,
+    "original_text": "Y'all really out here supporting authoritarian Venezuelan dictators huh.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vocês tão mesmo aqui defendendo ditadores venezuelanos autoritários hein.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edxvpea",
+    "split": "train",
+    "line_idx": 37376,
+    "original_text": "Good for you.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Bom para você.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee60sn5",
+    "split": "train",
+    "line_idx": 37377,
+    "original_text": "Stay strong, you’ll pull through.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Fique forte, você vai conseguir superar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed75l7q",
+    "split": "train",
+    "line_idx": 37378,
+    "original_text": "We should have had a dman protecting the net on that play. Our future is Taco's",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente devia ter tido um defensor protegendo a rede naquela jogada. Nosso futuro é o Taco",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eey579w",
+    "split": "train",
+    "line_idx": 37379,
+    "original_text": "[NAME] are you me? Like I was relating and then you said rot in Atlanta traffic and the pains of 285 burned into my mind.",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "[NAME] você é eu? Tipo, eu estava me identificando aí você falou de apodrecer no trânsito de Atlanta e as dores da 285 queimaram na minha mente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepnhof",
+    "split": "train",
+    "line_idx": 37380,
+    "original_text": "You're correct.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Você está certo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0vdlp",
+    "split": "train",
+    "line_idx": 37381,
+    "original_text": "I STILL WANT CREW ONLY LOBBIES",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "EU AINDA QUERO LOBBIES SÓ DE CREW",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlcxc9",
+    "split": "train",
+    "line_idx": 37382,
+    "original_text": "I wish I had your efficiency. I can be at work a full shift and still get almost nothing done.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Quem me dera ter a sua eficiência. Consigo ficar um turno inteiro no trabalho e mesmo assim quase não fazer nada.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edwt74b",
+    "split": "train",
+    "line_idx": 37383,
+    "original_text": "Was it just me or when they showed the backboard camera did the hoop look like it had a surprised face?",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Fui só eu ou quando mostraram a câmera da tabela a cesta pareceu estar com uma cara de surpresa?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpxrfy",
+    "split": "train",
+    "line_idx": 37384,
+    "original_text": "Do you spend the majority of your time scouring shite newspaper articles?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você passa a maior parte do seu tempo caçando artigo de jornal de merda?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef87j6f",
+    "split": "train",
+    "line_idx": 37385,
+    "original_text": "Awesome, it looks like we've found our next scapegoat.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Maravilha, parece que achamos nosso próximo bode expiatório.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eev17cs",
+    "split": "train",
+    "line_idx": 37386,
+    "original_text": "Refusing to acknowledge the *'First Act of Supremacy (1534)'* was a reason too.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Recusar-se a reconhecer o *'First Act of Supremacy (1534)'* também foi um motivo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efazvv5",
+    "split": "train",
+    "line_idx": 37387,
+    "original_text": "But the panther saddle is sexy af.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Mas a sela de pantera é muito foda.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeiy24z",
+    "split": "train",
+    "line_idx": 37388,
+    "original_text": "> and twice on Sunday Yeah I'm going to be using that any day of the week from now on and twice on Sunday",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> e duas vezes no domingo É, eu vou começar a usar essa aí todo santo dia e duas vezes no domingo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee678wy",
+    "split": "train",
+    "line_idx": 37389,
+    "original_text": "None in mine.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nenhum no meu.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eet9a3r",
+    "split": "train",
+    "line_idx": 37390,
+    "original_text": "he's gotta make shots and get to the line...2-6 so far, no ft's",
+    "emotion_ids": "8,27",
+    "emotions": [
+      "desire",
+      "neutral"
+    ],
+    "translated_text": "ele tem que acertar os arremessos e ir pra linha... 2-6 até agora, nenhum lance livre",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efbxl98",
+    "split": "train",
+    "line_idx": 37391,
+    "original_text": "Man I want AD but I love OG ::(( guess we gotta sacrifice eh...",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Cara, eu quero o AD mas amo o OG ::(( parece que vamos ter que sacrificar né...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eejzrth",
+    "split": "train",
+    "line_idx": 37392,
+    "original_text": "Oh god. Imagine losing to Toronto in the cup final. You would spent the rest of your life hearing about it",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Meu deus. Imagina perder para o Toronto na final da copa. Você ia passar o resto da vida ouvindo sobre isso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edd3l17",
+    "split": "train",
+    "line_idx": 37393,
+    "original_text": "You okay there, bot?",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Tudo bem por aí, bot?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1eh8p",
+    "split": "train",
+    "line_idx": 37394,
+    "original_text": "Am an FX artist. This is fake. Scar wax gives it away so badly.",
+    "emotion_ids": "10,11",
+    "emotions": [
+      "disapproval",
+      "disgust"
+    ],
+    "translated_text": "Sou artista de efeitos especiais. Isso é falso. A cera de cicatriz entrega muito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed4gxf4",
+    "split": "train",
+    "line_idx": 37395,
+    "original_text": "The kind you enjoy & can fully devote yourself to.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Do tipo que você curte e pode se dedicar de corpo e alma.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetd9hf",
+    "split": "train",
+    "line_idx": 37396,
+    "original_text": "How many of you just tried to take their shirt off like this... Be honest.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quantos de vocês acabaram de tentar tirar a camisa assim... Sejam honestos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7kbjr",
+    "split": "train",
+    "line_idx": 37397,
+    "original_text": "Black people still get shot unarmed. Comparing suffering is stupid and pointless.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Pessoas negras ainda levam tiro desarmadas. Comparar sofrimento é estúpido e inútil.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenejq5",
+    "split": "train",
+    "line_idx": 37398,
+    "original_text": "Haha, thats brilliant.",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Haha, isso é genial.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed71iba",
+    "split": "train",
+    "line_idx": 37399,
+    "original_text": "You could visit my family palace in croatia...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você podia visitar o palácio da minha família na Croácia...",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

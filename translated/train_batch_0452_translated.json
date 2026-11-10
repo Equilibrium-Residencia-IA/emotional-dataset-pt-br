@@ -1,0 +1,565 @@
+[
+  {
+    "id": "edpvvj6",
+    "split": "train",
+    "line_idx": 22600,
+    "original_text": "Is that the one with [NAME]?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "É aquele com o [NAME]?"
+  },
+  {
+    "id": "eczurtb",
+    "split": "train",
+    "line_idx": 22601,
+    "original_text": "Happy New Year",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Feliz Ano Novo"
+  },
+  {
+    "id": "edols4m",
+    "split": "train",
+    "line_idx": 22602,
+    "original_text": "Oh no! That’s my favorite! Nothing like losing an organ to get you to eat healthier.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Ah não! Esse é o meu favorito! Nada como perder um órgão pra você começar a comer mais saudável."
+  },
+  {
+    "id": "eea9ey0",
+    "split": "train",
+    "line_idx": 22603,
+    "original_text": "Don’t eat snickers on shrooms the taste was so intense and salty I was convinced I’d thrown up",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não coma Snickers quando estiver chapado de cogumelo, o gosto era tão intenso e salgado que eu fiquei convencido de que tinha vomitado"
+  },
+  {
+    "id": "eem4o4m",
+    "split": "train",
+    "line_idx": 22604,
+    "original_text": "That's hot ... *Notices tags* \"Fooled again ÒwÓ\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é quente... *Nota as tags* \"Enganado de novo ÒwÓ\""
+  },
+  {
+    "id": "eeoyt6j",
+    "split": "train",
+    "line_idx": 22605,
+    "original_text": "Hey guys don't freak out but Widow has a POISON MINE, ikr I never knew it existed. I was too busy missing body shots.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ei pessoal, não surtem, mas a Widow tem uma MINA VENENOSA, sério, eu nunca soube que isso existia. Eu tava ocupado demais errando os tiros no corpo."
+  },
+  {
+    "id": "edd41qs",
+    "split": "train",
+    "line_idx": 22606,
+    "original_text": "Anything that moves us away from the 5 man push meta on SnD. Playing SnD without stuns and nades hasn’t felt right.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Qualquer coisa que nos afaste do meta de rush de 5 pessoas no SnD. Jogar SnD sem atordoamento e granadas não parece certo."
+  },
+  {
+    "id": "ee2kkcf",
+    "split": "train",
+    "line_idx": 22607,
+    "original_text": "You're a legend.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você é uma lenda."
+  },
+  {
+    "id": "edoxwup",
+    "split": "train",
+    "line_idx": 22608,
+    "original_text": "I don't think we have anyone to fill it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não acho que a gente tenha alguém pra preencher isso."
+  },
+  {
+    "id": "edltoi3",
+    "split": "train",
+    "line_idx": 22609,
+    "original_text": "Crows going to bounce back hard.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Os Crows vão dar a volta por cima com força."
+  },
+  {
+    "id": "eefcpsm",
+    "split": "train",
+    "line_idx": 22610,
+    "original_text": "Omg congratz for you guys!!!!! That is amazing news :) good luck with twins.",
+    "emotion_ids": "0,15,20",
+    "emotions": [
+      "admiration",
+      "gratitude",
+      "optimism"
+    ],
+    "translated_text": "Meu Deus, parabéns pra vocês!!!!! Que notícia incrível :) boa sorte com os gêmeos."
+  },
+  {
+    "id": "eekt2pv",
+    "split": "train",
+    "line_idx": 22611,
+    "original_text": "Why would you need to take his phone or car? He can get a job or move out.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Por que você precisaria pegar o celular ou o carro dele? Ele pode arranjar um emprego ou sair de casa."
+  },
+  {
+    "id": "ed1klqm",
+    "split": "train",
+    "line_idx": 22612,
+    "original_text": "I love the claps after he fell 🤣",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amei as palmas depois que ele caiu 🤣"
+  },
+  {
+    "id": "ee5l7ju",
+    "split": "train",
+    "line_idx": 22613,
+    "original_text": "I can when enough time has passed. I've got each of their playoff games from that year and it's fun to relive it during the offseason.",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "Eu consigo quando passa tempo suficiente. Eu tenho todos os jogos dos playoffs daquele ano e é divertido reviver isso durante a offseason."
+  },
+  {
+    "id": "eencyi4",
+    "split": "train",
+    "line_idx": 22614,
+    "original_text": "Wow, i never really understood how bad the star wars perecuelse really are till this moment.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, eu nunca entendi o quão ruins as prequels de Star Wars realmente são até esse momento."
+  },
+  {
+    "id": "eedjfkg",
+    "split": "train",
+    "line_idx": 22615,
+    "original_text": "TLDR; we get many drizzle days and our summers are amazing.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "TLDR; a gente tem muitos dias de garoa e nossos verões são incríveis."
+  },
+  {
+    "id": "efd4omm",
+    "split": "train",
+    "line_idx": 22616,
+    "original_text": "A bunch of people gave reasonable, polite answers. You had to be a big ol' dong.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Um monte de gente deu respostas razoáveis e educadas. Você teve que ser um baita de um babaca."
+  },
+  {
+    "id": "ed9uo85",
+    "split": "train",
+    "line_idx": 22617,
+    "original_text": "Andy Kaufman 3.0",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Andy Kaufman 3.0"
+  },
+  {
+    "id": "edi4nbj",
+    "split": "train",
+    "line_idx": 22618,
+    "original_text": "Because Rian is a hack...and TLJ sucks. That's my default response that seems to be the correct answer most often. lol",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque o Rian é um picareta... e TLJ é uma porcaria. Essa é minha resposta padrão que parece ser a resposta certa na maioria das vezes. lol"
+  },
+  {
+    "id": "eduz02m",
+    "split": "train",
+    "line_idx": 22619,
+    "original_text": "I mean it makes sense, they're into [NAME] because they totally dig the horribly socially stunted types so they love [NAME] for horribly traumatizing her.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Quer dizer, faz sentido, eles curtem o [NAME] porque eles adoram esses tipos terrivelmente atrofiados socialmente, então eles amam o [NAME] por traumatizar ela terrivelmente."
+  },
+  {
+    "id": "eetg1kb",
+    "split": "train",
+    "line_idx": 22620,
+    "original_text": "You’re a joke",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Você é uma piada"
+  },
+  {
+    "id": "ef6djpj",
+    "split": "train",
+    "line_idx": 22621,
+    "original_text": "NOP has showed interest in [NAME] this year, [NAME] is a young C who could thrive in a different system with better players.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O NOP demonstrou interesse no [NAME] este ano, [NAME] é um pivô jovem que poderia prosperar em um sistema diferente com jogadores melhores."
+  },
+  {
+    "id": "ee73q46",
+    "split": "train",
+    "line_idx": 22622,
+    "original_text": "So guys, we did it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então pessoal, nós conseguimos"
+  },
+  {
+    "id": "edw9w77",
+    "split": "train",
+    "line_idx": 22623,
+    "original_text": "There can be, but I meant the consequences of murdering someone in broad daylight.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pode haver, mas eu quis dizer as consequências de assassinar alguém em plena luz do dia."
+  },
+  {
+    "id": "eeyqb3j",
+    "split": "train",
+    "line_idx": 22624,
+    "original_text": "He was credited in commentaries as the inspiration for Cletus. I always loved the way he just wants that dog.",
+    "emotion_ids": "18,27",
+    "emotions": [
+      "love",
+      "neutral"
+    ],
+    "translated_text": "Ele foi creditado nos comentários como a inspiração para o Cletus. Eu sempre amei o jeito que ele só quer aquele cachorro."
+  },
+  {
+    "id": "efgc2ml",
+    "split": "train",
+    "line_idx": 22625,
+    "original_text": "I'm afraid you're completely correct. Sad, but true.",
+    "emotion_ids": "4,14,25",
+    "emotions": [
+      "approval",
+      "fear",
+      "sadness"
+    ],
+    "translated_text": "Receio que você esteja completamente correto. Triste, mas verdade."
+  },
+  {
+    "id": "eet9f8k",
+    "split": "train",
+    "line_idx": 22626,
+    "original_text": "But now we're stressed out.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Mas agora a gente tá estressado."
+  },
+  {
+    "id": "eegi228",
+    "split": "train",
+    "line_idx": 22627,
+    "original_text": "They got rid",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles se livraram"
+  },
+  {
+    "id": "ef18ite",
+    "split": "train",
+    "line_idx": 22628,
+    "original_text": "Idk I always hear thing about them like they’re all monsters",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sei lá, eu sempre ouço coisas sobre eles como se fossem todos monstros"
+  },
+  {
+    "id": "eeppix0",
+    "split": "train",
+    "line_idx": 22629,
+    "original_text": "Based on what exactly. I'm honestly curious in what you value so highly that America has?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Baseado em quê exatamente. Estou honestamente curioso sobre o que você valoriza tanto que a América tem?"
+  },
+  {
+    "id": "eeva9qx",
+    "split": "train",
+    "line_idx": 22630,
+    "original_text": "Lmao we really tried that again",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Lmao a gente realmente tentou isso de novo"
+  },
+  {
+    "id": "eed7yj0",
+    "split": "train",
+    "line_idx": 22631,
+    "original_text": "Can you explain how she could block all three spots? I don’t think we understand.",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Você pode explicar como ela poderia bloquear todos os três pontos? Acho que a gente não entendeu."
+  },
+  {
+    "id": "ef0uuld",
+    "split": "train",
+    "line_idx": 22632,
+    "original_text": "Heck, you're one cool dude, guy. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Caramba, você é um cara muito legal, mano."
+  },
+  {
+    "id": "edgglhc",
+    "split": "train",
+    "line_idx": 22633,
+    "original_text": "[NAME]? Never heard that word before haha. Well her parents seem very easy going and happy people but lets see when i actually meet them.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]? Nunca ouvi essa palavra antes haha. Bem, os pais dela parecem ser pessoas bem tranquilas e felizes, mas vamos ver quando eu realmente conhecê-los."
+  },
+  {
+    "id": "eeqchey",
+    "split": "train",
+    "line_idx": 22634,
+    "original_text": "shouldve came to america smh",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "devia ter vindo pra américa, que vacilo"
+  },
+  {
+    "id": "edrfaf4",
+    "split": "train",
+    "line_idx": 22635,
+    "original_text": "Love everything about this city except it’s MLB team",
+    "emotion_ids": "0,9",
+    "emotions": [
+      "admiration",
+      "disappointment"
+    ],
+    "translated_text": "Amo tudo nessa cidade, menos o time de MLB dela"
+  },
+  {
+    "id": "edv7lmf",
+    "split": "train",
+    "line_idx": 22636,
+    "original_text": "It's both we only have like 5 good players and two of them are just a rookie and a sophomore",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "São os dois, a gente só tem uns 5 jogadores bons e dois deles são só um novato e um segundanista"
+  },
+  {
+    "id": "efgef28",
+    "split": "train",
+    "line_idx": 22637,
+    "original_text": "Have vid to reaction ?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Tem vídeo da reação?"
+  },
+  {
+    "id": "edko6bv",
+    "split": "train",
+    "line_idx": 22638,
+    "original_text": "Never listen to songs with someone you love. Just don't. Trust me.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Nunca ouça músicas com alguém que você ama. Só não faça isso. Confia em mim."
+  },
+  {
+    "id": "ee7j2ej",
+    "split": "train",
+    "line_idx": 22639,
+    "original_text": "That’s nice. If you know anything about Nazi history, you know the party made its platform up on the fly. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é legal. Se você sabe alguma coisa sobre a história nazista, você sabe que o partido criou sua plataforma na hora."
+  },
+  {
+    "id": "edk1egl",
+    "split": "train",
+    "line_idx": 22640,
+    "original_text": "I live in Shanghai and order directly from a plantation in Yunnan espresso roasts for home consumption. Absolutely fantastic.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu moro em Xangai e peço diretamente de uma plantação em Yunnan torras de espresso para consumo doméstico. Absolutamente fantástico."
+  },
+  {
+    "id": "edww6ww",
+    "split": "train",
+    "line_idx": 22641,
+    "original_text": "You need to use ladies man perk and an item that has seduction +150.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você precisa usar a vantagem de conquistador e um item que tenha sedução +150."
+  },
+  {
+    "id": "edhmvkb",
+    "split": "train",
+    "line_idx": 22642,
+    "original_text": "But all this does is hurt the average person not the right way to raise money.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Mas tudo o que isso faz é prejudicar a pessoa comum, não é o jeito certo de arrecadar dinheiro."
+  },
+  {
+    "id": "edusj6v",
+    "split": "train",
+    "line_idx": 22643,
+    "original_text": "Has there even been a time when a *good* Doxing happened? \"We're going to find this guy and hug the crap outta him!\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Já existiu algum momento em que um Doxing *bom* aconteceu? \"Vamos encontrar esse cara e abraçar ele até não poder mais!\""
+  },
+  {
+    "id": "ee0xogw",
+    "split": "train",
+    "line_idx": 22644,
+    "original_text": "Not much? Oh honey, it's everything! You two are beautiful! Congratulations!",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Não muito? Ah querida, é tudo! Vocês dois são lindos! Parabéns!"
+  },
+  {
+    "id": "ed2jmiu",
+    "split": "train",
+    "line_idx": 22645,
+    "original_text": "Ok mister [NAME] triggered boy",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ok senhor [NAME] gatilhado"
+  },
+  {
+    "id": "effc2dg",
+    "split": "train",
+    "line_idx": 22646,
+    "original_text": "The characters and story are really enjoyable. The dungeons are awesome. Generally decent sidequests. Fun items. Cool art style and character designs",
+    "emotion_ids": "0,13,17",
+    "emotions": [
+      "admiration",
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Os personagens e a história são muito divertidos. As dungeons são incríveis. Geralmente sidequests decentes. Itens divertidos. Estilo de arte e design de personagens legais"
+  },
+  {
+    "id": "edgvbhp",
+    "split": "train",
+    "line_idx": 22647,
+    "original_text": "No problem People repost and don’t credit, so it’s a necessary evil Thanks for the feedback",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Sem problemas. As pessoas repostam e não dão os créditos, então é um mal necessário. Obrigado pelo feedback"
+  },
+  {
+    "id": "eeoqx8z",
+    "split": "train",
+    "line_idx": 22648,
+    "original_text": "!!!!! Best girl",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "!!!!! Melhor garota"
+  },
+  {
+    "id": "edrxykw",
+    "split": "train",
+    "line_idx": 22649,
+    "original_text": "What was that, I couldn't hear you over my easy to clean cookware! ",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "O que foi isso? Eu não consegui te ouvir por causa das minhas panelas fáceis de limpar!"
+  }
+]

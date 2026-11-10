@@ -1,0 +1,560 @@
+[
+  {
+    "id": "eer01eq",
+    "split": "train",
+    "line_idx": 20800,
+    "original_text": "That's just the adrenaline. It'll set in soon, haha",
+    "emotion_ids": "17,27",
+    "emotions": [
+      "joy",
+      "neutral"
+    ],
+    "translated_text": "Isso é só a adrenalina. Daqui a pouco passa, haha"
+  },
+  {
+    "id": "ee9ac46",
+    "split": "train",
+    "line_idx": 20801,
+    "original_text": "This is unironically the worst trade I've ever seen.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Isso é, sem ironia, a pior troca que eu já vi na vida."
+  },
+  {
+    "id": "eeelsm7",
+    "split": "train",
+    "line_idx": 20802,
+    "original_text": "[NAME] freaking [NAME] all the people down range just staring. -_- GO INSIDE DUMBASSES.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "[NAME], na moral, [NAME], todo mundo lá no campo de tiro só olhando. -_- VÃO PRA DENTRO, SEUS IDIOTAS."
+  },
+  {
+    "id": "ef3xddt",
+    "split": "train",
+    "line_idx": 20803,
+    "original_text": "Now if you are in the bathroom taking care of business, Cat is being a bro and getting you some privacy. Bathroom Bouncer ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora, se você tá no banheiro fazendo o que tem que fazer, o gato tá sendo um parceiro e te dando um pouco de privacidade. Segurança de banheiro"
+  },
+  {
+    "id": "eekmzwj",
+    "split": "train",
+    "line_idx": 20804,
+    "original_text": "Man... it’s been a while since I laughed so hard watching one of these vids",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Cara... faz tempo que eu não ria tanto assistindo a um desses vídeos"
+  },
+  {
+    "id": "eeje8cf",
+    "split": "train",
+    "line_idx": 20805,
+    "original_text": "Tortilla chips are the worst oml. One time a piece got lodged between my gum and my tooth. Like, that fella was /deeply/ embedded in my gum",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Doritos é o pior, meu Deus. Uma vez um pedaço ficou preso entre a gengiva e o dente. Tipo, o bagulho tava /profundamente/ encravado na minha gengiva"
+  },
+  {
+    "id": "edchv04",
+    "split": "train",
+    "line_idx": 20806,
+    "original_text": "My god i thought he just hit his shins really hard on the pole but than realised what his shoulders did...",
+    "emotion_ids": "22,26",
+    "emotions": [
+      "realization",
+      "surprise"
+    ],
+    "translated_text": "Meu Deus, eu achei que ele só tinha batido a canela com força no poste, mas aí eu percebi o que os ombros dele fizeram..."
+  },
+  {
+    "id": "eeyfa2h",
+    "split": "train",
+    "line_idx": 20807,
+    "original_text": "Ah [NAME] I love this post!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Ah [NAME], eu amei esse post!"
+  },
+  {
+    "id": "edoq7ae",
+    "split": "train",
+    "line_idx": 20808,
+    "original_text": "[NAME] damn I need a cigarette now",
+    "emotion_ids": "3,9,22",
+    "emotions": [
+      "annoyance",
+      "disappointment",
+      "realization"
+    ],
+    "translated_text": "[NAME], droga, agora eu preciso de um cigarro"
+  },
+  {
+    "id": "ef0yd5t",
+    "split": "train",
+    "line_idx": 20809,
+    "original_text": "Oh okay. I thought maybe I missed something in MaM2.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah, entendi. Achei que talvez eu tivesse perdido alguma coisa em MaM2."
+  },
+  {
+    "id": "edm46gk",
+    "split": "train",
+    "line_idx": 20810,
+    "original_text": "Sorry, I posted this first but then you said something that I wanted to acknowledge I agreed with.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Desculpa, eu postei isso primeiro, mas aí você disse algo com o que eu queria concordar."
+  },
+  {
+    "id": "eelbglv",
+    "split": "train",
+    "line_idx": 20811,
+    "original_text": "Just here to try out my flair Edit: nice",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só passando pra testar minha flair Edit: legal"
+  },
+  {
+    "id": "eeksmgz",
+    "split": "train",
+    "line_idx": 20812,
+    "original_text": "Looks kinda lame",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece meio paia"
+  },
+  {
+    "id": "ee04pk4",
+    "split": "train",
+    "line_idx": 20813,
+    "original_text": "That's how I feel every time someone wants me to hold their baby.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É assim que eu me sinto toda vez que alguém quer que eu segure o bebê deles."
+  },
+  {
+    "id": "eewslmi",
+    "split": "train",
+    "line_idx": 20814,
+    "original_text": "I spent a week in Ottawa one night. Amazing architecture but awful, filthy, drug infested city. Terrible ppl and a dirty trash hole.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Passei uma semana em Ottawa em uma noite. Arquitetura incrível, mas uma cidade horrível, imunda e cheia de drogas. Gente terrível e um lixo de lugar."
+  },
+  {
+    "id": "eemyqdp",
+    "split": "train",
+    "line_idx": 20815,
+    "original_text": "I'm not a health threat. I'm vaccinated and have no children. Thanks again for your uninformed analysis.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Eu não sou uma ameaça à saúde. Sou vacinado e não tenho filhos. Obrigado de novo pela sua análise desinformada."
+  },
+  {
+    "id": "eervnf5",
+    "split": "train",
+    "line_idx": 20816,
+    "original_text": "Oh boy yeah",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ah, com certeza"
+  },
+  {
+    "id": "edhnvzo",
+    "split": "train",
+    "line_idx": 20817,
+    "original_text": "Lmao, you tagged yourself in your own shitpost. Like this sub doesn’t call out general reposti’s or something. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Lmao, você se marcou no seu próprio shitpost. Como se esse sub não denunciasse reposts em geral ou algo assim."
+  },
+  {
+    "id": "edx51u6",
+    "split": "train",
+    "line_idx": 20818,
+    "original_text": "Love the use of ginormous ... so true",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Adorei o uso de \"gigantesco\"... tão real"
+  },
+  {
+    "id": "eda5gdm",
+    "split": "train",
+    "line_idx": 20819,
+    "original_text": "After reading a lot of replies you should bee ashamed of yourself. This thread is a hive of bad puns and references.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Depois de ler um monte de respostas, você deveria ter vergonha de si mesmo. Esse tópico é um ninho de trocadilhos ruins e referências."
+  },
+  {
+    "id": "ef4ty9h",
+    "split": "train",
+    "line_idx": 20820,
+    "original_text": "They have to know how bad people hated it since youtube reset the dislikes on it, from what I understand, more than once.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles devem saber o quanto as pessoas odiaram, já que o YouTube resetou os dislikes, pelo que eu entendi, mais de uma vez."
+  },
+  {
+    "id": "ed8ph77",
+    "split": "train",
+    "line_idx": 20821,
+    "original_text": "Aww thanks :)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Aww, valeu :)"
+  },
+  {
+    "id": "edeg0y6",
+    "split": "train",
+    "line_idx": 20822,
+    "original_text": "They’d be stupid to trade AB. Let’s all calm down and just ignore the media and let this thing die down.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles seriam burros se trocassem o AB. Vamos todos nos acalmar, ignorar a mídia e deixar isso esfriar."
+  },
+  {
+    "id": "eewtkdw",
+    "split": "train",
+    "line_idx": 20823,
+    "original_text": "I’d rather have 50$ every time I see a variation of this prompt lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu preferia ganhar 50 dólares toda vez que vejo uma variação desse post kkk"
+  },
+  {
+    "id": "eebl6ee",
+    "split": "train",
+    "line_idx": 20824,
+    "original_text": "That's a weird answer.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Essa é uma resposta estranha."
+  },
+  {
+    "id": "edbs018",
+    "split": "train",
+    "line_idx": 20825,
+    "original_text": "This is the most unathletic thing I've seen in a while.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Essa é a coisa mais desengonçada que eu vi em um bom tempo."
+  },
+  {
+    "id": "edmj6dz",
+    "split": "train",
+    "line_idx": 20826,
+    "original_text": "UNLIMITED POWER!",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "PODER ILIMITADO!"
+  },
+  {
+    "id": "eee6w1p",
+    "split": "train",
+    "line_idx": 20827,
+    "original_text": "Couldn't be worse than [NAME] who ONLY has eyes in the back of his head.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não poderia ser pior que o [NAME], que SÓ tem olhos na nuca."
+  },
+  {
+    "id": "eem8ngk",
+    "split": "train",
+    "line_idx": 20828,
+    "original_text": "Yep, they expect you to revolve around them, but think they’re exempt from returning the favour. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "É, eles esperam que você gire em torno deles, mas acham que estão isentos de retribuir o favor."
+  },
+  {
+    "id": "eehjqx2",
+    "split": "train",
+    "line_idx": 20829,
+    "original_text": "I'd put the Thielen TD against Packers as number 1. That was such an amazing play by [NAME] and [NAME].",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu colocaria o TD do Thielen contra os Packers como número 1. Aquela foi uma jogada incrível do [NAME] e do [NAME]."
+  },
+  {
+    "id": "ees433k",
+    "split": "train",
+    "line_idx": 20830,
+    "original_text": "Are you high? People go for walks while wearing clothing all the time. It's when you go without the clothes that you run into problems.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Você tá chapado? As pessoas saem pra caminhar vestidas o tempo todo. O problema é quando você sai sem roupa."
+  },
+  {
+    "id": "edwr9lk",
+    "split": "train",
+    "line_idx": 20831,
+    "original_text": "Lmao what's the difference neither one is refrigerated. People are fucking stupid",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Lmao, qual a diferença? Nenhum dos dois é refrigerado. As pessoas são muito burras"
+  },
+  {
+    "id": "ef3z0y6",
+    "split": "train",
+    "line_idx": 20832,
+    "original_text": "Haven't you seen any horror movie!? Those cats are saving you from certain doom",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você nunca viu filme de terror!? Esses gatos tão te salvando de uma morte certa"
+  },
+  {
+    "id": "eeiljqg",
+    "split": "train",
+    "line_idx": 20833,
+    "original_text": "[NAME]!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME]!"
+  },
+  {
+    "id": "edu6mrm",
+    "split": "train",
+    "line_idx": 20834,
+    "original_text": "Its the only one...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É o único..."
+  },
+  {
+    "id": "eexpvcf",
+    "split": "train",
+    "line_idx": 20835,
+    "original_text": "You could be right!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Você pode estar certo!"
+  },
+  {
+    "id": "edh5vmp",
+    "split": "train",
+    "line_idx": 20836,
+    "original_text": "I have literally been waiting for a “ [NAME]” I’m from Ontario Canada and love Texas.",
+    "emotion_ids": "8,18",
+    "emotions": [
+      "desire",
+      "love"
+    ],
+    "translated_text": "Eu estava literalmente esperando por um “ [NAME]”. Sou de Ontario, Canadá, e amo o Texas."
+  },
+  {
+    "id": "edfjfis",
+    "split": "train",
+    "line_idx": 20837,
+    "original_text": "This was a clever post. I also unsubscribed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse foi um post inteligente. Eu também cancelei a inscrição."
+  },
+  {
+    "id": "ee2wjn6",
+    "split": "train",
+    "line_idx": 20838,
+    "original_text": "man remember when it was 1996 and I was zero years old? good times",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "cara, lembra quando era 1996 e eu tinha zero anos de idade? bons tempos"
+  },
+  {
+    "id": "ef7zc5q",
+    "split": "train",
+    "line_idx": 20839,
+    "original_text": "I love Crimson Skies.... That's a completely fucked thing to do.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo Crimson Skies.... Isso é uma coisa completamente escrota de se fazer."
+  },
+  {
+    "id": "eczgpmf",
+    "split": "train",
+    "line_idx": 20840,
+    "original_text": "Haha yea few cars drive worse than a Versa. Aside from performance, what are some must haves/wants?",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Haha, é, poucos carros dirigem pior que um Versa. Tirando o desempenho, quais são os itens obrigatórios/desejados?"
+  },
+  {
+    "id": "ee21s6e",
+    "split": "train",
+    "line_idx": 20841,
+    "original_text": "When we’re talking Prog music, ya it’s kind of important that it pushes boundaries.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando a gente fala de música Prog, é meio importante que ela quebre barreiras."
+  },
+  {
+    "id": "eduioiv",
+    "split": "train",
+    "line_idx": 20842,
+    "original_text": "OHHHH, I like where Richmond is going with that.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "OHHHH, gostei do caminho que o Richmond tá tomando com isso."
+  },
+  {
+    "id": "eczmb8c",
+    "split": "train",
+    "line_idx": 20843,
+    "original_text": "mtv has agreed to take some of the load by having them on...i wonder if they get paid per appearance or flat season fee.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "a mtv concordou em aliviar a carga colocando eles... eu me pergunto se eles ganham por aparição ou uma taxa fixa por temporada."
+  },
+  {
+    "id": "ed5v2db",
+    "split": "train",
+    "line_idx": 20844,
+    "original_text": "Thanks for the confirmation",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pela confirmação"
+  },
+  {
+    "id": "eepfok5",
+    "split": "train",
+    "line_idx": 20845,
+    "original_text": "Screw the watch stuff, I wanna hear about the porn",
+    "emotion_ids": "3,8",
+    "emotions": [
+      "annoyance",
+      "desire"
+    ],
+    "translated_text": "Esquece o lance do relógio, eu quero saber é da pornografia"
+  },
+  {
+    "id": "eeteuvp",
+    "split": "train",
+    "line_idx": 20846,
+    "original_text": "I’d keep at this line of dialogue but I’ve got to rewind some videocassettes, sorry. Carry on without me.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Eu continuaria com esse diálogo, mas tenho que rebobinar umas fitas VHS, malz. Continuem sem mim."
+  },
+  {
+    "id": "ede9itx",
+    "split": "train",
+    "line_idx": 20847,
+    "original_text": "So THIS is what it's like to have a seizure when listening to self control...",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Então É ISSO que é ter um ataque epilético ouvindo self control..."
+  },
+  {
+    "id": "ed2cflc",
+    "split": "train",
+    "line_idx": 20848,
+    "original_text": "Damn. Alright.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Caramba. Beleza então."
+  },
+  {
+    "id": "eezfzm5",
+    "split": "train",
+    "line_idx": 20849,
+    "original_text": "I guffawed! Error! Multikill! Now I have to manxplain cryptocurrency again to my wife sitting next to me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu dei uma gargalhada! Erro! Multikill! Agora tenho que explicar criptomoeda de novo pra minha esposa sentada do meu lado."
+  }
+]

@@ -1,0 +1,613 @@
+[
+  {
+    "id": "efbzdid",
+    "split": "train",
+    "line_idx": 24600,
+    "original_text": "It looked sarcastic, you're not in the wrong",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parecia sarcástico, mas você não tá errado",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edm05iq",
+    "split": "train",
+    "line_idx": 24601,
+    "original_text": "That should be 9 squares all showing [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Deveria ser 9 quadrados todos mostrando [NAME].",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eehzx9b",
+    "split": "train",
+    "line_idx": 24602,
+    "original_text": "I'm curious as to how HIMYM affected you, if you would like to explain. I've watched it so many times. ",
+    "emotion_ids": "7,22",
+    "emotions": [
+      "curiosity",
+      "realization"
+    ],
+    "translated_text": "Tô curioso pra saber como HIMYM te influenciou, se quiser explicar. Eu já vi a série um monte de vezes.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee78v6n",
+    "split": "train",
+    "line_idx": 24603,
+    "original_text": "look at [NAME] over here.. of course it alone won't fix our financial problems lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Olha o [NAME] aqui... claro que só isso não resolve nossos problemas financeiros lol",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edx4np7",
+    "split": "train",
+    "line_idx": 24604,
+    "original_text": "And I thought they smelled bad on the outside!",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "E eu pensei que eles fediam por fora!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edxpqe5",
+    "split": "train",
+    "line_idx": 24605,
+    "original_text": "Yeah I've noticed that. I probably give off Aspie traits to NTs but Aspie like traits bug me",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Sim, já percebi isso. Acho que dou umas vibes de Aspie pros NTs, mas traços de Aspie me incomodam",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef720l1",
+    "split": "train",
+    "line_idx": 24606,
+    "original_text": "Holy cow. The elephant looks like it just nudged her......and she went flying into next year.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Caramba. O elefante parece que acabou de dar um empurrão nela... e ela voou pro próximo ano.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed7417y",
+    "split": "train",
+    "line_idx": 24607,
+    "original_text": "Even if you think me and him aren't soulmates, youve gotta be pretty sad to think soulmates don't exist. ",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Mesmo que você ache que eu e ele não somos almas gêmeas, tem que ser bem triste acreditar que almas gêmeas não existem.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eepeofh",
+    "split": "train",
+    "line_idx": 24608,
+    "original_text": "Must be nice",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Deve ser bom",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eedeptq",
+    "split": "train",
+    "line_idx": 24609,
+    "original_text": "Go see a therapist! Your hospital has them. Post traumatic events sometimes need therapy and that’s ok!",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Vai ver um terapeuta! Seu hospital tem. Eventos traumáticos às vezes precisam de terapia e tudo bem!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee5l9d4",
+    "split": "train",
+    "line_idx": 24610,
+    "original_text": "To be honest he doesn't have to be sorry for smoking weed. Your neighbor is a yuppy.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra ser sincero, ele não precisa se desculpar por fumar maconha. Seu vizinho é um yuppie.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eebcsjz",
+    "split": "train",
+    "line_idx": 24611,
+    "original_text": "get blood orgies out of our ideology thanks",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "tira as orgias de sangue da nossa ideologia, valeu",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee7fboh",
+    "split": "train",
+    "line_idx": 24612,
+    "original_text": "Agreed I also love the snot physics towards the end of the game.",
+    "emotion_ids": "4,18",
+    "emotions": [
+      "approval",
+      "love"
+    ],
+    "translated_text": "Concordo, também curti a física do catarro no fim do jogo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed35n7z",
+    "split": "train",
+    "line_idx": 24613,
+    "original_text": "Religion is the biases for more hate; wars; discrimination; bigotry and poverty than any other entity in the world, with the exception of central banking.",
+    "emotion_ids": "3,9,10",
+    "emotions": [
+      "annoyance",
+      "disappointment",
+      "disapproval"
+    ],
+    "translated_text": "Religião gera mais preconceito, guerras, discriminação, intolerância e pobreza que qualquer outra coisa no mundo, exceto o sistema bancário central.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef1d4i1",
+    "split": "train",
+    "line_idx": 24614,
+    "original_text": "Those boots look very warm but I can't imagine wearing them inside. She does look cool though",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Essas botas parecem bem quentes, mas não consigo imaginar usar dentro de casa. Mas ela fica estilosa mesmo assim",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee8xal7",
+    "split": "train",
+    "line_idx": 24615,
+    "original_text": "liberals are filthy animals",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "liberais são animais imundos",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eenuvsl",
+    "split": "train",
+    "line_idx": 24616,
+    "original_text": "Already taken haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Já tô ocupado haha",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efegp1q",
+    "split": "train",
+    "line_idx": 24617,
+    "original_text": "It has been a good snow and bad avalanche season in the rockies. Haha, thin and tight, just how i like‘em.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Tem sido uma boa temporada de neve e avalanches nas Rockies. Haha, fina e apertada, do jeito que eu gosto.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeneopw",
+    "split": "train",
+    "line_idx": 24618,
+    "original_text": "Underrated comment.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Comentário subestimado.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeyhh5r",
+    "split": "train",
+    "line_idx": 24619,
+    "original_text": "Probably Papa John's rather than Pizza Hut.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Provavelmente Papa John's, não Pizza Hut.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef6frnl",
+    "split": "train",
+    "line_idx": 24620,
+    "original_text": "My buddy drives said car and used to drive for Uber. Now in Seattle and on the eastside people still think he’s their uber rofl",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu brother dirigia esse carro e fazia Uber. Agora em Seattle e no leste ainda acham que ele é o Uber deles rofl",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeroxa7",
+    "split": "train",
+    "line_idx": 24621,
+    "original_text": "Been scoring big on the Groudons.. caught 4 so far. Edit: no, no shinys yet. I've had the worst luck with shinys in this game",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Tô mandando bem nos Groudons... já peguei 4 até agora. Edit: ainda não peguei nenhum shiny. Sempre tive a pior sorte com shiny nesse game",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef5dolt",
+    "split": "train",
+    "line_idx": 24622,
+    "original_text": "I didn't know that kind of \"full-tang\" existed. Good to know. ",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Não sabia que existia esse tipo de \"full-tang\". Boa saber.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef2ff1q",
+    "split": "train",
+    "line_idx": 24623,
+    "original_text": "Bringing it up now because you and many like you made this sub a hostile environment for voices of reason. Eat crow.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Tô trazendo isso agora porque você e gente assim transformaram esse sub num ambiente hostil pra quem tem senso crítico. Come a própria vergonha.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeav7kz",
+    "split": "train",
+    "line_idx": 24624,
+    "original_text": "This. Fans complain that she's boring but I'm actually glad she's careful about what she allows to be filmed.",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Isso. A galera reclama que ela é chata, mas eu fico feliz que ela seja cuidadosa com o que deixa gravar.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeerb5r",
+    "split": "train",
+    "line_idx": 24625,
+    "original_text": "[NAME] has been really blunt about things lately, I love it.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "[NAME] tem sido bem direto ultimamente, adoro isso.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed6ysv8",
+    "split": "train",
+    "line_idx": 24626,
+    "original_text": "According to what?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "De acordo com o quê?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeqc1me",
+    "split": "train",
+    "line_idx": 24627,
+    "original_text": "Is there much of a population? I wanted to play it back in The day and then they changed it into an almost entirely new game.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tem muita gente? Eu queria jogar de volta nos velhos tempos e depois mudaram pra quase outro jogo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eddwat4",
+    "split": "train",
+    "line_idx": 24628,
+    "original_text": "This is more like yesyesyesyesmeh.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é mais tipo simsimsimsimmeh.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efdosww",
+    "split": "train",
+    "line_idx": 24629,
+    "original_text": "I very much appreciate it.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Agradeço muito.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef6djh1",
+    "split": "train",
+    "line_idx": 24630,
+    "original_text": "As a [NAME], this very relatable",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Como [NAME], isso é muito relatable",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeuoy8g",
+    "split": "train",
+    "line_idx": 24631,
+    "original_text": "Trouser maidens 😂 omg I love it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Maidens de calça 😂 omg amei",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edv6lyw",
+    "split": "train",
+    "line_idx": 24632,
+    "original_text": "So you're not a incel LMFAO. Go bang more women bro better then that get some friends bro. I'm not Livestreaming with you.",
+    "emotion_ids": "4,5",
+    "emotions": [
+      "approval",
+      "caring"
+    ],
+    "translated_text": "Então você não é incel LMFAO. Vai transar mais, mano, faz uns amigos. Não tô ao vivo com você.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eethbbl",
+    "split": "train",
+    "line_idx": 24633,
+    "original_text": "Who would have thought people were going to be using the Padres for their fake news to generate clicks. This is nuts.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem diria que a galera ia usar os Padres pras fake news pra gerar cliques. Isso é doido.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ees6h29",
+    "split": "train",
+    "line_idx": 24634,
+    "original_text": "I'm also happy you're still here!!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Também tô feliz que você ainda tá aqui!!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee8dvm2",
+    "split": "train",
+    "line_idx": 24635,
+    "original_text": "If it's legal where you live, then it doesn't really matter what anyone thinks.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Se for legal onde você mora, não importa o que os outros pensam.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eernvrs",
+    "split": "train",
+    "line_idx": 24636,
+    "original_text": "RemindMe! 21 Feb 2019",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "RemindMe! 21 Feb 2019",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed7y5iz",
+    "split": "train",
+    "line_idx": 24637,
+    "original_text": "This makes me so sad :’( Well done OP!",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Isso me deixa tão triste :’( Boa, OP!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eff6moy",
+    "split": "train",
+    "line_idx": 24638,
+    "original_text": "Some people have more/less empathy than others. If you're incapable of feeling what others are feeling you're going to be a selfish person.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Algumas pessoas têm mais/menos empatia que outras. Se você não consegue sentir o que os outros sentem, vai ser uma pessoa egoísta.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eenioi6",
+    "split": "train",
+    "line_idx": 24639,
+    "original_text": "Obviously you defend cnn for doxxing the Covington high school kid. Aka child endangerment/abuse.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Obviamente você defende a CNN por expor o garoto da Covington. Tipo abuso/risco infantil.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4of8n",
+    "split": "train",
+    "line_idx": 24640,
+    "original_text": "My error has already been highlighted thanks.",
+    "emotion_ids": "15,22",
+    "emotions": [
+      "gratitude",
+      "realization"
+    ],
+    "translated_text": "Meu erro já foi destacado, valeu.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edj16xd",
+    "split": "train",
+    "line_idx": 24641,
+    "original_text": "I wanna see [NAME] get in [NAME] face like this",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Quero ver o [NAME] encarar o [NAME] assim",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed6tl0t",
+    "split": "train",
+    "line_idx": 24642,
+    "original_text": "So it’s part of a series? Because I feel like [NAME] is in every other video game in this art style",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então faz parte de uma série? Porque sinto que o [NAME] tá em todo jogo desse estilo artístico",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee5sho8",
+    "split": "train",
+    "line_idx": 24643,
+    "original_text": "She has to thank him for his time first, and no throwing! You must be gentle and fold him nicely as you discard him.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela tem que agradecer o tempo dele primeiro, nada de jogar! Seja gentil e dobre ele com cuidado ao descartar.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eer2gzs",
+    "split": "train",
+    "line_idx": 24644,
+    "original_text": "Air traffic controllers are responsible for 100,000x the amount of lives. Should they be getting paid more? I'm not sure this is the best argument to make. ",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Controladores de tráfego aéreo salvam 100.000x mais vidas. Devem ganhar mais? Não sei se esse é o melhor argumento.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edacx7n",
+    "split": "train",
+    "line_idx": 24645,
+    "original_text": "Yeah, people die in civil wars. Stop.acting like the [NAME] are just killing [NAME] while spouting made up numbers",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Sim, gente morre em guerras civis. Para de agir como se os [NAME] só matam [NAME] jogando números inventados",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee331lx",
+    "split": "train",
+    "line_idx": 24646,
+    "original_text": "Mmm ... Chicken milk.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Mmm... leite de galinha.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ediec9l",
+    "split": "train",
+    "line_idx": 24647,
+    "original_text": "Well, it feels like the other truths would be more pertinent. If they don’t know what it is, then what is it?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, parece que as outras verdades seriam mais relevantes. Se eles não sabem o que é, então o que é?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef2krc2",
+    "split": "train",
+    "line_idx": 24648,
+    "original_text": "Every time without fail",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Toda vez, sem falhar",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee2vt8y",
+    "split": "train",
+    "line_idx": 24649,
+    "original_text": "I guess [NAME] has something he wants to tell you",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que o [NAME] tem algo que quer te contar",
+    "translator": "openai/gpt-oss-120b"
+  }
+]

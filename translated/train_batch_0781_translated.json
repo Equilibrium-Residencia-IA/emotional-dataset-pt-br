@@ -1,0 +1,608 @@
+[
+  {
+    "id": "edc4cdd",
+    "split": "train",
+    "line_idx": 39050,
+    "original_text": "[NAME] a real one. Anyone who don’t know his background should check out his interviews.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é brabo demais. Quem não manja da história dele tem que ver as entrevistas dele.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4sfjl",
+    "split": "train",
+    "line_idx": 39051,
+    "original_text": "Wow, I read that years ago, but I didn't realize it was about Narcs.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Nossa, eu li isso anos atrás, mas não tinha se ligado que era sobre os Narcisistas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef142xt",
+    "split": "train",
+    "line_idx": 39052,
+    "original_text": "Get him back -- as in figure out what went wrong and see what you can do",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Vai atrás dele -- tipo, descobre o que deu errado e vê o que você pode fazer",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeywex1",
+    "split": "train",
+    "line_idx": 39053,
+    "original_text": "Thanks! I ordered some and let them know I'm traveling so I think I'm pretty set",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu! Pedi uns e avisei que vou viajar, então acho que tô tranquilo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3gso5",
+    "split": "train",
+    "line_idx": 39054,
+    "original_text": "You stole an Instagram meme? For shame",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Você roubou um meme do Instagram? Que vergonha",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eey9nca",
+    "split": "train",
+    "line_idx": 39055,
+    "original_text": "Why did you have to one up this article in your comment?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que você tinha que tentar se achar superior a esse artigo no seu comentário?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetfaok",
+    "split": "train",
+    "line_idx": 39056,
+    "original_text": "No I didn't take it that way. My apologies if my comment appeared to be taking a shot at you.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Não, não levei por esse lado. Desculpa se meu comentário pareceu uma alfinetada em você.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8yee9",
+    "split": "train",
+    "line_idx": 39057,
+    "original_text": "Theesomes won't make someone monogamous more open to solo stuff.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Menage a trois não vai fazer alguém monogâmico ficar mais aberto a coisas solo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eem10lg",
+    "split": "train",
+    "line_idx": 39058,
+    "original_text": "Imagine what kinda bitter person you'd have to be to seek out that sub anyway. You've basically lost as soon as you in there.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Imagina o nível de pessoa amargurada que você tem que ser pra procurar aquele sub. Você basicamente já perdeu assim que entra lá.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee86226",
+    "split": "train",
+    "line_idx": 39059,
+    "original_text": "Honest to [NAME] make it stop, it's old news at this point omg.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Pelo [NAME] faz isso parar, já deu disso, ó Deus.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee592u6",
+    "split": "train",
+    "line_idx": 39060,
+    "original_text": "Surprise, [RELIGION] article says [RELIGION] is wrong. Also, we don't worship the same [NAME]. They added [NAME], who is not [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Surpresa, artigo sobre [RELIGION] diz que [RELIGION] está errada. Além disso, nós não adoramos o mesmo [NAME]. Eles adicionaram [NAME], que não é [NAME].",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed331ks",
+    "split": "train",
+    "line_idx": 39061,
+    "original_text": "Just forget about it and act like it never happened. It’s not the right way but it’s what I do.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só esquece isso e finge que nunca aconteceu. Não é o jeito certo, mas é o que eu faço.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelv7yt",
+    "split": "train",
+    "line_idx": 39062,
+    "original_text": "I am sorry but you have to accept your reality. Thare ain’t nobody here who can help you on this problem. Just call 병무청 ASAP",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Desculpa, mas você tem que aceitar sua realidade. Não tem ninguém aqui que possa te ajudar com esse problema. Só liga pro 병무청 O MAIS RÁPIDO POSSÍVEL",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee2q75e",
+    "split": "train",
+    "line_idx": 39063,
+    "original_text": "I wish people like this would die in massive flaming wrecks",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Tomara que gente assim morra em acidentes trágicos pegando fogo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edhcrx9",
+    "split": "train",
+    "line_idx": 39064,
+    "original_text": "Makes me want to go shit on the doorstep of 540 Hampshire Street (Good2go HQ)",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Me dá vontade de cagar na porta da 540 Hampshire Street (Sede da Good2go)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edf75do",
+    "split": "train",
+    "line_idx": 39065,
+    "original_text": "This video doesn't even show the shoes he was wearing...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse vídeo nem mostra o tênis que ele tava usando...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef5pvks",
+    "split": "train",
+    "line_idx": 39066,
+    "original_text": "Praying yea hope so",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Rezando, é, tomara",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eff6erl",
+    "split": "train",
+    "line_idx": 39067,
+    "original_text": "lol wow missed that, it stays",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "kkkk caraca perdi essa, vai ficar assim mesmo",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0h8s6",
+    "split": "train",
+    "line_idx": 39068,
+    "original_text": "We don't do that here",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Aqui a gente não faz isso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed95is5",
+    "split": "train",
+    "line_idx": 39069,
+    "original_text": "One of the scariest things about being in a cult is that you don't realize you're in a cult.",
+    "emotion_ids": "14,22",
+    "emotions": [
+      "fear",
+      "realization"
+    ],
+    "translated_text": "Uma das coisas mais assustadoras de estar em uma seita é que você não percebe que está em uma seita.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edfw8cx",
+    "split": "train",
+    "line_idx": 39070,
+    "original_text": "Mother knows best.",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Mamãe sabe o que é melhor.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7y785",
+    "split": "train",
+    "line_idx": 39071,
+    "original_text": "I bow to the mighty OP, this is perfect",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Curvo-me perante o poderoso OP, isso tá perfeito",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehmm96",
+    "split": "train",
+    "line_idx": 39072,
+    "original_text": "I was expecting “little boys pants would always be ‘half off’!” But that would be in r/unclejokes",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Eu tava esperando \"a calça dos garotinhos ia estar sempre 'pela metade'!\" Mas isso seria no r/unclejokes",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef2ut61",
+    "split": "train",
+    "line_idx": 39073,
+    "original_text": "Tailoring is a god send and honestly not all that expensive, typically.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Mandar fazer ajuste na costureira é uma bênção e sinceramente não é tão caro assim, geralmente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9rf94",
+    "split": "train",
+    "line_idx": 39074,
+    "original_text": "I’ve made the same exact comment before It’s mind boggling",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Eu já fiz exatamente o mesmo comentário antes É de bugar a cabeça",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edfbb1u",
+    "split": "train",
+    "line_idx": 39075,
+    "original_text": "That weighs heavy on the heart, I’m so sorry for your loss",
+    "emotion_ids": "16,25",
+    "emotions": [
+      "grief",
+      "sadness"
+    ],
+    "translated_text": "Isso pesa muito no coração, sinto muito pela sua perda",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eevhx24",
+    "split": "train",
+    "line_idx": 39076,
+    "original_text": "Wait so the aboleth only kills you if you dont do what the dm says",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "pera, então o aboleth só te mata se você não fizer o que o mestre do rpg manda",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedoinj",
+    "split": "train",
+    "line_idx": 39077,
+    "original_text": "spit on them when they do it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "cuspe neles quando fizerem isso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edf2e6c",
+    "split": "train",
+    "line_idx": 39078,
+    "original_text": "100% feel for you. I may be exaggerating slightly but still it’s all these little disadvantages that we get put at because of this ping.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Te entendo 100%. Posso estar exagerando um pouco, mas ainda assim são todas essas pequenas desvantagens que a gente sofre por causa desse ping.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeg6sqq",
+    "split": "train",
+    "line_idx": 39079,
+    "original_text": "Disturbing =/= awful. Its incredibly well done by a professional. I feel like this sub is more for unintentional awfulness, not purposeful shock value/ theatrical makeup.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Perturbador =/= horrível. É incrivelmente bem feito por um profissional. Sinto que esse sub é mais pra coisas horríveis sem querer, não pra choque proposital/maquiagem teatral.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetaq5x",
+    "split": "train",
+    "line_idx": 39080,
+    "original_text": "Oh my god, I'm so glad this wasn't just me. I thought my YouTube was broken!",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Meu Deus, que alívio saber que não fui só eu. Achei que meu YouTube tinha quebrado!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed731pd",
+    "split": "train",
+    "line_idx": 39081,
+    "original_text": "you have to admit- it's kind of exhilirating to know that we are part of the pinnacle of human evolution.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem que admitir - é meio emocionante saber que fazemos parte do ápice da evolução humana.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef9pior",
+    "split": "train",
+    "line_idx": 39082,
+    "original_text": "Fuuuck, brutal",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Caralho, que brutal",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef48n6w",
+    "split": "train",
+    "line_idx": 39083,
+    "original_text": "Maybe next time if you have 20K CAD keep it in actual bank instead of a crypto exchange.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Talvez da próxima vez, se você tiver 20 mil dólares canadenses, guarde em um banco de verdade em vez de uma corretora de criptomoedas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1ekfo",
+    "split": "train",
+    "line_idx": 39084,
+    "original_text": "Damn this was deep. Hope the best for you and you could really turn this into a short story or something of the such.",
+    "emotion_ids": "2,20",
+    "emotions": [
+      "anger",
+      "optimism"
+    ],
+    "translated_text": "Caramba, isso foi profundo. Tudo de bom pra você e tomara que você consiga transformar isso num conto ou algo parecido.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edewza4",
+    "split": "train",
+    "line_idx": 39085,
+    "original_text": "Those teeth ain’t ever coming back",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esses dentes nunca mais vão voltar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef9orgp",
+    "split": "train",
+    "line_idx": 39086,
+    "original_text": "Seems like it’s very hard for her to laugh... I think it may physically hurt her face.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Parece ser muito difícil pra ela rir... Acho que deve doer fisicamente no rosto dela.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efdcg93",
+    "split": "train",
+    "line_idx": 39087,
+    "original_text": "Lol. It's funny cause people might do it.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkkk. É engraçado porque as pessoas podem fazer isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeg5l2c",
+    "split": "train",
+    "line_idx": 39088,
+    "original_text": "That's all good, thanks for commenting.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Tudo bem, valeu por comentar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eferh1u",
+    "split": "train",
+    "line_idx": 39089,
+    "original_text": "my favourite kind of cookies.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "meu tipo favorito de biscoito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee0jkis",
+    "split": "train",
+    "line_idx": 39090,
+    "original_text": "[NAME] lost her guitar canonically",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "A [NAME] perdeu a guitarra dela canonicamente",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eez6n8q",
+    "split": "train",
+    "line_idx": 39091,
+    "original_text": "how eloquently put",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "que forma eloquente de dizer",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edmupj0",
+    "split": "train",
+    "line_idx": 39092,
+    "original_text": "be your own goth girl",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "seja sua própria garota gótica",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelfch5",
+    "split": "train",
+    "line_idx": 39093,
+    "original_text": "He lives in Russia. This is not the best thing to make public in that country.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele mora na Rússia. Isso não é a melhor coisa para se tornar pública naquele país.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3thy9",
+    "split": "train",
+    "line_idx": 39094,
+    "original_text": "Its often not like they can fight back or, hell, remember the treatment to give them bad rep later on",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Muitas vezes não é como se eles pudessem revidar ou, caramba, lembrar do tratamento pra queimar o filme deles depois",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtlo8w",
+    "split": "train",
+    "line_idx": 39095,
+    "original_text": "ahah I hadn't even thought of it until the scenario I mentioned above, so dont feel too bad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "haha eu nem tinha pensado nisso até o cenário que eu citei acima, então não fica tão mal.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef9ih45",
+    "split": "train",
+    "line_idx": 39096,
+    "original_text": "(apparenlty) a lawyer sending incriminating text message to a paralegal. this has to be really bad lawyer...",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "(aparentemente) um advogado enviando mensagem incriminadora para uma assistente jurídica. esse tem que ser um advogado muito ruim...",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeq80xq",
+    "split": "train",
+    "line_idx": 39097,
+    "original_text": "Pro? Everyone does is and that makes it even more rude.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Profissional? Todo mundo faz isso e isso torna tudo ainda mais rude.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "effhpdu",
+    "split": "train",
+    "line_idx": 39098,
+    "original_text": "You consider 15-17 year olds people too!?! Thanks, i suppose!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Você considera pessoas de 15 a 17 anos gente também!?! Obrigado, suponho!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eff6z1a",
+    "split": "train",
+    "line_idx": 39099,
+    "original_text": "They're all bad enough to be lumped in to the same category? You either have very high standards, or none at all.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Eles são todos ruins o suficiente para serem colocados na mesma categoria? Ou você tem padrões muito altos, ou não tem nenhum.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

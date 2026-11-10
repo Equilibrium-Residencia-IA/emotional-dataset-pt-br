@@ -1,0 +1,563 @@
+[
+  {
+    "id": "efdou65",
+    "split": "train",
+    "line_idx": 17900,
+    "original_text": "Someone had posted the last known addresses here yesterday. I'll have to go and find it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém postou os últimos endereços conhecidos aqui ontem. Vou ter que dar uma procurada."
+  },
+  {
+    "id": "ee0vpx0",
+    "split": "train",
+    "line_idx": 17901,
+    "original_text": "Thanks so much for your reply it helps to hear from others. Good luck on your journey.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado pela resposta, ajuda muito ouvir o que os outros pensam. Boa sorte na sua jornada."
+  },
+  {
+    "id": "eedm47y",
+    "split": "train",
+    "line_idx": 17902,
+    "original_text": "I wish it wasn't so crumbly. It feels like sand in my mouth.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Queria que não fosse tão esfarelento. Parece areia na minha boca."
+  },
+  {
+    "id": "ednip9q",
+    "split": "train",
+    "line_idx": 17903,
+    "original_text": "No kidding. That was extremely disappointing.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Nem me fale. Aquilo foi extremamente decepcionante."
+  },
+  {
+    "id": "eeojkfl",
+    "split": "train",
+    "line_idx": 17904,
+    "original_text": "Sorry to hear it man. Grief is the appropriate thing to feel. I hope she is happy in the afterlife. Peace be with you both.",
+    "emotion_ids": "16,24",
+    "emotions": [
+      "grief",
+      "remorse"
+    ],
+    "translated_text": "Sinto muito por isso, cara. O luto é a reação normal. Espero que ela esteja feliz onde quer que esteja. Fique em paz."
+  },
+  {
+    "id": "eec1hvu",
+    "split": "train",
+    "line_idx": 17905,
+    "original_text": "Meh 2 years of bad teams under [NAME] coming off of 3 straight great years wasnt so bad. The 00's were far worse.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meh, 2 anos de times ruins sob o comando do [NAME] depois de 3 anos ótimos seguidos não foi tão ruim assim. Os anos 2000 foram muito piores."
+  },
+  {
+    "id": "edzned1",
+    "split": "train",
+    "line_idx": 17906,
+    "original_text": "Still the greatest timeline tho",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ainda assim, a melhor linha do tempo"
+  },
+  {
+    "id": "eeqf1zz",
+    "split": "train",
+    "line_idx": 17907,
+    "original_text": "Caring too much",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Se importar demais"
+  },
+  {
+    "id": "ef13jjj",
+    "split": "train",
+    "line_idx": 17908,
+    "original_text": "Ugh. People are the worst!",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Aff. As pessoas são o pior!"
+  },
+  {
+    "id": "ed4cjqt",
+    "split": "train",
+    "line_idx": 17909,
+    "original_text": "Nice, Butt Stallion just chilling in the background",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "Massa, o Butt Stallion ali de boa no fundo"
+  },
+  {
+    "id": "edm3wno",
+    "split": "train",
+    "line_idx": 17910,
+    "original_text": "Always a pleasure to have our board of directors pay us a little visit.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Sempre um prazer ter nosso conselho de administração fazendo uma visitinha."
+  },
+  {
+    "id": "eea2zrx",
+    "split": "train",
+    "line_idx": 17911,
+    "original_text": "His Batman/TMNT book is a really fun read with great art.",
+    "emotion_ids": "0,17",
+    "emotions": [
+      "admiration",
+      "joy"
+    ],
+    "translated_text": "O livro dele do Batman/TMNT é muito divertido e a arte é ótima."
+  },
+  {
+    "id": "ee3domj",
+    "split": "train",
+    "line_idx": 17912,
+    "original_text": "I think of [NAME] hot dogs. I hate that I love them so much.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu penso nos cachorros-quentes do [NAME]. Odeio amar tanto eles."
+  },
+  {
+    "id": "edgzhmn",
+    "split": "train",
+    "line_idx": 17913,
+    "original_text": "the older me would be scared shirtless knowing all the fireworks that exploded nearly in my hand as a kid",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "O meu eu mais velho ficaria morrendo de medo só de lembrar de todos os fogos de artifício que explodiram quase na minha mão quando eu era criança"
+  },
+  {
+    "id": "eex29c9",
+    "split": "train",
+    "line_idx": 17914,
+    "original_text": "Probably the same thing the rest of us do, chuckle and ponder how it can get any worse 😂",
+    "emotion_ids": "1,11,20",
+    "emotions": [
+      "amusement",
+      "disgust",
+      "optimism"
+    ],
+    "translated_text": "Provavelmente a mesma coisa que o resto de nós faz, dar uma risadinha e ficar pensando como é que pode piorar 😂"
+  },
+  {
+    "id": "eeplv1q",
+    "split": "train",
+    "line_idx": 17915,
+    "original_text": "My mistake. Didn't see it was already posted. Cheers.",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Foi mal. Não vi que já tinham postado. Valeu."
+  },
+  {
+    "id": "efb8bl8",
+    "split": "train",
+    "line_idx": 17916,
+    "original_text": "Spin him with your curls and put him in your pocket Douzy. And toss him in the Alps.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gira ele com seus cachos e coloca no bolso, Douzy. E joga ele nos Alpes."
+  },
+  {
+    "id": "eenyux5",
+    "split": "train",
+    "line_idx": 17917,
+    "original_text": "Simple lies. Easy lies immoral lies making money. Good life!",
+    "emotion_ids": "3,4",
+    "emotions": [
+      "annoyance",
+      "approval"
+    ],
+    "translated_text": "Mentiras simples. Mentiras fáceis, mentiras imorais ganhando dinheiro. Vida boa!"
+  },
+  {
+    "id": "ee8zjas",
+    "split": "train",
+    "line_idx": 17918,
+    "original_text": "I would pay money for [NAME] to not be my nurse. She will probably \"accudentally\" squeeze my nuts. Crazy bitch.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu pagaria para a [NAME] não ser minha enfermeira. Ela provavelmente vai \"acidentalmente\" apertar minhas bolas. Maluca do caramba."
+  },
+  {
+    "id": "ef32gux",
+    "split": "train",
+    "line_idx": 17919,
+    "original_text": "I don't even know what this is referring to. East Midlands airport? Please post a link.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Eu nem sei do que isso está falando. Aeroporto de East Midlands? Por favor, posta um link."
+  },
+  {
+    "id": "ee0rrom",
+    "split": "train",
+    "line_idx": 17920,
+    "original_text": "Can’t tell if that’s weird or like nice of you?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei dizer se isso é estranho ou se é tipo, gentil da sua parte?"
+  },
+  {
+    "id": "ee0lvm1",
+    "split": "train",
+    "line_idx": 17921,
+    "original_text": "Y'all been eatin' long enough now, stop being greedy!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Vocês já comeram o suficiente, parem de ser gananciosos!"
+  },
+  {
+    "id": "eeptvx8",
+    "split": "train",
+    "line_idx": 17922,
+    "original_text": "The old bear",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O velho urso"
+  },
+  {
+    "id": "eecet1k",
+    "split": "train",
+    "line_idx": 17923,
+    "original_text": "If this is true 2020 is done. We won't have control of the presidency or Congress for decades.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Se isso for verdade, 2020 já era. Não vamos ter controle da presidência ou do Congresso por décadas."
+  },
+  {
+    "id": "edsrjo3",
+    "split": "train",
+    "line_idx": 17924,
+    "original_text": "Can we get a guard too? This is my dream.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Dá pra gente conseguir um guarda também? Esse é o meu sonho."
+  },
+  {
+    "id": "edffd44",
+    "split": "train",
+    "line_idx": 17925,
+    "original_text": "[NAME] has a nice text on this topic. Of flying cars and the declining rate of profit.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "O [NAME] tem um texto legal sobre esse assunto. Sobre carros voadores e a taxa decrescente de lucro."
+  },
+  {
+    "id": "ef042u7",
+    "split": "train",
+    "line_idx": 17926,
+    "original_text": "IMO, cheaters are only sorry they got caught, not because they betrayed their spouses and had an affair. ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Na minha opinião, traidores só se arrependem de terem sido pegos, não de terem traído seus parceiros e tido um caso."
+  },
+  {
+    "id": "eez4411",
+    "split": "train",
+    "line_idx": 17927,
+    "original_text": "i meant that either one has no scientific backing and was just made by random people, knowing how much people love lables",
+    "emotion_ids": "18,27",
+    "emotions": [
+      "love",
+      "neutral"
+    ],
+    "translated_text": "Eu quis dizer que nenhum dos dois tem base científica e foi inventado por pessoas aleatórias, sabendo o quanto o povo ama um rótulo"
+  },
+  {
+    "id": "edtrnac",
+    "split": "train",
+    "line_idx": 17928,
+    "original_text": "That’s my neighbor!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse é meu vizinho!"
+  },
+  {
+    "id": "ed2wsg5",
+    "split": "train",
+    "line_idx": 17929,
+    "original_text": "I love u too <3",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu também te amo <3"
+  },
+  {
+    "id": "eea9s8u",
+    "split": "train",
+    "line_idx": 17930,
+    "original_text": "You know, I’m something of a friend myself",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sabe, eu também sou meio que um amigo"
+  },
+  {
+    "id": "edzhn7n",
+    "split": "train",
+    "line_idx": 17931,
+    "original_text": "Hello there fellow Bolts fan, ride the lightning ⚡️",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Olá, colega torcedor dos Bolts, vamos nessa ⚡️"
+  },
+  {
+    "id": "efgbeto",
+    "split": "train",
+    "line_idx": 17932,
+    "original_text": "Why stop there",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que parar por aí"
+  },
+  {
+    "id": "ed4tz6n",
+    "split": "train",
+    "line_idx": 17933,
+    "original_text": "This is the kinda stuff that is cute in romantic comedies. It just depends on how much you like him.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse é o tipo de coisa que é fofa em comédias românticas. Só depende do quanto você gosta dele."
+  },
+  {
+    "id": "edk21te",
+    "split": "train",
+    "line_idx": 17934,
+    "original_text": "Shes stunning haha",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ela é deslumbrante haha"
+  },
+  {
+    "id": "ed9zk49",
+    "split": "train",
+    "line_idx": 17935,
+    "original_text": "Thanks for the feedback! I will certainly keep that length range in mind.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelo feedback! Com certeza vou levar esse tamanho em consideração."
+  },
+  {
+    "id": "edk3myi",
+    "split": "train",
+    "line_idx": 17936,
+    "original_text": "> Ottoman",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> Otomano"
+  },
+  {
+    "id": "eeu1c27",
+    "split": "train",
+    "line_idx": 17937,
+    "original_text": "I didn’t actually know that. I wish I was surprised.",
+    "emotion_ids": "20,22",
+    "emotions": [
+      "optimism",
+      "realization"
+    ],
+    "translated_text": "Eu não sabia disso, na verdade. Queria não estar surpreso."
+  },
+  {
+    "id": "eerl7k5",
+    "split": "train",
+    "line_idx": 17938,
+    "original_text": "Spending your handouts and having some taken back doesn’t in any way make you a contributor.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Gastar suas esmolas e ter uma parte tomada de volta não faz de você um contribuinte de jeito nenhum."
+  },
+  {
+    "id": "ediobgj",
+    "split": "train",
+    "line_idx": 17939,
+    "original_text": "Yes!!! He was my #2 choice. Love this hire so much and we don’t have a coach with a sketchy past",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Sim!!! Ele era minha segunda opção. Amei demais essa contratação e não temos um técnico com um passado duvidoso"
+  },
+  {
+    "id": "ef20j9s",
+    "split": "train",
+    "line_idx": 17940,
+    "original_text": "So would you want [NAME] first round, [NAME] second then this guy in the third?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Então você queria o [NAME] na primeira rodada, o [NAME] na segunda e esse cara na terceira?"
+  },
+  {
+    "id": "edoe6ck",
+    "split": "train",
+    "line_idx": 17941,
+    "original_text": "Well Reddit frequently forgets that [NAME] was jousting with [NAME] for biggest hawk in DC.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bem, o Reddit frequentemente esquece que o [NAME] estava disputando com o [NAME] quem era o maior falcão em DC."
+  },
+  {
+    "id": "edz9es0",
+    "split": "train",
+    "line_idx": 17942,
+    "original_text": "But it taste and look so good 💦👌",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Mas é tão gostoso e bonito 💦👌"
+  },
+  {
+    "id": "eek6k33",
+    "split": "train",
+    "line_idx": 17943,
+    "original_text": "May i ask where?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Posso perguntar onde?"
+  },
+  {
+    "id": "edj7nvi",
+    "split": "train",
+    "line_idx": 17944,
+    "original_text": "Thank you so very much for this. Our culture seems to frown upon the mindset of leaving them out to dry.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado por isso. Nossa cultura parece desaprovar a ideia de deixá-los na mão."
+  },
+  {
+    "id": "ed76fc5",
+    "split": "train",
+    "line_idx": 17945,
+    "original_text": "dear... husband",
+    "emotion_ids": "18,27",
+    "emotions": [
+      "love",
+      "neutral"
+    ],
+    "translated_text": "querido... marido"
+  },
+  {
+    "id": "ed249y6",
+    "split": "train",
+    "line_idx": 17946,
+    "original_text": "You're a monster!",
+    "emotion_ids": "0,27",
+    "emotions": [
+      "admiration",
+      "neutral"
+    ],
+    "translated_text": "Você é um monstro!"
+  },
+  {
+    "id": "eeqyl6t",
+    "split": "train",
+    "line_idx": 17947,
+    "original_text": "Just the ones who jump on my car. So far that's no one, but who knows what the future will hold",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só os que pulam no meu carro. Até agora ninguém, mas quem sabe o que o futuro reserva"
+  },
+  {
+    "id": "efbhm33",
+    "split": "train",
+    "line_idx": 17948,
+    "original_text": "Looked like [NAME] for some reason",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Parecia o [NAME] por algum motivo"
+  },
+  {
+    "id": "eda9rqn",
+    "split": "train",
+    "line_idx": 17949,
+    "original_text": "This made me chuckle, thank you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Isso me fez dar uma risadinha, obrigado."
+  }
+]

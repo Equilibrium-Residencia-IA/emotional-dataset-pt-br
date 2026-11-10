@@ -1,0 +1,567 @@
+[
+  {
+    "id": "eec3ne1",
+    "split": "train",
+    "line_idx": 20550,
+    "original_text": "Reminds me of Uncle [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Me lembra o tio [NAME]."
+  },
+  {
+    "id": "ed5qevu",
+    "split": "train",
+    "line_idx": 20551,
+    "original_text": "honestly i don’t mind it but ik some people do and i rly don’t care enough to get into that",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "sinceramente eu não ligo, mas sei que tem gente que liga e eu realmente não tô nem aí pra entrar nessa discussão"
+  },
+  {
+    "id": "ed5rmkv",
+    "split": "train",
+    "line_idx": 20552,
+    "original_text": "I cant help it if i dream abt it damn",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não tenho culpa se eu sonho com isso, caramba"
+  },
+  {
+    "id": "eel6ffv",
+    "split": "train",
+    "line_idx": 20553,
+    "original_text": "Closing in on $300,000 now, this stream is incredible.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Chegando nos 300 mil dólares agora, essa live tá incrível."
+  },
+  {
+    "id": "edsjq7t",
+    "split": "train",
+    "line_idx": 20554,
+    "original_text": "Sorry for your loss mate",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Meus pêsames, cara"
+  },
+  {
+    "id": "ef87nk3",
+    "split": "train",
+    "line_idx": 20555,
+    "original_text": "Ya done goofed",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fez besteira, hein"
+  },
+  {
+    "id": "ed0ecs2",
+    "split": "train",
+    "line_idx": 20556,
+    "original_text": "You absolutely should not tell her.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não deveria contar pra ela de jeito nenhum."
+  },
+  {
+    "id": "edmkm58",
+    "split": "train",
+    "line_idx": 20557,
+    "original_text": "I can't delete my account, so I'm just gonna edit the post itself. Thank you for your help!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Não consigo deletar minha conta, então vou só editar o post mesmo. Obrigado pela ajuda!"
+  },
+  {
+    "id": "edddvhx",
+    "split": "train",
+    "line_idx": 20558,
+    "original_text": "Only through surgery, steriods, and a high income. Personality is not a factor for woman, looks and status are",
+    "emotion_ids": "22,27",
+    "emotions": [
+      "realization",
+      "neutral"
+    ],
+    "translated_text": "Só com cirurgia, esteroides e muita grana. Personalidade não conta pra mulher, o que importa é aparência e status"
+  },
+  {
+    "id": "eeo4uih",
+    "split": "train",
+    "line_idx": 20559,
+    "original_text": "What is this an excerpt from? [NAME] was a treasure. I should read more of his stuff.",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "De onde é esse trecho? [NAME] era um tesouro. Devia ler mais coisas dele."
+  },
+  {
+    "id": "ee4rlww",
+    "split": "train",
+    "line_idx": 20560,
+    "original_text": "I was talking about have a more positive outlook on life if it's meaningless anyways.",
+    "emotion_ids": "5,20,22",
+    "emotions": [
+      "caring",
+      "optimism",
+      "realization"
+    ],
+    "translated_text": "Eu tava falando sobre ter uma visão mais positiva da vida, já que ela não tem sentido mesmo."
+  },
+  {
+    "id": "eeva7xh",
+    "split": "train",
+    "line_idx": 20561,
+    "original_text": "[NAME] wasn't apart of that team. That was [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] não fazia parte daquele time. Aquele era o [NAME]"
+  },
+  {
+    "id": "edr5k3u",
+    "split": "train",
+    "line_idx": 20562,
+    "original_text": "I know he will be, I'm just nervous. His face is just going to be so sad 😢",
+    "emotion_ids": "19,25",
+    "emotions": [
+      "nervousness",
+      "sadness"
+    ],
+    "translated_text": "Eu sei que ele vai ficar, só tô nervoso. A carinha dele vai ficar tão triste 😢"
+  },
+  {
+    "id": "efb0h8w",
+    "split": "train",
+    "line_idx": 20563,
+    "original_text": "This. Thank you.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Isso. Valeu."
+  },
+  {
+    "id": "edop4aq",
+    "split": "train",
+    "line_idx": 20564,
+    "original_text": "I guess I've never seen that written out. Thanks for the correction.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Acho que nunca tinha visto escrito desse jeito. Valeu pela correção."
+  },
+  {
+    "id": "edn0csu",
+    "split": "train",
+    "line_idx": 20565,
+    "original_text": "That’s all I noticed.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Foi só isso que eu notei."
+  },
+  {
+    "id": "edpp4cw",
+    "split": "train",
+    "line_idx": 20566,
+    "original_text": "2weeks ago?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Há 2 semanas?"
+  },
+  {
+    "id": "edn1sso",
+    "split": "train",
+    "line_idx": 20567,
+    "original_text": "Yes, you're supposed to keep it. Like I said, its only when the voice gets out of control that you should start to worry.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sim, você tem que manter. Como eu disse, só quando a voz sair do controle é que você deve começar a se preocupar."
+  },
+  {
+    "id": "eeom6bk",
+    "split": "train",
+    "line_idx": 20568,
+    "original_text": "If we're able to continue picking off the most corporately-funded candidates, reps will naturally move left and we won't be faced with the ever-rightward creep.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se a gente conseguir continuar eliminando os candidatos financiados por empresas, os representantes vão naturalmente virar pra esquerda e a gente não vai ficar enfrentando esse avanço constante pra direita."
+  },
+  {
+    "id": "ee6dmy1",
+    "split": "train",
+    "line_idx": 20569,
+    "original_text": "> Conversely, Scandinavia does alright. That’s what they said about Venezuela. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> Por outro lado, a Escandinávia se dá bem. Foi o que disseram sobre a Venezuela."
+  },
+  {
+    "id": "edgfpx8",
+    "split": "train",
+    "line_idx": 20570,
+    "original_text": "Nice mix of trashy and classy.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Uma mistura legal de brega com chique."
+  },
+  {
+    "id": "ee7bfxp",
+    "split": "train",
+    "line_idx": 20571,
+    "original_text": "If that's a euphemism for \"emotional thinking\" then I agree with you",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Se isso for um eufemismo pra \"pensamento emocional\", então eu concordo com você"
+  },
+  {
+    "id": "edh4wmo",
+    "split": "train",
+    "line_idx": 20572,
+    "original_text": "At least we aren’t getting blown out. And Vegas is hot right now",
+    "emotion_ids": "4,13",
+    "emotions": [
+      "approval",
+      "excitement"
+    ],
+    "translated_text": "Pelo menos a gente não tá sendo massacrado. E Vegas tá com tudo agora"
+  },
+  {
+    "id": "edy5417",
+    "split": "train",
+    "line_idx": 20573,
+    "original_text": "Why does it matter? Isn't this just 2 oppressive systems of control fighting against each other?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por que isso importa? Isso não é só dois sistemas opressores de controle lutando um contra o outro?"
+  },
+  {
+    "id": "ed925o7",
+    "split": "train",
+    "line_idx": 20574,
+    "original_text": "Obviously not real but damn i wish it was.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Obviamente não é real, mas putz, queria que fosse."
+  },
+  {
+    "id": "eduxiof",
+    "split": "train",
+    "line_idx": 20575,
+    "original_text": "Wow, they are actually struggling against the Hawks for 3 full quarters. ",
+    "emotion_ids": "13,26",
+    "emotions": [
+      "excitement",
+      "surprise"
+    ],
+    "translated_text": "Nossa, eles tão sofrendo de verdade contra os Hawks por 3 quartos inteiros."
+  },
+  {
+    "id": "edrsspo",
+    "split": "train",
+    "line_idx": 20576,
+    "original_text": "Wooshes for everyone!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Woosh pra todo mundo!"
+  },
+  {
+    "id": "efb05zl",
+    "split": "train",
+    "line_idx": 20577,
+    "original_text": "thanks! yours inspired my to post mine lol",
+    "emotion_ids": "1,15",
+    "emotions": [
+      "amusement",
+      "gratitude"
+    ],
+    "translated_text": "valeu! o seu me inspirou a postar o meu rs"
+  },
+  {
+    "id": "edwp55w",
+    "split": "train",
+    "line_idx": 20578,
+    "original_text": "That's where gen Z begins. Every 3-5 years the next 'wave' comes",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É aí que a geração Z começa. A cada 3-5 anos vem a próxima 'onda'"
+  },
+  {
+    "id": "edxodor",
+    "split": "train",
+    "line_idx": 20579,
+    "original_text": "PLQ is soon. Wanna focus up. That’s why only Splyce is I guess",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O PLQ é logo mais. Quero focar. Por isso que só a Splyce eu acho"
+  },
+  {
+    "id": "ef0t4sq",
+    "split": "train",
+    "line_idx": 20580,
+    "original_text": "Alicorn then maybe?",
+    "emotion_ids": "6,27",
+    "emotions": [
+      "confusion",
+      "neutral"
+    ],
+    "translated_text": "Alicórnio então talvez?"
+  },
+  {
+    "id": "edpziuo",
+    "split": "train",
+    "line_idx": 20581,
+    "original_text": "Alligator eats the bigger number",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O jacaré come o número maior"
+  },
+  {
+    "id": "eefxb6v",
+    "split": "train",
+    "line_idx": 20582,
+    "original_text": "For the [NAME] I always love our deep ACC Tourney runs. I’d love a regular season championship though",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Pro [NAME] eu sempre amo nossas campanhas longas no torneio da ACC. Mas eu adoraria um campeonato de temporada regular"
+  },
+  {
+    "id": "ed3otuu",
+    "split": "train",
+    "line_idx": 20583,
+    "original_text": "Ah yes, [NAME] forbids us from judging those of the higher castes. It is known. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ah sim, [NAME] nos proíbe de julgar os das castas superiores. É sabido."
+  },
+  {
+    "id": "ed2sjal",
+    "split": "train",
+    "line_idx": 20584,
+    "original_text": "I'm too late to rub this into all the casual's faces. :(",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Cheguei tarde demais pra esfregar isso na cara de todos os casuais. :("
+  },
+  {
+    "id": "ee8yvsf",
+    "split": "train",
+    "line_idx": 20585,
+    "original_text": "This is from ralph lauren? [NAME], someone put their designer out of their misery.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é da Ralph Lauren? [NAME], alguém tire o estilista deles da miséria."
+  },
+  {
+    "id": "eea83i4",
+    "split": "train",
+    "line_idx": 20586,
+    "original_text": "That is a great idea! I will propose in in my next session.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Essa é uma ótima ideia! Vou propor na minha próxima sessão."
+  },
+  {
+    "id": "efadb2s",
+    "split": "train",
+    "line_idx": 20587,
+    "original_text": "You went to your Xbox? I went to my NES... and it was \"the new thing\"!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você foi pro seu Xbox? Eu fui pro meu NES... e era \"a novidade\"!"
+  },
+  {
+    "id": "efemmdd",
+    "split": "train",
+    "line_idx": 20588,
+    "original_text": "[NAME] milquetoast reformism is still too radical for Wall Street.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O reformismo morno do [NAME] ainda é radical demais pra Wall Street."
+  },
+  {
+    "id": "eeo50mz",
+    "split": "train",
+    "line_idx": 20589,
+    "original_text": "Haven’t seen that movie either, haha. ",
+    "emotion_ids": "1,10",
+    "emotions": [
+      "amusement",
+      "disapproval"
+    ],
+    "translated_text": "Também não vi esse filme, haha."
+  },
+  {
+    "id": "eecuzmf",
+    "split": "train",
+    "line_idx": 20590,
+    "original_text": "It's so focused on the presenter and he is so unengaging it's painful.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "É tão focado no apresentador e ele é tão sem carisma que chega a ser doloroso."
+  },
+  {
+    "id": "edfsmye",
+    "split": "train",
+    "line_idx": 20591,
+    "original_text": "Reddit is so right wing I can’t even believe it",
+    "emotion_ids": "10,26",
+    "emotions": [
+      "disapproval",
+      "surprise"
+    ],
+    "translated_text": "O Reddit é tão de direita que eu nem consigo acreditar"
+  },
+  {
+    "id": "ed8guyw",
+    "split": "train",
+    "line_idx": 20592,
+    "original_text": "I've had such bad memories, I remember when I remember bad times now! Haha",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Eu tive tantas lembranças ruins, que agora lembro quando lembro de tempos ruins! Haha"
+  },
+  {
+    "id": "ee4s2ri",
+    "split": "train",
+    "line_idx": 20593,
+    "original_text": "But 80% of the time they go back to \"single\" (or just remove the relationship status), so no worries.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Mas 80% das vezes eles voltam pra \"solteiro\" (ou só removem o status de relacionamento), então sem preocupações."
+  },
+  {
+    "id": "eegx6r3",
+    "split": "train",
+    "line_idx": 20594,
+    "original_text": "I’m excited!",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Tô empolgado!"
+  },
+  {
+    "id": "ef8tvlp",
+    "split": "train",
+    "line_idx": 20595,
+    "original_text": "Cheers, guys! We are never drinking alone when we are here! But in person, I love drinking alone. ",
+    "emotion_ids": "17,18",
+    "emotions": [
+      "joy",
+      "love"
+    ],
+    "translated_text": "Saúde, galera! A gente nunca bebe sozinho quando tá aqui! Mas pessoalmente, eu adoro beber sozinho."
+  },
+  {
+    "id": "eefr0zd",
+    "split": "train",
+    "line_idx": 20596,
+    "original_text": "There were lots of awkward silences. The farewell didn't seem natural.",
+    "emotion_ids": "9,12",
+    "emotions": [
+      "disappointment",
+      "embarrassment"
+    ],
+    "translated_text": "Teve muitos silêncios constrangedores. A despedida não pareceu natural."
+  },
+  {
+    "id": "eekcv4o",
+    "split": "train",
+    "line_idx": 20597,
+    "original_text": "I hate u i love u.. best song that describes that",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu te odeio, eu te amo... melhor música que descreve isso"
+  },
+  {
+    "id": "edzbyh3",
+    "split": "train",
+    "line_idx": 20598,
+    "original_text": "My aunt can also be very intimidating when she needs to be. It's her super power.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Minha tia também pode ser bem intimidadora quando precisa. É o superpoder dela."
+  },
+  {
+    "id": "ed3dsfn",
+    "split": "train",
+    "line_idx": 20599,
+    "original_text": "And, what happened...",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "E, o que aconteceu..."
+  }
+]

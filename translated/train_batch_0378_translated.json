@@ -1,0 +1,558 @@
+[
+  {
+    "id": "edfa00i",
+    "split": "train",
+    "line_idx": 18900,
+    "original_text": "Everybody is talking about [NAME], but what about that ball control and through ball from his teammate?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Todo mundo falando do [NAME], mas e aquele controle de bola e o passe enfiado do companheiro de time dele?"
+  },
+  {
+    "id": "ee1ogen",
+    "split": "train",
+    "line_idx": 18901,
+    "original_text": "> If you love that you probably also love no man sky's algorithm. I loved it back then, because it was the only game. ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "> Se você ama isso, provavelmente também ama o algoritmo do No Man's Sky. Eu adorava na época, porque era o único jogo."
+  },
+  {
+    "id": "edv9m1d",
+    "split": "train",
+    "line_idx": 18902,
+    "original_text": "The children are still being abused, neglected and treated like rubbish. White Australian policy has been horrific and continues to be horrific.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "As crianças continuam sendo abusadas, negligenciadas e tratadas como lixo. A política australiana para brancos tem sido horrível e continua sendo horrível."
+  },
+  {
+    "id": "ed4ss4e",
+    "split": "train",
+    "line_idx": 18903,
+    "original_text": "With the up and coming hit single \"I have a new Daddy every week\".",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Com o novo hit de sucesso \"Eu tenho um novo papai toda semana\"."
+  },
+  {
+    "id": "eerpnal",
+    "split": "train",
+    "line_idx": 18904,
+    "original_text": "Because he’s actually cool with racism and anti-semitism. Just draws the line at rape.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque ele é de boa com racismo e antissemitismo. Só traça o limite no estupro."
+  },
+  {
+    "id": "ed64oyb",
+    "split": "train",
+    "line_idx": 18905,
+    "original_text": "Oof, that's rough. :( Sorry that happened to you, mate. ",
+    "emotion_ids": "24,25",
+    "emotions": [
+      "remorse",
+      "sadness"
+    ],
+    "translated_text": "Nossa, que barra. :( Sinto muito que isso tenha acontecido com você, cara."
+  },
+  {
+    "id": "eey0dyp",
+    "split": "train",
+    "line_idx": 18906,
+    "original_text": "Thank you. For what it's worth, I absolutely am an idiot. But I am making a valid argument within the context.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. Pelo que vale, eu sou um idiota mesmo. Mas estou apresentando um argumento válido dentro do contexto."
+  },
+  {
+    "id": "ef9fayq",
+    "split": "train",
+    "line_idx": 18907,
+    "original_text": "Yes, [NAME] is truly evil [NAME], his utter failure and stupidity is so beyond reason that when you mention it, it sounds beyond reason.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Sim, o [NAME] é verdadeiramente maligno [NAME], seu fracasso total e estupidez estão tão além da razão que, quando você menciona, soa inacreditável."
+  },
+  {
+    "id": "edq33zd",
+    "split": "train",
+    "line_idx": 18908,
+    "original_text": "An afternoon of Big Cat vs Vol Twitter will be fun",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Uma tarde de Big Cat vs Vol no Twitter vai ser divertido"
+  },
+  {
+    "id": "efgnbn1",
+    "split": "train",
+    "line_idx": 18909,
+    "original_text": "Would this not be the bog-standard practice of allowing close family members to make decisions about resuscitation?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Isso não seria a prática padrão de permitir que familiares próximos tomem decisões sobre reanimação?"
+  },
+  {
+    "id": "ef24iw0",
+    "split": "train",
+    "line_idx": 18910,
+    "original_text": "“she’s turned the weeans against us!”",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "“ela virou as crianças contra nós!”"
+  },
+  {
+    "id": "edyqys1",
+    "split": "train",
+    "line_idx": 18911,
+    "original_text": "or a horrible night of 15/4/4",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "ou uma noite horrível de 15/4/4"
+  },
+  {
+    "id": "edoqdxb",
+    "split": "train",
+    "line_idx": 18912,
+    "original_text": "Aww that makes me happy!",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Awn, isso me deixa feliz!"
+  },
+  {
+    "id": "edz5mbn",
+    "split": "train",
+    "line_idx": 18913,
+    "original_text": "You’d be surprised what people could find with just a town name and doctor. Just looking out. If you already considered it ignore me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você se surpreenderia com o que as pessoas conseguem achar só com o nome da cidade e o médico. Só um toque. Se você já considerou isso, ignora."
+  },
+  {
+    "id": "edluj9o",
+    "split": "train",
+    "line_idx": 18914,
+    "original_text": "Thanks for saying that, it wasn't easy ... definitely sparked a long period of discussion and reflection!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu por dizer isso, não foi fácil... definitivamente gerou um longo período de discussão e reflexão!"
+  },
+  {
+    "id": "edketez",
+    "split": "train",
+    "line_idx": 18915,
+    "original_text": "And they sneak the bit about reckless driving and speeding in at the end as making one a prohibited person. This is absurd.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "E eles enfiam o trecho sobre direção imprudente e excesso de velocidade no final como algo que te torna uma pessoa proibida. Isso é absurdo."
+  },
+  {
+    "id": "efdwter",
+    "split": "train",
+    "line_idx": 18916,
+    "original_text": "Look, [NAME]! I'm a cat. \"Ffs, [NAME]. Get off the ground. You're embarrassing me.\"",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Olha, [NAME]! Eu sou um gato. \"Pqp, [NAME]. Sai do chão. Você tá me passando vergonha.\""
+  },
+  {
+    "id": "ed6pphu",
+    "split": "train",
+    "line_idx": 18917,
+    "original_text": "Urgh I feel that. I'm doing an exam next week and I'm gonna have to wait 9 weeks for the results back.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aff, eu sinto essa dor. Vou fazer uma prova semana que vem e vou ter que esperar 9 semanas pelos resultados."
+  },
+  {
+    "id": "eeb11v0",
+    "split": "train",
+    "line_idx": 18918,
+    "original_text": "Future is bright to me!",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "O futuro é brilhante pra mim!"
+  },
+  {
+    "id": "eeukwwn",
+    "split": "train",
+    "line_idx": 18919,
+    "original_text": "The fuck? Come from nothing, now something doesn't matter? ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Que porra é essa? Veio do nada, agora ser alguma coisa não importa?"
+  },
+  {
+    "id": "ee0sj6l",
+    "split": "train",
+    "line_idx": 18920,
+    "original_text": "[NAME] looks like a maggot in that dress",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] parece uma larva naquele vestido"
+  },
+  {
+    "id": "eek86c5",
+    "split": "train",
+    "line_idx": 18921,
+    "original_text": "Great video, not the same as the gilette ad but still full of a lot of information. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Vídeo ótimo, não é a mesma coisa que o comercial da Gillette, mas ainda cheio de muita informação."
+  },
+  {
+    "id": "ed1umv1",
+    "split": "train",
+    "line_idx": 18922,
+    "original_text": "Hands down one of my favourite VA's and a main reason I go FemShep or play games she's in.",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Com certeza uma das minhas dubladoras favoritas e um dos principais motivos de eu escolher a FemShep ou jogar os jogos que ela participa."
+  },
+  {
+    "id": "eduuhyy",
+    "split": "train",
+    "line_idx": 18923,
+    "original_text": "Everytime? So 3 times a day you rewatch the bloopers and deleted scenes? How often do you repeat, probably weekly?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Toda vez? Então 3 vezes por dia você reassiste aos erros de gravação e cenas deletadas? Com que frequência você repete, provavelmente semanalmente?"
+  },
+  {
+    "id": "efdg29z",
+    "split": "train",
+    "line_idx": 18924,
+    "original_text": "This makes me feel better about some of my poor decisions.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Isso me faz sentir melhor sobre algumas das minhas decisões ruins."
+  },
+  {
+    "id": "eczub6k",
+    "split": "train",
+    "line_idx": 18925,
+    "original_text": "I'm the exact opposite. The idea of not existing anymore relaxes me and makes me want to end it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu sou exatamente o oposto. A ideia de não existir mais me relaxa e me faz querer acabar com tudo"
+  },
+  {
+    "id": "eeuwvbq",
+    "split": "train",
+    "line_idx": 18926,
+    "original_text": "There's also Miami (India) and Liberia (USA).",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tem também Miami (Índia) e Libéria (EUA)."
+  },
+  {
+    "id": "ed5wyr6",
+    "split": "train",
+    "line_idx": 18927,
+    "original_text": "Thanks, I wouldn't have noticed the car without it.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, eu não teria notado o carro sem isso."
+  },
+  {
+    "id": "edlg3ya",
+    "split": "train",
+    "line_idx": 18928,
+    "original_text": "I like it. I hope that answer is okay with you because I might lose sleep if it's not",
+    "emotion_ids": "18,20",
+    "emotions": [
+      "love",
+      "optimism"
+    ],
+    "translated_text": "Eu gostei. Espero que essa resposta esteja ok pra você, porque eu posso perder o sono se não estiver"
+  },
+  {
+    "id": "edxv8gi",
+    "split": "train",
+    "line_idx": 18929,
+    "original_text": "Its what keeps me going, I couldn't hurt my friends and family i love them too much",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "É o que me mantém seguindo em frente, eu não conseguiria machucar meus amigos e família, eu amo eles demais"
+  },
+  {
+    "id": "efe0ydr",
+    "split": "train",
+    "line_idx": 18930,
+    "original_text": "Pretty much does. SNP polling at 41% for the next election, CON at 25, LAB 23, LIB 6, and Greens at 3.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Basicamente faz. Pesquisa do SNP em 41% para a próxima eleição, CON em 25, LAB 23, LIB 6 e Verdes em 3."
+  },
+  {
+    "id": "edtd82h",
+    "split": "train",
+    "line_idx": 18931,
+    "original_text": "Can they be wrong about three things?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eles podem estar errados sobre três coisas?"
+  },
+  {
+    "id": "eeop61z",
+    "split": "train",
+    "line_idx": 18932,
+    "original_text": "Yes, it can. But I don't think anyone interprets it that way here.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sim, pode. Mas não acho que ninguém interprete dessa forma aqui."
+  },
+  {
+    "id": "eecb68n",
+    "split": "train",
+    "line_idx": 18933,
+    "original_text": "I can’t stand anything about her yet. Nothing.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu não suporto nada nela ainda. Nada."
+  },
+  {
+    "id": "een8eey",
+    "split": "train",
+    "line_idx": 18934,
+    "original_text": "This happens in America as well. Unfortunately the news cycle isn't interested in reporting such things. Just doom and gloom.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso acontece na América também. Infelizmente o ciclo de notícias não está interessado em reportar essas coisas. Só desgraça e pessimismo."
+  },
+  {
+    "id": "eezcqic",
+    "split": "train",
+    "line_idx": 18935,
+    "original_text": "plz no foul trouble",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "pfvr sem problemas com faltas"
+  },
+  {
+    "id": "edpen66",
+    "split": "train",
+    "line_idx": 18936,
+    "original_text": "Whoa! Very impressive. One of the better photos of Brisbane I've seen in a while.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Uau! Muito impressionante. Uma das fotos mais bonitas de Brisbane que vi em um tempo."
+  },
+  {
+    "id": "eervy8j",
+    "split": "train",
+    "line_idx": 18937,
+    "original_text": "Good ol retro windows",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O bom e velho Windows retrô"
+  },
+  {
+    "id": "ed8mzui",
+    "split": "train",
+    "line_idx": 18938,
+    "original_text": "It's a shame he didn't trust you enough to believe you, but instead believed his own assessment of what he was worth.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É uma pena que ele não tenha confiado em você o suficiente para acreditar, mas preferiu acreditar na própria avaliação do que ele valia."
+  },
+  {
+    "id": "efdxsbk",
+    "split": "train",
+    "line_idx": 18939,
+    "original_text": "And yes I also thought [NAME] was someone else too!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "E sim, eu também achei que o [NAME] era outra pessoa!"
+  },
+  {
+    "id": "ef8exll",
+    "split": "train",
+    "line_idx": 18940,
+    "original_text": "Fund this man. Even if it doesn’t pan out it’s worth finding out.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Financiem esse cara. Mesmo que não dê em nada, vale a pena descobrir."
+  },
+  {
+    "id": "eedecaf",
+    "split": "train",
+    "line_idx": 18941,
+    "original_text": "If it's an unregistered payg sim then how exactly are they going to catch anyone?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Se é um chip pré-pago não registrado, então como exatamente eles vão pegar alguém?"
+  },
+  {
+    "id": "eewnd3a",
+    "split": "train",
+    "line_idx": 18942,
+    "original_text": "> its just there to make people uncomfortable and force a tip. No one working there really expects a tip in the first place.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> está aí só pra deixar as pessoas desconfortáveis e forçar uma gorjeta. Ninguém que trabalha lá realmente espera uma gorjeta pra começo de conversa."
+  },
+  {
+    "id": "ed38yy4",
+    "split": "train",
+    "line_idx": 18943,
+    "original_text": "WHERE THR HECK IS VOL'JIN AND MY TROLL EMPIRE, YEARS HAVE PASSED WE HAVE 2 PANDA AND STILL ONE TROLL",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ONDE DIABOS ESTÁ VOL'JIN E MEU IMPÉRIO TROLL, ANOS SE PASSARAM, TEMOS 2 PANDAS E AINDA UM TROLL"
+  },
+  {
+    "id": "ef9qhh1",
+    "split": "train",
+    "line_idx": 18944,
+    "original_text": "Didn't Canada have more guns per capita then USA? I think I saw that in Bowling for Columbine. But [NAME] seem pretty chill about it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O Canadá não tinha mais armas per capita que os EUA? Acho que vi isso em Tiros em Columbine. Mas o [NAME] parece bem de boa com isso."
+  },
+  {
+    "id": "ee48yjb",
+    "split": "train",
+    "line_idx": 18945,
+    "original_text": "There are other petty crimes that can be more heavily prosecuted, like unpaid child support. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Existem outros crimes menores que podem ser processados com mais rigor, como pensão alimentícia não paga."
+  },
+  {
+    "id": "edi13x6",
+    "split": "train",
+    "line_idx": 18946,
+    "original_text": "But it’s so hideous",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Mas é tão horroroso"
+  },
+  {
+    "id": "ed9i4ms",
+    "split": "train",
+    "line_idx": 18947,
+    "original_text": "Welcome to the club. She hit me hard 3 months ago n I'm still recovering.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Bem-vindo ao clube. Ela me atingiu em cheio 3 meses atrás e ainda estou me recuperando."
+  },
+  {
+    "id": "eeya7v9",
+    "split": "train",
+    "line_idx": 18948,
+    "original_text": "good move. needed another lefty in the pen.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "boa jogada. precisava de outro canhoto no bullpen."
+  },
+  {
+    "id": "eeowqle",
+    "split": "train",
+    "line_idx": 18949,
+    "original_text": "Everyone *can* be rehabilitated, but a lot of effort is needed, and most would likely fail.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Todo mundo *pode* ser reabilitado, mas é necessário muito esforço, e a maioria provavelmente falharia."
+  }
+]

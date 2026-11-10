@@ -1,0 +1,561 @@
+[
+  {
+    "id": "ef23o42",
+    "split": "train",
+    "line_idx": 21300,
+    "original_text": "Not as bad as the face [NAME] making",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não é tão ruim quanto a cara que o [NAME] tá fazendo"
+  },
+  {
+    "id": "ef5pa4y",
+    "split": "train",
+    "line_idx": 21301,
+    "original_text": "I'm proud that this is the first response I see.",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Tô orgulhoso que essa é a primeira resposta que eu vejo."
+  },
+  {
+    "id": "ed7on3c",
+    "split": "train",
+    "line_idx": 21302,
+    "original_text": "7x04 for me, but I like the positivity. It was one of my best episodes of the season.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Pra mim é 7x04, mas gostei da positividade. Foi um dos meus episódios favoritos da temporada."
+  },
+  {
+    "id": "eem13ye",
+    "split": "train",
+    "line_idx": 21303,
+    "original_text": "I can totally see it. I’d be very interested to see them interact.",
+    "emotion_ids": "4,13",
+    "emotions": [
+      "approval",
+      "excitement"
+    ],
+    "translated_text": "Consigo imaginar perfeitamente. Eu ia adorar ver eles interagindo."
+  },
+  {
+    "id": "eev0ht4",
+    "split": "train",
+    "line_idx": 21304,
+    "original_text": "Even in the offseason we can’t escape the injury bug :/",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nem na intertemporada a gente escapa das lesões :/"
+  },
+  {
+    "id": "edg64zs",
+    "split": "train",
+    "line_idx": 21305,
+    "original_text": "Super creepy. And leaving the note is out of line",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Super bizarro. E deixar aquele bilhete não tem nada a ver"
+  },
+  {
+    "id": "eem9i88",
+    "split": "train",
+    "line_idx": 21306,
+    "original_text": "I have insomnia too thanks for the recommendation, always on the look out for helpful podcasts and meditations ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Eu também tenho insônia, valeu pela recomendação, tô sempre atrás de podcasts e meditações que ajudem"
+  },
+  {
+    "id": "eda7lwx",
+    "split": "train",
+    "line_idx": 21307,
+    "original_text": "I live in Raleigh and all the Canes fans I know love it. So the players love it and the fans love it. Everyone else can chill",
+    "emotion_ids": "17,18",
+    "emotions": [
+      "joy",
+      "love"
+    ],
+    "translated_text": "Eu moro em Raleigh e todos os torcedores dos Canes que eu conheço adoram isso. Então os jogadores amam e os torcedores amam. O resto que se acalme"
+  },
+  {
+    "id": "eee4pa9",
+    "split": "train",
+    "line_idx": 21308,
+    "original_text": "Let's go Faze. They need this here",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bora Faze. Eles precisam dessa aqui"
+  },
+  {
+    "id": "eef9hs1",
+    "split": "train",
+    "line_idx": 21309,
+    "original_text": "You cannot have your car running while you're pumping gas.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você não pode deixar o carro ligado enquanto abastece."
+  },
+  {
+    "id": "ee1jim7",
+    "split": "train",
+    "line_idx": 21310,
+    "original_text": "Frustration is an indication that someone is powerless to change their situation. Not whether they are correct or not. That's my view.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Frustração é um sinal de que a pessoa não tem poder pra mudar a situação dela. Não tem nada a ver com estar certa ou não. É a minha visão."
+  },
+  {
+    "id": "ef3et3k",
+    "split": "train",
+    "line_idx": 21311,
+    "original_text": "I was talking about fMRI neurofeedback (sorry - left out that word):",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tava falando de neurofeedback por fMRI (foi mal - esqueci de falar essa palavra):"
+  },
+  {
+    "id": "eem0ls8",
+    "split": "train",
+    "line_idx": 21312,
+    "original_text": "Was that just for concorde or just every flight?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso era só pro Concorde ou pra todo voo?"
+  },
+  {
+    "id": "ed39nre",
+    "split": "train",
+    "line_idx": 21313,
+    "original_text": "This post gave me incredible anxiety until I saw the back tires rolling sideways which was amazing.",
+    "emotion_ids": "0,13",
+    "emotions": [
+      "admiration",
+      "excitement"
+    ],
+    "translated_text": "Esse post me deu uma ansiedade absurda até eu ver os pneus traseiros girando de lado, o que foi incrível."
+  },
+  {
+    "id": "edhjjht",
+    "split": "train",
+    "line_idx": 21314,
+    "original_text": "do you think sanders will be back at 100% after a torn achilles?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "você acha que o Sanders volta 100% depois de romper o tendão de Aquiles?"
+  },
+  {
+    "id": "ee2ls6h",
+    "split": "train",
+    "line_idx": 21315,
+    "original_text": "No, I mean actual policies. Not self-described image. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, eu digo políticas reais. Não a imagem que a pessoa vende de si mesma."
+  },
+  {
+    "id": "eeesl4q",
+    "split": "train",
+    "line_idx": 21316,
+    "original_text": "THAT'S WHAT YOU GET WHEN YOU FIND A STRANGER IN THE ALPS",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É ISSO QUE DÁ QUANDO VOCÊ ENCONTRA UM ESTRANHO NOS ALPES"
+  },
+  {
+    "id": "eewhj5b",
+    "split": "train",
+    "line_idx": 21317,
+    "original_text": "No. I want to know why the law applies differently to her and how I can use that to my advantage",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Não. Eu quero saber por que a lei se aplica de um jeito diferente pra ela e como eu posso usar isso a meu favor"
+  },
+  {
+    "id": "ed3cvxm",
+    "split": "train",
+    "line_idx": 21318,
+    "original_text": "I hope they bring him back. Last year was awesome",
+    "emotion_ids": "0,8",
+    "emotions": [
+      "admiration",
+      "desire"
+    ],
+    "translated_text": "Espero que tragam ele de volta. O ano passado foi incrível"
+  },
+  {
+    "id": "eep4lgi",
+    "split": "train",
+    "line_idx": 21319,
+    "original_text": "Saaaaame. There’s too many damn podcasts, and most of them are too damn long.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Nem me fale. Tem podcast pra caramba, e a maioria é longo demais."
+  },
+  {
+    "id": "edj5g8e",
+    "split": "train",
+    "line_idx": 21320,
+    "original_text": "\"It's time to put your mouth where our balls are.\" - [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Tá na hora de botar a boca onde nossas bolas estão.\" - [NAME]"
+  },
+  {
+    "id": "edoc46b",
+    "split": "train",
+    "line_idx": 21321,
+    "original_text": "Tool fan from the U.S. here. Something seems off about this question. Cheers, mate!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Fã de Tool dos EUA aqui. Tem algo estranho nessa pergunta. Valeu, cara!"
+  },
+  {
+    "id": "edjinp3",
+    "split": "train",
+    "line_idx": 21322,
+    "original_text": "That was a great episode",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse episódio foi ótimo"
+  },
+  {
+    "id": "edq7h87",
+    "split": "train",
+    "line_idx": 21323,
+    "original_text": "Ah yes, consent is when they awkwardly laugh off an unsolicited sexual encounter!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ah sim, consentimento é quando elas riem sem jeito de um encontro sexual não solicitado!"
+  },
+  {
+    "id": "ee36fjk",
+    "split": "train",
+    "line_idx": 21324,
+    "original_text": "Did you heretics",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vocês hereges"
+  },
+  {
+    "id": "ef01bg7",
+    "split": "train",
+    "line_idx": 21325,
+    "original_text": "I'd love to have [NAME] on our team....",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu adoraria ter o [NAME] no nosso time...."
+  },
+  {
+    "id": "eez7bex",
+    "split": "train",
+    "line_idx": 21326,
+    "original_text": "[NAME] still the best dev tho. Nice nonsense comparison btw.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "O [NAME] ainda é o melhor dev, viu. Bela comparação sem sentido, aliás."
+  },
+  {
+    "id": "efa0jn3",
+    "split": "train",
+    "line_idx": 21327,
+    "original_text": "She got 3.5 million more votes than [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela teve 3,5 milhões de votos a mais que o [NAME]"
+  },
+  {
+    "id": "eeqmumy",
+    "split": "train",
+    "line_idx": 21328,
+    "original_text": "It depresses me that the Carousel revamp has been a popular answer. Thats not a change, that a sliding scale adjustment.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Me deprime que a reformulação do Carrossel tenha sido uma resposta popular. Isso não é uma mudança, é só um ajuste de escala."
+  },
+  {
+    "id": "eebqcz9",
+    "split": "train",
+    "line_idx": 21329,
+    "original_text": "I still don't get what the joke was supposed to be",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ainda não entendi qual era pra ser a piada"
+  },
+  {
+    "id": "ednqr1y",
+    "split": "train",
+    "line_idx": 21330,
+    "original_text": "[NAME], [NAME] and [NAME] just yelling over each other and [NAME] looking around like what the...?",
+    "emotion_ids": "2,27",
+    "emotions": [
+      "anger",
+      "neutral"
+    ],
+    "translated_text": "[NAME], [NAME] e [NAME] só gritando um por cima do outro e o [NAME] olhando em volta tipo 'que porra é essa?'"
+  },
+  {
+    "id": "ef1zl10",
+    "split": "train",
+    "line_idx": 21331,
+    "original_text": "Oh man first game of the split and I already came in my pants :/ . GG TSM",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nossa, primeiro jogo da split e eu já gozei nas calças :/ . GG TSM"
+  },
+  {
+    "id": "edkkxzs",
+    "split": "train",
+    "line_idx": 21332,
+    "original_text": "If he would have landed that swing, it would have decapitated that guy.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Se ele tivesse acertado aquele golpe, teria decapitado o cara."
+  },
+  {
+    "id": "edo5jcm",
+    "split": "train",
+    "line_idx": 21333,
+    "original_text": "I dunno. I like her.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Sei lá. Eu gosto dela."
+  },
+  {
+    "id": "eermgv4",
+    "split": "train",
+    "line_idx": 21334,
+    "original_text": "Plus the [NAME] force the name Jehovah into the new testament disregarding true greek rendering and claim they are doing a service by remaining *true*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Além disso, as [NAME] forçam o nome Jeová no novo testamento, ignorando a tradução grega real e dizem que estão prestando um serviço ao se manterem *fiéis*"
+  },
+  {
+    "id": "edwlobm",
+    "split": "train",
+    "line_idx": 21335,
+    "original_text": "Real fact, Elephants see us as cute in the same way we see dogs and cats as cute.",
+    "emotion_ids": "0,18,27",
+    "emotions": [
+      "admiration",
+      "love",
+      "neutral"
+    ],
+    "translated_text": "Fato real, elefantes nos veem como fofos do mesmo jeito que a gente vê cachorros e gatos como fofos."
+  },
+  {
+    "id": "ef9w3om",
+    "split": "train",
+    "line_idx": 21336,
+    "original_text": "Shut up cowpoke",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Cala a boca, caipira"
+  },
+  {
+    "id": "ef55x3e",
+    "split": "train",
+    "line_idx": 21337,
+    "original_text": "Started watching when they were up 14, thought there’s no way to be disappointed today.... oh well",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Comecei a assistir quando eles estavam ganhando por 14, pensei que não tinha como me decepcionar hoje.... fazer o quê"
+  },
+  {
+    "id": "eedw529",
+    "split": "train",
+    "line_idx": 21338,
+    "original_text": "break them. join the fight, stop fighting against the fight.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "quebre eles. entre na briga, pare de lutar contra a briga."
+  },
+  {
+    "id": "eeosa5e",
+    "split": "train",
+    "line_idx": 21339,
+    "original_text": "hahaha. best response I've seen in a few days",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "hahaha. melhor resposta que vi nos últimos dias"
+  },
+  {
+    "id": "ee3kuvz",
+    "split": "train",
+    "line_idx": 21340,
+    "original_text": "\"Think about how dumb the average person is; then realize that half of them are dumber than that!\" - [NAME]",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "\"Pense em quão burra é a pessoa média; depois perceba que metade delas é mais burra que isso!\" - [NAME]"
+  },
+  {
+    "id": "eer9sex",
+    "split": "train",
+    "line_idx": 21341,
+    "original_text": "being reminded of that blessed image now makes me hope they won't do the whole no bipod on your back thing rip my homie franku",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "ser lembrado daquela imagem abençoada agora me faz torcer pra que eles não façam aquela coisa de não poder colocar o bipé nas costas, descanse em paz meu mano franku"
+  },
+  {
+    "id": "eezjc5n",
+    "split": "train",
+    "line_idx": 21342,
+    "original_text": "I’m not sure bud. But they do have multiple options. So that might be one of them",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não tenho certeza, cara. Mas eles têm várias opções. Então pode ser uma delas"
+  },
+  {
+    "id": "edxn1r9",
+    "split": "train",
+    "line_idx": 21343,
+    "original_text": "It would be nearly impossible to get to the point of being immobile/bedbound without someone enabling you hand and foot.",
+    "emotion_ids": "10,27",
+    "emotions": [
+      "disapproval",
+      "neutral"
+    ],
+    "translated_text": "Seria quase impossível chegar ao ponto de ficar imóvel/acamado sem alguém te mimando de mão beijada."
+  },
+  {
+    "id": "edckha9",
+    "split": "train",
+    "line_idx": 21344,
+    "original_text": "this was hard to watch but i’d take it over the grungy redhead talking about her full tummy 🤮",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "foi difícil assistir isso, mas prefiro isso do que a ruiva chata falando da barriguinha cheia dela 🤮"
+  },
+  {
+    "id": "eelwltv",
+    "split": "train",
+    "line_idx": 21345,
+    "original_text": "Currently sure, but the idea is to have a group of educated [NAME] ready to steer the inevitable civil unrest that Capitalism will bring, towards Socialism.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "No momento sim, mas a ideia é ter um grupo de [NAME] educados prontos pra direcionar a inevitável agitação civil que o Capitalismo vai trazer, rumo ao Socialismo."
+  },
+  {
+    "id": "ef79d53",
+    "split": "train",
+    "line_idx": 21346,
+    "original_text": "Sorry, but this one is funny. Wake up at 3am jabbing with a needle, patient satisfaction survey, what could possibly go wrong??",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Desculpa, mas essa é engraçada. Acordar às 3 da manhã tomando agulhada, pesquisa de satisfação do paciente, o que poderia dar errado??"
+  },
+  {
+    "id": "edigdus",
+    "split": "train",
+    "line_idx": 21347,
+    "original_text": "Unless you have actual ADHD lol. But I think this was mostly meant to be funny",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "A menos que você tenha TDAH de verdade kkk. Mas acho que isso era pra ser engraçado"
+  },
+  {
+    "id": "ee4djtm",
+    "split": "train",
+    "line_idx": 21348,
+    "original_text": "Eh? You inherited basically the entire language!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Hã? Você herdou basicamente a língua inteira!"
+  },
+  {
+    "id": "eev9a8a",
+    "split": "train",
+    "line_idx": 21349,
+    "original_text": "Scotland the brave. Highland cathedral. My love is like a red red rose. Flower of Scotland.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Scotland the brave. Highland cathedral. My love is like a red red rose. Flower of Scotland."
+  }
+]

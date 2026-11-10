@@ -1,0 +1,614 @@
+[
+  {
+    "id": "edlkasr",
+    "split": "test",
+    "line_idx": 2600,
+    "original_text": "I didn't downvote you but Emirates 1st class suites are ridiculously nice.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eu não te dei downvote, mas as suítes de primeira classe da Emirates são boas para um caralho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eecg2ly",
+    "split": "test",
+    "line_idx": 2601,
+    "original_text": "What a horrible way to find out, though. My sympathies to the dead man.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Mas que jeito horrível de descobrir, cara. Meus pêsames ao falecido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpsd8g",
+    "split": "test",
+    "line_idx": 2602,
+    "original_text": "For me it's New York City FC since it's just a train ride away",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Pra mim é o New York City FC, já que fica a só uma viagem de trem daqui",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1ql4x",
+    "split": "test",
+    "line_idx": 2603,
+    "original_text": "Oh my [NAME] yea!",
+    "emotion_ids": "4,26",
+    "emotions": [
+      "approval",
+      "surprise"
+    ],
+    "translated_text": "Ai, meu [NAME], sim!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbmlb4",
+    "split": "test",
+    "line_idx": 2604,
+    "original_text": "Thank you! I need to practice these things and change the dialogue within my head",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado! Preciso praticar essas coisas e mudar o diálogo dentro da minha cabeça",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepwvdp",
+    "split": "test",
+    "line_idx": 2605,
+    "original_text": "I had forgotten it was coming up until I saw this. That us my level of excitement and anticipation.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu tinha esquecido que estava chegando até ver isso. Esse é o meu nível de empolgação e expectativa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqye33",
+    "split": "test",
+    "line_idx": 2606,
+    "original_text": "I'm [RELIGION] and I'm disgusting lol",
+    "emotion_ids": "1,11",
+    "emotions": [
+      "amusement",
+      "disgust"
+    ],
+    "translated_text": "Eu sou [RELIGION] e sou nojento kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eef32ss",
+    "split": "test",
+    "line_idx": 2607,
+    "original_text": "I barely recognize a picture of current day Pearl Harbor.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu mal reconheço uma foto de Pearl Harbor nos dias de hoje.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efdtsj9",
+    "split": "test",
+    "line_idx": 2608,
+    "original_text": "I hope you are not living in Australia. That heat has been killing Masturbators left and right.",
+    "emotion_ids": "5,27",
+    "emotions": [
+      "caring",
+      "neutral"
+    ],
+    "translated_text": "Espero que você não esteja morando na Austrália. Aquele calor tem matado masturbadores a torto e a direito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eex2imh",
+    "split": "test",
+    "line_idx": 2609,
+    "original_text": "I'm replying just bask in the glow with someone else! Yay!!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tô respondendo só pra curtir a vibe boa junto com mais alguém! Eba!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9npav",
+    "split": "test",
+    "line_idx": 2610,
+    "original_text": "Uh, people kept asking me if I was jailor and I said no, and based on this chat you can also see that jailor is not smart.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Ué, o pessoal ficava me perguntando se eu era o carcereiro e eu disse que não, e com base nesse chat dá pra ver também que o carcereiro não é nada esperto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduohld",
+    "split": "test",
+    "line_idx": 2611,
+    "original_text": "Now this exactly what I came to this sub for",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora sim, é exatamente por isso que eu vim pra esse sub",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edeg1wm",
+    "split": "test",
+    "line_idx": 2612,
+    "original_text": "Does that caption say [NAME] and [NAME] are planning to move to Austin....? Dear [NAME] PLEASE no we already have [NAME]!",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Essa legenda tá dizendo que o [NAME] e o [NAME] tão planejando se mudar pra Austin....? Pelo amor de [NAME], POR FAVOR não, a gente já tem o [NAME]!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9dlxv",
+    "split": "test",
+    "line_idx": 2613,
+    "original_text": "I agree totally. Talk about fucking insanely bizarre. He's stuck in the shining",
+    "emotion_ids": "3,4",
+    "emotions": [
+      "annoyance",
+      "approval"
+    ],
+    "translated_text": "Concordo plenamente. Pensa numa parada bizarra pra caralho. Ele tá preso no O Iluminado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3uxax",
+    "split": "test",
+    "line_idx": 2614,
+    "original_text": "It was received on Jan 25th at 9:22 am .81627 BTC and $3800. for it with a $600. fee. Happy!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Foi recebido em 25 de janeiro às 9:22 da manhã .81627 BTC e . por isso, com uma taxa de . Feliz!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edh7k16",
+    "split": "test",
+    "line_idx": 2615,
+    "original_text": "When I think about [NAME] and [NAME] at the same time I get a fucking aneurysm from the stupidity.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Quando penso no [NAME] e no [NAME] ao mesmo tempo, tenho quase um aneurisma de tanta burrice.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eearepj",
+    "split": "test",
+    "line_idx": 2616,
+    "original_text": "Not needed position? What team have you been watching?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Posição desnecessária? Que time você andou assistindo?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eei6rb7",
+    "split": "test",
+    "line_idx": 2617,
+    "original_text": "Yeah well first god says it’s an abomination. Also if people find out everyone will hate me and my parents will be extremely angry",
+    "emotion_ids": "2,20",
+    "emotions": [
+      "anger",
+      "optimism"
+    ],
+    "translated_text": "É, bem, primeiro que deus diz que é uma abominação. Além disso, se o pessoal descobrir, todo mundo vai me odiar e meus pais vão ficar putos da vida",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efg7xll",
+    "split": "test",
+    "line_idx": 2618,
+    "original_text": "Was going to say, that’s common practice for most women’s health appointments to help deal with relationship abuse.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ia falar isso, é prática padrão na maioria das consultas de saúde da mulher pra ajudar a lidar com abuso no relacionamento.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef98vpk",
+    "split": "test",
+    "line_idx": 2619,
+    "original_text": "Conservatives never believe a word they say. They only believe they do.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Conservadores nunca acreditam em uma palavra do que dizem. Só acham que acreditam.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5weni",
+    "split": "test",
+    "line_idx": 2620,
+    "original_text": "Lol the outbreak is gone but I'm still stubborn. With this conversation I'll make my effort to come back as soon as I'm ready.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Kkk o surto passou, mas eu continuo teimoso. Com essa conversa, vou me esforçar pra voltar assim que estiver pronto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeetipo",
+    "split": "test",
+    "line_idx": 2621,
+    "original_text": "Good meme, but unfortunately the pic is fake. ",
+    "emotion_ids": "0,9",
+    "emotions": [
+      "admiration",
+      "disappointment"
+    ],
+    "translated_text": "Meme bom, mas infelizmente a foto é fake.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eff070q",
+    "split": "test",
+    "line_idx": 2622,
+    "original_text": "OP, u/christiangreyisdraco and u/lurkerturndcommenter, thank you for trying to make the point about focus. I appreciate your many attempts!",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "OP, u/christiangreyisdraco e u/lurkerturndcommenter, obrigado por tentarem falar sobre ter foco. Agradeço pelas várias tentativas!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7lqu4",
+    "split": "test",
+    "line_idx": 2623,
+    "original_text": "Ded game we should be happy we have a new hero",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Jogo morto devíamos estar felizes por termos um novo herói",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejd7kz",
+    "split": "test",
+    "line_idx": 2624,
+    "original_text": "Are you okay?",
+    "emotion_ids": "5,7",
+    "emotions": [
+      "caring",
+      "curiosity"
+    ],
+    "translated_text": "Você tá bem?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5kemm",
+    "split": "test",
+    "line_idx": 2625,
+    "original_text": "[NAME] bless them and their racist logo",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "[NAME] abençoe eles e aquele logo racista",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeub2eq",
+    "split": "test",
+    "line_idx": 2626,
+    "original_text": "[NAME] doesn't believe in tipping.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] não acredita em dar gorjeta.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe3xec",
+    "split": "test",
+    "line_idx": 2627,
+    "original_text": "I'm shocked! Shocked! Well, not that shocked.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Tô chocado! Chocado! Bom, nem tão chocado assim.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ederqwi",
+    "split": "test",
+    "line_idx": 2628,
+    "original_text": "Because it was a common age for women to be engaged and married at that time.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Porque era uma idade comum pras mulheres ficarem noivas e se casarem naquela época.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3ypm8",
+    "split": "test",
+    "line_idx": 2629,
+    "original_text": "Great post. ( you are learning to let it go)",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ótimo post. (você tá aprendendo a desencanar)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5yesg",
+    "split": "test",
+    "line_idx": 2630,
+    "original_text": "We’ve bombed plenty of innocent people. How is it any different?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "A gente já bombardeou um monte de inocentes. Qual é a diferença?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgqcan",
+    "split": "test",
+    "line_idx": 2631,
+    "original_text": "Yeah! Despite being from the east coast I've never been in the car when it's hailing so it was a full on argument. Thank you!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Pois é! Apesar de ser da costa leste, eu nunca estive num carro enquanto caía granizo, então virou uma discussão daquelas. Valeu!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efal2t2",
+    "split": "test",
+    "line_idx": 2632,
+    "original_text": "Well I WISH SOMEONE WOULD'VE TOLD ME THAT",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Pois é, BEM QUE ALGUÉM PODERIA TER ME DITO ISSO",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerrwej",
+    "split": "test",
+    "line_idx": 2633,
+    "original_text": "You have no regard for due process or the law if you're suggesting [NAME] be charged with evidence tampering because there is nothing to back up that claim.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não tem nenhum respeito pelo devido processo legal se tá sugerindo que [NAME] seja acusado de adulteração de provas, porque não tem nada que sustente essa alegação.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edp4rjj",
+    "split": "test",
+    "line_idx": 2634,
+    "original_text": "Ironically every /pol/ meetup is more diverse than the people pushing diversity and race mixing. Weird how that works huh",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Ironicamente, todo encontro do /pol/ é mais diverso do que as pessoas que ficam pregando diversidade e miscigenação. Bizarro como isso funciona, né",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerrvod",
+    "split": "test",
+    "line_idx": 2635,
+    "original_text": "Did you noticed they removed my post? Yep.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você reparou que apagaram meu post? Pois é.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeyutke",
+    "split": "test",
+    "line_idx": 2636,
+    "original_text": "No you don't. The average opinion of ISIS for example is way below zero.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, você não odeia. A opinião média sobre o ISIS, por exemplo, tá muito abaixo de zero.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmwpv0",
+    "split": "test",
+    "line_idx": 2637,
+    "original_text": "good luck, little 3 year old",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "boa sorte, garotinho de 3 anos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee637s8",
+    "split": "test",
+    "line_idx": 2638,
+    "original_text": "\"I love animals but I hate PETA.\" - [NAME] ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "\"Eu amo animais, mas odeio o PETA.\" - [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee10x5m",
+    "split": "test",
+    "line_idx": 2639,
+    "original_text": "Not pay for the child he helped create? Wow... great advice.",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Não pagar pela criança que ele ajudou a colocar no mundo? Nossa... ótimo conselho.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeamnxd",
+    "split": "test",
+    "line_idx": 2640,
+    "original_text": "her in the causing a commotion lsfyl is one of the best lip-sync performances in s8 change my mind",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "ela na lsfyl de causing a commotion é uma das melhores performances de dublagem da oitava temporada mude minha opinião",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8j5p0",
+    "split": "test",
+    "line_idx": 2641,
+    "original_text": "This is not unique to [RELIGION]. There are various sects and denominations in every world religion.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso não é exclusividade do [RELIGION]. Existem várias seitas e denominações em todas as religiões do mundo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgkopa",
+    "split": "test",
+    "line_idx": 2642,
+    "original_text": "can't remember much of what happens. All I do remember is I was miserable. Good performances, but it was a bit dour for my taste.",
+    "emotion_ids": "0,10",
+    "emotions": [
+      "admiration",
+      "disapproval"
+    ],
+    "translated_text": "não lembro de quase nada do que acontece. Só me lembro que foi uma bosta. Boas atuações, mas foi meio sombrio pro meu gosto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee7yn1n",
+    "split": "test",
+    "line_idx": 2643,
+    "original_text": "Hruska is amazing. Their sausage kolaches or I guess klobasnik have the best sausage I’ve ever eaten. It’s in Elliger, TX.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Hruska é sensacional. Os kolaches de linguiça deles, ou acho que klobasnik, têm a melhor linguiça que já comi. Fica em Ellinger, TX.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed45xrw",
+    "split": "test",
+    "line_idx": 2644,
+    "original_text": "I equally love and despise them when they talk about a player diving as \"flopping\"",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu fico entre amar e odiar quando eles chamam simulação de falta de \"flopping\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtqkxu",
+    "split": "test",
+    "line_idx": 2645,
+    "original_text": "Can't look at batting average. [NAME] 90 wRC+ in 3799 PA [NAME] 92 wRC+ in 4917 PA",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não dá pra olhar só média de rebatidas. [NAME] 90 wRC+ em 3799 PA [NAME] 92 wRC+ em 4917 PA",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebnuu6",
+    "split": "test",
+    "line_idx": 2646,
+    "original_text": "Right. All a delusion in order to control people.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Exato. Tudo ilusão pra poder controlar as pessoas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edx4kn2",
+    "split": "test",
+    "line_idx": 2647,
+    "original_text": "When my Dad ([NAME] all the way) is Tsar of the Earth I'll have him make doxxing a crime with mandatory sentencing to terrible things.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando meu pai ([NAME] com certeza) for o Czar da Terra, vou fazer ele transformar doxxing em crime com pena obrigatória de coisas terríveis.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee613rq",
+    "split": "test",
+    "line_idx": 2648,
+    "original_text": "Waiting until Saturday or you test the method on someone sick.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esperando até sábado ou você testar o método em alguém doente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edp8l3q",
+    "split": "test",
+    "line_idx": 2649,
+    "original_text": "Worst bit is that it keeps snowballing, and growing and suddenly it this mess you can't make sense out of or clear up",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A pior parte é que isso vai virando uma bola de neve, vai crescendo e de repente vira essa bagunça que você não consegue nem entender nem resolver",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

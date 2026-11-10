@@ -1,0 +1,561 @@
+[
+  {
+    "id": "ee687me",
+    "split": "train",
+    "line_idx": 21950,
+    "original_text": "Piss off a small percentage to gain an even larger one? That's hardly unheard of. The amount of publicity alone for this is astounding.",
+    "emotion_ids": "0,3",
+    "emotions": [
+      "admiration",
+      "annoyance"
+    ],
+    "translated_text": "Irritar uma pequena porcentagem pra ganhar uma ainda maior? Isso nem é novidade. Só a publicidade que isso gerou já é impressionante."
+  },
+  {
+    "id": "ee2g0p3",
+    "split": "train",
+    "line_idx": 21951,
+    "original_text": "your mom is safe when she bangs me she makes me wear a condom so she doesn't get preggers",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "sua mãe tá segura quando ela transa comigo, ela me faz usar camisinha pra não ficar prenha"
+  },
+  {
+    "id": "ee3qlnw",
+    "split": "train",
+    "line_idx": 21952,
+    "original_text": "I hope your life is as lovely as you are",
+    "emotion_ids": "5,20",
+    "emotions": [
+      "caring",
+      "optimism"
+    ],
+    "translated_text": "Espero que sua vida seja tão adorável quanto você"
+  },
+  {
+    "id": "edpb1ly",
+    "split": "train",
+    "line_idx": 21953,
+    "original_text": "It’s so sad that i can play all these Zelda games on my 3DS but not my Switch. I have like 12 Zelda games on my 3DS",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "É tão triste que eu consigo jogar todos esses jogos de Zelda no meu 3DS, mas não no meu Switch. Eu tenho uns 12 jogos de Zelda no meu 3DS"
+  },
+  {
+    "id": "efgzytj",
+    "split": "train",
+    "line_idx": 21954,
+    "original_text": "Feels good to be a Nets fan right now",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Bom demais ser torcedor dos Nets agora"
+  },
+  {
+    "id": "ef9lo1h",
+    "split": "train",
+    "line_idx": 21955,
+    "original_text": "But it'll hurt",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Mas vai doer"
+  },
+  {
+    "id": "eeob4e0",
+    "split": "train",
+    "line_idx": 21956,
+    "original_text": "Yeah and I love my dog and I'd miss my dad.",
+    "emotion_ids": "18,25",
+    "emotions": [
+      "love",
+      "sadness"
+    ],
+    "translated_text": "É, e eu amo meu cachorro e sentiria falta do meu pai."
+  },
+  {
+    "id": "eeynelg",
+    "split": "train",
+    "line_idx": 21957,
+    "original_text": ">Poly people look at the numbers and just see lots of opportunities ;) I like how that's put",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": ">Pessoas poliamorosas olham pros números e só veem um monte de oportunidades ;) Gostei de como isso foi colocado"
+  },
+  {
+    "id": "ee8z5c1",
+    "split": "train",
+    "line_idx": 21958,
+    "original_text": "The thing is you dont have to do cardio to stay in shape... its all about his diet.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O lance é que você não precisa fazer cardio pra ficar em forma... é tudo por causa da dieta dele."
+  },
+  {
+    "id": "eedohoa",
+    "split": "train",
+    "line_idx": 21959,
+    "original_text": "*shooting stars plays*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "*toca shooting stars*"
+  },
+  {
+    "id": "eeyjsd2",
+    "split": "train",
+    "line_idx": 21960,
+    "original_text": "Wouldn't it just be enough to be really interesting is to go through the arguments. However, I would guess this is the most symmetric of these.",
+    "emotion_ids": "7,20",
+    "emotions": [
+      "curiosity",
+      "optimism"
+    ],
+    "translated_text": "Não seria suficiente só ser bem interessante passar pelos argumentos. Porém, eu chutaria que esse é o mais simétrico de todos."
+  },
+  {
+    "id": "ed9ip09",
+    "split": "train",
+    "line_idx": 21961,
+    "original_text": "I know this is a joke but people on this sub actually think this way lol.",
+    "emotion_ids": "1,17",
+    "emotions": [
+      "amusement",
+      "joy"
+    ],
+    "translated_text": "Eu sei que isso é uma piada, mas tem gente nesse sub que realmente pensa assim kkk."
+  },
+  {
+    "id": "edq7zx4",
+    "split": "train",
+    "line_idx": 21962,
+    "original_text": "This sounds like borderline mental health issues. Scary.",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Isso soa como um problema de saúde mental limítrofe. Assustador."
+  },
+  {
+    "id": "eekqzol",
+    "split": "train",
+    "line_idx": 21963,
+    "original_text": "Way to cherry pick. Remember that time that [NAME] person got lit up for like, 9 goals against or something? Man, that guy sure sucked.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Que jeito bom de escolher a dedo. Lembra daquela vez que aquele [NAME] tomou tipo, 9 gols ou algo assim? Cara, aquele maluco era muito ruim."
+  },
+  {
+    "id": "eeoy0zk",
+    "split": "train",
+    "line_idx": 21964,
+    "original_text": "volunteer as tribute first, we need an example that we can follow :)",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "se voluntarie como tributo primeiro, precisamos de um exemplo pra seguir :)"
+  },
+  {
+    "id": "ef3t7eu",
+    "split": "train",
+    "line_idx": 21965,
+    "original_text": "Man I hate that [NAME] guy.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Cara, eu odeio aquele [NAME]."
+  },
+  {
+    "id": "ed3w0ka",
+    "split": "train",
+    "line_idx": 21966,
+    "original_text": "You aren’t mentioning the specific position and the industry. Not even in what country you are located. How can anyone offer advice?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você não tá mencionando o cargo específico nem o setor. Nem em que país você tá. Como alguém pode oferecer conselho?"
+  },
+  {
+    "id": "edjvrbq",
+    "split": "train",
+    "line_idx": 21967,
+    "original_text": "Shouldn't have insulted chungus like that, if I see you in the fog you gon get facecamped",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Não devia ter insultado o chungus desse jeito, se eu te vir no nevoeiro você vai ser facecampado"
+  },
+  {
+    "id": "edr3jdl",
+    "split": "train",
+    "line_idx": 21968,
+    "original_text": "You okay?",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Você tá bem?"
+  },
+  {
+    "id": "eeh1tdq",
+    "split": "train",
+    "line_idx": 21969,
+    "original_text": "It's all good. [NAME] was at my door 5 minutes later, and amazingly, didn't drive away between me seeing him, and walking downstairs. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tá tudo bem. O [NAME] tava na minha porta 5 minutos depois e, surpreendentemente, não foi embora entre eu ver ele e descer as escadas."
+  },
+  {
+    "id": "ee5zfme",
+    "split": "train",
+    "line_idx": 21970,
+    "original_text": "This!!! This!!! Is the definition of a choosy beggar. You give a hand and they want your arm.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso!!! Isso!!! É a definição de um pedinte exigente. Você dá a mão e eles querem o braço."
+  },
+  {
+    "id": "ee7hl37",
+    "split": "train",
+    "line_idx": 21971,
+    "original_text": "You're getting downvoted because every one of your comments is condescending af",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você tá levando downvote porque cada um dos seus comentários é super condescendente"
+  },
+  {
+    "id": "edk4b3v",
+    "split": "train",
+    "line_idx": 21972,
+    "original_text": "No, and I think someone would have to do some serious mental gymnastics to convince themselves it is. It'd be taking advantage of an incapacitated person.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, e eu acho que alguém teria que fazer uma ginástica mental muito doida pra se convencer de que é. Seria tirar vantagem de uma pessoa incapacitada."
+  },
+  {
+    "id": "eenoj34",
+    "split": "train",
+    "line_idx": 21973,
+    "original_text": "-no scary creatures trying to kill you- Ha! You haven't heard of Rhode Islanders yet! /s",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "-sem criaturas assustadoras tentando te matar- Ha! Você ainda não ouviu falar dos habitantes de Rhode Island! /s"
+  },
+  {
+    "id": "ef3hp2s",
+    "split": "train",
+    "line_idx": 21974,
+    "original_text": "Just a reminder that back in 1918, the Republicans were still the liberal party, and the [NAME] were the racists. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só um lembrete de que lá em 1918, os Republicanos ainda eram o partido liberal, e os [NAME] eram os racistas."
+  },
+  {
+    "id": "ef551t9",
+    "split": "train",
+    "line_idx": 21975,
+    "original_text": "Whoops, I'm* dying. But I wish, they make so much money. ",
+    "emotion_ids": "8,25",
+    "emotions": [
+      "desire",
+      "sadness"
+    ],
+    "translated_text": "Opa, eu tô* morrendo. Mas quem dera, eles ganham tanto dinheiro."
+  },
+  {
+    "id": "edl8lq5",
+    "split": "train",
+    "line_idx": 21976,
+    "original_text": "The left side attack of [NAME] [NAME] was woeful",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "O ataque pelo lado esquerdo do [NAME] [NAME] foi lamentável"
+  },
+  {
+    "id": "eew140v",
+    "split": "train",
+    "line_idx": 21977,
+    "original_text": "welcome to the soulless corporate concrete block. nothing but holy money matters. worship it. kill the children",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "bem-vindo ao bloco de concreto corporativo sem alma. nada importa além do dinheiro sagrado. adore-o. mate as crianças"
+  },
+  {
+    "id": "efg8y9g",
+    "split": "train",
+    "line_idx": 21978,
+    "original_text": "“I wish there was a way to know you're in the good old days before you've actually left them.”",
+    "emotion_ids": "8,27",
+    "emotions": [
+      "desire",
+      "neutral"
+    ],
+    "translated_text": "“Eu queria que tivesse um jeito de saber que você está nos bons velhos tempos antes de realmente sair deles.”"
+  },
+  {
+    "id": "edbpk9y",
+    "split": "train",
+    "line_idx": 21979,
+    "original_text": "Perfect World was my first mmorpg that I played for years. Super fond memories of the game.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Perfect World foi meu primeiro MMORPG que joguei por anos. Memórias super carinhosas do jogo."
+  },
+  {
+    "id": "ed80qoc",
+    "split": "train",
+    "line_idx": 21980,
+    "original_text": "That sub sounds boring as fuck.",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Esse sub parece chato pra caralho."
+  },
+  {
+    "id": "ed74qwz",
+    "split": "train",
+    "line_idx": 21981,
+    "original_text": "Yay the same out of touch old people cycling thru the same positions. I can't wait to see the changes they bring/s.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Eba, as mesmas pessoas velhas e desconectadas da realidade rodando nos mesmos cargos. Mal posso esperar pra ver as mudanças que eles vão trazer/s."
+  },
+  {
+    "id": "edxzy41",
+    "split": "train",
+    "line_idx": 21982,
+    "original_text": "You're right to be nervous. That happened near my college's campus when I was a student. She lost everything in her wallet.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Você tá certa em ficar nervosa. Isso aconteceu perto do campus da minha faculdade quando eu era estudante. Ela perdeu tudo o que tinha na carteira."
+  },
+  {
+    "id": "ed5l9j8",
+    "split": "train",
+    "line_idx": 21983,
+    "original_text": "There is a difference between attacking someone, because they say they don't like someone else and attacking someone, because they kill people.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Existe uma diferença entre atacar alguém porque eles dizem que não gostam de outra pessoa e atacar alguém porque eles matam pessoas."
+  },
+  {
+    "id": "edotrhv",
+    "split": "train",
+    "line_idx": 21984,
+    "original_text": "Same. But the 21 point lead drew me in.......who knew you can lose by double digits leading by that much.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Idem. Mas a liderança de 21 pontos me atraiu.......quem diria que dá pra perder por dois dígitos liderando por tanto."
+  },
+  {
+    "id": "ef5g42t",
+    "split": "train",
+    "line_idx": 21985,
+    "original_text": "The bourgeoisie elected courts were going to backtrack on all [NAME] economic reforms. Fuck those guys.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Os tribunais eleitos pela burguesia iam retroceder em todas as reformas econômicas do [NAME]. Foda-se esses caras."
+  },
+  {
+    "id": "ee7rdru",
+    "split": "train",
+    "line_idx": 21986,
+    "original_text": "As much as he's a bit of a nutter, he does keep his word as far as I can tell.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por mais que ele seja um pouco maluco, ele cumpre a palavra dele até onde eu sei."
+  },
+  {
+    "id": "ef8656a",
+    "split": "train",
+    "line_idx": 21987,
+    "original_text": "I know. I get that a lot.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu sei. Ouço muito isso."
+  },
+  {
+    "id": "edowerg",
+    "split": "train",
+    "line_idx": 21988,
+    "original_text": "Tbf any ult works well with grav",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pra ser justo, qualquer ult funciona bem com a grav"
+  },
+  {
+    "id": "eenu3u5",
+    "split": "train",
+    "line_idx": 21989,
+    "original_text": "I’ll take “things that didn’t happen” for $800, [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vou querer “coisas que nunca aconteceram” por 800 dólares, [NAME]."
+  },
+  {
+    "id": "ed7gdg3",
+    "split": "train",
+    "line_idx": 21990,
+    "original_text": "Living up to his last name.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Fazendo jus ao sobrenome."
+  },
+  {
+    "id": "ed8q7ii",
+    "split": "train",
+    "line_idx": 21991,
+    "original_text": "nah. YOU will get it when you're about 20 years older.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "nah. VOCÊ vai entender quando tiver uns 20 anos a mais."
+  },
+  {
+    "id": "eex1mhj",
+    "split": "train",
+    "line_idx": 21992,
+    "original_text": "Yea ok.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É, tá bom."
+  },
+  {
+    "id": "ees911b",
+    "split": "train",
+    "line_idx": 21993,
+    "original_text": "You should have noped out of the whole thing the moment the racist with a racist character came into the picture.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você deveria ter caído fora de tudo isso no momento em que o racista com um personagem racista entrou na história."
+  },
+  {
+    "id": "edvw6qg",
+    "split": "train",
+    "line_idx": 21994,
+    "original_text": "[NAME] is an inside player",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] é um jogador de garrafão"
+  },
+  {
+    "id": "edkvhif",
+    "split": "train",
+    "line_idx": 21995,
+    "original_text": "I love when it drops, and the beat just stops. Feels like the musical equivalent to a cliffhanger ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo quando a música cai e a batida simplesmente para. Parece o equivalente musical a um gancho de final de episódio"
+  },
+  {
+    "id": "eddomwt",
+    "split": "train",
+    "line_idx": 21996,
+    "original_text": "Is there proof this happened or is it just her accusation? I'm asking because we already know she's a liar.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tem prova de que isso aconteceu ou é só a acusação dela? Tô perguntando porque a gente já sabe que ela é mentirosa."
+  },
+  {
+    "id": "eeve6v8",
+    "split": "train",
+    "line_idx": 21997,
+    "original_text": "Proud of my Senator today",
+    "emotion_ids": "21",
+    "emotions": [
+      "pride"
+    ],
+    "translated_text": "Orgulhoso do meu Senador hoje"
+  },
+  {
+    "id": "eeveap6",
+    "split": "train",
+    "line_idx": 21998,
+    "original_text": "It's a time thing and also I don't want to get pricked. They are covered in those tiny, tiny spines. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É uma questão de tempo e também eu não quero me espetar. Eles são cobertos por aqueles espinhos minúsculos."
+  },
+  {
+    "id": "eeg9le5",
+    "split": "train",
+    "line_idx": 21999,
+    "original_text": "FUCKING YES BEST PLAYER ON THE PITCH TODAY ABSOLUTE WARRIOR BOW DOWN TO THE BALON DOR WINNER TRULY WORTHY",
+    "emotion_ids": "0,21",
+    "emotions": [
+      "admiration",
+      "pride"
+    ],
+    "translated_text": "PUTA QUE PARIU SIM, O MELHOR JOGADOR EM CAMPO HOJE, UM GUERREIRO ABSOLUTO, AJOELHEM-SE PARA O VENCEDOR DA BOLA DE OURO, REALMENTE MERECEDOR"
+  }
+]

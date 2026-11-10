@@ -1,0 +1,610 @@
+[
+  {
+    "id": "eeqstqg",
+    "split": "dev",
+    "line_idx": 1650,
+    "original_text": "Having grown up at that dog park, it's definitely crowded more or less at all hours. Lots of retired folks in that area. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como eu cresci naquele cachorródromo, é meio que sempre lotado a qualquer hora. Muito aposentado mora por ali.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed82v4u",
+    "split": "dev",
+    "line_idx": 1651,
+    "original_text": "> modern art Modern art lasted from 1860 at the earliest to 1970 at the latest. Thanks for your art critique though, it was very informative.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "> arte moderna A arte moderna durou de 1860, no mínimo, até 1970, no máximo. Mas valeu pela sua crítica de arte, foi bem informativa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed834et",
+    "split": "dev",
+    "line_idx": 1652,
+    "original_text": "It's satirical but also almost truth. We're the fattest nation in Western Europe and that percentage is growing.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É satírico, mas é quase verdade. A gente é o país mais gordo da Europa Ocidental e essa porcentagem só tá subindo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edezzy4",
+    "split": "dev",
+    "line_idx": 1653,
+    "original_text": "yes, agreed. ",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "sim, concordo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeglmin",
+    "split": "dev",
+    "line_idx": 1654,
+    "original_text": "Okay, so the wording didn't matter because she was already too into you. Still nice, thanks. ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Beleza, então como você falou nem importava porque ela já tava a fim demais de você. Mas legal mesmo assim, valeu.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeakpqf",
+    "split": "dev",
+    "line_idx": 1655,
+    "original_text": "I find that fascinating considering that racism and sexism so often intersect.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Acho isso fascinante, considerando que racismo e machismo se cruzam com tanta frequência.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehi89m",
+    "split": "dev",
+    "line_idx": 1656,
+    "original_text": "Fucking parking in the middle of the street through the entire strip of Allegheny",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Estacionando no meio da porra da rua por toda a extensão de Allegheny",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0sksb",
+    "split": "dev",
+    "line_idx": 1657,
+    "original_text": "They brown as they get older clear means nice and fresh",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Eles vão escurecendo conforme envelhecem, transparente significa que tá bem fresquinho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eehynad",
+    "split": "dev",
+    "line_idx": 1658,
+    "original_text": "This is the best Cowboy Story Arch.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse é o melhor arco de história de caubói.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0wceb",
+    "split": "dev",
+    "line_idx": 1659,
+    "original_text": "I just watched the video and I don’t think that was his sister.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Acabei de ver o vídeo e não acho que aquela era a irmã dele não.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlp66i",
+    "split": "dev",
+    "line_idx": 1660,
+    "original_text": "Yes, but shockingly that was the first post of hers I’ve read in years that didn’t make me want to claw my eyes out. ",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Sim, mas incrivelmente esse foi o primeiro post dela que leio em anos que não me deu vontade de arrancar meus olhos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efaq5nr",
+    "split": "dev",
+    "line_idx": 1661,
+    "original_text": "You’ve got to be shitting me?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cê tá de sacanagem comigo?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8qh9o",
+    "split": "dev",
+    "line_idx": 1662,
+    "original_text": "Anyone else think this is a little wholesome? I mean he’s really getting to his limit for this chick it seems.",
+    "emotion_ids": "4,7",
+    "emotions": [
+      "approval",
+      "curiosity"
+    ],
+    "translated_text": "Mais alguém acha isso meio fofo? Digo, parece que ele tá realmente chegando ao limite dele por essa mina.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelii1f",
+    "split": "dev",
+    "line_idx": 1663,
+    "original_text": "The biggest issues are in suburban districts. They could probably leave most urban and rural districts alone.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Os maiores problemas tão nos distritos suburbanos. Eles provavelmente poderiam deixar a maioria dos distritos urbanos e rurais em paz.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5kjzk",
+    "split": "dev",
+    "line_idx": 1664,
+    "original_text": "This is awesome. What are your profits like?",
+    "emotion_ids": "0,7",
+    "emotions": [
+      "admiration",
+      "curiosity"
+    ],
+    "translated_text": "Isso é muito foda. Como tão os seus lucros?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed6wlf",
+    "split": "dev",
+    "line_idx": 1665,
+    "original_text": "If they lightbulb doesn’t change then it’s racist, sexist, Nazi scum. Am democrat just playing along. ",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Se a lâmpada não trocar, então ela é escória racista, machista e nazista. Sou democrata só entrando na onda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed011w9",
+    "split": "dev",
+    "line_idx": 1666,
+    "original_text": "So shocking a couple in their 20s in counseling isn’t going to work out.",
+    "emotion_ids": "10,26",
+    "emotions": [
+      "disapproval",
+      "surprise"
+    ],
+    "translated_text": "Nossa, que choque um casal na faixa dos 20 anos fazendo terapia não dar certo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edw05rs",
+    "split": "dev",
+    "line_idx": 1667,
+    "original_text": "It's so really sad how praising the Creator ([NAME]) has become something associated with terrorism... Astaghfirullah.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "É muito triste ver como louvar o Criador ([NAME]) se tornou algo associado ao terrorismo... Astaghfirullah.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eff5prh",
+    "split": "dev",
+    "line_idx": 1668,
+    "original_text": "I can't really provide anything to you that you haven't already deliberately misread yourself. I can't force you to be honest.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Eu não tenho mais nada pra te apresentar que você já não tenha interpretado mal de propósito. Não tenho como te obrigar a ser honesto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebrb4u",
+    "split": "dev",
+    "line_idx": 1669,
+    "original_text": "Nothing has come close to it well except for GOT.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nada chegou perto disso, bom, com exceção de GOT.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9mo6o",
+    "split": "dev",
+    "line_idx": 1670,
+    "original_text": "You keep turning it into all or nothing lol I said *less* bookshelves will be made if *more* bookshelves are reused",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Você continua transformando isso em oito ou oitenta kkk eu disse que *menos* estantes de livros vão ser feitas se *mais* estantes forem reutilizadas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "effgib5",
+    "split": "dev",
+    "line_idx": 1671,
+    "original_text": "So if the 4 wheels are locked I guess",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Então é se as 4 rodas tiverem travadas, eu acho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed031mb",
+    "split": "dev",
+    "line_idx": 1672,
+    "original_text": "agreed, I am in a suburb, a HOA.....I love it here.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "concordo, moro no subúrbio, num condomínio fechado.....eu adoro morar aqui.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwlgq2",
+    "split": "dev",
+    "line_idx": 1673,
+    "original_text": "[NAME] gives me the weirdest boner. I love these guys",
+    "emotion_ids": "0,4,18",
+    "emotions": [
+      "admiration",
+      "approval",
+      "love"
+    ],
+    "translated_text": "[NAME] me dá uma ereção bizarra demais. Amo esses caras",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eervv5z",
+    "split": "dev",
+    "line_idx": 1674,
+    "original_text": "I honestly really think tumblr should’ve gotten rid of everything but legal porn",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Sinceramente, eu acho mesmo que o Tumblr devia ter apagado tudo, menos a pornografia legal",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efb5f02",
+    "split": "dev",
+    "line_idx": 1675,
+    "original_text": "I really love this suggestion. Thank you!",
+    "emotion_ids": "15,18",
+    "emotions": [
+      "gratitude",
+      "love"
+    ],
+    "translated_text": "Eu amei muito essa sugestão. Valeu!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekm522",
+    "split": "dev",
+    "line_idx": 1676,
+    "original_text": "Wait. That’s illegal.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Pera. Isso é ilegal.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed814iq",
+    "split": "dev",
+    "line_idx": 1677,
+    "original_text": "Fighting childhood obesity, one babysitter at a pretty pointlessly narrow definition of harassment that includes criticism.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Combatendo a obesidade infantil, uma babá por uma definição tão inutilmente restrita de assédio que inclui críticas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edz501j",
+    "split": "dev",
+    "line_idx": 1678,
+    "original_text": "Honestly I realized they’re not really gatekeeping, but [NAME] last comment shows the gatekeeping",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Na moral, eu percebi que eles não tão fazendo gatekeeping de verdade, mas o último comentário de [NAME] mostra o gatekeeping",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eei82lj",
+    "split": "dev",
+    "line_idx": 1679,
+    "original_text": "Anyone know the [NAME] choke move from Mortal Kombat X? My dude here just demonstrated it perfectly in real life.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém conhece o estrangulamento do [NAME] no Mortal Kombat X? Meu parceiro aqui acabou de demonstrar com perfeição na vida real.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2b17j",
+    "split": "dev",
+    "line_idx": 1680,
+    "original_text": "You're taking her scale way too literally.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você tá levando a escala dela ao pé da letra demais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed33qer",
+    "split": "dev",
+    "line_idx": 1681,
+    "original_text": "Did they name Gen X after all the porn they consume?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Deram o nome de Geração X por causa de todo o pornô que eles consomem?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeij0ow",
+    "split": "dev",
+    "line_idx": 1682,
+    "original_text": "I mean, you can definitely beat someone up passionately.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quer dizer, com certeza dá pra encher alguém de porrada com paixão.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezheaq",
+    "split": "dev",
+    "line_idx": 1683,
+    "original_text": "Great analogy:)",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ótima analogia:)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9vu9e",
+    "split": "dev",
+    "line_idx": 1684,
+    "original_text": "Got a nice hairdoodoo",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Cabelinho ficou uma bosta hein",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edm6mqc",
+    "split": "dev",
+    "line_idx": 1685,
+    "original_text": "Hope so, got them at +1200 just after they beat Duke.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que sim, peguei eles a +1200 logo depois que venceram Duke.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9sv72",
+    "split": "dev",
+    "line_idx": 1686,
+    "original_text": "Don’t worry, [NAME] already added it to his collection.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Relaxa, o [NAME] já adicionou na coleção dele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edanypn",
+    "split": "dev",
+    "line_idx": 1687,
+    "original_text": "I do: PUT SOME CLOTHES ON",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu ligo: VAI BOTAR UMA ROUPA",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef323il",
+    "split": "dev",
+    "line_idx": 1688,
+    "original_text": "Well, when you look back in the history many hypes say a lot about humanity in general. That doesn't mean every person enjoyed the thing.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bom, quando você olha pra trás na história, muitos hypes dizem muito sobre a humanidade em geral. Isso não quer dizer que todo mundo curtia a parada.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfl6v2",
+    "split": "dev",
+    "line_idx": 1689,
+    "original_text": "You drive from Burlington to London to school???",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você vai dirigindo de Burlington pra London pra estudar???",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9lkp7",
+    "split": "dev",
+    "line_idx": 1690,
+    "original_text": "I would rather this crappy meme die.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu preferia que esse meme bosta morresse.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrvsjg",
+    "split": "dev",
+    "line_idx": 1691,
+    "original_text": "Reminds me of the Shell Gas Station Lego set my grandfather got me as a kid. 10/10 would build again",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Lembra o set de Lego do posto da Shell que meu avô me deu quando eu era criança. 10/10 montaria de novo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efapxnd",
+    "split": "dev",
+    "line_idx": 1692,
+    "original_text": "This movie, though simple but effective, shows how it is being jammed in your face is because it was just one police officer, chill.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse filme, embora simples mas eficaz, mostra como isso tá sendo esfregado na sua cara só porque era um policial apenas, relaxa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesfauf",
+    "split": "dev",
+    "line_idx": 1693,
+    "original_text": "That's clearly a clickbait title. Chances are it didn't actually happen.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Isso claramente é título caça-clique. É bem provável que nem tenha acontecido de verdade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbgv4m",
+    "split": "dev",
+    "line_idx": 1694,
+    "original_text": "As someone named [NAME], I welcome him to Dallas Gang",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Como alguém chamado [NAME], dou as boas-vindas a ele pra Gangue de Dallas",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbxkfx",
+    "split": "dev",
+    "line_idx": 1695,
+    "original_text": "How are they significant? Israel does these exercises all the time?",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Como que isso é relevante? Israel faz esses exercícios o tempo todo?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcbftr",
+    "split": "dev",
+    "line_idx": 1696,
+    "original_text": "@ the corner in Litchfield is really good and it’s in a picturesque area on the Litchfield green",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "@ the corner em Litchfield é muito bom e fica numa área pitoresca no gramado central de Litchfield",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edsxrva",
+    "split": "dev",
+    "line_idx": 1697,
+    "original_text": "\"I CAN CLEAN MY OWN VAGINA NOW!\" Kills me every time. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "\"EU JÁ CONSIGO LAVAR MINHA PRÓPRIA VAGINA AGORA!\" Eu me acabo de rir toda vez.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edyq8np",
+    "split": "dev",
+    "line_idx": 1698,
+    "original_text": "You deserve it <3",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Você merece <3",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edv3j6s",
+    "split": "dev",
+    "line_idx": 1699,
+    "original_text": "Cheese cave time",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Hora da caverna de queijo",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

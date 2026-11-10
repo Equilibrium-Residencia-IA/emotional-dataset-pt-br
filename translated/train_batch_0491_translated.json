@@ -1,0 +1,609 @@
+[
+  {
+    "id": "eeu3j2k",
+    "split": "train",
+    "line_idx": 24550,
+    "original_text": "I hope she figures out he isn’t before anything happens. The entitlement herre is just over the roof",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tomara que ela perceba que ele não é antes que algo aconteça. O senso de direito aqui tá nas alturas",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edxso3y",
+    "split": "train",
+    "line_idx": 24551,
+    "original_text": "Beautiful yet sad that his relationship ended in ‘45 the same way most of mine do...with cheating",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Bonito, mas triste que o relacionamento dele acabou em '45 do mesmo jeito que a maioria dos meus... com traição",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edb93xt",
+    "split": "train",
+    "line_idx": 24552,
+    "original_text": "At least my suffering is over.",
+    "emotion_ids": "23",
+    "emotions": [
+      "relief"
+    ],
+    "translated_text": "Pelo menos meu sofrimento acabou.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edcobri",
+    "split": "train",
+    "line_idx": 24553,
+    "original_text": "It was the worst cinemax porn I've ever seen.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Foi o pior pornô de cinemax que eu já vi.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eda19fj",
+    "split": "train",
+    "line_idx": 24554,
+    "original_text": "The ideal is not to have hope but to act like you do. But if you must chose, pick the former.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O ideal não é ter esperança, mas agir como se tivesse. Mas se precisar escolher, pega o primeiro.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edzsedj",
+    "split": "train",
+    "line_idx": 24555,
+    "original_text": "Yep, it was faked. Too bad, too",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "É, era tudo fake. Que pena, também.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee39naw",
+    "split": "train",
+    "line_idx": 24556,
+    "original_text": "Love the place but be ready to wait. They really do take the time to make sure you look good and fresh.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Amo o lugar, mas se prepara pra esperar. Eles realmente levam o tempo pra garantir que você fique bem e fresco.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed7ymsa",
+    "split": "train",
+    "line_idx": 24557,
+    "original_text": "I'm 50% convinced this is [NAME] posting and I'm here for it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tô 50% convencido que esse post é do [NAME] e tô curtindo",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edeu62i",
+    "split": "train",
+    "line_idx": 24558,
+    "original_text": "[NAME] fucking dammit",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "[NAME] caralho, porra",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef3v6nl",
+    "split": "train",
+    "line_idx": 24559,
+    "original_text": "Wow dude get a life and stop digging through my comments trying to pick a fight like a belligerent moron.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Cara, arruma uma vida e para de fuçar nos meus comentários tentando arrumar briga como um idiota beligerante.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edcc3yp",
+    "split": "train",
+    "line_idx": 24560,
+    "original_text": "I'm appalled that your roommate straight up destroyed perfectly good leftovers that way",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Fico revoltado que seu colega de quarto simplesmente destruiu as sobras perfeitamente boas assim",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee7enmo",
+    "split": "train",
+    "line_idx": 24561,
+    "original_text": "Studid fuckin idiot",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "Estúpido idiota da porra",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edws2oq",
+    "split": "train",
+    "line_idx": 24562,
+    "original_text": "This is a guide to all major religions and their stance on vaccines.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Este é um guia de todas as principais religiões e suas posições sobre vacinas.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edr8tj5",
+    "split": "train",
+    "line_idx": 24563,
+    "original_text": "Pareto principle, 20% of the work done gets you 80% results.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Princípio de Pareto, 20% do trabalho feito te dá 80% dos resultados.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee1rluu",
+    "split": "train",
+    "line_idx": 24564,
+    "original_text": "Given [NAME] viability prior to the 2016 election, I think the viability bar is set pretty damn low.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Dada a viabilidade do [NAME] antes da eleição de 2016, acho que a barra de viabilidade tá bem baixa.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee0dfv3",
+    "split": "train",
+    "line_idx": 24565,
+    "original_text": "doesn't the fact that it was used for general studies prove my point :) (and i think we're around the same age)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "não é o fato de que foi usado pra estudos gerais que prova meu ponto :) (e acho que temos idade parecida)",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4bo42",
+    "split": "train",
+    "line_idx": 24566,
+    "original_text": "Well, it's you on mobile)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Bem, é você no celular)",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeem57v",
+    "split": "train",
+    "line_idx": 24567,
+    "original_text": "Yikes, what a loony bird.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eita, que figuraça de doido.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eejv6lo",
+    "split": "train",
+    "line_idx": 24568,
+    "original_text": "Thanks a [NAME]",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, [NAME]",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edsvmnx",
+    "split": "train",
+    "line_idx": 24569,
+    "original_text": "Because its the internet and people are bored. Its not kids, its full grown adults and you know it. Unbunch your panties.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Porque é a internet e a galera tá entediada. Não são crianças, são adultos de verdade e você sabe disso. Desamarra essas calcinhas.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef1r19n",
+    "split": "train",
+    "line_idx": 24570,
+    "original_text": "There was a time I said the same thing about Zucker. Hope there's something to that.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Já teve um tempo que eu falei a mesma coisa sobre o Zucker. Espero que tenha algo nisso.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef5gvv2",
+    "split": "train",
+    "line_idx": 24571,
+    "original_text": "Uh huh.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Uh huh.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ees8ez3",
+    "split": "train",
+    "line_idx": 24572,
+    "original_text": "Not surprising since about 85% of all dating relationships end in a break up.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Não surpreende, já que cerca de 85% de todos os relacionamentos acabam em separação.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed3fatr",
+    "split": "train",
+    "line_idx": 24573,
+    "original_text": "Did either of those places declare independence out of the blue? No.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Algum desses lugares declarou independência do nada? Não.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef1bn2g",
+    "split": "train",
+    "line_idx": 24574,
+    "original_text": "Having fewer friends means having deeper friendships in many cases. I can tell when someone isn't my real friend.",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Ter menos amigos costuma significar amizades mais profundas. Eu consigo perceber quando alguém não é meu amigo de verdade.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed8wz7u",
+    "split": "train",
+    "line_idx": 24575,
+    "original_text": "What a sheltered life you have lived.",
+    "emotion_ids": "0,4",
+    "emotions": [
+      "admiration",
+      "approval"
+    ],
+    "translated_text": "Que vida protegida você levou.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed0zidk",
+    "split": "train",
+    "line_idx": 24576,
+    "original_text": "Here we go. What’s wrong with them.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Lá vamos nós. O que há de errado com eles?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed2ai56",
+    "split": "train",
+    "line_idx": 24577,
+    "original_text": "I think I will try to push through, I guess I can always drop a class or two if it’s too much and even take a break ",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Acho que vou tentar seguir, dá pra largar uma ou duas matérias se ficar demais e até dar um tempo",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed4udgs",
+    "split": "train",
+    "line_idx": 24578,
+    "original_text": "Not funny....",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não é engraçado....",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edqy1eu",
+    "split": "train",
+    "line_idx": 24579,
+    "original_text": "I dropped him around week 6 and let somebody else deal with that headache",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Desisti dele na semana 6 e deixei outra pessoa lidar com essa dor de cabeça",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edoarq1",
+    "split": "train",
+    "line_idx": 24580,
+    "original_text": "You spend $175 a month for three people?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você gasta $175 por mês pra três pessoas?",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef93umj",
+    "split": "train",
+    "line_idx": 24581,
+    "original_text": "Ik was more curious with our communities opinion",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Eu tava mais curioso com a opinião da nossa comunidade",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edneqjv",
+    "split": "train",
+    "line_idx": 24582,
+    "original_text": "Super [NAME] told me [NAME] was crap though and that [NAME] was far better :(",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Super [NAME] me disse que o [NAME] era lixo, mas que o [NAME] era muito melhor :(",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edrui0z",
+    "split": "train",
+    "line_idx": 24583,
+    "original_text": "Once you pop, you can’t stop Wait a minute...",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Uma vez que você começa, não consegue parar. Espera aí...",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edoxllx",
+    "split": "train",
+    "line_idx": 24584,
+    "original_text": "Furry btw so why don’t you take yourself also",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Sou furry, então por que você não se inclui também",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed9twjx",
+    "split": "train",
+    "line_idx": 24585,
+    "original_text": "It's a grey area, my grand dad on my mum's side is a devout [NAME] and he listens to music and performed when he was younger. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É uma zona cinzenta, meu avô materno é devoto de [NAME] e ele ouve música e se apresentava quando era mais novo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efc2ynw",
+    "split": "train",
+    "line_idx": 24586,
+    "original_text": "Well one would believe they have learned their lesson regarding nuclear",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Bem, alguém poderia acreditar que aprenderam a lição sobre nuclear",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eeosooe",
+    "split": "train",
+    "line_idx": 24587,
+    "original_text": "I think this is my favourite story of the year so far.",
+    "emotion_ids": "17,18",
+    "emotions": [
+      "joy",
+      "love"
+    ],
+    "translated_text": "Acho que essa é minha história favorita do ano até agora.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "eewaqo7",
+    "split": "train",
+    "line_idx": 24588,
+    "original_text": "Let's watch impractical jokers!",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Vamos assistir Impractical Jokers!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edxzcn4",
+    "split": "train",
+    "line_idx": 24589,
+    "original_text": "VUC YOU IDIOT!!!!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "VUC SEU IDIOTA!!!!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ee96mg2",
+    "split": "train",
+    "line_idx": 24590,
+    "original_text": "This is why bars should have poly nights. It would be nice to be in a room of like minded people, maybe they will talk to me.",
+    "emotion_ids": "8,20",
+    "emotions": [
+      "desire",
+      "optimism"
+    ],
+    "translated_text": "É por isso que bares deveriam ter noites poliamorosas. Seria legal estar numa sala de gente parecida, talvez conversem comigo.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ed9ivy2",
+    "split": "train",
+    "line_idx": 24591,
+    "original_text": "Dude I love these",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Cara, adoro esses",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efbs62f",
+    "split": "train",
+    "line_idx": 24592,
+    "original_text": "These are permanent!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esses são permanentes!",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edqajgu",
+    "split": "train",
+    "line_idx": 24593,
+    "original_text": "Go out of your way to listen to the opening segment of [NAME] show today. Epic rant on [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se esforce pra ouvir o segmento de abertura do programa do [NAME] hoje. Rant épico sobre o [NAME].",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef2oxto",
+    "split": "train",
+    "line_idx": 24594,
+    "original_text": "I’m positive he’s going to leave her",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Tenho certeza de que ele vai deixá-la",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "edydufx",
+    "split": "train",
+    "line_idx": 24595,
+    "original_text": "maybe they are even going places together ;)",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "talvez eles até estejam indo a lugares juntos ;)",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efcvvi0",
+    "split": "train",
+    "line_idx": 24596,
+    "original_text": "Another italian word could be added to that brexit context. Comedia dell arte.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Outra palavra italiana poderia ser adicionada a esse contexto do brexit. Comédia dell'arte.",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef8mjd1",
+    "split": "train",
+    "line_idx": 24597,
+    "original_text": "It reminded him too much of being in bed with [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso o lembrou demais de estar na cama com o [NAME]",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "efe62jl",
+    "split": "train",
+    "line_idx": 24598,
+    "original_text": "not at all lol. me and my friends are makeout sluts though",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "de jeito nenhum lol. eu e meus amigos somos vadios de beijo",
+    "translator": "openai/gpt-oss-120b"
+  },
+  {
+    "id": "ef7dtcw",
+    "split": "train",
+    "line_idx": 24599,
+    "original_text": "I hope [NAME] bullies wittle baby [NAME] tonight, like he did last year!",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Espero que o [NAME] intimide o bebê [NAME] hoje à noite, como fez no ano passado!",
+    "translator": "openai/gpt-oss-120b"
+  }
+]

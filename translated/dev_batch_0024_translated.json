@@ -1,0 +1,608 @@
+[
+  {
+    "id": "edclpyo",
+    "split": "dev",
+    "line_idx": 900,
+    "original_text": "[NAME] I love college football just because of these wild plays where coaches and players go all out to win it",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "[NAME] eu amo futebol americano universitário só por causa dessas jogadas insanas em que os técnicos e jogadores dão a vida pra vencer",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee2yge0",
+    "split": "dev",
+    "line_idx": 901,
+    "original_text": "When you call someone trash and he easily beats you, what does that make you? lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Quando você chama alguém de lixo e a pessoa te vence fácil, o que você é então? kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edl3zmp",
+    "split": "dev",
+    "line_idx": 902,
+    "original_text": "Oh I love me some winter depression",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Ah, nada como uma boa depressão de inverno",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef2qz12",
+    "split": "dev",
+    "line_idx": 903,
+    "original_text": "If it was communism, the poor lad would be killed",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Se fosse comunismo, o coitado do rapaz seria morto",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8bgoj",
+    "split": "dev",
+    "line_idx": 904,
+    "original_text": "I love how this is transgender men not just men 👌",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Achei massa que são homens trans, e não só homens 👌",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edapnr6",
+    "split": "dev",
+    "line_idx": 905,
+    "original_text": "Nobody ask me about the day I've had.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Ninguém me pergunte sobre o dia que eu tive.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eearqdt",
+    "split": "dev",
+    "line_idx": 906,
+    "original_text": "Just googled him. Only thing is how do I get in contact with him.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Acabei de dar um Google nele. A única questão é como entro em contato com ele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee631oa",
+    "split": "dev",
+    "line_idx": 907,
+    "original_text": "Niemi locked in holy fuck.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Niemi tá com o foco absurdo, puta que pariu.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeackn1",
+    "split": "dev",
+    "line_idx": 908,
+    "original_text": "Oh ok, thanks for that. Didn’t know.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ah beleza, obrigado pelo aviso. Não sabia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edjaucb",
+    "split": "dev",
+    "line_idx": 909,
+    "original_text": "Truly a sad day when you can get fired just for having a *heated gaming moment*. We really do live in a society.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "É realmente um dia triste quando você pode ser demitido só por ter um *momento exaltado de gamer*. Vivemos mesmo numa sociedade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxczlu",
+    "split": "dev",
+    "line_idx": 910,
+    "original_text": "Women should be able to make their own decisions about their bodies. They are conscious when their fetuses are not. Their priorities matter more in these situations.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "As mulheres deveriam poder tomar as próprias decisões sobre seus corpos. Elas são conscientes, enquanto os fetos não são. As prioridades delas importam mais nessas situações.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4fyo8",
+    "split": "dev",
+    "line_idx": 911,
+    "original_text": "The obsession with a plot.",
+    "emotion_ids": "17,27",
+    "emotions": [
+      "joy",
+      "neutral"
+    ],
+    "translated_text": "Essa obsessão por roteiro.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edatc4w",
+    "split": "dev",
+    "line_idx": 912,
+    "original_text": "I'll kill you if you do that again, *honey*",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Eu te mato se você fizer isso de novo, *querido*",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eddjzwg",
+    "split": "dev",
+    "line_idx": 913,
+    "original_text": "I guess \"hungasfuck\" or whatever is not doing gif recipe vids anymore lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Acho que o \"hungasfuck\" ou seja lá o que for não faz mais vídeos de receitas em gif kkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelkuym",
+    "split": "dev",
+    "line_idx": 914,
+    "original_text": "Too funny 😂😂😂😂",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Engraçado demais 😂😂😂😂",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezhxif",
+    "split": "dev",
+    "line_idx": 915,
+    "original_text": "His laptop lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "O notebook dele kkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edtewt2",
+    "split": "dev",
+    "line_idx": 916,
+    "original_text": "This is a great segment.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse quadro é muito bom.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ediqc48",
+    "split": "dev",
+    "line_idx": 917,
+    "original_text": "That’s exactly how my fanfiction goes",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É exatamente assim que rola na minha fanfic",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed976uz",
+    "split": "dev",
+    "line_idx": 918,
+    "original_text": "Give the mouse a chance!.leave the cat to it.",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Dá uma chance pro rato!.deixa o gato se virar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevf72s",
+    "split": "dev",
+    "line_idx": 919,
+    "original_text": "He still has less health than [NAME] despite being slower and bigger and literally revolving around trading.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele ainda tem menos vida que o [NAME], mesmo sendo mais lento, maior e literalmente focado em trocação de dano.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlr7tj",
+    "split": "dev",
+    "line_idx": 920,
+    "original_text": "Well regardless if I don't completely agree with your weights and measures of people. Thanks your input",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Bom, independentemente de eu não concordar totalmente com a sua régua pra julgar as pessoas. Valeu pela contribuição",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4batk",
+    "split": "dev",
+    "line_idx": 921,
+    "original_text": "SHE AIN'T NO DEMON!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "ELA NÃO É NENHUM DEMÔNIO!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5xfyq",
+    "split": "dev",
+    "line_idx": 922,
+    "original_text": "Just out of curiosity, what happened with the big dog?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Só por curiosidade, o que rolou com o cachorro grande?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1uam2",
+    "split": "dev",
+    "line_idx": 923,
+    "original_text": "No not funny just sad",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Não, nada engraçado, só triste",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efc0sd8",
+    "split": "dev",
+    "line_idx": 924,
+    "original_text": "[NAME] country is this entire world. I hate that saying.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "A terra do [NAME] é o mundo inteiro. Odeio esse ditado.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq6hyt",
+    "split": "dev",
+    "line_idx": 925,
+    "original_text": "That seems stupid.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Isso parece uma idiotice.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpy58u",
+    "split": "dev",
+    "line_idx": 926,
+    "original_text": "[NAME] expunged my paraphernalia without consent and I called the **LAW TIGERS** to sue him for damages.",
+    "emotion_ids": "2,3",
+    "emotions": [
+      "anger",
+      "annoyance"
+    ],
+    "translated_text": "O [NAME] confiscou os meus apetrechos sem consentimento e eu liguei pros **LAW TIGERS** pra processar ele por perdas e danos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edktuml",
+    "split": "dev",
+    "line_idx": 927,
+    "original_text": "I’m slowly starting to get excited about what we will do with the draft pick(s?) they will most likely get in a trade",
+    "emotion_ids": "7,13",
+    "emotions": [
+      "curiosity",
+      "excitement"
+    ],
+    "translated_text": "Tô começando aos poucos a me empolgar com o que vamos fazer com a(s?) escolha(s?) de draft que muito provavelmente vão conseguir numa troca",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edox495",
+    "split": "dev",
+    "line_idx": 928,
+    "original_text": "\"This confession means nothing\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Essa confissão não significa nada\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepwwkl",
+    "split": "dev",
+    "line_idx": 929,
+    "original_text": "This is a very offseason thing to say",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Coisa muito típica de se falar na pré-temporada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi7mux",
+    "split": "dev",
+    "line_idx": 930,
+    "original_text": "wrong its because they know this is an orchestrated hit to stop [NAME] run what a joke",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "errado é porque eles sabem que isso é um golpe orquestrado pra frear a corrida do [NAME] que palhaçada",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeri25k",
+    "split": "dev",
+    "line_idx": 931,
+    "original_text": "Try harder next time <3",
+    "emotion_ids": "0,5",
+    "emotions": [
+      "admiration",
+      "caring"
+    ],
+    "translated_text": "Tenta se esforçar mais da próxima vez <3",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5un57",
+    "split": "dev",
+    "line_idx": 932,
+    "original_text": "I still gotta watch the last one. ☹",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Ainda tenho que assistir ao último. ☹",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezmwt2",
+    "split": "dev",
+    "line_idx": 933,
+    "original_text": "Great Scientists can keep you competitive even if you didn't get too much harassed in the early game.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Cientistas Ilustres conseguem te manter competitivo mesmo se você não tiver tomado muita pressão no início de jogo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eecrwg5",
+    "split": "dev",
+    "line_idx": 934,
+    "original_text": "\"I'm a lady! I do ladies things!\" He's a real life [NAME]!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"Eu sou uma lady! Eu faço coisas de moça!\" Ele é o próprio [NAME] na vida real!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee34myh",
+    "split": "dev",
+    "line_idx": 935,
+    "original_text": "This could be valid. Remember that [NAME] was basically non-existent for the first 4 or so episodes of S9",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pode ser verdade. Lembra que o [NAME] praticamente nem apareceu nos primeiros 4 episódios mais ou menos da T9",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduvc9t",
+    "split": "dev",
+    "line_idx": 936,
+    "original_text": "You Dirty F*king Heathen.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Seu Herege Fdp Imundo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed91eua",
+    "split": "dev",
+    "line_idx": 937,
+    "original_text": "Long Furbies are beautiful",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Furbies compridos são lindos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzl3ki",
+    "split": "dev",
+    "line_idx": 938,
+    "original_text": "Nope! It doesn't matter how stupid you were being.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Não mesmo! Não importa a idiotice que você tava fazendo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4d3fb",
+    "split": "dev",
+    "line_idx": 939,
+    "original_text": "OK. You’re not distinguishing yourself from an anti-theist. >[RELIGION] [NAME] I said ‘a god’.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Beleza. Você não tá se diferenciando em nada de um antiteísta. >[RELIGION] [NAME] Eu falei 'um deus'.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed8snbd",
+    "split": "dev",
+    "line_idx": 940,
+    "original_text": "We've actually got scientists working on that. If you're 23 right now and healthy, you've got a fairly good chance of not dying.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A gente já tem cientistas trabalhando nisso. Se você tem 23 anos agora e é saudável, tem uma chance bem boa de não morrer.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7jtlf",
+    "split": "dev",
+    "line_idx": 941,
+    "original_text": "Please never let this die.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Por favor, nunca deixem isso morrer.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef0zlqa",
+    "split": "dev",
+    "line_idx": 942,
+    "original_text": "I don't think that makes you seem as cool as you think it does",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Acho que isso não te deixa tão descolado quanto você pensa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegbwra",
+    "split": "dev",
+    "line_idx": 943,
+    "original_text": "Don't be afraid to put yourself out",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não tenha medo de se expor",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9ijgv",
+    "split": "dev",
+    "line_idx": 944,
+    "original_text": "Didn't even think of that ><",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nem cheguei a pensar nisso ><",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0plux",
+    "split": "dev",
+    "line_idx": 945,
+    "original_text": "YEAH! How dare he ask if you were feeling ok!!!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "SIM! Como ele ousa perguntar se você tava se sentindo bem!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edd2jzb",
+    "split": "dev",
+    "line_idx": 946,
+    "original_text": "I mean.....they both seem true to me.......",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Quer dizer.....ambos me parecem verdade.......",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edepukh",
+    "split": "dev",
+    "line_idx": 947,
+    "original_text": "I hope you meant stay strong, we are here for you. Me too.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que você tenha querido dizer força aí, estamos aqui por você. Eu também tô.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eee5bwg",
+    "split": "dev",
+    "line_idx": 948,
+    "original_text": "Thanks for the info and the welcome! Blue and Orange forever!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pelas informações e pelas boas-vindas! Azul e Laranja pra sempre!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef2bugr",
+    "split": "dev",
+    "line_idx": 949,
+    "original_text": "You can’t give me a ticket you didn’t give that women a ticket for the same thing.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você não pode me multar, você não multou aquela mulher pela mesmíssima coisa.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

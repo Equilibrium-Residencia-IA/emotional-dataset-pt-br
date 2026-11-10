@@ -1,0 +1,611 @@
+[
+  {
+    "id": "edx9el4",
+    "split": "test",
+    "line_idx": 100,
+    "original_text": "Wouldn't wipe my arse with it.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Não limparia nem a bunda com isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7nqh3",
+    "split": "test",
+    "line_idx": 101,
+    "original_text": "Not sure how anyone whos been paying attention could",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Não sei como alguém que tá prestando atenção conseguiria",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczpg76",
+    "split": "test",
+    "line_idx": 102,
+    "original_text": "😂😂😂😂😂😂😂😂😂😂😂😂😂 you got the wrong [NAME] —",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "😂😂😂😂😂😂😂😂😂😂😂😂😂 você pegou o [NAME] errado —",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepd52b",
+    "split": "test",
+    "line_idx": 103,
+    "original_text": "Lovely places to buy from but very hard to get a good price as a seller because of their high rents (and bargaining expertise!)",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Lugares ótimos pra comprar, mas bem difícil conseguir um preço bom como vendedor por causa do aluguel alto deles (e da lábia pra pechinchar!)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eesstwu",
+    "split": "test",
+    "line_idx": 104,
+    "original_text": "That's too many pills",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "É muito remédio",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpnfan",
+    "split": "test",
+    "line_idx": 105,
+    "original_text": "it is actually called a mechanical bull",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "na real se chama touro mecânico",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed7101k",
+    "split": "test",
+    "line_idx": 106,
+    "original_text": "No point in getting rid of Keemun for another Keemun.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não faz sentido trocar um Keemun por outro Keemun.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edydipg",
+    "split": "test",
+    "line_idx": 107,
+    "original_text": "Based on what I've seen, all the INFJ girls seem to be blue-haired damaged moonquacks that got abandoned by daddy.",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Pelo que eu vi, todas as garotas INFJ parecem ser umas doidinhas birutas de cabelo azul que foram abandonadas pelo pai.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edfa1xi",
+    "split": "test",
+    "line_idx": 108,
+    "original_text": "Talk about an oldddd school shit coin.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Fala sério, uma shitcoin das antttiigas.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef034gw",
+    "split": "test",
+    "line_idx": 109,
+    "original_text": "You could still pay them... Just saying.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você ainda podia pagar eles... Só dizendo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhi0is",
+    "split": "test",
+    "line_idx": 110,
+    "original_text": "I'm on board the Saints hype train. [NAME] is an amazing QB.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tô no hype dos Saints. O [NAME] é um baita QB.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edcbf6y",
+    "split": "test",
+    "line_idx": 111,
+    "original_text": "TFW a sorceror cuts you root and stem and you hear someone's voice in flames as your junk burns.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aquele momento em que um feiticeiro te arranca tudo pela raiz e você ouve uma voz em chamas enquanto suas partes íntimas queimam.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9g2pm",
+    "split": "test",
+    "line_idx": 112,
+    "original_text": "All the ladies can stay at my place.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "A mulherada toda pode ficar lá em casa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgzi2r",
+    "split": "test",
+    "line_idx": 113,
+    "original_text": "My girl has slowly been getting more and more into different [NAME] music, but she will always make it a point to play this track. I love it",
+    "emotion_ids": "17,18",
+    "emotions": [
+      "joy",
+      "love"
+    ],
+    "translated_text": "Minha mina aos poucos tá curtindo cada vez mais músicas diferentes do [NAME], mas ela sempre faz questão de tocar essa faixa. Eu me amarro",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemvyc7",
+    "split": "test",
+    "line_idx": 114,
+    "original_text": "No no she was \"[NAME]\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não não, ela era \"[NAME]\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhyt2k",
+    "split": "test",
+    "line_idx": 115,
+    "original_text": "You have a nice bro.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Seu irmão é gente fina.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edw8ngq",
+    "split": "test",
+    "line_idx": 116,
+    "original_text": "[NAME] ruled out due to injury. [NAME] starts. [NAME] to bench. Doubtful of a win now.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] fora por lesão. [NAME] começa como titular. [NAME] pro banco. Duvido que ganhe agora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednv08m",
+    "split": "test",
+    "line_idx": 117,
+    "original_text": "I would hope the guy is genuine and honest, but in my circumstances, there's not much closure. ",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Eu espero que o cara seja sincero e honesto, mas na minha situação, não tem muito como virar a página.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8zi31",
+    "split": "test",
+    "line_idx": 118,
+    "original_text": "Hi, [NAME]! I thought I would stop by and wish you a wonderful and prosperous year! Have a good one! -HappyFriendlyBot",
+    "emotion_ids": "5,18,20",
+    "emotions": [
+      "caring",
+      "love",
+      "optimism"
+    ],
+    "translated_text": "Oi, [NAME]! Pensei em dar uma passada aqui e te desejar um ano maravilhoso e próspero! Tudo de bom! -HappyFriendlyBot",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edj2w4y",
+    "split": "test",
+    "line_idx": 119,
+    "original_text": "Ghost them. It’ll drive them crazy and give you the satisfaction",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dá um vácuo neles. Vai deixar eles malucos e vai te dar uma baita satisfação",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edz6ueh",
+    "split": "test",
+    "line_idx": 120,
+    "original_text": "Wow, an [NAME] sighting",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Nossa, um [NAME] avistado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edgh3zs",
+    "split": "test",
+    "line_idx": 121,
+    "original_text": "get the packages sent to your work or a relatives or trusted friends home nearby ???? parcel locker ??",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "manda entregar as encomendas no seu trabalho ou na casa de algum parente ou amigo de confiança por perto ???? armário inteligente ??",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eel4gs7",
+    "split": "test",
+    "line_idx": 122,
+    "original_text": "i love how the caption implies that the only unrealistic thing/ the only thing that gives away the photoshop is the sleeve lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "eu amo como a legenda dá a entender que a única coisa irreal / a única coisa que entrega o photoshop é a manga kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeshw8b",
+    "split": "test",
+    "line_idx": 123,
+    "original_text": "I agree with the concealer part for the cut crease but that's it.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu concordo com a parte do corretivo pro cut crease, mas só isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3yh0x",
+    "split": "test",
+    "line_idx": 124,
+    "original_text": "Ha. Do you have evidence of his cheating? Send it to his family and don’t say another word.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Haha. Você tem provas da traição dele? Manda pra família dele e não fala mais um pio.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee6yip2",
+    "split": "test",
+    "line_idx": 125,
+    "original_text": "When I die Im gonna ask satan for a job in hell whipping all these cunts",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Quando eu morrer vou pedir um trampo pro diabo no inferno pra chicotear esses arrombados todos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef83od5",
+    "split": "test",
+    "line_idx": 126,
+    "original_text": "[NAME] stopped napping at 18 months. We’ve been implementing quiet time since. It’s wondrous.",
+    "emotion_ids": "0,26",
+    "emotions": [
+      "admiration",
+      "surprise"
+    ],
+    "translated_text": "[NAME] parou de tirar soneca com 18 meses. A gente tem implementado a hora do silêncio desde então. É uma maravilha.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqrehq",
+    "split": "test",
+    "line_idx": 127,
+    "original_text": "I don’t think that would be an issue with [NAME]. He doesn’t seem like work ethic is his problem",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu acho que isso não seria um problema pro [NAME]. Não parece que a ética de trabalho seja o problema dele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eey7nln",
+    "split": "test",
+    "line_idx": 128,
+    "original_text": "> one of the better diss tracks out there Lol okay",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "> uma das melhores diss tracks por aí\nKkkk tá bom",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edafb8b",
+    "split": "test",
+    "line_idx": 129,
+    "original_text": "It depends on who you ask. i didnt downvote you, im answering now",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Depende de quem você perguntar. eu não te dei downvote, tô respondendo agora",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmv56b",
+    "split": "test",
+    "line_idx": 130,
+    "original_text": "Do you have the link to that ? I would love to hear the story from him",
+    "emotion_ids": "7,8",
+    "emotions": [
+      "curiosity",
+      "desire"
+    ],
+    "translated_text": "Você tem o link disso? Ia adorar ouvir essa história dele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8yo65",
+    "split": "test",
+    "line_idx": 131,
+    "original_text": "What happened to one of your star players?? i saw the headline 'freak injury' or someting like that.. but i was too scared to see someting gruesome..",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O que aconteceu com um dos seus jogadores estrela?? eu vi a manchete 'lesão bizarra' ou algo do tipo.. mas fiquei com medo de ver algo bizarro..",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edec3p2",
+    "split": "test",
+    "line_idx": 132,
+    "original_text": "Or finishing in 91 minutes and sitting there for another half hour, bursting for a piss",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "Ou terminar em 91 minutos e ficar sentado lá por mais meia hora, se mijando de vontade de ir ao banheiro",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee72nwi",
+    "split": "test",
+    "line_idx": 133,
+    "original_text": "I've found that carrying 21 chromosome's is the sweet spot",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Descobri que ter 21 cromossomos é o ponto ideal",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeaneup",
+    "split": "test",
+    "line_idx": 134,
+    "original_text": "Hope gallery for sure, had [NAME] do mine and a good friend back in 2015. Not sure if he’s still there, however.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Hope gallery com certeza, fiz a minha com o [NAME] e um grande amigo meu também lá em 2015. Só não sei se ele ainda tá por lá, no entanto.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlh3uc",
+    "split": "test",
+    "line_idx": 135,
+    "original_text": "men who drink almond milk regularly have more ejaculate fluid and experience multiple orgasms.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "homens que bebem leite de amêndoas regularmente têm mais volume de ejaculação e chegam a múltiplos orgasmos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4bex7",
+    "split": "test",
+    "line_idx": 136,
+    "original_text": "Wow that’s scary, she’s so young and healthy. I hate that. ",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "Nossa, que medo, ela é tão jovem e saudável. Odeio isso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerxgyw",
+    "split": "test",
+    "line_idx": 137,
+    "original_text": "The worst bbq in Texas Edit: Some of you are getting seriously r/wooooshed It's their slogan.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "O pior churrasco do Texas Edit: Alguns de vocês levaram um belo dum r/woooosh É o slogan deles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efegrrd",
+    "split": "test",
+    "line_idx": 138,
+    "original_text": "How dare you! Don’t you know seatbelts cause autism!",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Como você tem coragem! Você não sabe que cinto de segurança causa autismo!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edarr34",
+    "split": "test",
+    "line_idx": 139,
+    "original_text": "I just need a quiet place to hide.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu só preciso de um lugar sossegado pra me esconder.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eedca2p",
+    "split": "test",
+    "line_idx": 140,
+    "original_text": "i think people are just getting more and more fed up with playing against him",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "acho que o pessoal tá ficando de saco cheio de jogar contra ele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edoylkl",
+    "split": "test",
+    "line_idx": 141,
+    "original_text": "Only bet on games you like. Sometimes go a couple days without action. Betting just for the sake of staking something is never smart.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Só aposta em jogo que você curte. Às vezes fica um par de dias sem apostar nada. Apostar só por apostar nunca é uma boa ideia.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edt4eie",
+    "split": "test",
+    "line_idx": 142,
+    "original_text": "Life Hack Attack has become Attack Everyone's Life and Hack. I love it.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Life Hack Attack virou Attack Everyone's Life and Hack. Adorei.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edzabio",
+    "split": "test",
+    "line_idx": 143,
+    "original_text": "Ok, fair enough. From your original post, it wasn't really clear that you looked at sources other than YouTube.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Beleza, justo. Pelo seu post original, não ficou muito claro se você olhou outras fontes além do YouTube.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4wohn",
+    "split": "test",
+    "line_idx": 144,
+    "original_text": "Exactly, but I guess I've gotten used to people forgetting the club exists haha",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Exatamente, mas acho que já me acostumei com as pessoas esquecendo que o clube existe haha",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3er1y",
+    "split": "test",
+    "line_idx": 145,
+    "original_text": "This sounds an awful lot like khorne......",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Isso tá com uma cara danada de khorne......",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8f04x",
+    "split": "test",
+    "line_idx": 146,
+    "original_text": "I’m glad you had a great time here! Wishing you safe travels!",
+    "emotion_ids": "17,20",
+    "emotions": [
+      "joy",
+      "optimism"
+    ],
+    "translated_text": "Fico feliz que você tenha aproveitado bastante aqui! Boa viagem de volta!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3az8l",
+    "split": "test",
+    "line_idx": 147,
+    "original_text": "Did they really have overhead projectors in the late 00s/early 10s? If so, how underfunded was your school?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles realmente usavam retroprojetor no final dos anos 2000 / começo dos anos 2010? Se sim, quão sucateada era a sua escola?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efdvxbg",
+    "split": "test",
+    "line_idx": 148,
+    "original_text": "Just rumors online, it most likely won't happen",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Só boatos na internet, muito provavelmente não vai rolar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeylnbj",
+    "split": "test",
+    "line_idx": 149,
+    "original_text": "Don't say \"no comment\". Say \"I would like to talk with an attorney before talking with you.\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não diga \"sem comentários\". Diga \"eu gostaria de falar com um advogado antes de falar com você\".",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

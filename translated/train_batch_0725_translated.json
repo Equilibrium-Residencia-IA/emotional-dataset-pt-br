@@ -1,0 +1,609 @@
+[
+  {
+    "id": "ee8hc91",
+    "split": "train",
+    "line_idx": 36250,
+    "original_text": "`YOU WILL DIE IN 5 SECONDS`",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "`VOCÊ VAI MORRER EM 5 SEGUNDOS`",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eempsc8",
+    "split": "train",
+    "line_idx": 36251,
+    "original_text": "One period? Damn you think it would last that long",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Um período? Caralho, você acha que duraria tanto assim",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqx6yi",
+    "split": "train",
+    "line_idx": 36252,
+    "original_text": "This is the worst Hellraiser reboot script I've read this month, and let me tell you, I've read a lot of them.",
+    "emotion_ids": "11,27",
+    "emotions": [
+      "disgust",
+      "neutral"
+    ],
+    "translated_text": "Esse é o pior roteiro de reboot de Hellraiser que eu li este mês, e olhe que eu li vários.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ediqgts",
+    "split": "train",
+    "line_idx": 36253,
+    "original_text": "Pre 1980 AC/DC is [NAME].",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "AC/DC antes de 1980 é brabo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed035o9",
+    "split": "train",
+    "line_idx": 36254,
+    "original_text": "Dont worry. I'll help you.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Não se preocupa. Eu te ajudo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efai71n",
+    "split": "train",
+    "line_idx": 36255,
+    "original_text": "Oh don't thank me, thank the uploader! They did a quick job.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Ah, não me agradeça, agradeça a quem postou! Fizeram um trabalho rápido.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edyiy6o",
+    "split": "train",
+    "line_idx": 36256,
+    "original_text": "1. The pullout method is a lousy strategy. 2. You might have an STD 3. You might have other problems Go see your doctor",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "1. O coito interrompido é uma estratégia péssima. 2. Você pode estar com uma DST. 3. Você pode ter outros problemas. Vai consultar um médico.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee8w3pa",
+    "split": "train",
+    "line_idx": 36257,
+    "original_text": "I threw my only book away so I could go catch Pokemon creatures",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Joguei fora meu único livro pra poder ir caçar criaturinhas Pokémon",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed4c01d",
+    "split": "train",
+    "line_idx": 36258,
+    "original_text": "[NAME] really getting roasted every chance. I think he is just misunderstood. I hope he shows up.",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "[NAME] tá tomando esporro em toda oportunidade. Acho que ele só é mal compreendido. Tomara que ele apareça.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eezosek",
+    "split": "train",
+    "line_idx": 36259,
+    "original_text": "This isn’t really new... or at least isn’t a new idea. Has it just now been shown in research?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Isso não é tão novo assim... ou pelo menos não é uma ideia nova. Só agora que mostraram isso em pesquisa?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemtoa3",
+    "split": "train",
+    "line_idx": 36260,
+    "original_text": "A good character driven story? I don't think this guy watched the same movie as we did.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Uma boa história focada em personagens? Acho que esse cara não assistiu ao mesmo filme que a gente.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqs62i",
+    "split": "train",
+    "line_idx": 36261,
+    "original_text": "this team is hard to watch, things that can so easily be fixed to make us great that are just persistent fuck ups and we refuse to fix them",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "esse time é foda de assistir, umas coisas tão fáceis de consertar pra deixar a gente foda, mas são erros que continuam acontecendo e a gente se recusa a arrumar",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1cif7",
+    "split": "train",
+    "line_idx": 36262,
+    "original_text": "Thank you for the specifics! Really helpful. Glad you’ve found such a good mix for you.",
+    "emotion_ids": "0,15,17",
+    "emotions": [
+      "admiration",
+      "gratitude",
+      "joy"
+    ],
+    "translated_text": "Valeu pelos detalhes! Muito útil. Que bom que você achou uma combinação boa pra você.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eernhfh",
+    "split": "train",
+    "line_idx": 36263,
+    "original_text": "Now there are two of them!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora são dois!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef553pa",
+    "split": "train",
+    "line_idx": 36264,
+    "original_text": "Wow, I didn't know that was happening. Thanks for the information!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Nossa, eu não sabia que isso tava rolando. Valeu pela informação!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eesc1vo",
+    "split": "train",
+    "line_idx": 36265,
+    "original_text": "Pinkwashing a violent, repressive institution isn’t cool. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tentar limpar a barra de uma instituição violenta e repressiva não rola.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9dsor",
+    "split": "train",
+    "line_idx": 36266,
+    "original_text": "Never liked hip hop. Grew up around gangster life style, hated it. I also laugh at the \"mythology\" that grew up around it. ",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Nunca curti hip hop. Cresci no meio da vida de gângster, odiava. Eu também rio dessa \"mitologia\" que criaram em cima disso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeerduw",
+    "split": "train",
+    "line_idx": 36267,
+    "original_text": "I got a [NAME] vibe earlier, but I see this",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tive uma vibe de [NAME] antes, mas tô vendo isso aqui",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eey0f7g",
+    "split": "train",
+    "line_idx": 36268,
+    "original_text": "This entire post is so wholesome",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse post inteiro é muito fofinho",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9jg76",
+    "split": "train",
+    "line_idx": 36269,
+    "original_text": "hahaha [NAME]???",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "hahaha [NAME]???",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef334gi",
+    "split": "train",
+    "line_idx": 36270,
+    "original_text": "Glad to hear it’s open again, great spot. I still class climbing Coonowrin as the stupidest thing I’ve ever done.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Que bom saber que tá aberto de novo, lugar foda. Ainda considero escalar o Coonowrin a coisa mais estúpida que já fiz na vida.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeiov4c",
+    "split": "train",
+    "line_idx": 36271,
+    "original_text": "Do all you can. Really everything is put in perspective, my work seems very unimportant right now. ",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Faça tudo o que puder. Sério, tudo ganha outra perspectiva, meu trabalho parece super sem importância agora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edvohv5",
+    "split": "train",
+    "line_idx": 36272,
+    "original_text": "Really curious how families handled this in the old days before the modern health care system.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Super curioso pra saber como as famílias lidavam com isso antigamente, antes do sistema de saúde moderno.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7fxr7",
+    "split": "train",
+    "line_idx": 36273,
+    "original_text": "As long as I can see my abs in the morning without trying too hard. Once I lose them, it's time to cut",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Desde que eu consiga ver meu abdômen de manhã sem fazer muito esforço. Assim que eu perder ele, hora de entrar em déficit",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8dyzo",
+    "split": "train",
+    "line_idx": 36274,
+    "original_text": "That’s Grandpa [NAME]. I stomp flaming bags with my boots",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Esse é o Vovô [NAME]. Eu esmago sacos pegando fogo com as botas",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edoavl3",
+    "split": "train",
+    "line_idx": 36275,
+    "original_text": "Damn! I hadn’t heard about the eBay stuff.",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Caraca! Eu não tava sabendo dessa parada do eBay.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edm66kk",
+    "split": "train",
+    "line_idx": 36276,
+    "original_text": "Congratulatioins!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Parabéns!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeajcdp",
+    "split": "train",
+    "line_idx": 36277,
+    "original_text": "When the guy is polite enough to signal his cutting you off.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando o cara é educado o suficiente pra dar seta antes de fechar você.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1eof2",
+    "split": "train",
+    "line_idx": 36278,
+    "original_text": "you're going to relapse in two years because you have an illness that makes you use excessive amounts of things to cope with emotions..",
+    "emotion_ids": "25,27",
+    "emotions": [
+      "sadness",
+      "neutral"
+    ],
+    "translated_text": "você vai ter uma recaída daqui a dois anos porque tem uma doença que te faz usar quantidades excessivas das paradas pra lidar com as emoções..",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1k52t",
+    "split": "train",
+    "line_idx": 36279,
+    "original_text": "What’s irritates me so much is that rework ideas like this do all the work for ubi, yet they still won’t do it. ",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "O que me irrita tanto é que ideias de rework como essa fazem todo o trabalho pra ubi, e mesmo assim eles não fazem.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edx7z3n",
+    "split": "train",
+    "line_idx": 36280,
+    "original_text": "first time all season im kind of not thrilled with [NAME] post game talk. I wish he would have addressed the PP.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "primeira vez na temporada toda que eu tô meio broxado com a entrevista pós-jogo do [NAME]. Queria que ele tivesse falado sobre o power play.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edsyska",
+    "split": "train",
+    "line_idx": 36281,
+    "original_text": "Not an effective solution. Shooter always has first move, taking out an unsuspecting teacher would give a shooter access to better arms.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não é uma solução eficaz. Quem atira sempre dá o primeiro passo, tirar um professor desprevenido daria acesso a armas melhores pra quem tá atacando.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed66qxr",
+    "split": "train",
+    "line_idx": 36282,
+    "original_text": "None of these people ever seem to have run their own business.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Nenhuma dessas pessoas parece ter administrado o próprio negócio na vida.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeagdm1",
+    "split": "train",
+    "line_idx": 36283,
+    "original_text": "I went to college in his hometown. He's a grouchy old man who cares a lot about politics",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Eu fiz faculdade na cidade natal dele. Ele é um velho resmungão que se importa muito com política",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed4kn2m",
+    "split": "train",
+    "line_idx": 36284,
+    "original_text": "Still one of the greatest gems that few will end up doing Smash attacks then the other big cities.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ainda é uma das maiores pérolas que poucos vão acabar fazendo ataques do Smash comparado com as outras cidades grandes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed1zsv8",
+    "split": "train",
+    "line_idx": 36285,
+    "original_text": "It's a decent flick. Id watch it",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "É um filminho razoável. Eu assistiria",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "effcb64",
+    "split": "train",
+    "line_idx": 36286,
+    "original_text": "Don’t be a class traitor",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Não seja um traidor da classe",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edcjtts",
+    "split": "train",
+    "line_idx": 36287,
+    "original_text": "As a Broncos fan living in KC. GO COLTS!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Como torcedor dos Broncos morando em KC. VAI COLTS!!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5nzme",
+    "split": "train",
+    "line_idx": 36288,
+    "original_text": "very wise, your flair reminds me of the quote \"There can be no true despair without hope.\"",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "muito sábio, sua flair me lembra aquela frase \"Não pode haver desespero verdadeiro sem esperança.\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3ogzk",
+    "split": "train",
+    "line_idx": 36289,
+    "original_text": "It worked with [NAME] and [NAME] I guess. Not so much with [NAME] and [NAME]",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Funcionou com [NAME] e [NAME], eu acho. Nem tanto com [NAME] e [NAME]",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efdvha7",
+    "split": "train",
+    "line_idx": 36290,
+    "original_text": "I wish they would just let us stream their music. I have all their albums but every iPhone I get I have to redo the entire library 😴😴",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Tomara que eles deixassem a gente ouvir as músicas deles por streaming. Eu tenho todos os álbuns, mas todo iPhone novo que eu pego tenho que refazer a biblioteca inteira 😴😴",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtnb6l",
+    "split": "train",
+    "line_idx": 36291,
+    "original_text": "Seriously I hope she drops dead from a heart attack.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sério, tomara que ela bata as botas de ataque cardíaco.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1kcc4",
+    "split": "train",
+    "line_idx": 36292,
+    "original_text": "FUCK LES BRUNS",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "FODASE OS LES BRUNS",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eekiueg",
+    "split": "train",
+    "line_idx": 36293,
+    "original_text": "So he watches a movie documenting how a band became mainstream and complains about them being mainstream. O-k",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aí ele assiste a um filme documentando como uma banda virou mainstream e reclama deles serem mainstream. Ah, tá bom",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee6otip",
+    "split": "train",
+    "line_idx": 36294,
+    "original_text": "Ugh why can't the commie just discuss about [NAME] serve instead of saying \"I'm sure he's more of a scientist than me\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nossa, por que o comunista não consegue só discutir sobre o saque do [NAME] em vez de ficar \"tenho certeza que ele entende mais de ciência do que eu\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed8w7kn",
+    "split": "train",
+    "line_idx": 36295,
+    "original_text": "I dunno how to read this yet. I guess it depends on how the other moves they make shake out.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu não sei bem o que achar disso ainda. Acho que depende de como as outras mexidas deles vão se desenrolar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eexll72",
+    "split": "train",
+    "line_idx": 36296,
+    "original_text": "I did misread i saw 23-27",
+    "emotion_ids": "12,22",
+    "emotions": [
+      "embarrassment",
+      "realization"
+    ],
+    "translated_text": "Eu li errado mesmo, vi 23-27",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef0f5po",
+    "split": "train",
+    "line_idx": 36297,
+    "original_text": "Subscribed. Where's your video, coolio? Oh, wait...you're probably too cool to make a video *un-ironically*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Inscrito. Cadê teu vídeo, bonitão? Ah, espera... você provavelmente é descolado demais pra fazer um vídeo *sem ironia*",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef49a7u",
+    "split": "train",
+    "line_idx": 36298,
+    "original_text": "I don't just cringe, I feel literal embarrassment for anyone who has watched it.",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Eu não só sinto vergonha alheia, eu sinto um constrangimento real por qualquer um que tenha assistido a isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef520o7",
+    "split": "train",
+    "line_idx": 36299,
+    "original_text": "We are usually way worse in the 3rd tbf",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "A gente costuma ser bem piores no 3º quarto pra falar a verdade",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

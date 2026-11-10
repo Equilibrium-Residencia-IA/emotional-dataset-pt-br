@@ -1,0 +1,612 @@
+[
+  {
+    "id": "edgyuxy",
+    "split": "train",
+    "line_idx": 32850,
+    "original_text": "The teacher apologised profusely, but nobody could hear due to the deafening applause. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A professora pediu desculpas profusamente, mas ninguém conseguiu ouvir por causa dos aplausos ensurdecedores.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeia11h",
+    "split": "train",
+    "line_idx": 32851,
+    "original_text": "\"There's always a bigger fuckup.\"",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "\"Sempre tem uma cagada maior.\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef6xvgp",
+    "split": "train",
+    "line_idx": 32852,
+    "original_text": "It is being talked about all the time on this site. What are you on about?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Só se fala disso o tempo todo nesse site. Do que você tá falando?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eduummy",
+    "split": "train",
+    "line_idx": 32853,
+    "original_text": "A million little things. I love it, but cheating arc within first couple episodes. ",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "A Million Little Things. Eu amo, mas logo nos primeiros episódios já tem arco de traição.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9o5j2",
+    "split": "train",
+    "line_idx": 32854,
+    "original_text": "Weird headline. 2 children per mother would be expected to shrink the population.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Manchete esquisita. O esperado era que 2 crianças por mãe diminuíssem a população.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edxxysi",
+    "split": "train",
+    "line_idx": 32855,
+    "original_text": "She won’t lose fans. If anything she’ll introduce her fans to this sound and give them a reason to love it.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ela não vai perder fãs. Pelo contrário, vai apresentar esse som pros fãs e dar a eles um motivo pra amar.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed1h39r",
+    "split": "train",
+    "line_idx": 32856,
+    "original_text": "[NAME], I don’t miss that guy. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME], eu não sinto falta daquele cara.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eey496u",
+    "split": "train",
+    "line_idx": 32857,
+    "original_text": "My 2 year old loves Word Party. Story Bots is another good Netflix option.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Meu filho de 2 anos ama Word Party. Story Bots é outra boa opção na Netflix.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee5qvw7",
+    "split": "train",
+    "line_idx": 32858,
+    "original_text": "Besides the fact that they're alcohol bottles they're really quite pretty. Gives an antique perfume bottle look.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "tirando o fato de serem garrafas de álcool, elas são bem bonitas. Dão um visual de frasco de perfume antigo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eegnd43",
+    "split": "train",
+    "line_idx": 32859,
+    "original_text": "We are sorry but the sympathy you are looking for is not available in your region.",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "Pedimos desculpas, mas a simpatia que você procura não está disponível na sua região.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeaeui0",
+    "split": "train",
+    "line_idx": 32860,
+    "original_text": "Wow man, that is DEAD. You have no marriage, just a roommate. Life is short, get out and find someone who meets your needs.",
+    "emotion_ids": "5,26",
+    "emotions": [
+      "caring",
+      "surprise"
+    ],
+    "translated_text": "Nossa mano, isso tá MORTO. Vocês não tão casados, são só colegas de quarto. A vida é curta, sai dessa e acha alguém que atenda às suas necessidades.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1emju",
+    "split": "train",
+    "line_idx": 32861,
+    "original_text": ">I just wanna let you know your beautiful I don't appreciate being lied to!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": ">Só quero te avisar que você é linda Eu não curto ser tapeada!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5sxk3",
+    "split": "train",
+    "line_idx": 32862,
+    "original_text": "Looks like the other driver to the right was predicting that to happen. You can see the brake lights come on the SUV.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Parece que o outro motorista à direita já tava prevendo que isso ia acontecer. Dá pra ver a luz de freio acendendo no SUV.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed6i2c0",
+    "split": "train",
+    "line_idx": 32863,
+    "original_text": "Fuck i know. I'm so worried for girls like me growing up now.",
+    "emotion_ids": "19",
+    "emotions": [
+      "nervousness"
+    ],
+    "translated_text": "Caralho, eu sei bem. Tô morrendo de medo pelas meninas como eu que estão crescendo agora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edrw89g",
+    "split": "train",
+    "line_idx": 32864,
+    "original_text": "I am in hysterics. How are these people so serious?",
+    "emotion_ids": "3,7",
+    "emotions": [
+      "annoyance",
+      "curiosity"
+    ],
+    "translated_text": "Eu tô rindo histericamente. Como essas pessoas conseguem ser tão sérias?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edlmf22",
+    "split": "train",
+    "line_idx": 32865,
+    "original_text": "You dropped this.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você deixou isso cair.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efewmgn",
+    "split": "train",
+    "line_idx": 32866,
+    "original_text": ">Star centre [NAME] in the leadership group Oh my",
+    "emotion_ids": "26,27",
+    "emotions": [
+      "surprise",
+      "neutral"
+    ],
+    "translated_text": ">O craque do meio-campo [NAME] no grupo de liderança Eita",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eetrrhp",
+    "split": "train",
+    "line_idx": 32867,
+    "original_text": "Bravo, that looks beautiful. Though i know for a fact that i would find a way to fall face first on those things sticking out.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Parabéns, ficou lindo. Embora eu saiba muito bem que daria um jeito de cair de cara nessas paradas pontiagudas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edz4tbv",
+    "split": "train",
+    "line_idx": 32868,
+    "original_text": "Thanks for an interesting thread. How many of the [NAME] in Malaysia would you characterize as [NAME] or supporting political [RELIGION]?",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu pela discussão interessante. Quantos dos [NAME] na Malásia você diria que são [NAME] ou apoiam a [RELIGION] política?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eefrva6",
+    "split": "train",
+    "line_idx": 32869,
+    "original_text": "It's also surprising that Valve released a dud game. Maybe it's time for Valve to grow up and introduce themselves to the digital communication age?",
+    "emotion_ids": "6,26",
+    "emotions": [
+      "confusion",
+      "surprise"
+    ],
+    "translated_text": "Também é surpreendente que a Valve tenha lançado um jogo bomba. Talvez esteja na hora da Valve crescer e se atualizar para a era da comunicação digital?",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeb3qd0",
+    "split": "train",
+    "line_idx": 32870,
+    "original_text": "thor ulted minions reported for trolling",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "thor gastou ut nos minions, reportado por trollagem",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efamvf9",
+    "split": "train",
+    "line_idx": 32871,
+    "original_text": "First thought that came to mind were those water benders in the swamp in Avatar: The Last Airbender.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A primeira coisa que me veio à mente foram aqueles dominadores de água do pântano em Avatar: A Lenda de Aang.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeas4fb",
+    "split": "train",
+    "line_idx": 32872,
+    "original_text": "I can't imagine it's going to be easy to come to the realization that your parents murdered your brother.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Não consigo imaginar o quão fácil deve ser cair na real de que seus pais assassinaram seu irmão.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edzsozm",
+    "split": "train",
+    "line_idx": 32873,
+    "original_text": "Let's give him two contracts for good measure",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vamos dar mais dois contratos só de garantia",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eelcy2f",
+    "split": "train",
+    "line_idx": 32874,
+    "original_text": "This is my new favorite video.",
+    "emotion_ids": "0,18",
+    "emotions": [
+      "admiration",
+      "love"
+    ],
+    "translated_text": "Esse é meu novo vídeo favorito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eerq4uk",
+    "split": "train",
+    "line_idx": 32875,
+    "original_text": "I don’t see the MAGA hat kid working to undermine civil liberty. It’s at least understandable to react violently to tyrants.",
+    "emotion_ids": "3,4,27",
+    "emotions": [
+      "annoyance",
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Não vejo o garoto do boné MAGA trabalhando pra minar a liberdade civil. É no mínimo compreensível reagir violentamente contra tiranos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed2achj",
+    "split": "train",
+    "line_idx": 32876,
+    "original_text": "Doctor: “I have good news and bad news” Patient: “good news first” Doctor: “we’re naming a disease after you”",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Médico: “Eu tenho uma notícia boa e uma notícia ruim” Paciente: “A boa primeiro” Médico: “Vamos batizar uma doença com o seu nome”",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpqt7c",
+    "split": "train",
+    "line_idx": 32877,
+    "original_text": "Yup. What is interesting is that Newton's third law is not applicable to SJWs... they arose out of a self-hating, anti-free speech vacuum.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É. O curioso é que a terceira lei de Newton não se aplica aos SJWs... eles surgiram de um vácuo de ódio a si mesmos e anti-liberdade de expressão.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edtaj1f",
+    "split": "train",
+    "line_idx": 32878,
+    "original_text": "Yup, lost a whole train station inside of their houses. Great loss ",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "É, perderam uma estação de trem inteira dentro das casas. Que grande perda",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eexq5o1",
+    "split": "train",
+    "line_idx": 32879,
+    "original_text": "Nothing will, no, but it gives /r/conservative ammo against a sub like this. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nada vai fazer isso, não, mas dá munição pro /r/conservative contra um sub como esse.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edhqkt0",
+    "split": "train",
+    "line_idx": 32880,
+    "original_text": "Glad she was a good sport about it.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Que bom que ela levou numa boa.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eek7c72",
+    "split": "train",
+    "line_idx": 32881,
+    "original_text": "It's easier to have a discussion with a four year old. Four year olds actually want to learn new things.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É mais fácil discutir com uma criança de quatro anos. Crianças de quatro anos realmente querem aprender coisas novas.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edluuyg",
+    "split": "train",
+    "line_idx": 32882,
+    "original_text": "I’m totally having a fantasy about publicly shaming someone for giving their server attitude right now. Sweet justice.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu tô com maior fantasia de esculachar publicamente alguém que trata garçom mal agora mesmo. Justiça doce.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgfg8w",
+    "split": "train",
+    "line_idx": 32883,
+    "original_text": "Is it though? All the highschoolers I knew were too broke to be using juuls. Everyone had a suorin and the only ones with juuls were drug dealers.",
+    "emotion_ids": "12,27",
+    "emotions": [
+      "embarrassment",
+      "neutral"
+    ],
+    "translated_text": "Será mesmo? Todos os colegiais que eu conhecia eram muito pobres pra usar Juul. Todo mundo tinha um Suorin e os únicos com Juul eram os traficantes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edhovok",
+    "split": "train",
+    "line_idx": 32884,
+    "original_text": "Reminds me of the dude who was hit on the back/side by a RC helicopter.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Me lembra aquele mano que foi atingido nas costas/lado por um helicóptero de controle remoto.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehjv4i",
+    "split": "train",
+    "line_idx": 32885,
+    "original_text": "I like this. I like this a lot.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu curti isso. Curti pra caralho.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edcezxe",
+    "split": "train",
+    "line_idx": 32886,
+    "original_text": "The real tips are always in the comments :D",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "As melhores dicas estão sempre nos comentários :D",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edgtqdg",
+    "split": "train",
+    "line_idx": 32887,
+    "original_text": "Somebody Knows Something Up and Vanished Serial This American Life",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Somebody Knows Something Up and Vanished Serial This American Life",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9f2sw",
+    "split": "train",
+    "line_idx": 32888,
+    "original_text": "You are very welcome. Happy growing. Keep in touch with your success.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Por nada. Boas colheitas. Mantenha contato sobre o seu sucesso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee1cqhu",
+    "split": "train",
+    "line_idx": 32889,
+    "original_text": "Same here. Together 39, married 37. Me 61, her 60. Ok, times change but stability is everything. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu também. Juntos há 39, casados há 37. Eu com 61, ela com 60. Beleza, os tempos mudam, mas estabilidade é tudo.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edn3o8k",
+    "split": "train",
+    "line_idx": 32890,
+    "original_text": "> Native Lithuanian Cool! Are you still there? My family was in Kursenai/Telsiai until the early 1930s.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "> Lituano nativo Legal! Você ainda tá morando lá? Minha família morava em Kursenai/Telsiai até o começo dos anos 1930.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeprzgk",
+    "split": "train",
+    "line_idx": 32891,
+    "original_text": "She is beauty she is grace she just just grinded the ground with her face.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ela é beleza, ela é graça, ela acabou de esfolar a cara na praça.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eepbcmg",
+    "split": "train",
+    "line_idx": 32892,
+    "original_text": "\"Put yourself into the position to be able to profit from luck\" is the best I can formulate it.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "\"Se coloque numa posição em que possa lucrar com a sorte\" é a melhor forma que consigo formular isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7jrgy",
+    "split": "train",
+    "line_idx": 32893,
+    "original_text": "Grown men who decide to call themselves\"young loli girl\" probably aren't interested in understanding how rape affects society.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Homens adultos que decidem se chamar de \"jovem garota loli\" provavelmente não estão muito interessados em entender como o estupro afeta a sociedade.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee4w4ik",
+    "split": "train",
+    "line_idx": 32894,
+    "original_text": "Hm. Your toast and my toast look very difficult in size",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Hm. Sua torrada e a minha torrada parecem bem diferentes de tamanho",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edewwds",
+    "split": "train",
+    "line_idx": 32895,
+    "original_text": "Wow this is the first I’ve heard of this. You should go tell /r/hockey, I’m sure they have no idea either.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Nossa, essa é a primeira vez que tô sabendo disso. Você devia ir avisar lá no /r/hockey, tenho certeza que eles também não fazem ideia.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeo8vc8",
+    "split": "train",
+    "line_idx": 32896,
+    "original_text": "😂😂😂 YES and she fired all her bridesmaids because they didn't text her to ask if she was excited that her wedding was a week away",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "😂😂😂 SIM e ela demitiu todas as madrinhas porque elas não mandaram mensagem perguntando se ela tava animada que o casamento era daqui a uma semana",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7p04a",
+    "split": "train",
+    "line_idx": 32897,
+    "original_text": "Thank you!!! I'll do this now!!!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado!!! Vou fazer isso agora!!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efgnc9w",
+    "split": "train",
+    "line_idx": 32898,
+    "original_text": "And yet he's still plummeting in popularity, even now. No he aint babe.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "E mesmo assim a popularidade dele continua desabando, até agora. Não, não tá, gata.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeubq4e",
+    "split": "train",
+    "line_idx": 32899,
+    "original_text": "Elite Disrupter and Elite Stryfe. Also, thanks.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Elite Disrupter e Elite Stryfe. Além disso, valeu.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

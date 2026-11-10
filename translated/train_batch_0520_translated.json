@@ -1,0 +1,609 @@
+[
+  {
+    "id": "edhf3tb",
+    "split": "train",
+    "line_idx": 26000,
+    "original_text": "Ooo, I wouldn't go that far.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Iih, eu n'o iria tão longe assim.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edyxzaa",
+    "split": "train",
+    "line_idx": 26001,
+    "original_text": "\"stupid millennials ruining ruining our cursive writing industries for us millennials\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "\"millennials estápidos arruinando nossas indústrias de letra cursiva para nós, millennials\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efblopv",
+    "split": "train",
+    "line_idx": 26002,
+    "original_text": "The whole point of being an introvert is *going alone*",
+    "emotion_ids": "3,27",
+    "emotions": [
+      "annoyance",
+      "neutral"
+    ],
+    "translated_text": "O grande lance de ser introvertido é *ir sozinho*",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1y2ij",
+    "split": "train",
+    "line_idx": 26003,
+    "original_text": "Yes!! My favourite film - I came here to suggest it, too. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Sim!! Meu filme favorito - vim aqui sugerir ele também.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efefc93",
+    "split": "train",
+    "line_idx": 26004,
+    "original_text": "Boys lets go start a donnybrook",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Galera, bora começar uma pancadaria",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef3vu80",
+    "split": "train",
+    "line_idx": 26005,
+    "original_text": "this 'bug' has caused me countless death... i always used rifle primarily and switched to shotgun after rifle shot",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "esse 'bug' me causou incontáveis mortes... eu sempre usava o rifle de principal e mudava pra escopeta depois do tiro de rifle",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenna0j",
+    "split": "train",
+    "line_idx": 26006,
+    "original_text": "\"joke's on you, I was only pretending\"",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "\"se deu mal, eu só tava fingindo\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeznxtj",
+    "split": "train",
+    "line_idx": 26007,
+    "original_text": "I have over 120 hours of play time and only have like 27 achievements 🤤😭",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Eu tenho mais de 120 horas de jogo e só umas 27 conquistas ô¹¸ó¿",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edll2zq",
+    "split": "train",
+    "line_idx": 26008,
+    "original_text": "Ur right. It was a loose comparrison.. I hope i got my point across at least.",
+    "emotion_ids": "4,20",
+    "emotions": [
+      "approval",
+      "optimism"
+    ],
+    "translated_text": "Vc tem razão. Foi uma comparação meio nada a ver... Pelo menos espero ter passado meu ponto de vista.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3ybb6",
+    "split": "train",
+    "line_idx": 26009,
+    "original_text": "[NAME] didn't even know cass's e heals her until [NAME] told him :(",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "[NAME] nem sabia que o E da cass cura ela até o [NAME] falar pra ele :(",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef2bgll",
+    "split": "train",
+    "line_idx": 26010,
+    "original_text": "My wife is out for shabbos and I'm so lonely without her :(",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Minha mulher tá fora pro shabat e eu tô tão solitário sem ela :(",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef656po",
+    "split": "train",
+    "line_idx": 26011,
+    "original_text": "I'm curious to see what his answer will be",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Tô curioso pra ver qual vai ser a resposta dele",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edw91b6",
+    "split": "train",
+    "line_idx": 26012,
+    "original_text": "Helpful tip: it's difficult to sleep when you're in extreme pain. So find a hammer or something",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Dica ûtil: é difícil dormir quando você está com dor extrema. Então ache um martelo ou algo assim",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eev9m24",
+    "split": "train",
+    "line_idx": 26013,
+    "original_text": ">And you contribute to them not interacting with other people... Which I never told anyone not to. Hmmmmm",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": ">E você contribui pra eles não interagirem com outras pessoas... O que eu nunca disse pra ninguém não fazer. Hmmmmmm",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed7dllm",
+    "split": "train",
+    "line_idx": 26014,
+    "original_text": "Logging is pretty dangerous.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Trabalhar com extração de madeira é bem perigoso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eequd2h",
+    "split": "train",
+    "line_idx": 26015,
+    "original_text": "Shootouts aren’t our strong suit. Happy to get out with a point though",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Prorrogações não são nosso forte. Ainda bem que saímos com um ponto, pelo menos",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eczxl5s",
+    "split": "train",
+    "line_idx": 26016,
+    "original_text": "Oh, exploitable",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Nossa, quanta margem pra zoeira",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee7n1qe",
+    "split": "train",
+    "line_idx": 26017,
+    "original_text": "nice try, FBI!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "boa tentativa, FBI!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eff9fwb",
+    "split": "train",
+    "line_idx": 26018,
+    "original_text": "it's basically summer here right now. these posts are clueless.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "aqui tá basicamente no meio do verão agora. esses posts não sabem de nada.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eed7329",
+    "split": "train",
+    "line_idx": 26019,
+    "original_text": "When it's time, it's time.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando chega a hora, chega a hora.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed3q02w",
+    "split": "train",
+    "line_idx": 26020,
+    "original_text": "My knees, I had to quit running because they got so bad. Even hiking starts hurting after awhile, especially on long downhills Also glasses and deep voices",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "Meus joelhos, tive que parar de correr porque ficaram muito ruins. Até trilha começa a doer depois de um tempo, especialmente nas descidas longas Além disso, óculos e vozes grossas",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeyr148",
+    "split": "train",
+    "line_idx": 26021,
+    "original_text": "Omg I love that. Coffee in bed. A nice omelette and then another roll in the hay.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Mds, eu amo isso. Café na cama. Uma omelete caprichada e depois mais uma rapidinha.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed9gxr9",
+    "split": "train",
+    "line_idx": 26022,
+    "original_text": "That explains why she fattened up so quickly!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso explica por que ela engordou tão rápido!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edpzhvj",
+    "split": "train",
+    "line_idx": 26023,
+    "original_text": "I'd be surprised if mosques make the girls on school trips cover their hair, hence my question.",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Eu ficaria surpreso se mesquitas fizessem as garotas cobrirem o cabelo em viagens escolares, daí a minha pergunta.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eenup33",
+    "split": "train",
+    "line_idx": 26024,
+    "original_text": "Maybe one \"episode\", but they're definitely going to go Part 1 and Part 2 on the third act.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Talvez um \"episódio\" só, mas com certeza vão fazer Parte 1 e Parte 2 no terceiro ato.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjcuwb",
+    "split": "train",
+    "line_idx": 26025,
+    "original_text": "This is the greatest Bama game I've ever watched",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Esse é o melhor jogo de Bama que eu já vi na vida",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef6yw2j",
+    "split": "train",
+    "line_idx": 26026,
+    "original_text": "Modern buildings are horrible.. I’ve felt like this before. Stars and birds still fill me with a sense of wonder most often.",
+    "emotion_ids": "10,22",
+    "emotions": [
+      "disapproval",
+      "realization"
+    ],
+    "translated_text": "Prédios modernos são horríveis.. Eu já me senti assim antes. Estrelas e pássaros ainda me enchem de um senso de fascínio na maior parte das vezes.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eduajy8",
+    "split": "train",
+    "line_idx": 26027,
+    "original_text": "They're a nakedly political institution, and have been for years now.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles são uma instituição abertamente política, e já são há anos.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eehor1w",
+    "split": "train",
+    "line_idx": 26028,
+    "original_text": "You k how it's bad when a furry is roasting you",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você sabe que a coisa tá feia quando um furry te esculacha",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efe73d3",
+    "split": "train",
+    "line_idx": 26029,
+    "original_text": "I am interested if still available. This would be way more fun then my smith center season!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Tenho interesse se ainda estiver disponível. Isso seria muito mais divertido que minha temporada no centro smith!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed5wxlx",
+    "split": "train",
+    "line_idx": 26030,
+    "original_text": "I hope it all works out for you and your baby girl, its hard doing it alone but itll be worth it for her. :)",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero que dê tudo certo para você e sua filhinha, é difícil criar sozinha mas vai valer a pena por ela. :)",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edkeqg5",
+    "split": "train",
+    "line_idx": 26031,
+    "original_text": "Man – I love how [NAME] really lights up when she asks about [NAME] .... \"that's my boy for real, for real\". Love that.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Cara – eu amo como a [NAME] realmente se ilumina quando pergunta sobre a [NAME] .... \"esse sim é meu garoto de verdade\". Adoro isso.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef4u14u",
+    "split": "train",
+    "line_idx": 26032,
+    "original_text": "I'm pretty sure this is the classic case of spending the time between sets laying on the equipment and texting/chapchatting/facetiming",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Tenho quase certeza de que este é o caso clássico de passar o tempo entre as séries deitado no aparelho mandando mensagem/snap/facetimando",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eedkt8w",
+    "split": "train",
+    "line_idx": 26033,
+    "original_text": "I dont think self-sources work for TIL.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Eu acho que auto-fontes não funcionam no TIL.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ee3bgh9",
+    "split": "train",
+    "line_idx": 26034,
+    "original_text": "“Spite-based refugee system...” really got me chucking.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "“Sistema de refugiados baseado em rancor...” me fez rir muito.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef8fz4e",
+    "split": "train",
+    "line_idx": 26035,
+    "original_text": "Literally everything. What has happened, what is happening, and what will happen, all at once somehow. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Literalmente tudo. O que aconteceu, o que está acontecendo e o que vai acontecer, tudo ao mesmo tempo de alguma forma.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efd693d",
+    "split": "train",
+    "line_idx": 26036,
+    "original_text": "Reminds me of that last scene in Coraline, where she's walking through the woods. Cool photo.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Me lembra aquela última cena de Coraline, onde ela está andando pela floresta. Foto maneira.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edg7u9q",
+    "split": "train",
+    "line_idx": 26037,
+    "original_text": "you'd have to help them get past [NAME] extremely tough immigration process",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "você teria que ajudar eles a passarem pelo processo de imigração extremamente rigoroso de [NAME]",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ed4yfwg",
+    "split": "train",
+    "line_idx": 26038,
+    "original_text": "Sadly I had to scroll through the story to read this",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Infelizmente tive que rolar a história toda pra ler isso",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edjqtok",
+    "split": "train",
+    "line_idx": 26039,
+    "original_text": "No idea, maybe say nothing..............",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Faz nem ideia, talvez não diga nada..............",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef7esv7",
+    "split": "train",
+    "line_idx": 26040,
+    "original_text": "This - people have been saying he’s 5 mins away from impeachment since he got elected, lol.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Isso - o pessoal fica dizendo que ele está a 5 minutos de sofrer impeachment desde que ele foi eleito, kkk.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef3bvby",
+    "split": "train",
+    "line_idx": 26041,
+    "original_text": "My guys about to laser a 5 year old cause he didn’t give that little girl his lunchable",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Meu mano tá prestes a vaporizar uma criança de 5 anos porque ela não deu o lanchinho dela pra garotinha",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eet6ikr",
+    "split": "train",
+    "line_idx": 26042,
+    "original_text": "[NAME] is a happy boi!!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "[NAME] é um garotinho feliz!!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "edr74yn",
+    "split": "train",
+    "line_idx": 26043,
+    "original_text": "I'll make a note of this. Thanks!",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Vou anotar isso. Valeu!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efbvwfg",
+    "split": "train",
+    "line_idx": 26044,
+    "original_text": "Said to my very white-looking brunette coworker once: \"Are you an oriental?\"",
+    "emotion_ids": "4,7",
+    "emotions": [
+      "approval",
+      "curiosity"
+    ],
+    "translated_text": "Disse para minha colega de trabalho morena com aparência bem branca: \"Você é oriental?\"",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "efb3lzj",
+    "split": "train",
+    "line_idx": 26045,
+    "original_text": "I think we all know [NAME] has the best curves in team history.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Acho que todos sabemos que a [NAME] tem as melhores curvas da história do time.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef1aucl",
+    "split": "train",
+    "line_idx": 26046,
+    "original_text": "The intro in that video looks like a sand storm on there, imagine a sand storm while playing GA on that map, it would be awesome!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "A intro naquele vídeo parece uma tempestade de areia, imagina uma tempestade de areia jogando GA naquele mapa, seria foda!",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "ef981kb",
+    "split": "train",
+    "line_idx": 26047,
+    "original_text": "I would change the episode with Icicle. Get rid of the cold puns. Everything else can stay the same",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu trocaria o episódio do Pinguim. Tiraria os trocadilhos com frio. O resto pode ficar igual",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eeqig0d",
+    "split": "train",
+    "line_idx": 26048,
+    "original_text": "Yeah I've become extremely cynical since I started making these sorts of realizations.",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "É, eu fiquei extremamente cínico desde que comecei a ter esse tipo de percepção.",
+    "translator": "gemini-3.5-flash-lite"
+  },
+  {
+    "id": "eemch6i",
+    "split": "train",
+    "line_idx": 26049,
+    "original_text": "It's certainly not one I identify with, but I find it intriguing. Hence my starting this discussion. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Com certeza não é um com o qual me identifico, mas acho instigante. Daí eu ter começado essa discussão.",
+    "translator": "gemini-3.5-flash-lite"
+  }
+]

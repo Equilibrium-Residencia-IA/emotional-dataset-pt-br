@@ -1,0 +1,562 @@
+[
+  {
+    "id": "eeoeadb",
+    "split": "train",
+    "line_idx": 21100,
+    "original_text": "I was fine until I got to the ICU.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Eu tava bem até chegar na UTI."
+  },
+  {
+    "id": "ee5zpvn",
+    "split": "train",
+    "line_idx": 21101,
+    "original_text": "I don't even know how to begin explaining something this preposterously self-evident to you, so I'm just not going to. ",
+    "emotion_ids": "6,10",
+    "emotions": [
+      "confusion",
+      "disapproval"
+    ],
+    "translated_text": "Eu nem sei por onde começar a explicar algo tão absurdamente óbvio pra você, então eu simplesmente não vou."
+  },
+  {
+    "id": "ef40kcj",
+    "split": "train",
+    "line_idx": 21102,
+    "original_text": "No she would just get 18 years in jail (raising a kid).",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, ela só ia pegar 18 anos de cadeia (criando um filho)."
+  },
+  {
+    "id": "edxop66",
+    "split": "train",
+    "line_idx": 21103,
+    "original_text": "*Patiently awaits AFL*",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "*Aguardando pacientemente pela AFL*"
+  },
+  {
+    "id": "ed192of",
+    "split": "train",
+    "line_idx": 21104,
+    "original_text": "I wonder if losing their majority in the 2019 locals would shift the Unionist parties’ position?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Será que perder a maioria nas eleições locais de 2019 mudaria a posição dos partidos unionistas?"
+  },
+  {
+    "id": "efdatsy",
+    "split": "train",
+    "line_idx": 21105,
+    "original_text": "No way a tattooed ex-con with a drug/drinking problem might turn abusive!",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Imagina só, um ex-presidiário tatuado com problema de bebida/drogas virar abusivo, quem diria!"
+  },
+  {
+    "id": "eetxuty",
+    "split": "train",
+    "line_idx": 21106,
+    "original_text": "As a white man on the internet I'm outraged... because I had to laugh and laughing hurts right now : (",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Como um homem branco na internet, estou indignado... porque eu tive que rir e rir dói agora : ("
+  },
+  {
+    "id": "een2q2i",
+    "split": "train",
+    "line_idx": 21107,
+    "original_text": "Actually yes the left does need to earn my loyalty if they want me to keep voting for them",
+    "emotion_ids": "4,27",
+    "emotions": [
+      "approval",
+      "neutral"
+    ],
+    "translated_text": "Na real, sim, a esquerda precisa conquistar minha lealdade se quiser que eu continue votando neles"
+  },
+  {
+    "id": "edwganm",
+    "split": "train",
+    "line_idx": 21108,
+    "original_text": "It doesn't, it just resets back to 1 *before* adding in your upvote. You're not gaming the system lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Não muda, ele só reseta pra 1 *antes* de somar o seu voto. Você não tá hackeando o sistema, lol"
+  },
+  {
+    "id": "edkuw7m",
+    "split": "train",
+    "line_idx": 21109,
+    "original_text": "With that logic, women shouldn't be able to drive cars considering they are more prone to accidents/wrecks. Would you agree?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Seguindo essa lógica, mulheres não deveriam poder dirigir, já que são mais propensas a acidentes/batidas. Você concorda?"
+  },
+  {
+    "id": "ef7zaqw",
+    "split": "train",
+    "line_idx": 21110,
+    "original_text": "Well they do have cheap surgery there lol those lucky bastards",
+    "emotion_ids": "1,3",
+    "emotions": [
+      "amusement",
+      "annoyance"
+    ],
+    "translated_text": "Bom, eles têm cirurgia barata lá, lol, que sortudos do caralho"
+  },
+  {
+    "id": "edo7mte",
+    "split": "train",
+    "line_idx": 21111,
+    "original_text": "Aww that's so sweet !",
+    "emotion_ids": "0,13",
+    "emotions": [
+      "admiration",
+      "excitement"
+    ],
+    "translated_text": "Aww, que fofo !"
+  },
+  {
+    "id": "eerdfja",
+    "split": "train",
+    "line_idx": 21112,
+    "original_text": "I love the bus so much.",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Eu amo tanto o ônibus."
+  },
+  {
+    "id": "eeze41s",
+    "split": "train",
+    "line_idx": 21113,
+    "original_text": "Get Ready!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se prepara!"
+  },
+  {
+    "id": "ef7nz1j",
+    "split": "train",
+    "line_idx": 21114,
+    "original_text": "Thanks, but please use the stickied megathread for all discussion and submissions. Repost it over there.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, mas por favor use a megathread fixada pra todas as discussões e posts. Reposta lá."
+  },
+  {
+    "id": "ed21l4i",
+    "split": "train",
+    "line_idx": 21115,
+    "original_text": "[NAME] is giving y'all some weird energy. I wish [NAME] would do that",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "[NAME] tá passando uma energia estranha pra vocês. Queria que [NAME] fizesse isso"
+  },
+  {
+    "id": "efe78dv",
+    "split": "train",
+    "line_idx": 21116,
+    "original_text": "I’m just gonna sit here for a minute",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Vou só sentar aqui por um minuto"
+  },
+  {
+    "id": "ed5cys0",
+    "split": "train",
+    "line_idx": 21117,
+    "original_text": "A lot of things happened in the 90's that no one batted an eye to. It's just how things were.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Muita coisa aconteceu nos anos 90 que ninguém nem ligava. Era assim que as coisas eram."
+  },
+  {
+    "id": "ed73456",
+    "split": "train",
+    "line_idx": 21118,
+    "original_text": "You ain’t far from going postage stamp on that thing!!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não tá longe de virar um selo postal nessa coisa!!!!"
+  },
+  {
+    "id": "edirbtg",
+    "split": "train",
+    "line_idx": 21119,
+    "original_text": "We're moving from Utah to California later this year. These statistics make me even more excited!!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Vamos nos mudar de Utah pra Califórnia no final do ano. Essas estatísticas me deixam ainda mais animado!!"
+  },
+  {
+    "id": "ee6gib3",
+    "split": "train",
+    "line_idx": 21120,
+    "original_text": "This just makes me angry.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Isso só me deixa com raiva."
+  },
+  {
+    "id": "eeqj2ap",
+    "split": "train",
+    "line_idx": 21121,
+    "original_text": "Your grad school advisor is an old fashioned idiot You are not. You are great!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Seu orientador da pós é um idiota antiquado. Você não é. Você é ótimo!"
+  },
+  {
+    "id": "ee1uwmb",
+    "split": "train",
+    "line_idx": 21122,
+    "original_text": "My dosage was increased 2 weeks ago and I've noticed the issues getting worse. With your comment, I'm really leaning towards them being side effects.",
+    "emotion_ids": "11,19",
+    "emotions": [
+      "disgust",
+      "nervousness"
+    ],
+    "translated_text": "Minha dose foi aumentada há 2 semanas e notei que os problemas pioraram. Com o seu comentário, tô achando que são efeitos colaterais mesmo."
+  },
+  {
+    "id": "eers9ld",
+    "split": "train",
+    "line_idx": 21123,
+    "original_text": "Can he fire himself?",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Ele pode demitir a si mesmo?"
+  },
+  {
+    "id": "edy9o5a",
+    "split": "train",
+    "line_idx": 21124,
+    "original_text": "That's my secret, cap. I never had any. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Esse é meu segredo, capitão. Eu nunca tive nenhum."
+  },
+  {
+    "id": "edpjw58",
+    "split": "train",
+    "line_idx": 21125,
+    "original_text": "I am so sorry those kind of people make me sick",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Sinto muito, esse tipo de gente me dá nojo"
+  },
+  {
+    "id": "eczsaya",
+    "split": "train",
+    "line_idx": 21126,
+    "original_text": "It's a shitty made shirt but if it was done well I'd wear it.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "É uma camisa mal feita, mas se fosse bem feita eu usaria."
+  },
+  {
+    "id": "edxfsnh",
+    "split": "train",
+    "line_idx": 21127,
+    "original_text": "Yeah, my partner is a starfish. Thanks, i needed that precise clarification. Dead whale sex too. ",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "É, minha parceira é uma estrela-do-mar. Valeu, precisava dessa clareza toda. Sexo com baleia morta também."
+  },
+  {
+    "id": "eed5kzo",
+    "split": "train",
+    "line_idx": 21128,
+    "original_text": "Ah there it is",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Ah, tá aí"
+  },
+  {
+    "id": "edgjonk",
+    "split": "train",
+    "line_idx": 21129,
+    "original_text": "It’s only missing a line that says “who was born in June” for absolutely no reason",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Só falta uma linha dizendo “que nasceu em junho” sem motivo nenhum"
+  },
+  {
+    "id": "ef5o0by",
+    "split": "train",
+    "line_idx": 21130,
+    "original_text": "It's hard to make friends. :( I sit alone.",
+    "emotion_ids": "9,25",
+    "emotions": [
+      "disappointment",
+      "sadness"
+    ],
+    "translated_text": "É difícil fazer amigos. :( Fico sentado sozinho."
+  },
+  {
+    "id": "ed8l08w",
+    "split": "train",
+    "line_idx": 21131,
+    "original_text": "That’s a lot of damage",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso é muito dano"
+  },
+  {
+    "id": "edcpmpw",
+    "split": "train",
+    "line_idx": 21132,
+    "original_text": "These refs are [NAME] awful. Find a new job",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Esses juízes são [NAME] horríveis. Arranjem outro emprego"
+  },
+  {
+    "id": "eczidfz",
+    "split": "train",
+    "line_idx": 21133,
+    "original_text": "We had a long debate about how old Jackie bird is and as per every year were surprised by the result. Was pish",
+    "emotion_ids": "26",
+    "emotions": [
+      "surprise"
+    ],
+    "translated_text": "Tivemos um longo debate sobre a idade da Jackie Bird e, como todo ano, ficamos surpresos com o resultado. Foi uma bosta"
+  },
+  {
+    "id": "effy20p",
+    "split": "train",
+    "line_idx": 21134,
+    "original_text": "Indeed, I'm no expert on the subject, so I'm not going to present a misleading picture.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "De fato, não sou especialista no assunto, então não vou apresentar uma imagem enganosa."
+  },
+  {
+    "id": "ef82ydd",
+    "split": "train",
+    "line_idx": 21135,
+    "original_text": "My partner and I have 17 years between us! Best and healthiest relationship I have been in :)",
+    "emotion_ids": "0,22",
+    "emotions": [
+      "admiration",
+      "realization"
+    ],
+    "translated_text": "Eu e meu parceiro temos 17 anos de diferença! O relacionamento mais saudável e melhor que já tive :)"
+  },
+  {
+    "id": "ed47v7l",
+    "split": "train",
+    "line_idx": 21136,
+    "original_text": "Thats so cool man. Have you tried dmt",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Isso é muito foda, cara. Já tentou DMT?"
+  },
+  {
+    "id": "edm75up",
+    "split": "train",
+    "line_idx": 21137,
+    "original_text": "Hell yeah. Enjoy your new bachelor life son!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Com certeza. Aproveita sua vida de solteiro, filho!"
+  },
+  {
+    "id": "edk04p4",
+    "split": "train",
+    "line_idx": 21138,
+    "original_text": "they might have seen me pooping",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "eles podem ter me visto cagando"
+  },
+  {
+    "id": "eeoonpx",
+    "split": "train",
+    "line_idx": 21139,
+    "original_text": "Done that. Body dysmorphia makes them look the same to me 🤷",
+    "emotion_ids": "4,22",
+    "emotions": [
+      "approval",
+      "realization"
+    ],
+    "translated_text": "Já fiz isso. A dismorfia corporal faz com que eles pareçam iguais pra mim 🤷"
+  },
+  {
+    "id": "eexvrcp",
+    "split": "train",
+    "line_idx": 21140,
+    "original_text": "that number 3 is soooo familiar and sad.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "esse número 3 é tããão familiar e triste."
+  },
+  {
+    "id": "ed4miwf",
+    "split": "train",
+    "line_idx": 21141,
+    "original_text": "And how she can’t cry bc of her “expensive lashes.” 🤦🏼‍♀️",
+    "emotion_ids": "7,25",
+    "emotions": [
+      "curiosity",
+      "sadness"
+    ],
+    "translated_text": "E como ela não pode chorar por causa dos “cílios caros” dela. 🤦🏼‍♀️"
+  },
+  {
+    "id": "ee038me",
+    "split": "train",
+    "line_idx": 21142,
+    "original_text": "Lucky I caught people reacting on twitter. For some reason I thought this game as at 6 PM.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Sorte que peguei o pessoal reagindo no Twitter. Por algum motivo achei que o jogo era às 18h."
+  },
+  {
+    "id": "ef5sg6s",
+    "split": "train",
+    "line_idx": 21143,
+    "original_text": "American here. Not laughing. Routine circumcision of male infants is a violation of their bodily autonomy. I wish had my foreskin back.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Americano aqui. Não tô rindo. Circuncisão de rotina em bebês homens é uma violação da autonomia corporal deles. Queria ter meu prepúcio de volta."
+  },
+  {
+    "id": "ef0wqlz",
+    "split": "train",
+    "line_idx": 21144,
+    "original_text": "Was this tattoo designed by [NAME]?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Essa tatuagem foi desenhada pelo [NAME]?"
+  },
+  {
+    "id": "ede9psv",
+    "split": "train",
+    "line_idx": 21145,
+    "original_text": "It's ok, the GOP are all in bed with the payday loan companies to help you get through this hard time. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tá tudo bem, o Partido Republicano tá todo de conluio com as empresas de empréstimo consignado pra te ajudar a passar por esse momento difícil."
+  },
+  {
+    "id": "ee6amuo",
+    "split": "train",
+    "line_idx": 21146,
+    "original_text": "Who said i was a kid?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Quem disse que eu era criança?"
+  },
+  {
+    "id": "efebd32",
+    "split": "train",
+    "line_idx": 21147,
+    "original_text": "There is no excess. Everybody gets what they agreed upon. Fake news.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Não tem excesso nenhum. Todo mundo recebe o que foi combinado. Fake news."
+  },
+  {
+    "id": "ef1rwfj",
+    "split": "train",
+    "line_idx": 21148,
+    "original_text": "She's a moron for running out in traffic. Deserved all she got.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ela é uma idiota por sair correndo no meio do trânsito. Mereceu tudo o que aconteceu."
+  },
+  {
+    "id": "ee1xhe3",
+    "split": "train",
+    "line_idx": 21149,
+    "original_text": "At least you didn't open with, \"I was always a big [NAME] supporter...\" 99% of those go downhill fast.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo menos você não começou com \"Eu sempre fui um grande apoiador do [NAME]...\" 99% desses posts desandam rápido."
+  }
+]

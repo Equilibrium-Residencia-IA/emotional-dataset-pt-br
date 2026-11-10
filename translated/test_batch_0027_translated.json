@@ -1,0 +1,607 @@
+[
+  {
+    "id": "ed5ny4m",
+    "split": "test",
+    "line_idx": 1350,
+    "original_text": "But I do I still love him and he still loves me but he says im too immature",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Mas eu amo, ainda amo ele e ele ainda me ama, mas diz que eu sou imatura demais",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edz4kf2",
+    "split": "test",
+    "line_idx": 1351,
+    "original_text": "would be US Biggest error ever",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "seria o maior erro dos EUA de todos os tempos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eemhiji",
+    "split": "test",
+    "line_idx": 1352,
+    "original_text": "She can take her boring, drunk husband with her. He's not interesting at all.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ela que leve o marido chato e bêbado dela junto. Ele não tem graça nenhuma.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3llww",
+    "split": "test",
+    "line_idx": 1353,
+    "original_text": "Petition to smite BuzzFeed and Vice off the face of the internet for the bs they post Thank you",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Petição pra banir o BuzzFeed e o Vice da face da internet por causa das merdas que eles postam Obrigado",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegouvj",
+    "split": "test",
+    "line_idx": 1354,
+    "original_text": "I honestly hope you do that",
+    "emotion_ids": "20",
+    "emotions": [
+      "optimism"
+    ],
+    "translated_text": "Espero de verdade que você faça isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed70zjm",
+    "split": "test",
+    "line_idx": 1355,
+    "original_text": "Shouldn't be getting downvoted that's exactly what I thought the motive was",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não devia tá levando downvote, era exatamente esse o motivo que eu achei que fosse",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edft99z",
+    "split": "test",
+    "line_idx": 1356,
+    "original_text": "Difficult to see how this video wouldn’t have been much more interesting if properly shot in landscape.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Difícil de acreditar que esse vídeo não teria ficado bem mais interessante se tivesse sido gravado deitado direito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eekerdv",
+    "split": "test",
+    "line_idx": 1357,
+    "original_text": "“An eye for an eye” Proceeds to take 2 things away from killers",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "“Olho por olho” Aí vai lá e tira 2 coisas dos assassinos",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednjqz8",
+    "split": "test",
+    "line_idx": 1358,
+    "original_text": "Yes, we are going to kink shame you. ",
+    "emotion_ids": "12",
+    "emotions": [
+      "embarrassment"
+    ],
+    "translated_text": "Sim, a gente vai julgar o seu fetiche sim. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenajtc",
+    "split": "test",
+    "line_idx": 1359,
+    "original_text": "You must be wrong, because this is the sub for intelligent people!!! ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Você deve estar errado, afinal esse aqui é o sub das pessoas inteligentes!!! ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0hkj6",
+    "split": "test",
+    "line_idx": 1360,
+    "original_text": "Happy cake day!",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Feliz cake day!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlmq4r",
+    "split": "test",
+    "line_idx": 1361,
+    "original_text": "Fantastic thanks! If there’s anything I can do to help you out with the interview or your first year teaching let me know!",
+    "emotion_ids": "5,15",
+    "emotions": [
+      "caring",
+      "gratitude"
+    ],
+    "translated_text": "Maravilha, obrigado! Se tiver qualquer coisa que eu possa fazer pra te ajudar na entrevista ou no seu primeiro ano dando aula, só me falar!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4l4z2",
+    "split": "test",
+    "line_idx": 1362,
+    "original_text": "Wrong. And UBI sucks unless you include an expansive social safety net too",
+    "emotion_ids": "3,9",
+    "emotions": [
+      "annoyance",
+      "disappointment"
+    ],
+    "translated_text": "Errado. E renda básica universal é uma bosta a não ser que você inclua uma rede de proteção social ampla também",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eezix0c",
+    "split": "test",
+    "line_idx": 1363,
+    "original_text": "Just get him out of my sight I’m tired of losing and those who contribute to it",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Só tira ele da minha frente, cansei de perder e de quem contribui pra isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efeq6yg",
+    "split": "test",
+    "line_idx": 1364,
+    "original_text": ">Dumb, but wonderful. That's my kind of a pet. Silly,soft and adorable. ",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": ">Burro, mas maravilhoso. É exatamente o tipo de bichinho que eu gosto. Bobinho, fofinho e uma gracinha. ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edotntk",
+    "split": "test",
+    "line_idx": 1365,
+    "original_text": "Yo where they at, I want to celebrate with them.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Aí, onde eles tão? Quero comemorar com eles.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeljowd",
+    "split": "test",
+    "line_idx": 1366,
+    "original_text": "Shut up about the sun! SHUT UP ABOUT THE SUN!!!",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Cala a boca sobre o sol! CALA A BOCA SOBRE O SOL!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eep1xg1",
+    "split": "test",
+    "line_idx": 1367,
+    "original_text": "Imagine what he thinks of TLJ...",
+    "emotion_ids": "7,27",
+    "emotions": [
+      "curiosity",
+      "neutral"
+    ],
+    "translated_text": "Imagina o que ele acha de TLJ...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg5ose",
+    "split": "test",
+    "line_idx": 1368,
+    "original_text": "Please post any news you may find about her fate. This is so sad and so wrong. We need to know what happens to her.",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "Por favor, postem qualquer notícia que acharem sobre o que aconteceu com ela. Isso é tão triste e tão errado. A gente precisa saber o que aconteceu com ela.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee172da",
+    "split": "test",
+    "line_idx": 1369,
+    "original_text": "Why pay so much character and it feels so good. In the humble of 1996, the website was a skinny stoner with long hair.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Pra que pagar tanto personagem e é tão bom. Na humildade de 1996, o site era um maconheiro magricela de cabelo comprido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9f92q",
+    "split": "test",
+    "line_idx": 1370,
+    "original_text": "F then.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "F então.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed5bwl0",
+    "split": "test",
+    "line_idx": 1371,
+    "original_text": "I’m so happy for you. Congrats and thanks for the advice",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Tô tão feliz por você. Parabéns e valeu pelo conselho",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeaico8",
+    "split": "test",
+    "line_idx": 1372,
+    "original_text": "Except it seems like the constant jerking off about DMC was one of the several things that could have led to them drifting apart.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Só que parece que ficar babando ovo do DMC o tempo todo foi uma das várias coisas que podem ter feito eles se distanciarem.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edwf9b0",
+    "split": "test",
+    "line_idx": 1373,
+    "original_text": "Those words you used. I don't want to believe that exists.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Essas palavras que você usou. Não quero acreditar que isso existe.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efev9va",
+    "split": "test",
+    "line_idx": 1374,
+    "original_text": "I have the worst memory ever. Idk if it's from all the weed I smoked but I also have a blank mind like all the time.",
+    "emotion_ids": "11",
+    "emotions": [
+      "disgust"
+    ],
+    "translated_text": "Minha memória é a pior do mundo. Não sei se é por causa de tanta maconha que eu fumei, mas eu também fico com um branco na mente tipo o tempo todo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edlo5n4",
+    "split": "test",
+    "line_idx": 1375,
+    "original_text": "oooops... now you tell me???",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "ooops... agora que você me fala???",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef3t7ww",
+    "split": "test",
+    "line_idx": 1376,
+    "original_text": "Upvote for buttfuckme.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Upvote pelo mecomeabunda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7gyn0",
+    "split": "test",
+    "line_idx": 1377,
+    "original_text": "He used to be a science teacher!",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Ele era professor de ciências!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eej4x5t",
+    "split": "test",
+    "line_idx": 1378,
+    "original_text": "Calm down or we need to call the Senate to take further actions.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Calma aí senão a gente vai ter que chamar o Senado pra tomar providências.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efgdymd",
+    "split": "test",
+    "line_idx": 1379,
+    "original_text": "[NAME]. Im sorry",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "[NAME]. Me desculpa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxaf6n",
+    "split": "test",
+    "line_idx": 1380,
+    "original_text": "I must've missed them. Looking again but if you have a moment can you link it?",
+    "emotion_ids": "6,7",
+    "emotions": [
+      "confusion",
+      "curiosity"
+    ],
+    "translated_text": "Devo ter deixado passar. Tô procurando de novo, mas se tiver um tempinho você pode mandar o link?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu33cz",
+    "split": "test",
+    "line_idx": 1381,
+    "original_text": "Ain’t nothin good enough for her",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Nada tá bom pra ela",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee96t80",
+    "split": "test",
+    "line_idx": 1382,
+    "original_text": "Lol, right? Who says that before banging? “Is you ovulatin?” SOOOO repulsive. 🤮🤮",
+    "emotion_ids": "7,11",
+    "emotions": [
+      "curiosity",
+      "disgust"
+    ],
+    "translated_text": "Kkkk, né? Quem fala isso antes de transar? “Você tá ovulando?” TÃÃÃO nojento. 🤮🤮",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eegcof4",
+    "split": "test",
+    "line_idx": 1383,
+    "original_text": "I have stories about some, lived in one that was $3500 a month and you had to sign a 3 month contract. Also not covered by insurance",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tenho histórias sobre algumas, morei numa que era 3.500 dólares por mês e tinha que assinar contrato de 3 meses. E o seguro saúde ainda não cobria",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed3i6e",
+    "split": "test",
+    "line_idx": 1384,
+    "original_text": "If you don't enjoy watching sonicfox compete can you really be a fan of the competitive scene?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se você não gosta de ver o sonicfox competindo, você é fã do cenário competitivo mesmo?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eepoq40",
+    "split": "test",
+    "line_idx": 1385,
+    "original_text": "Easy breezy beautiful cover girl",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Fácil, leve, linda garota da capa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq5v95",
+    "split": "test",
+    "line_idx": 1386,
+    "original_text": "Generally you are still a “teacher” but I’m not sure 100%. I know my instructional coach role is still “teacher” contract/pay.",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Geralmente você ainda é “professor”, mas não tenho 100% de certeza. Sei que na minha função de coach pedagógico ainda é contrato/salário de “professor”.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edch3qc",
+    "split": "test",
+    "line_idx": 1387,
+    "original_text": "I love your username...",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Amei seu nome de usuário...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeyssse",
+    "split": "test",
+    "line_idx": 1388,
+    "original_text": "His sister likes his Cox",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A irmã dele gosta do Cox dele",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef0c1vh",
+    "split": "test",
+    "line_idx": 1389,
+    "original_text": "THIS IS TRAUMATISING",
+    "emotion_ids": "25",
+    "emotions": [
+      "sadness"
+    ],
+    "translated_text": "ISSO É TRAUMATIZANTE",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejzyq6",
+    "split": "test",
+    "line_idx": 1390,
+    "original_text": "What in the actual fuck are these refs doing right now.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Que porra que esses juízes tão fazendo agora.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxd6no",
+    "split": "test",
+    "line_idx": 1391,
+    "original_text": "Can you please update me! I'm in the exact position! 24FHL with 21MLL",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Pode me atualizar por favor! Tô na mesmíssima situação! 24M com libido alta e 21H com libido baixa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edojis0",
+    "split": "test",
+    "line_idx": 1392,
+    "original_text": "Or getting lucky. Most [NAME] have jobs so their must be a way.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ou dar sorte. A maioria dos [NAME] tem emprego, então deve ter um jeito.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9ytvv",
+    "split": "test",
+    "line_idx": 1393,
+    "original_text": "They did that already",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eles já fizeram isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeceqn4",
+    "split": "test",
+    "line_idx": 1394,
+    "original_text": "I'll take PVZ. Your flair: \"Maybe necks time\"",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu fico com o PVZ. Sua flair: \"Maybe necks time\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef22fuy",
+    "split": "test",
+    "line_idx": 1395,
+    "original_text": "Thank you. Yeah this makes sense too. I could be blaming myself more than I should",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Obrigado. É, isso faz sentido também. Eu posso estar me culpando mais do que deveria",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eev5pak",
+    "split": "test",
+    "line_idx": 1396,
+    "original_text": "Get it out of the way as quickly as possible. Some people claim to like it, so maybe you'll be one of those weirdos.",
+    "emotion_ids": "5",
+    "emotions": [
+      "caring"
+    ],
+    "translated_text": "Se livra logo disso o mais rápido possível. Tem gente que jura que gosta, então vai que você é um desses esquisitos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4lyyq",
+    "split": "test",
+    "line_idx": 1397,
+    "original_text": "Getting outplayed by the Cavaliers LOL. Maybe [NAME] and [NAME] can take more bricks this quarter, seems to be working so far ",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Levando um baile dos Cavaliers KKKK. Quem sabe o [NAME] e o [NAME] tijolam mais bolas nesse quarto, parece que tá dando super certo até agora ",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmcs0g",
+    "split": "test",
+    "line_idx": 1398,
+    "original_text": "I don't know why you even talk to human trash like this. Instead you should motivate him to leave her - at least that would be productive.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Nem sei por que você sequer fala com um lixo humano desses. Em vez disso você devia incentivar ele a largar dela — pelo menos seria produtivo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed37dzj",
+    "split": "test",
+    "line_idx": 1399,
+    "original_text": "Excited for this project to be finished when I retire in 30 something years.",
+    "emotion_ids": "13",
+    "emotions": [
+      "excitement"
+    ],
+    "translated_text": "Animado pra esse projeto ficar pronto quando eu me aposentar daqui a uns 30 anos.",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

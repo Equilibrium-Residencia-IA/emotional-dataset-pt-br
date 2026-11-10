@@ -1,0 +1,606 @@
+[
+  {
+    "id": "efghk7t",
+    "split": "dev",
+    "line_idx": 5100,
+    "original_text": "Laughed right out loud 🤣",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "Gargalhei alto aqui 🤣",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3fsvr",
+    "split": "dev",
+    "line_idx": 5101,
+    "original_text": "The only thing that changed is we are now healthcare-less",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "A única coisa que mudou é que agora estamos sem plano de saúde",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edc3oct",
+    "split": "dev",
+    "line_idx": 5102,
+    "original_text": "No, that’s my husband. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não, esse é o meu marido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef2hbyw",
+    "split": "dev",
+    "line_idx": 5103,
+    "original_text": "He's the best [NAME].",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Ele é o melhor [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eda58jj",
+    "split": "dev",
+    "line_idx": 5104,
+    "original_text": "You here to admit you are fine with existence once born? I thot so",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você veio aqui admitir que tá de boa com a existência depois que nasce? Foi o que pensei",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9eo5z",
+    "split": "dev",
+    "line_idx": 5105,
+    "original_text": "That explains it. Who was it?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Isso explica tudo. Quem era?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eenk3ui",
+    "split": "dev",
+    "line_idx": 5106,
+    "original_text": "He only does it when I'm playing a fast-paced racing game where I need to always see where I'm going.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Ele só faz isso quando eu tô jogando um jogo de corrida frenético em que preciso ficar vendo o caminho o tempo todo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ednhh45",
+    "split": "dev",
+    "line_idx": 5107,
+    "original_text": "Get Flonase. This thing work for me.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Compra Flonase. Esse negócio funciona pra mim.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eexh25u",
+    "split": "dev",
+    "line_idx": 5108,
+    "original_text": "Yup [NAME] is who me miss. Anyone notice though that his little southern twang ramped up to about 100x more when he went national?? Lol",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "É, [NAME] é quem a gente sente falta. Mas alguém reparou que o sotaque caipira dele aumentou umas 100x quando foi pra rede nacional?? Kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3ao7p",
+    "split": "dev",
+    "line_idx": 5109,
+    "original_text": "oof okay, thanks for the info. Hopefully he fares better with our line/TE's",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "vish beleza, valeu pela informação. Tomara que ele se dê melhor com a nossa linha/TEs",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed46tmd",
+    "split": "dev",
+    "line_idx": 5110,
+    "original_text": "This is amazing.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é incrível.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5n4vi",
+    "split": "dev",
+    "line_idx": 5111,
+    "original_text": "No matter what, we can all listen to *You Shook Me All Night Long* during earthquakes. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Não importa o que aconteça, todos nós podemos ouvir *You Shook Me All Night Long* durante terremotos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee9akmh",
+    "split": "dev",
+    "line_idx": 5112,
+    "original_text": "That host's sense of superiority and childish sarcasm is so terrible that it physically hurts.",
+    "emotion_ids": "11,14",
+    "emotions": [
+      "disgust",
+      "fear"
+    ],
+    "translated_text": "Aquele ar de superioridade e o sarcasmo infantil daquele apresentador são tão terríveis que doem fisicamente.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef69z9d",
+    "split": "dev",
+    "line_idx": 5113,
+    "original_text": "User name says you are a scumbag [NAME]. I’m confused",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Seu nome de usuário diz que você é um lixo de [NAME]. Tô confuso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef70jgb",
+    "split": "dev",
+    "line_idx": 5114,
+    "original_text": "oh man clicking 2 buttons before you read an article, the absolute horror",
+    "emotion_ids": "14",
+    "emotions": [
+      "fear"
+    ],
+    "translated_text": "nossa cara, ter que clicar em 2 botões antes de ler um artigo, que horror absoluto",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efhb4cb",
+    "split": "dev",
+    "line_idx": 5115,
+    "original_text": "Why don’t you just *get the fuck out* of Edmonton if you hate it so much?",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Por que você simplesmente não *vai pra puta que pariu* e sai de Edmonton se você odeia tanto assim?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eebd2g7",
+    "split": "dev",
+    "line_idx": 5116,
+    "original_text": "I think this is what inspired [NAME]",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Acho que foi isso que inspirou [NAME]",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efacciv",
+    "split": "dev",
+    "line_idx": 5117,
+    "original_text": "[NAME] how is [NAME] even a rapper. I thought rappers were people you would wanna be lol",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "[NAME] como é que o [NAME] sequer é rapper. Achei que rappers fossem pessoas que você gostaria de ser kkkk",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eelih23",
+    "split": "dev",
+    "line_idx": 5118,
+    "original_text": "Please provide some receipts! I believe you and can totally see this happening!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por favor, mostra os prints! Eu acredito em você e consigo super ver isso acontecendo!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeh3q1y",
+    "split": "dev",
+    "line_idx": 5119,
+    "original_text": "Sanctions are immoral and don't do anything but cause more human suffering, disappointing to see that this sub will support them, but not really a shock. ",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Sanções são imorais e só servem pra causar mais sofrimento humano, decepcionante ver que esse sub apoia isso, mas não chega a ser uma surpresa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkuwoc",
+    "split": "dev",
+    "line_idx": 5120,
+    "original_text": "No, my point is that looking to past behaviors isn’t indicative of what is right and virtuous ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Não, meu ponto é que olhar pra comportamentos do passado não diz o que é certo e virtuoso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6nixx",
+    "split": "dev",
+    "line_idx": 5121,
+    "original_text": "I got your back, bros. (nsfw, duh) ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Tô com vocês, manos. (nsfw, claro)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed01rse",
+    "split": "dev",
+    "line_idx": 5122,
+    "original_text": "Thanks for the kind words but some things are in fact permanent. Still I appreciate your reply. Thank you.",
+    "emotion_ids": "0,15",
+    "emotions": [
+      "admiration",
+      "gratitude"
+    ],
+    "translated_text": "Obrigado pelas palavras gentis, mas algumas coisas são de fato permanentes. Ainda assim, agradeço sua resposta. Obrigado.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeamoj9",
+    "split": "dev",
+    "line_idx": 5123,
+    "original_text": "Oh man I actually ugly laughed out loud. This is awesome 😂",
+    "emotion_ids": "0,1",
+    "emotions": [
+      "admiration",
+      "amusement"
+    ],
+    "translated_text": "Nossa, eu cheguei a engasgar de rir alto aqui. Isso é bom demais 😂",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eejel8t",
+    "split": "dev",
+    "line_idx": 5124,
+    "original_text": "> but I have to admit its catchy. This is not and has not ever been an inherently positive characteristic about any song.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "> mas tenho que admitir que é chiclete. Isso não é e nunca foi uma característica inerentemente positiva de música nenhuma.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4znh0",
+    "split": "dev",
+    "line_idx": 5125,
+    "original_text": "Good assumption there except for the part where I didn't vote for the guy.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Bela suposição aí, tirando a parte em que eu não votei no cara.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee86lzb",
+    "split": "dev",
+    "line_idx": 5126,
+    "original_text": "I wish it'd stop being submitted on the sub. We're out on him and it's pretty obvious.",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Queria que parassem de postar isso no sub. A gente já cansou dele e tá bem óbvio.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeu82xs",
+    "split": "dev",
+    "line_idx": 5127,
+    "original_text": "20 cents we use to pay in our small takeaway shop wtf are you talking about",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "20 centavos era o que a gente pagava na nossa lanchonetezinha de que porra você tá falando",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee0zq3g",
+    "split": "dev",
+    "line_idx": 5128,
+    "original_text": "Good lord yes. Banging soundtrack too.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Meu Deus do céu, sim. Trilha sonora foda também.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee5yrt8",
+    "split": "dev",
+    "line_idx": 5129,
+    "original_text": "Just go to Morrisville Walmart .. why do you need a meetup.. :) jokes apart . I am willing to join",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É só ir no Walmart de Morrisville.. pra que precisa de encontrinho.. :) brincadeiras à parte. Eu topo participar",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7k88s",
+    "split": "dev",
+    "line_idx": 5130,
+    "original_text": "He had one poor split, and he already looks strong, fuck your mindless hate",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ele teve uma parcial ruim e já parece forte, foda-se esse seu hate sem noção",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee8jvju",
+    "split": "dev",
+    "line_idx": 5131,
+    "original_text": "Shocking mate I know, hopefully one day they'll go home. ",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Chocante né mano, eu sei, tomara que um dia eles voltem pra casa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqqmuw",
+    "split": "dev",
+    "line_idx": 5132,
+    "original_text": "Someone who wants to do a couple of takes and it's just gone past 9",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Alguém que quer gravar mais uns takes e acabou de passar das 9",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edg0er1",
+    "split": "dev",
+    "line_idx": 5133,
+    "original_text": "Their* comment; sorry. Just realized you’re not the same person.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "O comentário *deles*; desculpa. Só me toquei agora que você não é a mesma pessoa.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edhmkzp",
+    "split": "dev",
+    "line_idx": 5134,
+    "original_text": "Same thing with depression. It’s becoming a trend and I hate it",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Mesma coisa com depressão. Tá virando modinha e eu odeio isso",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerxigr",
+    "split": "dev",
+    "line_idx": 5135,
+    "original_text": "Now figure out how to grow bunches like that.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Agora descobre aí como fazer crescer cachos assim.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee3zpv6",
+    "split": "dev",
+    "line_idx": 5136,
+    "original_text": "Not defending the poor choice, but maybe he thought this is what they'd like?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Sem defender a escolha infeliz, mas talvez ele tenha pensado que era disso que eles iam gostar?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edbkb5d",
+    "split": "dev",
+    "line_idx": 5137,
+    "original_text": "[NAME] has 5 goals in 4 games for us doesn’t he?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] tem 5 gols em 4 jogos pelo nosso time, não tem?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eduf9px",
+    "split": "dev",
+    "line_idx": 5138,
+    "original_text": "Ohhhhh come on [NAME], just two more years...",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Ahhhhh qual é, [NAME], só mais dois anos...",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed1fter",
+    "split": "dev",
+    "line_idx": 5139,
+    "original_text": "WHAT THE HELL?!?!?!?",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "MAS QUE PORRA É ESSA?!?!?!?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edic2u6",
+    "split": "dev",
+    "line_idx": 5140,
+    "original_text": "I'm impressed. A 3 year old account and this is your only comment.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Tô impressionado. Uma conta de 3 anos de idade e esse é o seu único comentário.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmiuh0",
+    "split": "dev",
+    "line_idx": 5141,
+    "original_text": "Short, succinct, and perfect. It would be nice if the more of the world realized this simplicity of life.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Curto, sucinto e perfeito. Seria ótimo se mais pessoas no mundo percebessem essa simplicidade da vida.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee4dobv",
+    "split": "dev",
+    "line_idx": 5142,
+    "original_text": "Good to know everything is about average there. Leave it to H-Town to hold it down.",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "Bom saber que tá tudo meio na média por lá. Deixa que H-Town segura a onda.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edmcjnx",
+    "split": "dev",
+    "line_idx": 5143,
+    "original_text": "Yeah seriously! I saw the controller and I thought \"don't do it, don't do it!\"",
+    "emotion_ids": "14,27",
+    "emotions": [
+      "fear",
+      "neutral"
+    ],
+    "translated_text": "É, sério mesmo! Eu vi o controle e pensei \"não faz isso, não faz isso!\"",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eda1tvp",
+    "split": "dev",
+    "line_idx": 5144,
+    "original_text": "Who cares honestly.",
+    "emotion_ids": "3",
+    "emotions": [
+      "annoyance"
+    ],
+    "translated_text": "Quem se importa, na real.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef76jd9",
+    "split": "dev",
+    "line_idx": 5145,
+    "original_text": "You can’t say that that’s racist!!!!!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Você não pode falar isso, isso é racista!!!!!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eefzh42",
+    "split": "dev",
+    "line_idx": 5146,
+    "original_text": "Thank you for the thoughtful advice. I was thinking of getting him a mic for his gaming habit, so your advice is timely.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Muito obrigado pelo conselho atencioso. Eu tava pensando em comprar um microfone pra ele jogar, então sua dica veio bem a calhar.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef7zjb6",
+    "split": "dev",
+    "line_idx": 5147,
+    "original_text": "I wish I could see [NAME] slipping on shrimp",
+    "emotion_ids": "8",
+    "emotions": [
+      "desire"
+    ],
+    "translated_text": "Eu queria poder ver o [NAME] escorregando no camarão",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efe01hv",
+    "split": "dev",
+    "line_idx": 5148,
+    "original_text": "SWOOOSH!!",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "VUASH!!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkbp6w",
+    "split": "dev",
+    "line_idx": 5149,
+    "original_text": "Apparently the system is down",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Aparentemente o sistema caiu",
+    "translator": "gemini-3.8-flash-low"
+  }
+]

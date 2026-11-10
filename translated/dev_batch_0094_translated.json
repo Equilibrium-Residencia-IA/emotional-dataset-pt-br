@@ -1,0 +1,614 @@
+[
+  {
+    "id": "edszgq1",
+    "split": "dev",
+    "line_idx": 4400,
+    "original_text": "My psychiatrist said to lay it on thick and answer questions like your having the worst day ever. I’ll get around to applying eventually",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Meu psiquiatra falou pra exagerar bastante e responder as perguntas como se você tivesse no pior dia da sua vida. Uma hora dessas eu crio coragem e me inscrevo",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3v8zr",
+    "split": "dev",
+    "line_idx": 4401,
+    "original_text": "Where do you think it belongs? Why?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Onde você acha que isso se encaixa? Por quê?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef4qayy",
+    "split": "dev",
+    "line_idx": 4402,
+    "original_text": "Cheers, cheers_im_drunk_bot.!",
+    "emotion_ids": "13,17",
+    "emotions": [
+      "excitement",
+      "joy"
+    ],
+    "translated_text": "Saúde, cheers_im_drunk_bot.!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eew3mm0",
+    "split": "dev",
+    "line_idx": 4403,
+    "original_text": "I’ve heard of “over hard” so a fried egg (like over-easy) but broken yolk and fully cooking it... idk",
+    "emotion_ids": "6",
+    "emotions": [
+      "confusion"
+    ],
+    "translated_text": "Já ouvi falar de ovo frito bem passado, tipo com a gema furada e cozinhando até o fim... sei lá",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edi6ldk",
+    "split": "dev",
+    "line_idx": 4404,
+    "original_text": "I realize. I was too hasty in my conclusions.",
+    "emotion_ids": "22",
+    "emotions": [
+      "realization"
+    ],
+    "translated_text": "Eu me dei conta. Me precipitei nas minhas conclusões.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef1thi1",
+    "split": "dev",
+    "line_idx": 4405,
+    "original_text": "Yeah I legitimately have no idea what he's talking about... cr lk is a chain",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "É, eu realmente não faço a menor ideia do que ele tá falando... cr lk é uma rede",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efh0usw",
+    "split": "dev",
+    "line_idx": 4406,
+    "original_text": "No, its protecting my right to vote. By not allowing people who don't have the right to vote, to in fact vote.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Não, isso é proteger o meu direito de votar. Não permitindo que pessoas que não têm direito de votar votem, de fato.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eed5noy",
+    "split": "dev",
+    "line_idx": 4407,
+    "original_text": "Cant wait to see it buddy!",
+    "emotion_ids": "7,13",
+    "emotions": [
+      "curiosity",
+      "excitement"
+    ],
+    "translated_text": "Mal posso esperar pra ver, meu parceiro!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eerhtwk",
+    "split": "dev",
+    "line_idx": 4408,
+    "original_text": "Man, such a shame we only got three movies. They really didn't wrap up all the plotlines.",
+    "emotion_ids": "9,12",
+    "emotions": [
+      "disappointment",
+      "embarrassment"
+    ],
+    "translated_text": "Cara, que pena que a gente só teve três filmes. Eles realmente não amarraram todas as pontas soltas da trama.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edehfgb",
+    "split": "dev",
+    "line_idx": 4409,
+    "original_text": "Thanks, totally makes sense, just need to get out (and stay out) of my head =)",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, faz todo o sentido, eu só preciso parar de ficar pensando demais nisso (e ficar de boa) =)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeceiy8",
+    "split": "dev",
+    "line_idx": 4410,
+    "original_text": "Whoever made this is making Tokyo ghoul look bad",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Quem fez isso tá queimando o filme de Tokyo Ghoul",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed6wlc6",
+    "split": "dev",
+    "line_idx": 4411,
+    "original_text": "It was good of you to get him out of the store as quickly as possible so he could not infect you with his crazy.",
+    "emotion_ids": "0,5",
+    "emotions": [
+      "admiration",
+      "caring"
+    ],
+    "translated_text": "Foi bom você ter tirado ele da loja o mais rápido possível pra ele não te contagiar com a loucura dele.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efcz4t0",
+    "split": "dev",
+    "line_idx": 4412,
+    "original_text": "Are you willing to donate to local organizations or do you want to focus on national? What issues do you want addressed?",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Você estaria disposto a doar pra organizações locais ou quer focar nas nacionais? Quais causas você quer que sejam prioridade?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9avq5",
+    "split": "dev",
+    "line_idx": 4413,
+    "original_text": "... so we're pretending that this wouldn't be totally awesome had it been 1 administration back?",
+    "emotion_ids": "0,6",
+    "emotions": [
+      "admiration",
+      "confusion"
+    ],
+    "translated_text": "... então a gente vai fingir que isso não seria do caralho se tivesse acontecido um governo atrás?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef5pgq8",
+    "split": "dev",
+    "line_idx": 4414,
+    "original_text": "That's beautiful and wholesome",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Isso é lindo e aquece o coração",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eec7780",
+    "split": "dev",
+    "line_idx": 4415,
+    "original_text": "But platonic cuddling is comfy (after making sure the consent stuff is a ok for all parties)",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Mas ficar de conchinha de forma platônica é mó confortável (depois de garantir que tá tudo ok com a questão do consentimento pra todo mundo)",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eev1gr2",
+    "split": "dev",
+    "line_idx": 4416,
+    "original_text": "I think we would be interested in seeing how something like this would work. Would you post the information? Send notifications? I'm curious.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Acho que a gente teria interesse em ver como uma coisa dessas funcionaria. Você postaria as informações? Mandaria notificações? Fiquei curioso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efd8ysh",
+    "split": "dev",
+    "line_idx": 4417,
+    "original_text": "That season 2 opener was great and completely unexpected.",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "Aquele primeiro episódio da segunda temporada foi ótimo e totalmente inesperado.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edqh7ik",
+    "split": "dev",
+    "line_idx": 4418,
+    "original_text": "My dad doesn’t believe in climate change. This is way too accurate.",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Meu pai não acredita em mudança climática. Isso aqui foi cirúrgico demais.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edkw0d4",
+    "split": "dev",
+    "line_idx": 4419,
+    "original_text": "Still very curious who this woman is and what she looks like",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Ainda super curioso pra saber quem é essa mulher e como ela é",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef8y67h",
+    "split": "dev",
+    "line_idx": 4420,
+    "original_text": "[NAME] is watching this post in july 12th 2021?",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem tá assistindo esse post em 12 de julho de 2021?",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed3gjwv",
+    "split": "dev",
+    "line_idx": 4421,
+    "original_text": "Because [NAME] had a foot injury that I think he sustained at practice for the second half of the year.",
+    "emotion_ids": "9",
+    "emotions": [
+      "disappointment"
+    ],
+    "translated_text": "Porque o [NAME] teve uma lesão no pé que acho que ele sofreu nos treinos da segunda metade do ano.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eevf7ok",
+    "split": "dev",
+    "line_idx": 4422,
+    "original_text": "I too live in logan square and cant for life of me find it on this map",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Eu também moro em Logan Square e de jeito nenhum consigo achar isso nesse mapa",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eetgy2z",
+    "split": "dev",
+    "line_idx": 4423,
+    "original_text": "I completely agree with you just the whole mood against abortion gets my blood boiling.",
+    "emotion_ids": "2,4",
+    "emotions": [
+      "anger",
+      "approval"
+    ],
+    "translated_text": "Concordo plenamente com você, essa onda toda contra o aborto me faz ferver o sangue.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed2na7k",
+    "split": "dev",
+    "line_idx": 4424,
+    "original_text": "Back to not getting a seat despite being 3 stops from the end of the line.",
+    "emotion_ids": "9,27",
+    "emotions": [
+      "disappointment",
+      "neutral"
+    ],
+    "translated_text": "De volta à rotina de não conseguir lugar pra sentar mesmo estando a 3 estações do ponto final.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1sfpt",
+    "split": "dev",
+    "line_idx": 4425,
+    "original_text": "tbh i would've guiltied but atleast they didnt lose an important TP",
+    "emotion_ids": "24",
+    "emotions": [
+      "remorse"
+    ],
+    "translated_text": "pra ser sincero eu teria votado como culpado mas pelo menos eles não perderam uma classe importante de TP",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edn2f47",
+    "split": "dev",
+    "line_idx": 4426,
+    "original_text": "What the heck? $3 a month for 30 texts? That's ridiculous.",
+    "emotion_ids": "2",
+    "emotions": [
+      "anger"
+    ],
+    "translated_text": "Que porra é essa? 3 dólares por mês por 30 SMS? Que absurdo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9fztz",
+    "split": "dev",
+    "line_idx": 4427,
+    "original_text": "Please tell me how it sounds racist.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Por favor, me explica como que isso soa racista.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ef9nw5s",
+    "split": "dev",
+    "line_idx": 4428,
+    "original_text": "I _hate_ it when I can't get hold of a specific food I've been craving on a binge day.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Eu _odeio_ quando não consigo achar uma comida específica que tô com vontade num dia do lixo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edh3cjc",
+    "split": "dev",
+    "line_idx": 4429,
+    "original_text": "Alright, I'm all ears as to what the HUGE difference is.",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "Beleza, sou todo ouvidos pra saber qual é a ENORME diferença.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ede7csf",
+    "split": "dev",
+    "line_idx": 4430,
+    "original_text": "My first messages from women are either \"hi\" \"hello\" or \"psst.\" Yeah I'm not wasting my time.",
+    "emotion_ids": "1",
+    "emotions": [
+      "amusement"
+    ],
+    "translated_text": "As primeiras mensagens que recebo de mulheres são ou \"oi\", \"olá\" ou \"psiu\". É, não vou perder meu tempo.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee73v9y",
+    "split": "dev",
+    "line_idx": 4431,
+    "original_text": "No offense, but you are jumping in conclusions that may be as incorrect as blaming [NAME]. ",
+    "emotion_ids": "10",
+    "emotions": [
+      "disapproval"
+    ],
+    "translated_text": "Sem ofensa, mas você tá tirando conclusões precipitadas que podem ser tão erradas quanto culpar o [NAME].",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed0f5fr",
+    "split": "dev",
+    "line_idx": 4432,
+    "original_text": "[NAME] stands a solid chance honestly",
+    "emotion_ids": "0,4,20",
+    "emotions": [
+      "admiration",
+      "approval",
+      "optimism"
+    ],
+    "translated_text": "Sinceramente, o [NAME] tem boas chances",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eczsys7",
+    "split": "dev",
+    "line_idx": 4433,
+    "original_text": "Yep. Happy New Years!",
+    "emotion_ids": "17",
+    "emotions": [
+      "joy"
+    ],
+    "translated_text": "É isso aí. Feliz Ano Novo!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbfkzo",
+    "split": "dev",
+    "line_idx": 4434,
+    "original_text": "Mine did too",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O meu também",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed4e1ud",
+    "split": "dev",
+    "line_idx": 4435,
+    "original_text": "Apparently Sim groomed a 14 year old girl.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Pelo visto o Sim aliciou uma garota de 14 anos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee968u0",
+    "split": "dev",
+    "line_idx": 4436,
+    "original_text": "That actually doesn't make any sense considering many college students work outside of school.",
+    "emotion_ids": "3,10",
+    "emotions": [
+      "annoyance",
+      "disapproval"
+    ],
+    "translated_text": "Na real, isso não faz o menor sentido, considerando que muitos universitários trabalham fora da faculdade.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edrrskr",
+    "split": "dev",
+    "line_idx": 4437,
+    "original_text": "Was he really [NAME] though? Even if he wasn't made up by the early church I doubt it.",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "Mas ele era mesmo [NAME]? Mesmo se não tivesse sido inventado pela igreja primitiva, eu duvido.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee51rmn",
+    "split": "dev",
+    "line_idx": 4438,
+    "original_text": "[NAME] thinks the carbon tax is as bad as Holodmor. He is totally unhinged and shouldn’t be taken seriously.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "O [NAME] acha que o imposto sobre carbono é tão ruim quanto o Holodomor. Ele é completamente biruta e não devia ser levado a sério.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edibv6a",
+    "split": "dev",
+    "line_idx": 4439,
+    "original_text": "Yeah it helps me too but I still don't feel well rested the next day",
+    "emotion_ids": "4",
+    "emotions": [
+      "approval"
+    ],
+    "translated_text": "É, me ajuda também, mas eu continuo não me sentindo descansado no dia seguinte",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ed9hgw0",
+    "split": "dev",
+    "line_idx": 4440,
+    "original_text": "I think I should try this. Thanks, OP.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Acho que eu deveria tentar isso. Valeu, OP.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efejdom",
+    "split": "dev",
+    "line_idx": 4441,
+    "original_text": "Thanks, so that's not what I need then.",
+    "emotion_ids": "15",
+    "emotions": [
+      "gratitude"
+    ],
+    "translated_text": "Valeu, então não é disso que eu preciso.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "efbxvgo",
+    "split": "dev",
+    "line_idx": 4442,
+    "original_text": "The tree actually moved!!! Who is this guy?!",
+    "emotion_ids": "7",
+    "emotions": [
+      "curiosity"
+    ],
+    "translated_text": "A árvore se mexeu de verdade!!! Quem é esse cara?!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edyoh9s",
+    "split": "dev",
+    "line_idx": 4443,
+    "original_text": "If I wanted to send a message about how much I hate my life and get literally no response then I could just text my mother.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Se eu quisesse mandar mensagem falando o quanto eu odeio a minha vida e não receber literalmente nenhuma resposta, era só mandar mensagem pra minha mãe.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee1q8rc",
+    "split": "dev",
+    "line_idx": 4444,
+    "original_text": "Just imagine what they'll come up with in ten years.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Só imagina o que vão inventar daqui a dez anos.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeq3fob",
+    "split": "dev",
+    "line_idx": 4445,
+    "original_text": "The stories where he meets and talks shit to [NAME] are some of the best!",
+    "emotion_ids": "0",
+    "emotions": [
+      "admiration"
+    ],
+    "translated_text": "As histórias em que ele encontra e esculacha o [NAME] são umas das melhores!",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edxj8nu",
+    "split": "dev",
+    "line_idx": 4446,
+    "original_text": "People who live in glass houses...... [NAME]. This punk has no right to smack.",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quem tem teto de vidro...... [NAME]. Esse babaca não tem moral nenhuma pra falar bosta.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "eeqg2m9",
+    "split": "dev",
+    "line_idx": 4447,
+    "original_text": "When we actually executed [NAME] system we were killing it",
+    "emotion_ids": "27",
+    "emotions": [
+      "neutral"
+    ],
+    "translated_text": "Quando a gente realmente executava o sistema do [NAME], a gente destruía",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "edpjiau",
+    "split": "dev",
+    "line_idx": 4448,
+    "original_text": "Haha thank you! I do love a good tea.",
+    "emotion_ids": "15,17",
+    "emotions": [
+      "gratitude",
+      "joy"
+    ],
+    "translated_text": "Haha obrigado! Eu amo um bom chá.",
+    "translator": "gemini-3.8-flash-low"
+  },
+  {
+    "id": "ee6iekm",
+    "split": "dev",
+    "line_idx": 4449,
+    "original_text": "Didn't know you're that close of a friend.. very cool!",
+    "emotion_ids": "18",
+    "emotions": [
+      "love"
+    ],
+    "translated_text": "Não sabia que vocês eram amigos tão próximos.. muito maneiro!",
+    "translator": "gemini-3.8-flash-low"
+  }
+]
